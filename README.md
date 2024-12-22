@@ -6,7 +6,7 @@ Qt 5.15.16
 Qt 6.8.1
 
 
-.. and the Qt Installer Framework translation
+.. and the Qt Installer Framework 4.8.1 translation
 
 
 
@@ -17,4 +17,4 @@ Qt 5.15.16
 Qt 6.8.1
 
 
-.. och översättningen av Qt Installer Framework
+.. och översättningen av Qt Installer Framework 4.8.1
