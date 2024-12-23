@@ -233,11 +233,11 @@
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished">Horisontell</translation>
+        <translation>Horisontell</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished">Vertikal</translation>
+        <translation>Vertikal</translation>
     </message>
     <message>
         <source>Cross</source>
@@ -630,7 +630,7 @@
     <name>Designer</name>
     <message>
         <source>Qt Designer</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt Designer</translation>
     </message>
     <message>
         <source>This file cannot be read because the extra info extension failed to load.</source>
@@ -1091,7 +1091,7 @@
     </message>
     <message>
         <source>Qt Designer</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt Designer</translation>
     </message>
 </context>
 <context>
@@ -1237,7 +1237,7 @@ This indicates an inconsistency in the ui-file.</source>
     </message>
     <message>
         <source>Empty widget item in %1 &apos;%2&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tomt widgetobjekt i %1 &apos;%2&apos;.</translation>
     </message>
     <message>
         <source>Flags property are not supported yet.</source>
@@ -1269,7 +1269,7 @@ This indicates an inconsistency in the ui-file.</source>
     </message>
     <message>
         <source>Invalid UI file</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig gränssnittsfil</translation>
     </message>
 </context>
 <context>
@@ -2213,7 +2213,7 @@ Container pages should only be added by specifying them in XML returned by the d
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished">Fet stil</translation>
+        <translation>Fet stil</translation>
     </message>
     <message>
         <source>Italic</source>
@@ -2571,7 +2571,7 @@ Container pages should only be added by specifying them in XML returned by the d
     </message>
     <message>
         <source>Country</source>
-        <translation type="unfinished"></translation>
+        <translation>Land</translation>
     </message>
 </context>
 <context>
@@ -2803,7 +2803,8 @@ till
     <message>
         <source>A parse error occurred at line %1, column %2 of %3:
 %4</source>
-        <translation type="unfinished"></translation>
+        <translation>Ett tolkningsfel inträffade på rad %1, kolumn %2 i %3:
+%4</translation>
     </message>
     <message>
         <source>Save Resource File</source>
@@ -3119,7 +3120,7 @@ Vill du skriva över mallen?</translation>
     </message>
     <message>
         <source>Pick a directory to save templates in</source>
-        <translation type="unfinished">Välj en katalog att spara mallar i</translation>
+        <translation>Välj en katalog att spara mallar i</translation>
     </message>
 </context>
 <context>
@@ -3245,15 +3246,15 @@ Vill du skriva över mallen?</translation>
     </message>
     <message>
         <source>Qt Designer</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt Designer</translation>
     </message>
     <message>
         <source>&lt;br/&gt;Qt Designer is a graphical user interface designer for Qt applications.&lt;br/&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;br/&gt;Qt Designer är en grafisk användargränssnittsdesigner för Qt-program.&lt;br/&gt;</translation>
     </message>
     <message>
         <source>%1&lt;br/&gt;Copyright (C) %2 The Qt Company Ltd.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1&lt;br/&gt;Copyright (C) %2 The Qt Company Ltd.</translation>
     </message>
 </context>
 <context>
@@ -3631,7 +3632,7 @@ Vill du skriva över mallen?</translation>
     <name>qdesigner_internal::DesignerPropertyManager</name>
     <message>
         <source>translatable</source>
-        <translation type="unfinished">översättningsbar</translation>
+        <translation>översättningsbar</translation>
     </message>
     <message>
         <source>disambiguation</source>
@@ -3639,7 +3640,7 @@ Vill du skriva över mallen?</translation>
     </message>
     <message>
         <source>comment</source>
-        <translation type="unfinished">kommentar</translation>
+        <translation>kommentar</translation>
     </message>
     <message>
         <source>id</source>
@@ -3690,7 +3691,7 @@ Vill du skriva över mallen?</translation>
     </message>
     <message>
         <source>[Theme] %1</source>
-        <translation type="unfinished">[Tema] %1</translation>
+        <translation>[Tema] %1</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -3942,11 +3943,11 @@ Vill du skriva över mallen?</translation>
     </message>
     <message>
         <source>Raise widgets</source>
-        <translation type="unfinished"></translation>
+        <translation>Höj widgetar</translation>
     </message>
     <message>
         <source>Lower widgets</source>
-        <translation type="unfinished"></translation>
+        <translation>Sänk widgetar</translation>
     </message>
     <message>
         <source>Select Ancestor</source>
@@ -3958,7 +3959,7 @@ Vill du skriva över mallen?</translation>
     </message>
     <message>
         <source>Drop widget</source>
-        <translation type="unfinished"></translation>
+        <translation>Släpp widget</translation>
     </message>
     <message>
         <source>A QMainWindow-based form does not contain a central widget.</source>
@@ -4204,7 +4205,7 @@ Vill du skriva över mallen?</translation>
     <name>qdesigner_internal::IconThemeDialog</name>
     <message>
         <source>Set Icon From Theme</source>
-        <translation type="unfinished">Ställ in ikon från tema</translation>
+        <translation>Ställ in ikon från tema</translation>
     </message>
     <message>
         <source>Input icon name from the current theme:</source>
@@ -4378,7 +4379,7 @@ Vill du skriva över mallen?</translation>
     </message>
     <message>
         <source>Icon th&amp;eme:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikon&amp;tema:</translation>
     </message>
 </context>
 <context>
@@ -5263,7 +5264,7 @@ Klass: %2</translation>
     </message>
     <message>
         <source>An error has been encountered at line %1 of %2: %3</source>
-        <translation type="unfinished">Ett fel har påträffats på rad %1 i %2: %3</translation>
+        <translation>Ett fel har påträffats på rad %1 i %2: %3</translation>
     </message>
     <message>
         <source>Unexpected element &lt;%1&gt; encountered when parsing for &lt;widget&gt; or &lt;ui&gt;</source>
@@ -5859,7 +5860,7 @@ This indicates an inconsistency in the ui-file.</source>
     </message>
     <message>
         <source>Cannot create style &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte skapa stilen &apos;%1&apos;.</translation>
     </message>
 </context>
 <context>
