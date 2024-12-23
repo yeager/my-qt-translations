@@ -25,6 +25,9 @@ Qt Installer Framework 4.8.1
 
 .. och svenska översättningen av Qt Creator 15 (arbete pågår - den är stor)
 
+.
+.
+
 Updating 'ifw_sv.qm'...
 
     Genererade 684 översättningar (684 slutförda och 0 oavslutade)
