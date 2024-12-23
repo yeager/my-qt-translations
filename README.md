@@ -10,7 +10,7 @@ Qt 6.8.1
 
 
 
-Bara en samling svenska översättningar för Qt
+Bara en samling av mina svenska översättningar för Qt
 
 Qt 5.15.16
 
