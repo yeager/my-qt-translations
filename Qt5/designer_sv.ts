@@ -629,20 +629,12 @@
 <context>
     <name>Designer</name>
     <message>
-        <source>Qt Widgets Designer</source>
-        <translation type="vanished">Qt Widgets Designer</translation>
-    </message>
-    <message>
         <source>Qt Designer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This file cannot be read because the extra info extension failed to load.</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%1 does not exist.</source>
-        <translation type="vanished">%1 finns inte.</translation>
     </message>
     <message>
         <source>Unable to launch %1: %2</source>
@@ -762,13 +754,6 @@
     </message>
 </context>
 <context>
-    <name>Dialog</name>
-    <message>
-        <source>Dialog</source>
-        <translation type="vanished">Dialogruta</translation>
-    </message>
-</context>
-<context>
     <name>EmbeddedOptionsControl</name>
     <message>
         <source>&lt;html&gt;&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Font&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%1, %2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Style&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Resolution&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%4 x %5&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/html&gt;</source>
@@ -829,43 +814,6 @@
     <message>
         <source>Antialiasing</source>
         <translation>Antialiasing</translation>
-    </message>
-    <message>
-        <source>Thin</source>
-        <comment>QFont::Weight combo</comment>
-        <translation type="vanished">Tunn</translation>
-    </message>
-    <message>
-        <source>Light</source>
-        <comment>QFont::Weight combo</comment>
-        <translation type="vanished">Ljus</translation>
-    </message>
-    <message>
-        <source>Normal</source>
-        <comment>QFont::Weight combo</comment>
-        <translation type="vanished">Normal</translation>
-    </message>
-    <message>
-        <source>Medium</source>
-        <comment>QFont::Weight combo</comment>
-        <translation type="vanished">Medel</translation>
-    </message>
-    <message>
-        <source>Bold</source>
-        <comment>QFont::Weight combo</comment>
-        <translation type="vanished">Fet stil</translation>
-    </message>
-    <message>
-        <source>Black</source>
-        <comment>QFont::Weight combo</comment>
-        <translation type="vanished">Svart</translation>
-    </message>
-</context>
-<context>
-    <name>Form</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">Formulär</translation>
     </message>
 </context>
 <context>
@@ -1119,13 +1067,6 @@
     </message>
 </context>
 <context>
-    <name>MainWindow</name>
-    <message>
-        <source>MainWindow</source>
-        <translation type="vanished">Huvudfönster</translation>
-    </message>
-</context>
-<context>
     <name>MainWindowBase</name>
     <message>
         <source>Main</source>
@@ -1151,10 +1092,6 @@
     <message>
         <source>Qt Designer</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Qt Widgets Designer</source>
-        <translation type="vanished">Qt Widgets Designer</translation>
     </message>
 </context>
 <context>
@@ -1538,10 +1475,6 @@ This indicates an inconsistency in the ui-file.</source>
         <translation>Om insticksmoduler</translation>
     </message>
     <message>
-        <source>About Qt Widgets Designer</source>
-        <translation type="vanished">Om Qt Widgets Designer</translation>
-    </message>
-    <message>
         <source>About Qt</source>
         <translation>Om Qt</translation>
     </message>
@@ -1585,10 +1518,6 @@ Do you want to update the file location or generate a new form?</source>
     <message>
         <source>&amp;New Form</source>
         <translation>&amp;Nytt formulär</translation>
-    </message>
-    <message>
-        <source>Qt Widgets Designer</source>
-        <translation type="vanished">Qt Widgets Designer</translation>
     </message>
     <message>
         <source>Save Form?</source>
@@ -1902,13 +1831,6 @@ Container pages should only be added by specifying them in XML returned by the d
     </message>
 </context>
 <context>
-    <name>QDesignerWidgetBox</name>
-    <message>
-        <source>An error has been encountered at line %1 of %2: %3</source>
-        <translation type="vanished">Ett fel har påträffats på rad %1 i %2: %3</translation>
-    </message>
-</context>
-<context>
     <name>QDesignerWorkbench</name>
     <message>
         <source>&amp;File</source>
@@ -2135,20 +2057,6 @@ Container pages should only be added by specifying them in XML returned by the d
     </message>
 </context>
 <context>
-    <name>QView3DPlugin</name>
-    <message>
-        <source>3D View</source>
-        <translation type="vanished">3D-vy</translation>
-    </message>
-</context>
-<context>
-    <name>QView3DTool</name>
-    <message>
-        <source>3DView</source>
-        <translation type="vanished">3d-vy</translation>
-    </message>
-</context>
-<context>
     <name>QtBoolEdit</name>
     <message>
         <source>True</source>
@@ -2305,11 +2213,6 @@ Container pages should only be added by specifying them in XML returned by the d
     </message>
     <message>
         <source>Bold</source>
-        <comment>Bold toggle</comment>
-        <translation type="vanished">Fet stil</translation>
-    </message>
-    <message>
-        <source>Bold</source>
         <translation type="unfinished">Fet stil</translation>
     </message>
     <message>
@@ -2327,10 +2230,6 @@ Container pages should only be added by specifying them in XML returned by the d
     <message>
         <source>Kerning</source>
         <translation>Kerning</translation>
-    </message>
-    <message>
-        <source>Weight</source>
-        <translation type="vanished">Vikt</translation>
     </message>
 </context>
 <context>
@@ -2673,10 +2572,6 @@ Container pages should only be added by specifying them in XML returned by the d
     <message>
         <source>Country</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Territory</source>
-        <translation type="vanished">Territorium</translation>
     </message>
 </context>
 <context>
@@ -3360,18 +3255,6 @@ Vill du skriva över mallen?</translation>
         <source>%1&lt;br/&gt;Copyright (C) %2 The Qt Company Ltd.</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Qt Widgets Designer</source>
-        <translation type="vanished">Qt Widgets Designer</translation>
-    </message>
-    <message>
-        <source>&lt;br/&gt;Qt Widgets Designer is a graphical user interface designer for Qt applications.&lt;br/&gt;</source>
-        <translation type="vanished">&lt;br/&gt;Qt Widgets Designer är en grafisk användargränssnittsdesigner för Qt-program.&lt;br/&gt;</translation>
-    </message>
-    <message>
-        <source>%1&lt;br/&gt;Copyright (C) The Qt Company Ltd. and other contributors.</source>
-        <translation type="vanished">%1&lt;br/&gt;Copyright (C) The Qt Company Ltd. och andra bidragsgivare.</translation>
-    </message>
 </context>
 <context>
     <name>WidgetDataBase</name>
@@ -3487,10 +3370,6 @@ Vill du skriva över mallen?</translation>
     <message>
         <source>ToolTip</source>
         <translation>Verktygstips</translation>
-    </message>
-    <message>
-        <source>MenuRole</source>
-        <translation type="vanished">Menyroll</translation>
     </message>
 </context>
 <context>
@@ -3824,10 +3703,6 @@ Vill du skriva över mallen?</translation>
     <message>
         <source>Theme</source>
         <translation>Tema</translation>
-    </message>
-    <message>
-        <source>XDG Theme</source>
-        <translation type="vanished">XDG-tema</translation>
     </message>
     <message>
         <source>Normal Off</source>
@@ -4328,31 +4203,12 @@ Vill du skriva över mallen?</translation>
 <context>
     <name>qdesigner_internal::IconThemeDialog</name>
     <message>
-        <source>Set Icon From XDG Theme</source>
-        <translation type="vanished">Ställ in ikon från XDG-tema</translation>
-    </message>
-    <message>
-        <source>Select icon name from XDG theme:</source>
-        <translation type="vanished">Välj ikonnamn från XDG-tema:</translation>
-    </message>
-    <message>
         <source>Set Icon From Theme</source>
         <translation type="unfinished">Ställ in ikon från tema</translation>
     </message>
     <message>
         <source>Input icon name from the current theme:</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>qdesigner_internal::IconThemeEnumDialog</name>
-    <message>
-        <source>Set Icon From Theme</source>
-        <translation type="vanished">Ställ in ikon från tema</translation>
-    </message>
-    <message>
-        <source>Select icon name from theme:</source>
-        <translation type="vanished">Välj ikonnamn från tema:</translation>
     </message>
 </context>
 <context>
@@ -4509,10 +4365,6 @@ Vill du skriva över mallen?</translation>
         <translation>...</translation>
     </message>
     <message>
-        <source>Icon &amp;XDG theme:</source>
-        <translation type="vanished">Ikonens &amp;XDG-tema:</translation>
-    </message>
-    <message>
         <source>&amp;Icon:</source>
         <translation>&amp;Ikon:</translation>
     </message>
@@ -4523,14 +4375,6 @@ Vill du skriva över mallen?</translation>
     <message>
         <source>&amp;Shortcut:</source>
         <translation>&amp;Genväg:</translation>
-    </message>
-    <message>
-        <source>&amp;Menu role:</source>
-        <translation type="vanished">M&amp;enyroll:</translation>
-    </message>
-    <message>
-        <source>Icon &amp;theme:</source>
-        <translation type="vanished">Ikon&amp;tema:</translation>
     </message>
     <message>
         <source>Icon th&amp;eme:</source>
@@ -4754,10 +4598,6 @@ Please select another name.</source>
         <translation>Läs in...</translation>
     </message>
     <message>
-        <source>Preview (%1)</source>
-        <translation type="vanished">Förhandsvisa (%1)</translation>
-    </message>
-    <message>
         <source>Lighter</source>
         <translation>Ljusare</translation>
     </message>
@@ -4851,10 +4691,6 @@ Please select another name.</source>
         <translation>Ställ in ikon från tema...</translation>
     </message>
     <message>
-        <source>Set Icon From XDG Theme...</source>
-        <translation type="vanished">Ställ in ikon från XDG-tema...</translation>
-    </message>
-    <message>
         <source>Copy Path</source>
         <translation>Kopiera sökväg</translation>
     </message>
@@ -4869,10 +4705,6 @@ Please select another name.</source>
     <message>
         <source>[Theme] %1</source>
         <translation>[Tema] %1</translation>
-    </message>
-    <message>
-        <source>[Theme] %1 (missing)</source>
-        <translation type="vanished">[Tema] %1 (saknas)</translation>
     </message>
 </context>
 <context>
@@ -4917,21 +4749,8 @@ Please select another name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Qt Widgets Designer couldn&apos;t find any plugins</source>
-        <translation type="vanished">Qt Widgets Designer kunde inte hitta några insticksmoduler</translation>
-    </message>
-    <message>
-        <source>Qt Widgets Designer found the following plugins</source>
-        <translation type="vanished">Qt Widgets Designer hittades följande insticksmoduler</translation>
-    </message>
-    <message>
         <source>New custom widget plugins have been found.</source>
         <translation>Nya anpassade widgetinsticksmoduler har hittats.</translation>
-    </message>
-    <message>
-        <source>Copy</source>
-        <extracomment>Copy error text</extracomment>
-        <translation type="vanished">Kopiera</translation>
     </message>
 </context>
 <context>
@@ -5256,17 +5075,6 @@ Klass: %2</translation>
     <message>
         <source>Insert line break</source>
         <translation>Infoga radbrytning</translation>
-    </message>
-</context>
-<context>
-    <name>qdesigner_internal::PropertySheetValue</name>
-    <message>
-        <source>translatable</source>
-        <translation type="vanished">översättningsbar</translation>
-    </message>
-    <message>
-        <source>comment</source>
-        <translation type="vanished">kommentar</translation>
     </message>
 </context>
 <context>
