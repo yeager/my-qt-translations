@@ -436,27 +436,27 @@ Bind to AmbientSound.Infinite to loop the current sound forever.</source>
     <name>AnimatedImageSpecifics</name>
     <message>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Bild</translation>
     </message>
     <message>
         <source>Animated image</source>
-        <translation type="unfinished"></translation>
+        <translation>Animerad bild</translation>
     </message>
     <message>
         <source>Speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Hastighet</translation>
     </message>
     <message>
         <source>Sets the speed of the animation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anger hastigheten för animeringen.</translation>
     </message>
     <message>
         <source>Playing</source>
-        <translation type="unfinished"></translation>
+        <translation>Spelar upp</translation>
     </message>
     <message>
         <source>Toggles if the animation is playing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar om animeringen spelas upp.</translation>
     </message>
 </context>
 <context>
@@ -809,11 +809,11 @@ Bind to AmbientSound.Infinite to loop the current sound forever.</source>
     <name>AudioEngineSection</name>
     <message>
         <source>Audio Engine</source>
-        <translation type="unfinished"></translation>
+        <translation>Ljudmotor</translation>
     </message>
     <message>
         <source>Master Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Huvudvolym</translation>
     </message>
     <message>
         <source>Sets or returns overall volume being used to render the sound field.
@@ -822,7 +822,7 @@ Values between 0 and 1 will attenuate the sound, while values above 1 provide an
     </message>
     <message>
         <source>Output Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Utdataläge</translation>
     </message>
     <message>
         <source>Sets the current output mode of the engine.</source>
@@ -830,7 +830,7 @@ Values between 0 and 1 will attenuate the sound, while values above 1 provide an
     </message>
     <message>
         <source>Output Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Utdataenhet</translation>
     </message>
     <message>
         <source>Sets the device that is being used for outputting the sound field.</source>
@@ -2255,23 +2255,23 @@ This can not be undone.</source>
     <name>ContentLibraryItemContextMenu</name>
     <message>
         <source>Apply to selected (replace)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillämpa på markerade (ersätt)</translation>
     </message>
     <message>
         <source>Apply to selected (add)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillämpa på markerade (lägg till)</translation>
     </message>
     <message>
         <source>Add an instance to project</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till en instans till projektet</translation>
     </message>
     <message>
         <source>Remove from project</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort från projektet</translation>
     </message>
     <message>
         <source>Remove from Content Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort från innehållsbiblioteket</translation>
     </message>
     <message>
         <source>Import bundle</source>
@@ -2505,19 +2505,19 @@ This can not be undone.</source>
     <name>DelayButtonSpecifics</name>
     <message>
         <source>Delay Button</source>
-        <translation type="unfinished"></translation>
+        <translation>Fördröjningsknapp</translation>
     </message>
     <message>
         <source>Delay</source>
-        <translation type="unfinished"></translation>
+        <translation>Fördröj</translation>
     </message>
     <message>
         <source>Sets the delay before the button activates.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anger fördröjningen innan knappen aktiveras.</translation>
     </message>
     <message>
         <source>Milliseconds.</source>
-        <translation type="unfinished"></translation>
+        <translation>Millisekunder.</translation>
     </message>
 </context>
 <context>
@@ -2543,7 +2543,7 @@ This can not be undone.</source>
     <name>DesignerActionManager</name>
     <message>
         <source>Document Has Errors</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokumentet innehåller fel</translation>
     </message>
     <message>
         <source>The document which contains the list model contains errors. So we cannot edit it.</source>
@@ -2909,23 +2909,23 @@ defined in &lt;b&gt;Step size&lt;/b&gt;.</source>
     <name>EffectComposerPreview</name>
     <message>
         <source>Zoom In</source>
-        <translation type="unfinished"></translation>
+        <translation>Zooma in</translation>
     </message>
     <message>
         <source>Zoom out</source>
-        <translation type="unfinished"></translation>
+        <translation>Zooma ut</translation>
     </message>
     <message>
         <source>Reset View</source>
-        <translation type="unfinished"></translation>
+        <translation>Nollställ vy</translation>
     </message>
     <message>
         <source>Restart Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>Starta om animering</translation>
     </message>
     <message>
         <source>Play Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>Spela upp animering</translation>
     </message>
 </context>
 <context>
@@ -3438,7 +3438,7 @@ The foreground component should be transparent, and the background component sho
     <name>FlipableSpecifics</name>
     <message>
         <source>Flipable</source>
-        <translation type="unfinished"></translation>
+        <translation>Vändbar</translation>
     </message>
 </context>
 <context>
@@ -4376,7 +4376,7 @@ Ids must begin with a lowercase letter.</source>
     <name>Label</name>
     <message>
         <source>This property is not available in this configuration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denna egenskap är inte tillgänglig i denna konfiguration.</translation>
     </message>
 </context>
 <context>
@@ -6337,7 +6337,7 @@ operation is in progress.</source>
     </message>
     <message>
         <source>Start Nanotrace</source>
-        <translation type="unfinished"></translation>
+        <translation>Starta Nanotrace</translation>
     </message>
     <message>
         <source>Shut Down Nanotrace</source>
@@ -6361,11 +6361,11 @@ operation is in progress.</source>
     </message>
     <message>
         <source>Connect Signal to Event</source>
-        <translation type="unfinished"></translation>
+        <translation>Anslut signal till händelse</translation>
     </message>
     <message>
         <source>Connected Events</source>
-        <translation type="unfinished"></translation>
+        <translation>Anslutna händelser</translation>
     </message>
     <message>
         <source>Connected Signals</source>
@@ -6431,7 +6431,7 @@ Do you want to edit this effect?</source>
     </message>
     <message>
         <source>Empty document</source>
-        <translation type="unfinished"></translation>
+        <translation>Tomt dokument</translation>
     </message>
     <message>
         <source>Unsupported bundle file</source>
@@ -6459,11 +6459,11 @@ Do you want to edit this effect?</source>
     </message>
     <message>
         <source>Export Material</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportera material</translation>
     </message>
     <message>
         <source>Export Component</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportera komponent</translation>
     </message>
 </context>
 <context>
@@ -6594,19 +6594,19 @@ Do you want to edit this effect?</source>
     <name>QmlDesigner::AnnotationTabWidget</name>
     <message>
         <source>Add Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till kommentar</translation>
     </message>
     <message>
         <source>Remove Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort kommentar</translation>
     </message>
     <message>
         <source>Delete this comment?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort denna kommentar?</translation>
     </message>
     <message>
         <source>Annotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Anteckning</translation>
     </message>
 </context>
 <context>
@@ -7576,27 +7576,27 @@ Exporting assets: %2</source>
     <name>QmlDesigner::FormEditorAnnotationIcon</name>
     <message>
         <source>Annotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Anteckning</translation>
     </message>
     <message>
         <source>Edit Annotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera anteckning</translation>
     </message>
     <message>
         <source>Remove Annotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort anteckning</translation>
     </message>
     <message>
         <source>By: </source>
-        <translation type="unfinished"></translation>
+        <translation>Av: </translation>
     </message>
     <message>
         <source>Edited: </source>
-        <translation type="unfinished"></translation>
+        <translation>Redigerad: </translation>
     </message>
     <message>
         <source>Delete this annotation?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort denna anteckning?</translation>
     </message>
 </context>
 <context>
@@ -7760,15 +7760,15 @@ Please check the output pane for more information.</source>
     <name>QmlDesigner::GlobalAnnotationDialog</name>
     <message>
         <source>Global Annotation Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigerare för globala anteckningar</translation>
     </message>
     <message>
         <source>Global Annotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Global anteckning</translation>
     </message>
     <message>
         <source>All Annotations</source>
-        <translation type="unfinished"></translation>
+        <translation>Alla anteckningar</translation>
     </message>
 </context>
 <context>
@@ -8581,7 +8581,7 @@ Please check the output pane for more information.</source>
     <name>QmlDesigner::NavigatorTreeModel</name>
     <message>
         <source>Unknown component: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Okänd komponent: %1</translation>
     </message>
     <message>
         <source>Toggles whether this component is exported as an alias property of the root component.</source>
@@ -8739,11 +8739,11 @@ Locked components cannot be modified or selected.</source>
     <name>QmlDesigner::PresetList</name>
     <message>
         <source>Add Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till förval</translation>
     </message>
     <message>
         <source>Delete Selected Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort markerat förval</translation>
     </message>
 </context>
 <context>
@@ -9045,11 +9045,11 @@ Locked components cannot be modified or selected.</source>
     <name>QmlDesigner::SignalListModel</name>
     <message>
         <source>Item ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Objekt-id</translation>
     </message>
     <message>
         <source>Signal</source>
-        <translation type="unfinished"></translation>
+        <translation>Signal</translation>
     </message>
 </context>
 <context>
@@ -9123,11 +9123,11 @@ Locked components cannot be modified or selected.</source>
     <name>QmlDesigner::StatesEditorView</name>
     <message>
         <source>States</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillstånd</translation>
     </message>
     <message>
         <source>Remove State</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort tillstånd</translation>
     </message>
     <message>
         <source>This state is not empty. Are you sure you want to remove it?</source>
@@ -9135,7 +9135,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Locked components:</source>
-        <translation type="unfinished"></translation>
+        <translation>Låsta komponenter:</translation>
     </message>
     <message>
         <source>Removing this state will modify locked components.</source>
@@ -9753,27 +9753,27 @@ Locked components cannot be modified or selected.</source>
     <name>QmlDesigner::TransitionTool</name>
     <message>
         <source>Add Transition</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till övergång</translation>
     </message>
     <message>
         <source>Remove Transitions</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort övergångar</translation>
     </message>
     <message>
         <source>Remove All Transitions</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort alla övergångar</translation>
     </message>
     <message>
         <source>Do you really want to remove all transitions?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vill du verkligen ta bort alla övergångar?</translation>
     </message>
     <message>
         <source>Remove Dangling Transitions</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort hängande övergångar</translation>
     </message>
     <message>
         <source>Transition Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Övergångsverktyg</translation>
     </message>
 </context>
 <context>
@@ -12457,15 +12457,15 @@ the manifest file by overriding your settings. Allow override?</source>
     <name>QtC::Autotest</name>
     <message>
         <source>Testing</source>
-        <translation type="unfinished"></translation>
+        <translation>Testning</translation>
     </message>
     <message>
         <source>&amp;Tests</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tester</translation>
     </message>
     <message>
         <source>Run &amp;All Tests</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör &amp;alla tester</translation>
     </message>
     <message>
         <source>Ctrl+Meta+T, Ctrl+Meta+A</source>
@@ -12549,11 +12549,11 @@ the manifest file by overriding your settings. Allow override?</source>
     </message>
     <message>
         <source>Run All Tests</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör alla tester</translation>
     </message>
     <message>
         <source>Run Selected Tests</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör markerade tester</translation>
     </message>
     <message>
         <source>Run Selected Tests Without Deployment</source>
@@ -12561,23 +12561,23 @@ the manifest file by overriding your settings. Allow override?</source>
     </message>
     <message>
         <source>Run Failed Tests</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör misslyckade tester</translation>
     </message>
     <message>
         <source>Run Tests for Current File</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör tester för aktuell fil</translation>
     </message>
     <message>
         <source>Ctrl+Meta+T, Ctrl+Meta+C</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Meta+T, Ctrl+Meta+C</translation>
     </message>
     <message>
         <source>Alt+Shift+T,Alt+C</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+Shift+T,Alt+C</translation>
     </message>
     <message>
         <source>Disable Temporarily</source>
-        <translation type="unfinished"></translation>
+        <translation>Inaktivera temporärt</translation>
     </message>
     <message>
         <source>Disable scanning and other actions until explicitly rescanning, re-enabling, or restarting Qt Creator.</source>
@@ -12666,7 +12666,7 @@ Executable: %2</source>
     </message>
     <message>
         <source>Log format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Loggformat:</translation>
     </message>
     <message>
         <source>Report level:</source>
@@ -12682,7 +12682,7 @@ Executable: %2</source>
     </message>
     <message>
         <source>Randomize</source>
-        <translation type="unfinished"></translation>
+        <translation>Slumpmässig</translation>
     </message>
     <message>
         <source>Randomize execution order.</source>
@@ -24437,7 +24437,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     <name>QtC::Cppcheck</name>
     <message>
         <source>Diagnostic</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagnostik</translation>
     </message>
     <message>
         <source>Cppcheck Diagnostics</source>
@@ -24453,11 +24453,11 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Varningar</translation>
     </message>
     <message>
         <source>Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Stil</translation>
     </message>
     <message>
         <source>Performance</source>
@@ -29374,11 +29374,11 @@ Stepping into the module or setting breakpoints by file and line is expected to 
     <name>QtC::Designer</name>
     <message>
         <source>Designer</source>
-        <translation type="unfinished"></translation>
+        <translation>Designer</translation>
     </message>
     <message>
         <source>Form Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulärredigerare</translation>
     </message>
     <message>
         <source>Qt Widgets Designer Form Class</source>
@@ -29386,11 +29386,11 @@ Stepping into the module or setting breakpoints by file and line is expected to 
     </message>
     <message>
         <source>Form Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulärmall</translation>
     </message>
     <message>
         <source>Class Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Klassdetaljer</translation>
     </message>
     <message>
         <source>Class</source>
@@ -29398,7 +29398,7 @@ Stepping into the module or setting breakpoints by file and line is expected to 
     </message>
     <message>
         <source>%1 - Error</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - Fel</translation>
     </message>
     <message>
         <source>Choose a Class Name</source>
@@ -29416,7 +29416,7 @@ Stepping into the module or setting breakpoints by file and line is expected to 
     <message>
         <source>Object Inspector</source>
         <translatorcomment>Je trouve que &quot;Inspecteur d&apos;objet&quot; est peu adapté. Explorateur d&apos;objet n&apos;est pas excellent non plus, à changer surement.</translatorcomment>
-        <translation type="unfinished"></translation>
+        <translation>Objektinspekterare</translation>
     </message>
     <message>
         <source>Widget box</source>
@@ -29424,11 +29424,11 @@ Stepping into the module or setting breakpoints by file and line is expected to 
     </message>
     <message>
         <source>Property Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Egenskapsredigerare</translation>
     </message>
     <message>
         <source>Action Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Åtgärdsredigerare</translation>
     </message>
     <message>
         <source>F3</source>
@@ -29444,7 +29444,7 @@ Stepping into the module or setting breakpoints by file and line is expected to 
     </message>
     <message>
         <source>Edit Widgets</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera widgetar</translation>
     </message>
     <message>
         <source>Edit Signals/Slots</source>
@@ -29452,11 +29452,11 @@ Stepping into the module or setting breakpoints by file and line is expected to 
     </message>
     <message>
         <source>Edit Buddies</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera kompisar</translation>
     </message>
     <message>
         <source>Edit Tab Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera flikordning</translation>
     </message>
     <message>
         <source>Ctrl+H</source>
@@ -29517,11 +29517,11 @@ Stepping into the module or setting breakpoints by file and line is expected to 
     </message>
     <message>
         <source>Preview in</source>
-        <translation type="unfinished"></translation>
+        <translation>Förhandsvisa i</translation>
     </message>
     <message>
         <source>Switch Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Växla läge</translation>
     </message>
     <message>
         <source>The image could not be created: %1</source>
@@ -29529,7 +29529,7 @@ Stepping into the module or setting breakpoints by file and line is expected to 
     </message>
     <message>
         <source>Choose a Form Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en formulärmall</translation>
     </message>
     <message>
         <source>The class containing &quot;%1&quot; could not be found in %2.
@@ -29598,7 +29598,7 @@ Rebuilding the project might help.</source>
     </message>
     <message>
         <source>&amp;Class name:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Klassnamn:</translation>
     </message>
     <message>
         <source>&amp;Header file:</source>
@@ -29614,7 +29614,7 @@ Rebuilding the project might help.</source>
     </message>
     <message>
         <source>&amp;Path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sö&amp;kväg:</translation>
     </message>
     <message>
         <source>Invalid header file name: &quot;%1&quot;</source>
@@ -46774,7 +46774,7 @@ Adds the library and include paths to the .pro file.</source>
     <message>
         <source>The port seems to be in use.</source>
         <extracomment>Error message shown after &apos;Could not connect ... debugger:&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Porten verkar vara upptagen.</translation>
     </message>
     <message>
         <source>The application is not set up for QML/JS debugging.</source>
@@ -46787,7 +46787,7 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel: %1</translation>
     </message>
     <message>
         <source>Debug connection opened.</source>
@@ -49431,7 +49431,7 @@ Are you sure you want to continue?</source>
     <message>
         <source>The Qt version is invalid: %1</source>
         <extracomment>%1: Reason for being invalid</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Qt-versionen är ogiltig: %1</translation>
     </message>
     <message>
         <source>The qmake command &quot;%1&quot; was not found or is not executable.</source>
@@ -49457,7 +49457,7 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>System</translation>
     </message>
     <message>
         <source>Qt version is not properly installed, please run make install</source>
@@ -49552,7 +49552,7 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>Source:</source>
-        <translation type="unfinished"></translation>
+        <translation>Källa:</translation>
     </message>
     <message>
         <source>mkspec:</source>
@@ -49664,7 +49664,7 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>&quot;%1&quot; crashed.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; kraschade.</translation>
     </message>
     <message>
         <source>&quot;%1&quot; produced no output: %2.</source>
@@ -49676,11 +49676,11 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>No Qt version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen Qt-version.</translation>
     </message>
     <message>
         <source>Invalid Qt version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig Qt-version.</translation>
     </message>
     <message>
         <source>Requires Qt 5.0.0 or newer.</source>
@@ -49708,7 +49708,7 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>Qt version %1 for %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt version %1 för %2</translation>
     </message>
     <message>
         <source>Qt Version</source>
@@ -49720,11 +49720,11 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>Link with Qt...</source>
-        <translation type="unfinished"></translation>
+        <translation>Länka med Qt...</translation>
     </message>
     <message>
         <source>Clean Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Rensa upp</translation>
     </message>
     <message>
         <source>qmake path:</source>
@@ -49816,7 +49816,7 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>Link with Qt</source>
-        <translation type="unfinished"></translation>
+        <translation>Länka med Qt</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -49824,7 +49824,7 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>Remove Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort länk</translation>
     </message>
     <message>
         <source>Error Linking With Qt</source>
@@ -50048,7 +50048,7 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>Translation file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Översättningsfil:</translation>
     </message>
 </context>
 <context>
@@ -60835,7 +60835,7 @@ defined in step size.</source>
     </message>
     <message>
         <source>Content size</source>
-        <translation type="unfinished"></translation>
+        <translation>Innehållsstorlek</translation>
     </message>
     <message>
         <source>Sets the width and height of the view.
@@ -60889,11 +60889,11 @@ This is used for calculating the total implicit size.</source>
     <name>SelectBackgroundColorAction</name>
     <message>
         <source>Select Background Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj bakgrundsfärg</translation>
     </message>
     <message>
         <source>Select a color for the background of the 3D view.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en färg för bakgrunden i 3D-vyn.</translation>
     </message>
 </context>
 <context>
@@ -62405,19 +62405,19 @@ This is used for calculating the total implicit size.</source>
     <name>TextureEditorToolBar</name>
     <message>
         <source>Apply texture to selected model&apos;s material.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillämpa textur på materialet för markerad modell.</translation>
     </message>
     <message>
         <source>Create new texture.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa ny textur.</translation>
     </message>
     <message>
         <source>Delete current texture.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort aktuell textur.</translation>
     </message>
     <message>
         <source>Open material browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna materialbläddraren.</translation>
     </message>
 </context>
 <context>
