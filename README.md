@@ -11,6 +11,8 @@ Qt Installer Framework 4.8.1
 .. and the Swedish Qt Creator 15 translation (work in progress)
 
 
+.
+
 
 Bara en samling av mina svenska översättningar för Qt
 
