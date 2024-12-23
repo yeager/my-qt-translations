@@ -1419,7 +1419,7 @@ It should be a relative path.</source>
     <name>CameraSpeedConfigAction</name>
     <message>
         <source>Open camera speed configuration dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna konfiguration för kamerahastighet</translation>
     </message>
 </context>
 <context>
@@ -1462,11 +1462,11 @@ It should be a relative path.</source>
     <name>ChangeStyleWidgetAction</name>
     <message>
         <source>Change style for Qt Quick Controls 2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra stil för Qt Quick Controls 2.</translation>
     </message>
     <message>
         <source>Change style for Qt Quick Controls 2. Configuration file qtquickcontrols2.conf not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra stil för Qt Quick Controls 2. Konfigurationsfilen qtquickcontrols2.conf hittades inte.</translation>
     </message>
 </context>
 <context>
@@ -1778,7 +1778,7 @@ It should be a relative path.</source>
     <name>ColumnLayoutSpecifics</name>
     <message>
         <source>Column Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolumnlayout</translation>
     </message>
     <message>
         <source>Column spacing</source>
@@ -2803,14 +2803,14 @@ defined in &lt;b&gt;Step size&lt;/b&gt;.</source>
     <name>EditLightToggleAction</name>
     <message>
         <source>Toggle Edit Light On/Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Växla redigera ljus på/av</translation>
     </message>
 </context>
 <context>
     <name>EffectComposer</name>
     <message>
         <source>Remove all effect nodes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort alla effektnoder.</translation>
     </message>
     <message>
         <source>Open Shader in Code Editor.</source>
@@ -4596,7 +4596,7 @@ be rendered into the texture.</source>
     <name>ListViewSpecifics</name>
     <message>
         <source>List View</source>
-        <translation type="unfinished"></translation>
+        <translation>Listvy</translation>
     </message>
     <message>
         <source>Cache</source>
@@ -5186,7 +5186,7 @@ a highlight component.</source>
     </message>
     <message>
         <source>Basic</source>
-        <translation type="unfinished"></translation>
+        <translation>Grundläggande</translation>
     </message>
     <message>
         <source>Color</source>
@@ -5657,7 +5657,7 @@ Error:
     <name>OrientationToggleAction</name>
     <message>
         <source>Toggle Global/Local Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Växla global/lokal orientering</translation>
     </message>
 </context>
 <context>
@@ -5857,14 +5857,14 @@ the total implicit size.</source>
     <name>PathToolAction</name>
     <message>
         <source>Edit Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera sökväg</translation>
     </message>
 </context>
 <context>
     <name>PathViewSpecifics</name>
     <message>
         <source>Path View</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökvägsvy</translation>
     </message>
     <message>
         <source>Toggles if the path view allows drag or flick.</source>
@@ -5978,7 +5978,7 @@ a highlight component.</source>
     <name>PluginManager</name>
     <message>
         <source>Failed Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckade insticksmoduler</translation>
     </message>
 </context>
 <context>
@@ -6179,11 +6179,11 @@ operation is in progress.</source>
     <name>PuppetStarter</name>
     <message>
         <source>Puppet is starting...</source>
-        <translation type="unfinished"></translation>
+        <translation>Puppet startar...</translation>
     </message>
     <message>
         <source>You can now attach your debugger to the %1 puppet with process id: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du kan nu fästa din felsökare till %1 puppet med process-id: %2.</translation>
     </message>
 </context>
 <context>
@@ -6680,7 +6680,7 @@ Exporting assets: %2</source>
     </message>
     <message>
         <source>Unknown error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Okänt fel.</translation>
     </message>
     <message>
         <source>Loading file is taking too long.</source>
@@ -6886,15 +6886,15 @@ Exporting assets: %2</source>
     <name>QmlDesigner::BindingEditorDialog</name>
     <message>
         <source>Binding Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Bindningsredigerare</translation>
     </message>
     <message>
         <source>NOT</source>
-        <translation type="unfinished"></translation>
+        <translation>NOT</translation>
     </message>
     <message>
         <source>Invert the boolean expression.</source>
-        <translation type="unfinished"></translation>
+        <translation>Invertera booleskt uttryck.</translation>
     </message>
 </context>
 <context>
@@ -6949,7 +6949,7 @@ Exporting assets: %2</source>
     <name>QmlDesigner::ComponentAction</name>
     <message>
         <source>Edit sub components defined in this file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera underkomponenter definierade i denna fil.</translation>
     </message>
 </context>
 <context>
@@ -7010,7 +7010,7 @@ Exporting assets: %2</source>
     </message>
     <message>
         <source>Action</source>
-        <translation type="unfinished"></translation>
+        <translation>Åtgärd</translation>
     </message>
     <message>
         <source>Error</source>
@@ -7150,11 +7150,11 @@ Exporting assets: %2</source>
     </message>
     <message>
         <source>Zoom Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Zooma ut</translation>
     </message>
     <message>
         <source>Zoom In</source>
-        <translation type="unfinished"></translation>
+        <translation>Zooma in</translation>
     </message>
     <message>
         <source>Not supported for MCUs</source>
@@ -7650,11 +7650,11 @@ Exporting assets: %2</source>
     </message>
     <message>
         <source>Zoom In</source>
-        <translation type="unfinished"></translation>
+        <translation>Zooma in</translation>
     </message>
     <message>
         <source>Zoom Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Zooma ut</translation>
     </message>
     <message>
         <source>Zoom screen to fit all content.</source>
@@ -8012,7 +8012,7 @@ Please check the output pane for more information.</source>
     <name>QmlDesigner::InsightView</name>
     <message>
         <source>Qt Insight</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt Insight</translation>
     </message>
 </context>
 <context>
@@ -8020,15 +8020,15 @@ Please check the output pane for more information.</source>
     <message>
         <source>Qt Insight</source>
         <comment>Title of the widget</comment>
-        <translation type="unfinished"></translation>
+        <translation>Qt Insight</translation>
     </message>
     <message>
         <source>Cannot Create QtQuick View</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte skapa QtQuick-vy</translation>
     </message>
     <message>
         <source>InsightWidget: %1 cannot be created.%2</source>
-        <translation type="unfinished"></translation>
+        <translation>InsightWidget: %1 kan inte skapas.%2</translation>
     </message>
 </context>
 <context>
@@ -8321,11 +8321,11 @@ Please check the output pane for more information.</source>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bredd:</translation>
     </message>
     <message>
         <source>Height:</source>
-        <translation type="unfinished"></translation>
+        <translation>Höjd:</translation>
     </message>
     <message>
         <source>Smooth rendering:</source>
@@ -8857,11 +8857,11 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Select Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj bild</translation>
     </message>
     <message>
         <source>Image files (*.png *.jpg)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildfiler (*.png *.jpg)</translation>
     </message>
     <message>
         <source>Insert &amp;Image</source>
@@ -9301,7 +9301,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Texture Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Texturredigerare</translation>
     </message>
     <message>
         <source>Texture Editor view</source>
@@ -9611,11 +9611,11 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Zoom Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Zooma ut</translation>
     </message>
     <message>
         <source>Zoom In</source>
-        <translation type="unfinished"></translation>
+        <translation>Zooma in</translation>
     </message>
 </context>
 <context>
@@ -9684,11 +9684,11 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Zoom Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Zooma ut</translation>
     </message>
     <message>
         <source>Zoom In</source>
-        <translation type="unfinished"></translation>
+        <translation>Zooma in</translation>
     </message>
 </context>
 <context>
@@ -14327,7 +14327,7 @@ a matches issues where the value contains the letter &apos;a&apos;
     </message>
     <message>
         <source>Generic</source>
-        <translation type="unfinished"></translation>
+        <translation>Allmän</translation>
     </message>
     <message>
         <source>Use GDB target extended-remote</source>
@@ -14652,7 +14652,7 @@ a matches issues where the value contains the letter &apos;a&apos;
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Starta</translation>
     </message>
     <message>
         <source>Size</source>
@@ -16511,7 +16511,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Removed &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Tog bort &quot;%1&quot;</translation>
     </message>
     <message>
         <source>CMake:</source>
@@ -17425,7 +17425,7 @@ Output:
     </message>
     <message>
         <source>Message:</source>
-        <translation type="unfinished"></translation>
+        <translation>Meddelande:</translation>
     </message>
     <message>
         <source>Location:</source>
@@ -24608,7 +24608,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Starta</translation>
     </message>
     <message>
         <source>Wall Duration</source>
@@ -24830,11 +24830,11 @@ For more details, see /etc/sysctl.d/10-ptrace.conf
     </message>
     <message>
         <source>Copying files to device... %1/%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopierar filer till enhet... %1/%2</translation>
     </message>
     <message>
         <source>Copying files to device...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopierar filer till enhet...</translation>
     </message>
     <message>
         <source>Core file:</source>
@@ -24846,7 +24846,7 @@ For more details, see /etc/sysctl.d/10-ptrace.conf
     </message>
     <message>
         <source>Select Startup Script</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj uppstartsskript</translation>
     </message>
     <message>
         <source>Override &amp;start script:</source>
@@ -24854,7 +24854,7 @@ For more details, see /etc/sysctl.d/10-ptrace.conf
     </message>
     <message>
         <source>Select Start Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj startadress</translation>
     </message>
     <message>
         <source>Enter an address:</source>
@@ -24888,7 +24888,7 @@ For more details, see /etc/sysctl.d/10-ptrace.conf
     </message>
     <message>
         <source>Requested</source>
-        <translation type="unfinished"></translation>
+        <translation>Begärd</translation>
     </message>
     <message>
         <source>Obtained</source>
@@ -24896,7 +24896,7 @@ For more details, see /etc/sysctl.d/10-ptrace.conf
     </message>
     <message>
         <source>File Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Filnamn:</translation>
     </message>
     <message>
         <source>Function Name:</source>
@@ -24961,7 +24961,7 @@ For more details, see /etc/sysctl.d/10-ptrace.conf
     </message>
     <message>
         <source>Line Number:</source>
-        <translation type="unfinished"></translation>
+        <translation>Radnummer:</translation>
     </message>
     <message>
         <source>Module:</source>
@@ -24973,11 +24973,11 @@ For more details, see /etc/sysctl.d/10-ptrace.conf
     </message>
     <message>
         <source>Message:</source>
-        <translation type="unfinished"></translation>
+        <translation>Meddelande:</translation>
     </message>
     <message>
         <source>Condition:</source>
-        <translation type="unfinished"></translation>
+        <translation>Villkor:</translation>
     </message>
     <message>
         <source>Ignore Count:</source>
@@ -25025,7 +25025,7 @@ For more details, see /etc/sysctl.d/10-ptrace.conf
     </message>
     <message>
         <source>Dead</source>
-        <translation type="unfinished"></translation>
+        <translation>Död</translation>
     </message>
     <message>
         <source>&lt;invalid state&gt;</source>
@@ -25142,11 +25142,11 @@ For more details, see /etc/sysctl.d/10-ptrace.conf
     </message>
     <message>
         <source>Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Rad</translation>
     </message>
     <message>
         <source>Condition</source>
-        <translation type="unfinished"></translation>
+        <translation>Villkor</translation>
     </message>
     <message>
         <source>Ignore</source>
@@ -25170,7 +25170,7 @@ For more details, see /etc/sysctl.d/10-ptrace.conf
     </message>
     <message>
         <source>Startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppstart</translation>
     </message>
     <message>
         <source>Use CDB &amp;console</source>
@@ -25534,11 +25534,11 @@ You can choose between waiting longer or aborting debugging.</source>
     </message>
     <message>
         <source>Continue Debugging</source>
-        <translation type="unfinished"></translation>
+        <translation>Fortsätt felsökning</translation>
     </message>
     <message>
         <source>Continuing nevertheless.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fortsätter oavsett.</translation>
     </message>
     <message>
         <source>Stop requested...</source>
@@ -25681,7 +25681,7 @@ You can choose between waiting longer or aborting debugging.</source>
     </message>
     <message>
         <source>Execution Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Körningsfel</translation>
     </message>
     <message>
         <source>Internal error: Invalid TCP/IP port specified %1.</source>
@@ -25859,7 +25859,7 @@ You can choose between waiting longer or aborting debugging.</source>
     </message>
     <message>
         <source>sec</source>
-        <translation type="unfinished"></translation>
+        <translation>s</translation>
     </message>
     <message>
         <source>Skip known frames when stepping</source>
@@ -26081,31 +26081,31 @@ markers in the source code editor.</source>
     </message>
     <message>
         <source>Stopped.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoppad.</translation>
     </message>
     <message>
         <source>Source Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Källfiler</translation>
     </message>
     <message>
         <source>Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Adress:</translation>
     </message>
     <message>
         <source>File:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fil:</translation>
     </message>
     <message>
         <source>Line:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rad:</translation>
     </message>
     <message>
         <source>From:</source>
-        <translation type="unfinished"></translation>
+        <translation>Från:</translation>
     </message>
     <message>
         <source>To:</source>
-        <translation type="unfinished"></translation>
+        <translation>Till:</translation>
     </message>
     <message>
         <source>JS-Function:</source>
@@ -26113,7 +26113,7 @@ markers in the source code editor.</source>
     </message>
     <message>
         <source>Receiver:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mottagare:</translation>
     </message>
     <message>
         <source>Note:</source>
@@ -26137,15 +26137,15 @@ markers in the source code editor.</source>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>&lt;More&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Mer&gt;</translation>
     </message>
     <message>
         <source>Level</source>
-        <translation type="unfinished"></translation>
+        <translation>Nivå</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -26197,7 +26197,7 @@ markers in the source code editor.</source>
     </message>
     <message>
         <source>Threads</source>
-        <translation type="unfinished"></translation>
+        <translation>Trådar</translation>
     </message>
     <message>
         <source>%1 &lt;shadowed %2&gt;</source>
@@ -26206,7 +26206,7 @@ markers in the source code editor.</source>
     </message>
     <message>
         <source>Expression</source>
-        <translation type="unfinished"></translation>
+        <translation>Uttryck</translation>
     </message>
     <message>
         <source>Internal Type</source>
@@ -26321,15 +26321,15 @@ markers in the source code editor.</source>
     </message>
     <message>
         <source>Expressions</source>
-        <translation type="unfinished"></translation>
+        <translation>Uttryck</translation>
     </message>
     <message>
         <source>Return Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Returvärde</translation>
     </message>
     <message>
         <source>Tooltip</source>
-        <translation type="unfinished"></translation>
+        <translation>Verktygtips</translation>
     </message>
     <message>
         <source>Name</source>
@@ -26345,7 +26345,7 @@ markers in the source code editor.</source>
     </message>
     <message>
         <source>No valid expression</source>
-        <translation type="unfinished"></translation>
+        <translation>Inget giltigt uttryck</translation>
     </message>
     <message>
         <source>%1 (Previous)</source>
@@ -26357,7 +26357,7 @@ markers in the source code editor.</source>
     </message>
     <message>
         <source>CDB</source>
-        <translation type="unfinished"></translation>
+        <translation>CDB</translation>
     </message>
     <message>
         <source>Select Local Cache Folder</source>
@@ -26397,7 +26397,7 @@ markers in the source code editor.</source>
     </message>
     <message>
         <source>Cannot Create</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte skapa</translation>
     </message>
     <message>
         <source>Running requested...</source>
@@ -26465,7 +26465,7 @@ markers in the source code editor.</source>
     </message>
     <message>
         <source>Function Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Funktionsnamn</translation>
     </message>
     <message>
         <source>Edit Breakpoint Properties</source>
@@ -26473,7 +26473,7 @@ markers in the source code editor.</source>
     </message>
     <message>
         <source>Basic</source>
-        <translation type="unfinished"></translation>
+        <translation>Grundläggande</translation>
     </message>
     <message>
         <source>Breakpoint &amp;type:</source>
@@ -26481,11 +26481,11 @@ markers in the source code editor.</source>
     </message>
     <message>
         <source>&amp;File name:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Filnamn:</translation>
     </message>
     <message>
         <source>&amp;Line number:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Radnummer:</translation>
     </message>
     <message>
         <source>&amp;Enabled:</source>
@@ -26493,11 +26493,11 @@ markers in the source code editor.</source>
     </message>
     <message>
         <source>&amp;Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Adress:</translation>
     </message>
     <message>
         <source>Fun&amp;ction:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fun&amp;ktion:</translation>
     </message>
     <message>
         <source>Advanced</source>
@@ -26513,11 +26513,11 @@ markers in the source code editor.</source>
     </message>
     <message>
         <source>Pat&amp;h:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sö&amp;kväg:</translation>
     </message>
     <message>
         <source>&amp;Module:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Modul:</translation>
     </message>
     <message>
         <source>Use Engine Default</source>
@@ -26525,15 +26525,15 @@ markers in the source code editor.</source>
     </message>
     <message>
         <source>Use Full Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd fullständig sökväg</translation>
     </message>
     <message>
         <source>Use File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd filnamn</translation>
     </message>
     <message>
         <source>&amp;Commands:</source>
-        <translation type="unfinished"></translation>
+        <translation>K&amp;ommandon:</translation>
     </message>
     <message>
         <source>C&amp;ondition:</source>
@@ -26553,7 +26553,7 @@ markers in the source code editor.</source>
     </message>
     <message>
         <source>&amp;Message:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Meddelande:</translation>
     </message>
     <message>
         <source>Debugger Error</source>
@@ -26677,15 +26677,15 @@ Setting breakpoints by file name and line number may fail.</source>
     </message>
     <message>
         <source>Run failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Körning misslyckades.</translation>
     </message>
     <message>
         <source>Running.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör.</translation>
     </message>
     <message>
         <source>Run requested...</source>
-        <translation type="unfinished"></translation>
+        <translation>Körning begärd...</translation>
     </message>
     <message>
         <source>Stopped: %1 (Signal %2).</source>
@@ -26719,11 +26719,11 @@ Selecting GDB or LLDB as debugger would improve the debugging experience for thi
     </message>
     <message>
         <source>Found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hittades.</translation>
     </message>
     <message>
         <source>Not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hittades inte.</translation>
     </message>
     <message>
         <source>Taking notice of pid %1</source>
@@ -26829,7 +26829,7 @@ Please select a 64 bit Debugger in the kit settings for this kit.</source>
     </message>
     <message>
         <source>Save Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara innehåll</translation>
     </message>
     <message>
         <source>Debugger &amp;Log</source>
@@ -26865,19 +26865,19 @@ You may be asked to share the contents of this log when reporting bugs related t
     </message>
     <message>
         <source>Internal Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Internt namn</translation>
     </message>
     <message>
         <source>Full Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Fullständigt namn</translation>
     </message>
     <message>
         <source>Open File &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna filen &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Analyzer</source>
-        <translation type="unfinished"></translation>
+        <translation>Analyserare</translation>
     </message>
     <message>
         <source>&amp;Condition:</source>
@@ -26906,7 +26906,7 @@ You may be asked to share the contents of this log when reporting bugs related t
     <message>
         <source>Process %1</source>
         <extracomment>%1: PID</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Process %1</translation>
     </message>
     <message>
         <source>Attaching to local process %1.</source>
@@ -26939,7 +26939,7 @@ You may be asked to share the contents of this log when reporting bugs related t
     <message>
         <source>0x%1 hit</source>
         <extracomment>Message tracepoint: Address hit.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>0x%1 träff</translation>
     </message>
     <message>
         <source>%1:%2 %3() hit</source>
@@ -27044,7 +27044,7 @@ You may be asked to share the contents of this log when reporting bugs related t
     </message>
     <message>
         <source>Abort Debugging</source>
-        <translation type="unfinished"></translation>
+        <translation>Avbryt felsökning</translation>
     </message>
     <message>
         <source>Set or Remove Breakpoint</source>
@@ -27056,7 +27056,7 @@ You may be asked to share the contents of this log when reporting bugs related t
     </message>
     <message>
         <source>Restart Debugging</source>
-        <translation type="unfinished"></translation>
+        <translation>Starta om felsökningen</translation>
     </message>
     <message>
         <source>Record Information to Allow Reversal of Direction</source>
@@ -27080,11 +27080,11 @@ You may be asked to share the contents of this log when reporting bugs related t
     </message>
     <message>
         <source>&amp;Modules</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Moduler</translation>
     </message>
     <message>
         <source>Reg&amp;isters</source>
-        <translation type="unfinished"></translation>
+        <translation>Reg&amp;ister</translation>
     </message>
     <message>
         <source>Peripheral Reg&amp;isters</source>
@@ -27124,7 +27124,7 @@ You may be asked to share the contents of this log when reporting bugs related t
     </message>
     <message>
         <source>Continue %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fortsätt %1</translation>
     </message>
     <message>
         <source>Interrupt %1</source>
@@ -27140,7 +27140,7 @@ You may be asked to share the contents of this log when reporting bugs related t
     </message>
     <message>
         <source>Run to Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör till rad</translation>
     </message>
     <message>
         <source>Run to Selected Function</source>
@@ -27152,7 +27152,7 @@ You may be asked to share the contents of this log when reporting bugs related t
     </message>
     <message>
         <source>Jump to Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoppa till rad</translation>
     </message>
     <message>
         <source>Reverse Direction</source>
@@ -27204,7 +27204,7 @@ You may be asked to share the contents of this log when reporting bugs related t
     </message>
     <message>
         <source>Stop Debugger</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoppa felsökare</translation>
     </message>
     <message>
         <source>Debugger Runtime</source>
@@ -27249,7 +27249,7 @@ You may be asked to share the contents of this log when reporting bugs related t
     <message>
         <source>Valgrind</source>
         <extracomment>Category under which Analyzer tasks are listed in Issues view</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Valgrind</translation>
     </message>
     <message>
         <source>Issues that the Valgrind tools found when analyzing the code.</source>
@@ -27402,11 +27402,11 @@ You may be asked to share the contents of this log when reporting bugs related t
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Starta</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoppa</translation>
     </message>
     <message>
         <source>F8</source>
@@ -27430,7 +27430,7 @@ You may be asked to share the contents of this log when reporting bugs related t
     </message>
     <message>
         <source>Flags</source>
-        <translation type="unfinished"></translation>
+        <translation>Flaggor</translation>
     </message>
     <message>
         <source>Sections in &quot;%1&quot;</source>
@@ -27491,7 +27491,7 @@ You may be asked to share the contents of this log when reporting bugs related t
     <message>
         <source>%1 for &quot;%2&quot;</source>
         <extracomment>e.g. LLDB for &quot;myproject&quot;, shows up i</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 för &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Stopped: &quot;%1&quot;.</source>
@@ -27525,7 +27525,7 @@ Examining symbols and setting breakpoints by file name and line number may fail.
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Adress</translation>
     </message>
     <message>
         <source>Code</source>
@@ -27537,7 +27537,7 @@ Examining symbols and setting breakpoints by file name and line number may fail.
     </message>
     <message>
         <source>Symbols in &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Symboler i &quot;%1&quot;</translation>
     </message>
     <message>
         <source>&lt;new source&gt;</source>
@@ -27549,11 +27549,11 @@ Examining symbols and setting breakpoints by file name and line number may fail.
     </message>
     <message>
         <source>Source path</source>
-        <translation type="unfinished"></translation>
+        <translation>Källsökväg</translation>
     </message>
     <message>
         <source>Target path</source>
-        <translation type="unfinished"></translation>
+        <translation>Målsökväg</translation>
     </message>
     <message>
         <source>Add Qt sources...</source>
@@ -27638,7 +27638,7 @@ Do you want to retry?</source>
     </message>
     <message>
         <source>Starting %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Startar %1</translation>
     </message>
     <message>
         <source>Waiting for JavaScript engine to interrupt on next statement.</source>
@@ -27738,15 +27738,15 @@ Do you want to retry?</source>
     </message>
     <message>
         <source>&amp;Host:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Värd:</translation>
     </message>
     <message>
         <source>&amp;Username:</source>
-        <translation type="unfinished"></translation>
+        <translation>A&amp;nvändarnamn:</translation>
     </message>
     <message>
         <source>&amp;Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Lösenord:</translation>
     </message>
     <message>
         <source>&amp;Engine path:</source>
@@ -27861,7 +27861,7 @@ Do you want to retry?</source>
     </message>
     <message>
         <source>Edit Breakpoint...</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera brytpunkt...</translation>
     </message>
     <message>
         <source>Synchronize Breakpoints</source>
@@ -27925,7 +27925,7 @@ Do you want to retry?</source>
     </message>
     <message>
         <source>Server port:</source>
-        <translation type="unfinished"></translation>
+        <translation>Serverport:</translation>
     </message>
     <message>
         <source>Select Working Directory</source>
@@ -28027,7 +28027,7 @@ You can choose another communication channel here, such as a serial line or cust
     </message>
     <message>
         <source>Attach to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fäst till %1</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;body&gt;&lt;p&gt;The remote CDB needs to load the matching %1 CDB extension (&lt;code&gt;%2&lt;/code&gt; or &lt;code&gt;%3&lt;/code&gt;, respectively).&lt;/p&gt;&lt;p&gt;Copy it onto the remote machine and set the environment variable &lt;code&gt;%4&lt;/code&gt; to point to its folder.&lt;/p&gt;&lt;p&gt;Launch the remote CDB as &lt;code&gt;%5 &amp;lt;executable&amp;gt;&lt;/code&gt; to use TCP/IP as communication protocol.&lt;/p&gt;&lt;p&gt;Enter the connection parameters as:&lt;/p&gt;&lt;pre&gt;%6&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -28071,7 +28071,7 @@ You can choose another communication channel here, such as a serial line or cust
     </message>
     <message>
         <source>No Debugger</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen felsökare</translation>
     </message>
     <message>
         <source>%1 Engine</source>
@@ -28084,7 +28084,7 @@ You can choose another communication channel here, such as a serial line or cust
     </message>
     <message>
         <source>%1 using &quot;%2&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 med &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Debugger</source>
@@ -28165,11 +28165,11 @@ You can choose another communication channel here, such as a serial line or cust
     </message>
     <message>
         <source>Start Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Startadress</translation>
     </message>
     <message>
         <source>End Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Slutadress</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -28249,19 +28249,19 @@ Stepping into the module or setting breakpoints by file and line will not work.<
     </message>
     <message>
         <source>Edit File</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera fil</translation>
     </message>
     <message>
         <source>Show Symbols</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa symboler</translation>
     </message>
     <message>
         <source>Show Sections</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa sektioner</translation>
     </message>
     <message>
         <source>Show Dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa beroenden</translation>
     </message>
     <message>
         <source>This module contains debug information.
@@ -28274,7 +28274,7 @@ Stepping into the module or setting breakpoints by file and line is expected to 
     </message>
     <message>
         <source>Edit File &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera filen &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Show Symbols in File &quot;%1&quot;</source>
@@ -28290,7 +28290,7 @@ Stepping into the module or setting breakpoints by file and line is expected to 
     </message>
     <message>
         <source>Success:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lyckades:</translation>
     </message>
     <message>
         <source>&lt;anonymous&gt;</source>
@@ -28389,7 +28389,7 @@ Stepping into the module or setting breakpoints by file and line is expected to 
     </message>
     <message>
         <source>[%1..%2]</source>
-        <translation type="unfinished"></translation>
+        <translation>[%1..%2]</translation>
     </message>
     <message>
         <source>Access</source>
@@ -28397,7 +28397,7 @@ Stepping into the module or setting breakpoints by file and line is expected to 
     </message>
     <message>
         <source>View Groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa grupper</translation>
     </message>
     <message>
         <source>Format</source>
@@ -29073,7 +29073,7 @@ Stepping into the module or setting breakpoints by file and line is expected to 
     </message>
     <message>
         <source>Generic</source>
-        <translation type="unfinished"></translation>
+        <translation>Allmän</translation>
     </message>
     <message>
         <source>GDB from PATH on Build Device</source>
@@ -29110,7 +29110,7 @@ Stepping into the module or setting breakpoints by file and line is expected to 
     </message>
     <message>
         <source>Removed &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Tog bort &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Debuggers:</source>
@@ -29211,7 +29211,7 @@ Stepping into the module or setting breakpoints by file and line is expected to 
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kopiera</translation>
     </message>
     <message>
         <source>&amp;Show in Editor</source>
@@ -29235,15 +29235,15 @@ Stepping into the module or setting breakpoints by file and line is expected to 
     </message>
     <message>
         <source>Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigerare</translation>
     </message>
     <message>
         <source>Next Item</source>
-        <translation type="unfinished"></translation>
+        <translation>Nästa objekt</translation>
     </message>
     <message>
         <source>Previous Item</source>
-        <translation type="unfinished"></translation>
+        <translation>Föregående objekt</translation>
     </message>
     <message>
         <source>Color at %1,%2: red: %3 green: %4 blue: %5 alpha: %6</source>
@@ -29343,15 +29343,15 @@ Stepping into the module or setting breakpoints by file and line is expected to 
     </message>
     <message>
         <source>Attach</source>
-        <translation type="unfinished"></translation>
+        <translation>Fäst</translation>
     </message>
     <message>
         <source>%1.%2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1.%2</translation>
     </message>
     <message>
         <source>Unknown error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Okänt fel.</translation>
     </message>
     <message>
         <source>Connection is not open.</source>
@@ -30811,7 +30811,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>%1%2%</source>
-        <translation type="unfinished"></translation>
+        <translation>%1%2%</translation>
     </message>
     <message>
         <source>%1All</source>
@@ -30967,7 +30967,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Use FakeVim</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd FakeVim</translation>
     </message>
     <message>
         <source>Vim Behavior</source>
@@ -31134,7 +31134,7 @@ Reason: %3</source>
     </message>
     <message>
         <source> [New] </source>
-        <translation type="unfinished"></translation>
+        <translation> [Ny] </translation>
     </message>
     <message>
         <source>Not an editor command: %1</source>
@@ -31186,7 +31186,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Action</source>
-        <translation type="unfinished"></translation>
+        <translation>Åtgärd</translation>
     </message>
     <message>
         <source>Command</source>
@@ -34637,7 +34637,7 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppstart</translation>
     </message>
     <message>
         <source>Always Show in Help Mode</source>
@@ -35028,7 +35028,7 @@ Would you like to overwrite them?</source>
     <name>QtC::IncrediBuild</name>
     <message>
         <source>IncrediBuild for Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>IncrediBuild för Windows</translation>
     </message>
     <message>
         <source>Target and Configuration</source>
@@ -36219,15 +36219,15 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Create %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa %1</translation>
     </message>
     <message>
         <source>Rename %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Byt namn på %1 till %2</translation>
     </message>
     <message>
         <source>Delete %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort %1</translation>
     </message>
 </context>
 <context>
@@ -38145,7 +38145,7 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Adress</translation>
     </message>
     <message>
         <source>Source Location</source>
@@ -38571,7 +38571,7 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>Edit File</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera fil</translation>
     </message>
     <message>
         <source>Add</source>
@@ -42821,7 +42821,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoppa</translation>
     </message>
     <message>
         <source>Close Tab</source>
@@ -43678,15 +43678,15 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>File name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Filnamn:</translation>
     </message>
     <message>
         <source>Line number:</source>
-        <translation type="unfinished"></translation>
+        <translation>Radnummer:</translation>
     </message>
     <message>
         <source>Message:</source>
-        <translation type="unfinished"></translation>
+        <translation>Meddelande:</translation>
     </message>
     <message>
         <source>Error</source>
@@ -43875,7 +43875,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Removed &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Tog bort &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Removing Qt version entries...</source>
@@ -51073,19 +51073,19 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>X:</source>
-        <translation type="unfinished"></translation>
+        <translation>X:</translation>
     </message>
     <message>
         <source>Y:</source>
-        <translation type="unfinished"></translation>
+        <translation>Y:</translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bredd:</translation>
     </message>
     <message>
         <source>Height:</source>
-        <translation type="unfinished"></translation>
+        <translation>Höjd:</translation>
     </message>
     <message>
         <source>Save Current Frame As</source>
@@ -51093,11 +51093,11 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Start:</source>
-        <translation type="unfinished"></translation>
+        <translation>Start:</translation>
     </message>
     <message>
         <source>End:</source>
-        <translation type="unfinished"></translation>
+        <translation>Slut:</translation>
     </message>
     <message>
         <source>Trimming</source>
@@ -51137,7 +51137,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Video</source>
-        <translation type="unfinished"></translation>
+        <translation>Video</translation>
     </message>
     <message>
         <source>Animated image</source>
@@ -51149,7 +51149,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Lossless</source>
-        <translation type="unfinished"></translation>
+        <translation>Förlustfri</translation>
     </message>
     <message>
         <source>Export...</source>
@@ -51205,11 +51205,11 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Record Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Spela in skärm</translation>
     </message>
     <message>
         <source>Record Screen...</source>
-        <translation type="unfinished"></translation>
+        <translation>Spela in skärmen...</translation>
     </message>
     <message>
         <source>ffmpeg tool:</source>
@@ -51271,7 +51271,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Screen Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Skärminspelning</translation>
     </message>
 </context>
 <context>
@@ -51549,7 +51549,7 @@ Description:	%4</source>
     </message>
     <message>
         <source>Zoom In</source>
-        <translation type="unfinished"></translation>
+        <translation>Zooma in</translation>
     </message>
     <message>
         <source>Zoom In (Ctrl + + / Ctrl + Wheel)</source>
@@ -51557,7 +51557,7 @@ Description:	%4</source>
     </message>
     <message>
         <source>Zoom Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Zooma ut</translation>
     </message>
     <message>
         <source>Zoom Out (Ctrl + - / Ctrl + Wheel)</source>
@@ -52026,11 +52026,11 @@ Row: %4, Column: %5
     <name>QtC::SilverSearcher</name>
     <message>
         <source>Search Options (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökalternativ (valfritt)</translation>
     </message>
     <message>
         <source>Silver Searcher is not available on the system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Silver Searcher är inte tillgänglig på systemet.</translation>
     </message>
 </context>
 <context>
@@ -56370,7 +56370,7 @@ Influences the indentation of continuation lines.
     </message>
     <message>
         <source>Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Rad</translation>
     </message>
     <message>
         <source>To-Do Entries</source>
@@ -56456,7 +56456,7 @@ Influences the indentation of continuation lines.
     </message>
     <message>
         <source>Start</source>
-        <translation>Start</translation>
+        <translation>Starta</translation>
     </message>
     <message>
         <source>End</source>
@@ -56862,7 +56862,7 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>File name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Filnamn:</translation>
     </message>
     <message>
         <source>Path:</source>
@@ -57916,7 +57916,7 @@ Lines starting with &quot;##&quot; will be treated as comments.</source>
     </message>
     <message>
         <source>Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Rad</translation>
     </message>
     <message>
         <source>Suppression File:</source>
@@ -61418,7 +61418,7 @@ it reaches the start or end.</source>
     </message>
     <message>
         <source>Text color</source>
-        <translation type="unfinished"></translation>
+        <translation>Textfärg</translation>
     </message>
     <message>
         <source>Wrap mode</source>
@@ -61826,7 +61826,7 @@ it reaches the start or end.</source>
     <name>SyncEnvBackgroundAction</name>
     <message>
         <source>Use Scene Environment</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd scenmiljö</translation>
     </message>
     <message>
         <source>Sets the 3D view to use the Scene Environment color or skybox as background color.</source>
@@ -61962,7 +61962,7 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>Basic</source>
-        <translation type="unfinished"></translation>
+        <translation>Grundläggande</translation>
     </message>
     <message>
         <source>Community</source>
@@ -62815,15 +62815,15 @@ Are you sure you want to remove it?</source>
     <name>WidgetPluginManager</name>
     <message>
         <source>Failed to create instance of file &quot;%1&quot;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att skapa instans av filen &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <source>Failed to create instance of file &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att skapa instans av filen &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>File &quot;%1&quot; is not a Qt Quick Designer plugin.</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen &quot;%1&quot; är inte en Qt Quick Designer-insticksmodul.</translation>
     </message>
 </context>
 <context>
