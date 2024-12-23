@@ -182,7 +182,7 @@
     </message>
     <message>
         <source>Current</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aktuell</translation>
     </message>
     <message>
         <source>The index of the current item.</source>
@@ -330,7 +330,7 @@
     </message>
     <message>
         <source>Title</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Titel</translation>
     </message>
     <message>
         <source>The title of the group box.</source>
@@ -426,7 +426,7 @@
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vänster</translation>
     </message>
     <message>
         <source>Padding between the content and the left edge of the control.</source>
@@ -434,7 +434,7 @@
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Höger</translation>
     </message>
     <message>
         <source>Padding between the content and the right edge of the control.</source>
@@ -465,7 +465,7 @@
     </message>
     <message>
         <source>Current</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aktuell</translation>
     </message>
     <message>
         <source>The index of the current page.</source>
