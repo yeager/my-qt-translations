@@ -1576,7 +1576,7 @@ It should be a relative path.</source>
     <name>CheckBoxSpecifics</name>
     <message>
         <source>Check Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Kryssruta</translation>
     </message>
     <message>
         <source>Text</source>
@@ -1584,23 +1584,23 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Text shown on the check box.</source>
-        <translation type="unfinished"></translation>
+        <translation>Text som visas på kryssrutan.</translation>
     </message>
     <message>
         <source>State of the check box.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillstånd för kryssrutan.</translation>
     </message>
     <message>
         <source>Determines whether the check box gets focus if pressed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestämmer huruvida kryssrutan får fokus om tryckt.</translation>
     </message>
     <message>
         <source>Checked</source>
-        <translation type="unfinished"></translation>
+        <translation>Markerad</translation>
     </message>
     <message>
         <source>Focus on press</source>
-        <translation type="unfinished"></translation>
+        <translation>Fokus vid tryck</translation>
     </message>
 </context>
 <context>
@@ -1676,11 +1676,11 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Conical</source>
-        <translation type="unfinished"></translation>
+        <translation>Konisk</translation>
     </message>
     <message>
         <source>Open Color Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna färgdialog</translation>
     </message>
     <message>
         <source>Fill type can only be changed in base state.</source>
@@ -1688,11 +1688,11 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>Genomskinlig</translation>
     </message>
     <message>
         <source>Gradient Picker</source>
-        <translation type="unfinished"></translation>
+        <translation>Gradientväljare</translation>
     </message>
     <message>
         <source>Eye Dropper</source>
@@ -1700,7 +1700,7 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Original</source>
-        <translation type="unfinished"></translation>
+        <translation>Original</translation>
     </message>
     <message>
         <source>New</source>
@@ -1708,19 +1708,19 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Add to Favorites</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till i favoriter</translation>
     </message>
     <message>
         <source>Color Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Färgdetaljer</translation>
     </message>
     <message>
         <source>Palette</source>
-        <translation type="unfinished"></translation>
+        <translation>Palett</translation>
     </message>
     <message>
         <source>Gradient Controls</source>
-        <translation type="unfinished"></translation>
+        <translation>Gradientkontroller</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -1852,7 +1852,7 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Display text</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa text</translation>
     </message>
     <message>
         <source>Current index</source>
@@ -1864,11 +1864,11 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Editable</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigerbar</translation>
     </message>
     <message>
         <source>Focus on press</source>
-        <translation type="unfinished"></translation>
+        <translation>Fokus vid tryck</translation>
     </message>
     <message>
         <source>Determines whether the combobox gets focus if pressed.</source>
@@ -1905,7 +1905,7 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Sets the QML type of the component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in QML-typen för komponenten.</translation>
     </message>
     <message>
         <source>ID</source>
@@ -1913,27 +1913,27 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Sets a unique identification or name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in en unik identifierare eller namn.</translation>
     </message>
     <message>
         <source>id</source>
-        <translation type="unfinished"></translation>
+        <translation>id</translation>
     </message>
     <message>
         <source>Exports this component as an alias property of the root component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporterar denna komponent som en aliasegenskap för rotkomponenten.</translation>
     </message>
     <message>
         <source>Annotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Anteckning</translation>
     </message>
     <message>
         <source>Adds a note with a title to explain the component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägger till en anteckning med en titel för att förklara komponenten.</translation>
     </message>
     <message>
         <source>Descriptive text</source>
-        <translation type="unfinished"></translation>
+        <translation>Beskrivande text</translation>
     </message>
     <message>
         <source>Edit Annotation</source>
@@ -1945,7 +1945,7 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Add Annotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till anteckning</translation>
     </message>
     <message>
         <source>State</source>
@@ -1953,7 +1953,7 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Sets the state of the component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stället in tillståndet för komponenten.</translation>
     </message>
 </context>
 <context>
@@ -2010,11 +2010,11 @@ Detta går inte att ångra.</translation>
     </message>
     <message>
         <source>Folder &quot;%1&quot; is not empty. Delete it anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Mappen &quot;%1 är inte tom. Ta bort den ändå?</translation>
     </message>
     <message>
         <source>If the folder has assets in use, deleting it might cause the project to not work correctly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Om mappen har tillgångar som används kan borttagning av den orsaka att projektet inte fungerar korrekt.</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -2033,7 +2033,7 @@ Detta går inte att ångra.</translation>
     </message>
     <message>
         <source>Sets the Component that is connected to a &lt;b&gt;Signal&lt;/b&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in komponenten som är ansluten till en &lt;b&gt;Signal&lt;/b&gt;.</translation>
     </message>
 </context>
 <context>
@@ -2073,7 +2073,7 @@ Detta går inte att ångra.</translation>
     </message>
     <message>
         <source>Print Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv ut meddelande</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -6536,7 +6536,7 @@ Do you want to edit this effect?</source>
     <name>QmlDesigner::AnnotationEditor</name>
     <message>
         <source>Annotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Anteckning</translation>
     </message>
     <message>
         <source>Delete this annotation?</source>
@@ -37766,7 +37766,7 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>Annotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Anteckning</translation>
     </message>
     <message>
         <source>Boundary</source>
@@ -60342,7 +60342,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Annotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Anteckning</translation>
     </message>
     <message>
         <source>Annotations</source>
@@ -61551,7 +61551,7 @@ it reaches the start or end.</source>
     </message>
     <message>
         <source>Add Annotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till anteckning</translation>
     </message>
     <message>
         <source>Remove Annotation</source>
