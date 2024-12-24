@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="sv">
+<TS version="2.1" language="sv_SE">
 <context>
     <name>AbstractButtonSection</name>
     <message>
@@ -13,63 +13,63 @@
     </message>
     <message>
         <source>Text displayed on the button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Text som visas på knappen.</translation>
     </message>
     <message>
         <source>Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Visning</translation>
     </message>
     <message>
         <source>Determines how the icon and text are displayed within the button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestämmer hur ikonen och texten visas inom knappen.</translation>
     </message>
     <message>
         <source>Checkable</source>
-        <translation type="unfinished"></translation>
+        <translation>Markerbar</translation>
     </message>
     <message>
         <source>Toggles if the button is checkable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar om knappen är markerbar.</translation>
     </message>
     <message>
         <source>Toggles if the button is checked.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar om knappen är markerad.</translation>
     </message>
     <message>
         <source>Toggles if the button is exclusive. Non-exclusive checkable buttons that belong to the same parent behave as if they are part of the same button group; only one button can be checked at any time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar om knappen är exklusiv. Icke-exklusiva markerbara knappar som tillhär samma förälder beter sig som de är en del av samma knappgrupp; endast en knapp kan markeras samtidigt.</translation>
     </message>
     <message>
         <source>Toggles if pressed, released, and clicked actions are repeated while the button is pressed and held down.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar om tryckt, släppt och klickade åtgärder repeteras när knappen trycks ner och hålls nere.</translation>
     </message>
     <message>
         <source>Sets the initial delay of auto-repetition in milliseconds.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in initial fördröjning för automatisk repetition i millisekunder.</translation>
     </message>
     <message>
         <source>Sets the interval between auto-repetitions in milliseconds.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in intervall mellan automatisk repetition i millisekunder.</translation>
     </message>
     <message>
         <source>Checked</source>
-        <translation type="unfinished"></translation>
+        <translation>Markerad</translation>
     </message>
     <message>
         <source>Exclusive</source>
-        <translation type="unfinished"></translation>
+        <translation>Exklusiv</translation>
     </message>
     <message>
         <source>Auto-repeat</source>
-        <translation type="unfinished"></translation>
+        <translation>Repetera automatiskt</translation>
     </message>
     <message>
         <source>Repeat delay</source>
-        <translation type="unfinished"></translation>
+        <translation>Repeteringsfördröjning</translation>
     </message>
     <message>
         <source>Repeat interval</source>
-        <translation type="unfinished"></translation>
+        <translation>Repeteringsintervall</translation>
     </message>
 </context>
 <context>
@@ -1337,7 +1337,7 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Checkable</source>
-        <translation type="unfinished"></translation>
+        <translation>Markerbar</translation>
     </message>
     <message>
         <source>Determines whether the button is checkable or not.</source>
