@@ -28,7 +28,7 @@
     </message>
     <message>
         <source>Note that the modified entries will be reset to unfinished if &apos;Set translated entries to finished&apos; above is unchecked</source>
-        <translation>Notera att ändrade poster kommer att nollställas till ofärdiga, om &quot;Ange översatta poster som färdiga&quot; är avmarkerat</translation>
+        <translation>Notera att ändrade poster kommer att nollställas till oavslutade, om &quot;Ange översatta poster som färdiga&quot; är avmarkerat</translation>
     </message>
     <message>
         <source>Translate also finished entries</source>
@@ -276,7 +276,7 @@ Kommer att anta en enskild universell form.</translation>
     </message>
     <message>
         <source>Unfinished</source>
-        <translation>Ofärdiga</translation>
+        <translation>Oavslutade</translation>
     </message>
 </context>
 <context>
@@ -1581,7 +1581,7 @@ Rad: %2</translation>
     </message>
     <message>
         <source>Unfinished</source>
-        <translation>Ofärdiga</translation>
+        <translation>Oavslutade</translation>
     </message>
     <message>
         <source>Total translatable messages:</source>
@@ -1601,7 +1601,7 @@ Rad: %2</translation>
     </message>
     <message>
         <source>Unfinished:</source>
-        <translation>Ofärdiga:</translation>
+        <translation>Oavslutade:</translation>
     </message>
     <message>
         <source>Total messages including obsolete:</source>
