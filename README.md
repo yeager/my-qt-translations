@@ -35,9 +35,9 @@ Updating 'ifw_sv.qm'...
 
 
 Updating 'qtcreator_sv.qm'...
-    Genererade 2814 översättningar (2805 slutförda och 9 oavslutade)
+    Genererade 3202 översättningar (3193 slutförda och 9 oavslutade)
     
-    Ignorerade 12211 oöversatta källtexter
+    Ignorerade 11823 oöversatta källtexter
 
 .
 
