@@ -1325,15 +1325,15 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Checked</source>
-        <translation type="unfinished"></translation>
+        <translation>Markerad</translation>
     </message>
     <message>
         <source>Text displayed on the button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Text som visas på knappen.</translation>
     </message>
     <message>
         <source>State of the button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillstånd för knappen.</translation>
     </message>
     <message>
         <source>Checkable</source>
@@ -1341,7 +1341,7 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Determines whether the button is checkable or not.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestämmer huruvida knappen är markerbar eller inte.</translation>
     </message>
     <message>
         <source>Enabled</source>
@@ -1349,39 +1349,39 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Determines whether the button is enabled or not.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestämmer huruvida knappen är aktiverad eller inte.</translation>
     </message>
     <message>
         <source>Default button</source>
-        <translation type="unfinished"></translation>
+        <translation>Standardknapp</translation>
     </message>
     <message>
         <source>Sets the button as the default button in a dialog.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in knappen som standardknappen i en dialog.</translation>
     </message>
     <message>
         <source>Tool tip</source>
-        <translation type="unfinished"></translation>
+        <translation>Verktygstips</translation>
     </message>
     <message>
         <source>The tool tip shown for the button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verktygstips som visas för knappen.</translation>
     </message>
     <message>
         <source>Focus on press</source>
-        <translation type="unfinished"></translation>
+        <translation>Fokus vid tryck</translation>
     </message>
     <message>
         <source>Determines whether the button gets focus if pressed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestämmer huruvida knappen får fokus om tryckt.</translation>
     </message>
     <message>
         <source>Icon source</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikonkälla</translation>
     </message>
     <message>
         <source>The URL of an icon resource.</source>
-        <translation type="unfinished"></translation>
+        <translation>URLen för en ikonresurs.</translation>
     </message>
 </context>
 <context>
@@ -1473,7 +1473,7 @@ It should be a relative path.</source>
     <name>CharacterSection</name>
     <message>
         <source>Character</source>
-        <translation type="unfinished"></translation>
+        <translation>Tecken</translation>
     </message>
     <message>
         <source>Text</source>
@@ -1481,7 +1481,7 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Sets the text to display.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in texten att visa.</translation>
     </message>
     <message>
         <source>Font</source>
@@ -1489,19 +1489,19 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Sets the font of the text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in typsnittet för texten.</translation>
     </message>
     <message>
         <source>Style name</source>
-        <translation type="unfinished"></translation>
+        <translation>Stilnamn</translation>
     </message>
     <message>
         <source>Sets the style of the selected font. This is prioritized over &lt;b&gt;Weight&lt;/b&gt; and &lt;b&gt;Emphasis&lt;/b&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in stilen för markerat typsnitt. Detta är prioritetat över &lt;b&gt;Vikt&lt;/b&gt; och &lt;b&gt;Framhäv&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Sets the overall thickness of the font.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in övergripande tjocklek för typsnittet.</translation>
     </message>
     <message>
         <source>Sets the letter spacing for the text.</source>
@@ -1513,7 +1513,7 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Sets the line height for the text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in radhöjden för texten.</translation>
     </message>
     <message>
         <source>Size</source>
@@ -1521,43 +1521,43 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Sets the font size in pixels or points.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in typsnittsstorleken i pixlar eller punkter.</translation>
     </message>
     <message>
         <source>Text color</source>
-        <translation type="unfinished"></translation>
+        <translation>Textfärg</translation>
     </message>
     <message>
         <source>Sets the text color.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in textfärgen.</translation>
     </message>
     <message>
         <source>Weight</source>
-        <translation type="unfinished"></translation>
+        <translation>Vikt</translation>
     </message>
     <message>
         <source>Emphasis</source>
-        <translation type="unfinished"></translation>
+        <translation>Framhäv</translation>
     </message>
     <message>
         <source>Sets the text to bold, italic, underlined, or strikethrough.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in texten till fet, kursiv, understruken eller genomstruken.</translation>
     </message>
     <message>
         <source>Alignment H</source>
-        <translation type="unfinished"></translation>
+        <translation>Justering H</translation>
     </message>
     <message>
         <source>Sets the horizontal alignment position.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in horisontell justeringsposition.</translation>
     </message>
     <message>
         <source>Alignment V</source>
-        <translation type="unfinished"></translation>
+        <translation>Justering V</translation>
     </message>
     <message>
         <source>Sets the vertical alignment position.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in vertikal justeringsposition.</translation>
     </message>
     <message>
         <source>Letter spacing</source>
@@ -1569,7 +1569,7 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Line height</source>
-        <translation type="unfinished"></translation>
+        <translation>Radhöjd</translation>
     </message>
 </context>
 <context>
@@ -1824,11 +1824,11 @@ It should be a relative path.</source>
     <name>ComboBoxSpecifics</name>
     <message>
         <source>Combo Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Kombinationsruta</translation>
     </message>
     <message>
         <source>Text role</source>
-        <translation type="unfinished"></translation>
+        <translation>Textroll</translation>
     </message>
     <message>
         <source>Sets the model role for populating the combo box.</source>
@@ -2139,7 +2139,7 @@ Detta går inte att ångra.</translation>
     </message>
     <message>
         <source>Sets whether the component accepts change events.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in huruvida komponenter accepterar ändringshändelser.</translation>
     </message>
     <message>
         <source>Ignore unknown signals</source>
@@ -2147,7 +2147,7 @@ Detta går inte att ångra.</translation>
     </message>
     <message>
         <source>Ignores runtime errors produced by connections to non-existent signals.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorerar körtidsfel producerade av anslutningar till icke-existerande signaler.</translation>
     </message>
     <message>
         <source>Target</source>
@@ -2155,7 +2155,7 @@ Detta går inte att ångra.</translation>
     </message>
     <message>
         <source>Sets the component that sends the signal.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in komponenten som skickar signalen.</translation>
     </message>
 </context>
 <context>
@@ -60477,7 +60477,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Checked</source>
-        <translation type="unfinished"></translation>
+        <translation>Markerad</translation>
     </message>
     <message>
         <source>Focus on press</source>
