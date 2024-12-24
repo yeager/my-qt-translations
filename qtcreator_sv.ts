@@ -34283,19 +34283,19 @@ Note: This can expose you to man-in-the-middle attack.</source>
     <name>QtC::Help</name>
     <message>
         <source>Indexing Documentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Indexerar dokumentation</translation>
     </message>
     <message>
         <source>Open Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna länk</translation>
     </message>
     <message>
         <source>Regenerate Index</source>
-        <translation type="unfinished"></translation>
+        <translation>Återgenerera index</translation>
     </message>
     <message>
         <source>Open Link as New Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna länk som ny sida</translation>
     </message>
     <message>
         <source>Documentation</source>
@@ -34303,39 +34303,39 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Add Documentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till dokumentation</translation>
     </message>
     <message>
         <source>%1 (auto-detected)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (automatiskt identifierad)</translation>
     </message>
     <message>
         <source>Qt Help Files (*.qch)</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt-hjälpfiler (*.qch)</translation>
     </message>
     <message>
         <source>Invalid documentation file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig dokumentationsfil:</translation>
     </message>
     <message>
         <source>Namespace already registered:</source>
-        <translation type="unfinished"></translation>
+        <translation>Namnrymden redan registrerad:</translation>
     </message>
     <message>
         <source>Registration Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Registrering misslyckades</translation>
     </message>
     <message>
         <source>Unable to register documentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte registrera dokumentation.</translation>
     </message>
     <message>
         <source>Add and remove compressed help files, .qch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till och ta bort komprimerade hjälpfiler, .qch.</translation>
     </message>
     <message>
         <source>Registered Documentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Registrerad dokumentation</translation>
     </message>
     <message>
         <source>Add...</source>
@@ -34347,7 +34347,7 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Filters</source>
-        <translation type="unfinished"></translation>
+        <translation>Filter</translation>
     </message>
     <message>
         <source>Unfiltered</source>
@@ -34355,7 +34355,7 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Help Index</source>
-        <translation type="unfinished"></translation>
+        <translation>Hjälpindex</translation>
     </message>
     <message>
         <source>Locates help topics, for example in the Qt documentation.</source>
@@ -34371,7 +34371,7 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Index</source>
-        <translation type="unfinished"></translation>
+        <translation>Index</translation>
     </message>
     <message>
         <source>Search</source>
@@ -34379,7 +34379,7 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Open Link in Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna länk i fönster</translation>
     </message>
     <message>
         <source>Bookmarks</source>
@@ -34403,7 +34403,7 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Open in Help Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna i hjälpläge</translation>
     </message>
     <message>
         <source>Home</source>
@@ -34423,15 +34423,15 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Open in Edit Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna i redigeringsläge</translation>
     </message>
     <message>
         <source>Open in New Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna i ny sida</translation>
     </message>
     <message>
         <source>Open in Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna i fönster</translation>
     </message>
     <message>
         <source>Activate Help Bookmarks View</source>
@@ -34439,7 +34439,7 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Alt+Meta+M</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+Meta+M</translation>
     </message>
     <message>
         <source>Activate Help Search View</source>
@@ -34447,23 +34447,23 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Meta+/</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta+/</translation>
     </message>
     <message>
         <source>Ctrl+Shift+/</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+/</translation>
     </message>
     <message>
         <source>Help - %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Hjälp - %1</translation>
     </message>
     <message>
         <source>Print Documentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv ut dokumentation</translation>
     </message>
     <message>
         <source>Ctrl+Shift+B</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+B</translation>
     </message>
     <message>
         <source>Activate Open Help Pages View</source>
@@ -34471,23 +34471,23 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Meta+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta+O</translation>
     </message>
     <message>
         <source>Ctrl+Shift+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
         <source>Add Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till bokmärke</translation>
     </message>
     <message>
         <source>Meta+M</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta+M</translation>
     </message>
     <message>
         <source>Ctrl+M</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+M</translation>
     </message>
     <message>
         <source>Context Help</source>
@@ -34495,35 +34495,35 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Report Bug...</source>
-        <translation type="unfinished"></translation>
+        <translation>Rapportera fel...</translation>
     </message>
     <message>
         <source>Meta+I</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta+I</translation>
     </message>
     <message>
         <source>Ctrl+Shift+I</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+I</translation>
     </message>
     <message>
         <source>Meta+Shift+C</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta+Shift+C</translation>
     </message>
     <message>
         <source>Ctrl+Shift+C</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+C</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Öka typsnittsstorlek</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Minska typsnittsstorlek</translation>
     </message>
     <message>
         <source>Reset Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Nollställ typsnittsstorlek</translation>
     </message>
     <message>
         <source>Open Pages</source>
@@ -34531,23 +34531,23 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Technical Support...</source>
-        <translation type="unfinished"></translation>
+        <translation>Teknisk support...</translation>
     </message>
     <message>
         <source>System Information...</source>
-        <translation type="unfinished"></translation>
+        <translation>Systeminformation...</translation>
     </message>
     <message>
         <source>No Documentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen dokumentation</translation>
     </message>
     <message>
         <source>No documentation available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen dokumentation tillgänglig.</translation>
     </message>
     <message>
         <source>System Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Systeminformation</translation>
     </message>
     <message>
         <source>Use the following to provide more detailed information about your system to bug reports:</source>
@@ -34559,7 +34559,7 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Copy Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera länk</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -34571,16 +34571,16 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>&amp;Look for:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Leta efter:</translation>
     </message>
     <message>
         <source>Choose Topic</source>
         <translatorcomment>thème ?</translatorcomment>
-        <translation type="unfinished"></translation>
+        <translation>Välj ämne</translation>
     </message>
     <message>
         <source>Choose a topic for &lt;b&gt;%1&lt;/b&gt;:</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj ett ämne för &lt;b&gt;%1&lt;/b&gt;:</translation>
     </message>
     <message>
         <source>General</source>
@@ -34589,24 +34589,24 @@ Note: This can expose you to man-in-the-middle attack.</source>
     <message>
         <source>Default (%1)</source>
         <comment>Default viewer backend</comment>
-        <translation type="unfinished"></translation>
+        <translation>Standard (%1)</translation>
     </message>
     <message>
         <source>Import Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Importera bokmärken</translation>
     </message>
     <message>
         <source>Files (*.xbel)</source>
-        <translation type="unfinished"></translation>
+        <translation>Filer (*.xbel)</translation>
     </message>
     <message>
         <source>Cannot import bookmarks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte importera bokmärken.</translation>
     </message>
     <message>
         <source>Save File</source>
         <translatorcomment>Enregistrer ? (tout court)</translatorcomment>
-        <translation type="unfinished"></translation>
+        <translation>Spara fil</translation>
     </message>
     <message>
         <source>Font</source>
@@ -34618,7 +34618,7 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Style:</source>
-        <translation type="unfinished"></translation>
+        <translation>Stil:</translation>
     </message>
     <message>
         <source>Size:</source>
@@ -34630,7 +34630,7 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Zoom:</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom:</translation>
     </message>
     <message>
         <source>%</source>
@@ -34638,7 +34638,7 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Antialias</source>
-        <translation type="unfinished"></translation>
+        <translation>Antialias</translation>
     </message>
     <message>
         <source>Startup</source>
@@ -34682,7 +34682,7 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>On help start:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vid hjälpstart:</translation>
     </message>
     <message>
         <source>Show My Home Page</source>
@@ -34690,7 +34690,7 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Show a Blank Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa en blank sida</translation>
     </message>
     <message>
         <source>Show My Tabs from Last Session</source>
@@ -34706,11 +34706,11 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Use &amp;Current Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd a&amp;ktuell sida</translation>
     </message>
     <message>
         <source>Use &amp;Blank Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd &amp;blank sida</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -34726,11 +34726,11 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Import Bookmarks...</source>
-        <translation type="unfinished"></translation>
+        <translation>Importera bokmärken...</translation>
     </message>
     <message>
         <source>Export Bookmarks...</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportera bokmärken...</translation>
     </message>
     <message>
         <source>The file is not an XBEL version 1.0 file.</source>
@@ -34738,27 +34738,27 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Unknown title</source>
-        <translation type="unfinished"></translation>
+        <translation>Okänd titel</translation>
     </message>
     <message>
         <source>litehtml</source>
-        <translation type="unfinished"></translation>
+        <translation>litehtml</translation>
     </message>
     <message>
         <source>QtWebEngine</source>
-        <translation type="unfinished"></translation>
+        <translation>QtWebEngine</translation>
     </message>
     <message>
         <source>QTextBrowser</source>
-        <translation type="unfinished"></translation>
+        <translation>QTextBrowser</translation>
     </message>
     <message>
         <source>WebKit</source>
-        <translation type="unfinished"></translation>
+        <translation>WebKit</translation>
     </message>
     <message>
         <source>Error loading page</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid inläsning av sidan</translation>
     </message>
     <message>
         <source>&lt;p&gt;Check that you have the corresponding documentation set installed.&lt;/p&gt;</source>
@@ -34766,15 +34766,15 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Error loading: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid inläsning: %1</translation>
     </message>
     <message>
         <source>The page could not be found</source>
-        <translation type="unfinished"></translation>
+        <translation>Sidan kunde inte hittas</translation>
     </message>
     <message>
         <source>(Untitled)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Namnlös)</translation>
     </message>
     <message>
         <source>Close %1</source>
@@ -34782,23 +34782,23 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Close All Except %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Stäng alla förutom %1</translation>
     </message>
     <message>
         <source>Copy Full Path to Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera fullständiga sökväg till urklipp</translation>
     </message>
     <message>
         <source>Update Documentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdatera dokumentation</translation>
     </message>
     <message>
         <source>Purge Outdated Documentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Rensa bort utdaterad dokumentation</translation>
     </message>
     <message>
         <source>Zoom: %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom: %1%</translation>
     </message>
     <message>
         <source>Get Help Online</source>
@@ -34810,11 +34810,11 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Bookmark:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bokmärke:</translation>
     </message>
     <message>
         <source>Add in folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till i mapp:</translation>
     </message>
     <message>
         <source>Delete Folder</source>
@@ -34826,19 +34826,19 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Show Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa bokmärke</translation>
     </message>
     <message>
         <source>Show Bookmark as New Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa bokmärke som ny sida</translation>
     </message>
     <message>
         <source>Delete Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort bokmärke</translation>
     </message>
     <message>
         <source>Rename Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Byt namn på bokmärke</translation>
     </message>
     <message>
         <source>Deleting a folder also removes its content.&lt;br&gt;Do you want to continue?</source>
