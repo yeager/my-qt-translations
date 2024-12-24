@@ -802,7 +802,7 @@ Bind to AmbientSound.Infinite to loop the current sound forever.</source>
     </message>
     <message>
         <source>Add to Content Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till i innehållsbibliotek</translation>
     </message>
 </context>
 <context>
@@ -1630,11 +1630,11 @@ It should be a relative path.</source>
     <name>ChooseMaterialProperty</name>
     <message>
         <source>Select material:</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj material:</translation>
     </message>
     <message>
         <source>Select property:</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj egenskap:</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1960,13 +1960,15 @@ It should be a relative path.</source>
     <name>ConfirmClearAllDialog</name>
     <message>
         <source>Confirm clear list</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekräfta tömning av lista</translation>
     </message>
     <message>
         <source>You are about to clear the list of effect nodes.
 
 This can not be undone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du är på väg att tömma listan över effektnoder.
+
+Detta går inte att ångra.</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -1981,15 +1983,15 @@ This can not be undone.</source>
     <name>ConfirmDeleteFilesDialog</name>
     <message>
         <source>Confirm Delete Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekräfta borttagning av filer</translation>
     </message>
     <message>
         <source>Some files might be in use. Delete anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Några filer kanske används. Ta bort ändå?</translation>
     </message>
     <message>
         <source>Do not ask this again</source>
-        <translation type="unfinished"></translation>
+        <translation>Fråga inte igen</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -2393,7 +2395,7 @@ This can not be undone.</source>
     <name>ContentLibraryTexturesView</name>
     <message>
         <source>No textures available. Make sure you have an internet connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga texturer tillgängliga. Försäkra dig om att du har en internetanslutning.</translation>
     </message>
     <message>
         <source>No match found.</source>
@@ -2902,7 +2904,7 @@ defined in &lt;b&gt;Step size&lt;/b&gt;.</source>
     </message>
     <message>
         <source>W</source>
-        <translation type="unfinished"></translation>
+        <translation>W</translation>
     </message>
 </context>
 <context>
@@ -3742,23 +3744,23 @@ The foreground component should be transparent, and the background component sho
     <name>GradientPresetList</name>
     <message>
         <source>Gradient Picker</source>
-        <translation type="unfinished"></translation>
+        <translation>Gradientväljare</translation>
     </message>
     <message>
         <source>System Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Systemförval</translation>
     </message>
     <message>
         <source>User Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Användarförval</translation>
     </message>
     <message>
         <source>Delete preset?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort förval?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this preset?</source>
-        <translation type="unfinished"></translation>
+        <translation>Är du säker på att du vill ta bort detta förval?</translation>
     </message>
     <message>
         <source>Close</source>
@@ -4277,7 +4279,7 @@ Ids must begin with a lowercase letter.</source>
     </message>
     <message>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Utdata</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -6527,7 +6529,7 @@ Do you want to edit this effect?</source>
     </message>
     <message>
         <source>Author</source>
-        <translation type="unfinished"></translation>
+        <translation>Upphovsperson</translation>
     </message>
 </context>
 <context>
@@ -6618,7 +6620,7 @@ Do you want to edit this effect?</source>
     </message>
     <message>
         <source>Author</source>
-        <translation type="unfinished"></translation>
+        <translation>Upphovsperson</translation>
     </message>
     <message>
         <source>Value</source>
@@ -7007,7 +7009,7 @@ Exporting assets: %2</source>
     </message>
     <message>
         <source>Signal Handler</source>
-        <translation type="unfinished"></translation>
+        <translation>Signalhandtag</translation>
     </message>
     <message>
         <source>Action</source>
@@ -7177,7 +7179,7 @@ Exporting assets: %2</source>
     </message>
     <message>
         <source>Model Log</source>
-        <translation type="unfinished"></translation>
+        <translation>Modellogg</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -7185,11 +7187,11 @@ Exporting assets: %2</source>
     </message>
     <message>
         <source>Instance Notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>Instansaviseringar</translation>
     </message>
     <message>
         <source>Instance Errors</source>
-        <translation type="unfinished"></translation>
+        <translation>Instansfel</translation>
     </message>
     <message>
         <source>Enabled</source>
@@ -7319,7 +7321,7 @@ Exporting assets: %2</source>
     </message>
     <message>
         <source>Lights</source>
-        <translation type="unfinished"></translation>
+        <translation>Ljus</translation>
     </message>
     <message>
         <source>Primitives</source>
@@ -7534,14 +7536,14 @@ Exporting assets: %2</source>
     </message>
     <message>
         <source>Remove Selected Events</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort markerade händelser</translation>
     </message>
 </context>
 <context>
     <name>QmlDesigner::EventListModel</name>
     <message>
         <source>Event ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Händelse-id</translation>
     </message>
     <message>
         <source>Shortcut</source>
@@ -8442,7 +8444,7 @@ Please check the output pane for more information.</source>
     </message>
     <message>
         <source>Components view</source>
-        <translation type="unfinished"></translation>
+        <translation>Komponenter-vy</translation>
     </message>
 </context>
 <context>
@@ -8511,7 +8513,7 @@ Please check the output pane for more information.</source>
     </message>
     <message>
         <source>Material Browser view</source>
-        <translation type="unfinished"></translation>
+        <translation>Materialbläddrare-vy</translation>
     </message>
     <message>
         <source>Select a material property</source>
@@ -9061,7 +9063,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Source Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Källverktyg</translation>
     </message>
 </context>
 <context>
@@ -9194,7 +9196,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Enable Experimental Features</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivera experimentella funktioner</translation>
     </message>
     <message>
         <source>Hide top-level menus with advanced functionality to simplify the UI. &lt;b&gt;Build&lt;/b&gt; is generally not required in the context of Qt Design Studio. &lt;b&gt;Debug&lt;/b&gt; and &lt;b&gt;Analyze&lt;/b&gt; are only required for debugging and profiling. &lt;b&gt;Tools&lt;/b&gt; can be useful for bookmarks and git integration.</source>
@@ -9673,7 +9675,7 @@ Locked components cannot be modified or selected.</source>
     <name>QmlDesigner::TransitionEditorToolBar</name>
     <message>
         <source>Transition Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Övergångsinställningar</translation>
     </message>
     <message>
         <source>Easing Curve Editor</source>
@@ -9681,7 +9683,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Curve Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Kurvredigerare</translation>
     </message>
     <message>
         <source>Zoom Out</source>
@@ -33956,7 +33958,7 @@ Leave empty to search through the file system.</source>
     <name>QtC::GitLab</name>
     <message>
         <source>Clone Repository</source>
-        <translation type="unfinished"></translation>
+        <translation>Klona förråd</translation>
     </message>
     <message>
         <source>Specify repository URL, checkout path and directory.</source>
@@ -33972,7 +33974,7 @@ Leave empty to search through the file system.</source>
     </message>
     <message>
         <source>Path &quot;%1&quot; already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökvägen &quot;%1&quot; finns redan.</translation>
     </message>
     <message>
         <source>Directory</source>
@@ -34024,11 +34026,11 @@ Leave empty to search through the file system.</source>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>0</source>
-        <translation type="unfinished"></translation>
+        <translation>0</translation>
     </message>
     <message>
         <source>Clone...</source>
@@ -34166,7 +34168,7 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Reporter</source>
-        <translation type="unfinished"></translation>
+        <translation>Reporter</translation>
     </message>
     <message>
         <source>Developer</source>
@@ -34174,7 +34176,7 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Maintainer</source>
-        <translation type="unfinished"></translation>
+        <translation>Underhållare</translation>
     </message>
     <message>
         <source>Owner</source>
@@ -34190,7 +34192,7 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Unlink from GitLab</source>
-        <translation type="unfinished"></translation>
+        <translation>Avlänka från GitLab</translation>
     </message>
     <message>
         <source>Test Connection</source>
@@ -34206,7 +34208,7 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Accessible (%1).</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillgänglig (%1).</translation>
     </message>
     <message>
         <source>Read only access.</source>
@@ -61949,11 +61951,11 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Tema</translation>
     </message>
     <message>
         <source>light</source>
-        <translation type="unfinished"></translation>
+        <translation>ljus</translation>
     </message>
     <message>
         <source>dark</source>
@@ -61970,11 +61972,11 @@ This is used for calculating the total implicit size.</source>
     <message>
         <source>Community</source>
         <translatorcomment>Ou garder community?</translatorcomment>
-        <translation type="unfinished"></translation>
+        <translation>Gemenskap</translation>
     </message>
     <message>
         <source>&lt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;</translation>
     </message>
 </context>
 <context>
@@ -62431,7 +62433,7 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>Example already exists.&lt;br&gt;Do you want to replace it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Exemplet finns redan.&lt;br&gt;Vill du ersätta det?</translation>
     </message>
     <message>
         <source>Downloading...</source>
@@ -62444,7 +62446,7 @@ This is used for calculating the total implicit size.</source>
     <message>
         <source>Recently Downloaded</source>
         <translatorcomment>Pluriels?</translatorcomment>
-        <translation type="unfinished"></translation>
+        <translation>Tidigare hämtade</translation>
     </message>
 </context>
 <context>
