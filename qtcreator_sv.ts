@@ -6454,7 +6454,7 @@ Do you want to edit this effect?</source>
     </message>
     <message>
         <source>Import Component</source>
-        <translation type="unfinished"></translation>
+        <translation>Importera komponent</translation>
     </message>
     <message>
         <source>Qt Design Studio Bundle Files (*.%1)</source>
@@ -7498,11 +7498,11 @@ Exporting assets: %2</source>
     </message>
     <message>
         <source>Import Component</source>
-        <translation type="unfinished"></translation>
+        <translation>Importera komponent</translation>
     </message>
     <message>
         <source>Export Component</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportera komponent</translation>
     </message>
     <message>
         <source>3D view is not supported in MCU projects.</source>
@@ -10009,11 +10009,11 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Import Component</source>
-        <translation type="unfinished"></translation>
+        <translation>Importera komponent</translation>
     </message>
     <message>
         <source>Export Component</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportera komponent</translation>
     </message>
     <message>
         <source>Edit Annotations</source>
@@ -14362,7 +14362,7 @@ a matches issues where the value contains the letter &apos;a&apos;
     </message>
     <message>
         <source>Speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Hastighet</translation>
     </message>
     <message>
         <source>Target interface:</source>
@@ -14827,7 +14827,7 @@ Local commits are not pushed to the master branch until a normal commit is perfo
     </message>
     <message>
         <source>Email:</source>
-        <translation type="unfinished"></translation>
+        <translation>E-post:</translation>
     </message>
     <message>
         <source>Fixed bugs:</source>
@@ -14910,7 +14910,7 @@ Local pulls are not applied to the master branch.</source>
     </message>
     <message>
         <source>Default location</source>
-        <translation type="unfinished"></translation>
+        <translation>Standardplats</translation>
     </message>
     <message>
         <source>Local filesystem:</source>
@@ -14968,7 +14968,7 @@ This flag will allow push to proceed.</source>
     </message>
     <message>
         <source>Revision:</source>
-        <translation type="unfinished"></translation>
+        <translation>Revision:</translation>
     </message>
     <message>
         <source>Uncommit</source>
@@ -15117,7 +15117,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Update...</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdatera...</translation>
     </message>
     <message>
         <source>Commit...</source>
@@ -15929,7 +15929,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Ctrl+Alt+B</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Alt+B</translation>
     </message>
     <message>
         <source>Build &amp;Subproject &quot;%1&quot;</source>
@@ -17513,7 +17513,7 @@ Output:
     </message>
     <message>
         <source>Remove All</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort alla</translation>
     </message>
     <message>
         <source>Suppressed diagnostics</source>
@@ -20950,7 +20950,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>Label</source>
-        <translation>Eikett</translation>
+        <translation>Etikett</translation>
     </message>
     <message>
         <source>Qt</source>
@@ -31498,7 +31498,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Update...</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdatera...</translation>
     </message>
     <message>
         <source>Meta+I,Meta+U</source>
@@ -31670,7 +31670,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Default location</source>
-        <translation type="unfinished"></translation>
+        <translation>Standardplats</translation>
     </message>
     <message>
         <source>Local filesystem:</source>
@@ -33008,7 +33008,7 @@ Commit now?</source>
     </message>
     <message>
         <source>Email:</source>
-        <translation type="unfinished"></translation>
+        <translation>E-post:</translation>
     </message>
     <message>
         <source>By&amp;pass hooks</source>
@@ -37089,7 +37089,7 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Default Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Standardplats</translation>
     </message>
     <message>
         <source>Local filesystem:</source>
@@ -37253,7 +37253,7 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Update...</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdatera...</translation>
     </message>
     <message>
         <source>Import...</source>
@@ -42791,7 +42791,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Remove All</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort alla</translation>
     </message>
     <message>
         <source>Re-detect</source>
@@ -44986,7 +44986,7 @@ These files are preserved.</source>
     </message>
     <message>
         <source>Physical Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Fysisk enhet</translation>
     </message>
     <message>
         <source>Free ports:</source>
@@ -45515,7 +45515,7 @@ These files are preserved.</source>
     </message>
     <message>
         <source>Ctrl+Alt+B</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Alt+B</translation>
     </message>
     <message>
         <source>Build Product</source>
@@ -50620,7 +50620,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Physical Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Fysisk enhet</translation>
     </message>
     <message>
         <source>Emulator</source>
@@ -55054,7 +55054,7 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>Label</source>
-        <translation>Eikett</translation>
+        <translation>Etikett</translation>
     </message>
     <message>
         <source>Labels for goto statements.</source>
@@ -57037,7 +57037,7 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>The program &quot;%1&quot; does not exist or is not executable.</source>
@@ -58693,7 +58693,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
     </message>
     <message>
         <source>File:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fil:</translation>
     </message>
     <message>
         <source>Object:</source>
@@ -58814,7 +58814,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
     </message>
     <message>
         <source>Line:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rad:</translation>
     </message>
     <message>
         <source>Position:</source>
@@ -60280,7 +60280,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Label</source>
-        <translation>Eikett</translation>
+        <translation>Etikett</translation>
     </message>
     <message>
         <source>Decoration</source>
