@@ -1388,31 +1388,31 @@ It should be a relative path.</source>
     <name>CameraActionsModel</name>
     <message>
         <source>Hide Camera View</source>
-        <translation type="unfinished"></translation>
+        <translation>Dölj kameravy</translation>
     </message>
     <message>
         <source>Never show the camera view.</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa aldrig kameravyn.</translation>
     </message>
     <message>
         <source>Show Selected Camera View</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa markerad kameravy</translation>
     </message>
     <message>
         <source>Show the selected camera in the camera view.</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa markerad kamera i kameravyn.</translation>
     </message>
     <message>
         <source>Always Show Camera View</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa alltid kameravy</translation>
     </message>
     <message>
         <source>Show the last selected camera in the camera view.</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa senaste valda kameran i kameravyn.</translation>
     </message>
     <message>
         <source>Camera view settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Inställningar för kameravy</translation>
     </message>
 </context>
 <context>
@@ -1607,7 +1607,7 @@ It should be a relative path.</source>
     <name>CheckSection</name>
     <message>
         <source>Check Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Kryssruta</translation>
     </message>
     <message>
         <source>Check state</source>
@@ -2160,15 +2160,15 @@ This can not be undone.</source>
     <name>ContainerSection</name>
     <message>
         <source>Container</source>
-        <translation type="unfinished"></translation>
+        <translation>Container</translation>
     </message>
     <message>
         <source>Current index</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuellt index</translation>
     </message>
     <message>
         <source>Sets the index of the current item.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange indexet för aktuellt objekt.</translation>
     </message>
 </context>
 <context>
@@ -2282,15 +2282,15 @@ This can not be undone.</source>
     <name>ContentLibraryMaterial</name>
     <message>
         <source>Material is imported to project</source>
-        <translation type="unfinished"></translation>
+        <translation>Material är importerade till projekt</translation>
     </message>
     <message>
         <source>Add an instance to project</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till en instans till projektet</translation>
     </message>
     <message>
         <source>Click to download material</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicka för att hämta material</translation>
     </message>
 </context>
 <context>
@@ -3132,19 +3132,19 @@ The foreground component should be transparent, and the background component sho
     <name>EmptyMaterialEditorPane</name>
     <message>
         <source>&lt;b&gt;Material Editor&lt;/b&gt; is not supported in Qt5 projects.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Materialredigerare&lt;/b&gt; stöds inte i Qt5-projekt.</translation>
     </message>
     <message>
         <source>To use &lt;b&gt;Material Editor&lt;/b&gt;, first add the QtQuick3D module in the &lt;b&gt;Components&lt;/b&gt; view.</source>
-        <translation type="unfinished"></translation>
+        <translation>För att använda &lt;b&gt;Materialredigerare&lt;/b&gt; måste du först lägga till QtQuick3D-modulen i &lt;b&gt;Komponenter&lt;/b&gt;-vyn.</translation>
     </message>
     <message>
         <source>&lt;b&gt;Material Editor&lt;/b&gt; is disabled inside a non-visual component.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Materialredigerare&lt;/b&gt; är inaktiverad för icke-visuella komponenter.</translation>
     </message>
     <message>
         <source>There are no materials in this project.&lt;br&gt;Select &apos;&lt;b&gt;+&lt;/b&gt;&apos; to create one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det finns inga material i detta projekt.&lt;br&gt;Välj &apos;&lt;b&gt;+&lt;/b&gt;&apos; för att skapa ett.</translation>
     </message>
 </context>
 <context>
@@ -5205,19 +5205,19 @@ a highlight component.</source>
     <name>MaterialEditorToolBar</name>
     <message>
         <source>Apply material to selected model.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillämpa material på markerad modell.</translation>
     </message>
     <message>
         <source>Create new material.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa nytt material.</translation>
     </message>
     <message>
         <source>Delete current material.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort markerat material.</translation>
     </message>
     <message>
         <source>Open material browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna materialbläddraren.</translation>
     </message>
 </context>
 <context>
@@ -5278,7 +5278,7 @@ a highlight component.</source>
     </message>
     <message>
         <source>Invalid component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig komponent.</translation>
     </message>
     <message>
         <source>Cannot find an implementation.</source>
@@ -5294,12 +5294,13 @@ a highlight component.</source>
     </message>
     <message>
         <source>Overwrite Existing File?</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv över existerande fil?</translation>
     </message>
     <message>
         <source>File already exists. Overwrite?
 &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen finns redan. Skriv över?
+&quot;%1&quot;</translation>
     </message>
     <message>
         <source>Asset import data file &quot;%1&quot; is invalid.</source>
@@ -6241,23 +6242,23 @@ operation is in progress.</source>
     <name>QKeychain::PlainTextStore</name>
     <message>
         <source>Could not store data in settings: access error</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte lagra data i inställningar: åtkomstfel</translation>
     </message>
     <message>
         <source>Could not store data in settings: format error</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte lagra data i inställningar: formatfel</translation>
     </message>
     <message>
         <source>Could not delete data from settings: access error</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte ta bort data från inställningar: åtkomstfel</translation>
     </message>
     <message>
         <source>Could not delete data from settings: format error</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte ta bort data från inställningar: formatfel</translation>
     </message>
     <message>
         <source>Entry not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Posten hittades inte</translation>
     </message>
 </context>
 <context>
@@ -6798,35 +6799,35 @@ Exporting assets: %2</source>
     <message>
         <source>Assets Library</source>
         <comment>Title of assets library widget</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tillgångsbibliotek</translation>
     </message>
     <message>
         <source>Failed to Delete Effect Resources</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att ta bort effektresurser</translation>
     </message>
     <message>
         <source>Could not delete &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte ta bort &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Failed to Add Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att lägga till filer</translation>
     </message>
     <message>
         <source>Could not add %1 to project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte lägga till %1 till projektet.</translation>
     </message>
     <message>
         <source>All Files (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Alla filer (%1)</translation>
     </message>
     <message>
         <source>Add Assets</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till tillgångar</translation>
     </message>
     <message>
         <source>Could not add %1 to project. Unsupported file format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte lägga till %1 till projektet. Filformatet stöds inte.</translation>
     </message>
 </context>
 <context>
@@ -7104,11 +7105,11 @@ Exporting assets: %2</source>
     <name>QmlDesigner::CrumbleBar</name>
     <message>
         <source>Save the changes to preview them correctly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara ändringar för att förhandsvisa dem korrekt.</translation>
     </message>
     <message>
         <source>Always save when leaving subcomponent</source>
-        <translation type="unfinished"></translation>
+        <translation>Alltid spara när underkomponent lämnas</translation>
     </message>
 </context>
 <context>
@@ -7199,19 +7200,19 @@ Exporting assets: %2</source>
     <name>QmlDesigner::DesignDocument</name>
     <message>
         <source>Locked items:</source>
-        <translation type="unfinished"></translation>
+        <translation>Låsta objekt:</translation>
     </message>
     <message>
         <source>Delete/Cut Item</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort/Klipp ut objekt</translation>
     </message>
     <message>
         <source>Deleting or cutting this item will modify locked items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Borttagning eller utklippning av detta objekt ändrar låsta objekt.</translation>
     </message>
     <message>
         <source>Do you want to continue by removing the item (Delete) or removing it and copying it to the clipboard (Cut)?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vill du fortsätta med att radera objektet (Ta bort) eller ta bort det och kopiera det till urklipp (Klipp ut)?</translation>
     </message>
 </context>
 <context>
@@ -7689,7 +7690,7 @@ Exporting assets: %2</source>
     <name>QmlDesigner::GenerateResource</name>
     <message>
         <source>Unable to generate resource file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte generera resursfil: %1</translation>
     </message>
     <message>
         <source>A timeout occurred running &quot;%1&quot;.</source>
@@ -7697,23 +7698,23 @@ Exporting assets: %2</source>
     </message>
     <message>
         <source>&quot;%1&quot; crashed.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; kraschade.</translation>
     </message>
     <message>
         <source>&quot;%1&quot; failed (exit code %2).</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; misslyckades (avslutskod %2).</translation>
     </message>
     <message>
         <source>Generate QRC Resource File...</source>
-        <translation type="unfinished"></translation>
+        <translation>Generera QRC-resursfil...</translation>
     </message>
     <message>
         <source>Save Project as QRC File</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara projekt som QRC-fil</translation>
     </message>
     <message>
         <source>QML Resource File (*.qrc)</source>
-        <translation type="unfinished"></translation>
+        <translation>QML-resursfil (*.qrc)</translation>
     </message>
     <message>
         <source>Successfully generated QRC resource file
@@ -7727,7 +7728,7 @@ Exporting assets: %2</source>
     </message>
     <message>
         <source>Save Project as Resource</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara projekt som resurs</translation>
     </message>
     <message>
         <source>Generating deployable package. Please wait...</source>
@@ -7753,7 +7754,7 @@ Please check the output pane for more information.</source>
     </message>
     <message>
         <source>Success</source>
-        <translation type="unfinished"></translation>
+        <translation>Lyckades</translation>
     </message>
 </context>
 <context>
@@ -7786,7 +7787,7 @@ Please check the output pane for more information.</source>
     <name>QmlDesigner::GraphicsView</name>
     <message>
         <source>Open Style Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna stilredigerare</translation>
     </message>
     <message>
         <source>Insert Keyframe</source>
@@ -8376,35 +8377,35 @@ Please check the output pane for more information.</source>
     <name>QmlDesigner::Internal::TypeAnnotationReader</name>
     <message>
         <source>Illegal state while parsing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltigt tillstånd vid tolkning.</translation>
     </message>
     <message>
         <source>No property definition allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen egenskapsdefinition tillåten.</translation>
     </message>
     <message>
         <source>Invalid type %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig typ %1</translation>
     </message>
     <message>
         <source>Unknown property for Type %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Okänd egenskap förType %1</translation>
     </message>
     <message>
         <source>Unknown property for ItemLibraryEntry %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Okänd egenskap för ItemLibraryEntry %1</translation>
     </message>
     <message>
         <source>Unknown property for Property %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Okänd egenskap för Property %1</translation>
     </message>
     <message>
         <source>Unknown property for QmlSource %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Okänd egenskap för QmlSource %1</translation>
     </message>
     <message>
         <source>Unknown property for ExtraFile %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Okänd egenskap för ExtraFile %1</translation>
     </message>
 </context>
 <context>
@@ -8548,19 +8549,19 @@ Please check the output pane for more information.</source>
     <name>QmlDesigner::MaterialEditorView</name>
     <message>
         <source>Cannot Export Property as Alias</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte exportera egenskap som alias</translation>
     </message>
     <message>
         <source>Property %1 does already exist for root component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Egenskapen %1 finns redan för rotkomponenten.</translation>
     </message>
     <message>
         <source>Material Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Materialredigerare</translation>
     </message>
     <message>
         <source>Material Editor view</source>
-        <translation type="unfinished"></translation>
+        <translation>Materialredigerare-vy</translation>
     </message>
 </context>
 <context>
@@ -8613,11 +8614,11 @@ Locked components cannot be modified or selected.</source>
     <name>QmlDesigner::NavigatorView</name>
     <message>
         <source>Navigator</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigator</translation>
     </message>
     <message>
         <source>Navigator view</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigator-vy</translation>
     </message>
 </context>
 <context>
@@ -8625,7 +8626,7 @@ Locked components cannot be modified or selected.</source>
     <message>
         <source>Navigator</source>
         <comment>Title of navigator view</comment>
-        <translation type="unfinished"></translation>
+        <translation>Navigator</translation>
     </message>
     <message>
         <source>Become last sibling of parent (CTRL + Left).</source>
@@ -8637,19 +8638,19 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Move down (CTRL + Down).</source>
-        <translation type="unfinished"></translation>
+        <translation>Flytta ner (CTRL + ner).</translation>
     </message>
     <message>
         <source>Move up (CTRL + Up).</source>
-        <translation type="unfinished"></translation>
+        <translation>Flytta upp (CTRL + upp).</translation>
     </message>
     <message>
         <source>Show Only Visible Components</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa endast synliga komponenter</translation>
     </message>
     <message>
         <source>Reverse Component Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Omvänd komponentordning</translation>
     </message>
 </context>
 <context>
@@ -8796,7 +8797,7 @@ Locked components cannot be modified or selected.</source>
     <name>QmlDesigner::QmlDesignerPlugin</name>
     <message>
         <source>Cannot Open Design Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte öppna designläget</translation>
     </message>
     <message>
         <source>The QML file is not currently opened in a QML Editor.</source>
@@ -8812,11 +8813,11 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Give Feedback...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ge oss återkoppling...</translation>
     </message>
     <message>
         <source>Enjoying the %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>Gillar du %1?</translation>
     </message>
 </context>
 <context>
@@ -9274,19 +9275,19 @@ Locked components cannot be modified or selected.</source>
     <message>
         <source>No import statements found.</source>
         <translatorcomment>instruction?</translatorcomment>
-        <translation type="unfinished"></translation>
+        <translation>Inga importvillkor hittades.</translation>
     </message>
     <message>
         <source>Qt Quick 6 is not supported with a Qt 5 kit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt Quick 6 stöds inte med ett Qt 5-kit.</translation>
     </message>
     <message>
         <source>The Design Mode requires a valid Qt kit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Designläget kräver ett giltigt Qt-kit.</translation>
     </message>
     <message>
         <source>No import for Qt Quick found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen import för Qt Quick hittades.</translation>
     </message>
 </context>
 <context>
@@ -10362,7 +10363,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Syntax error</source>
-        <translation type="unfinished"></translation>
+        <translation>Syntaxfel</translation>
     </message>
 </context>
 <context>
@@ -17060,19 +17061,19 @@ Make sure that CMAKE_BUILD_TYPE variable matches the &quot;Build type&quot; fiel
     </message>
     <message>
         <source>clangd</source>
-        <translation type="unfinished"></translation>
+        <translation>clangd</translation>
     </message>
     <message>
         <source>Indexing %1 with clangd</source>
-        <translation type="unfinished"></translation>
+        <translation>Indexerar %1 med clangd</translation>
     </message>
     <message>
         <source>Indexing session with clangd</source>
-        <translation type="unfinished"></translation>
+        <translation>Indexerar session med clangd</translation>
     </message>
     <message>
         <source>Memory Usage</source>
-        <translation type="unfinished"></translation>
+        <translation>Minnesanvändning</translation>
     </message>
     <message>
         <source>Location: %1</source>
@@ -17093,7 +17094,8 @@ Make sure that CMAKE_BUILD_TYPE variable matches the &quot;Build type&quot; fiel
     <message>
         <source>Files:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Filer:
+%1</translation>
     </message>
     <message>
         <source>collecting overrides...</source>
@@ -17105,7 +17107,7 @@ Make sure that CMAKE_BUILD_TYPE variable matches the &quot;Build type&quot; fiel
     </message>
     <message>
         <source>[Source: %1]</source>
-        <translation type="unfinished"></translation>
+        <translation>[Källa: %1]</translation>
     </message>
     <message>
         <source>Component</source>
@@ -17113,7 +17115,7 @@ Make sure that CMAKE_BUILD_TYPE variable matches the &quot;Build type&quot; fiel
     </message>
     <message>
         <source>Total Memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Totalt minne</translation>
     </message>
     <message>
         <source>Update</source>
@@ -17129,7 +17131,7 @@ Make sure that CMAKE_BUILD_TYPE variable matches the &quot;Build type&quot; fiel
     </message>
     <message>
         <source>Enable Anyway</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivera ändå</translation>
     </message>
     <message>
         <source>Cannot use clangd: Generating compilation database canceled.</source>
@@ -17142,7 +17144,7 @@ Make sure that CMAKE_BUILD_TYPE variable matches the &quot;Build type&quot; fiel
     </message>
     <message>
         <source>Project: %1 (based on %2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Projekt: %1 (baserat på %2)</translation>
     </message>
     <message>
         <source>Changes applied to diagnostic configuration &quot;%1&quot;.</source>
@@ -17159,7 +17161,7 @@ Make sure that CMAKE_BUILD_TYPE variable matches the &quot;Build type&quot; fiel
     <message>
         <source>Copy to Clipboard</source>
         <comment>Clang Code Model Marks</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera till urklipp</translation>
     </message>
     <message>
         <source>Disable Diagnostic in Current Project</source>
@@ -17705,7 +17707,7 @@ Set a valid executable first.</source>
     </message>
     <message>
         <source>Copy to Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera till urklipp</translation>
     </message>
     <message>
         <source>Disable Diagnostic</source>
@@ -18741,7 +18743,7 @@ Oui :)</translatorcomment>
     </message>
     <message>
         <source>Additional arguments:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ytterligare argument:</translation>
     </message>
     <message>
         <source>Run conan install</source>
@@ -19492,7 +19494,7 @@ If the system cursors for resizing views are not displayed properly, you can use
     </message>
     <message>
         <source>MB</source>
-        <translation type="unfinished"></translation>
+        <translation>MB</translation>
     </message>
     <message>
         <source>Auto-suspend unmodified files</source>
@@ -22408,7 +22410,7 @@ Double-click to edit item.</source>
     </message>
     <message>
         <source>&quot;%1&quot; crashed.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; kraschade.</translation>
     </message>
     <message>
         <source>&quot;%1&quot; failed (exit code %2).</source>
@@ -22643,11 +22645,11 @@ Double-click to edit item.</source>
     </message>
     <message>
         <source>MB</source>
-        <translation type="unfinished"></translation>
+        <translation>MB</translation>
     </message>
     <message>
         <source>Ignore files</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorera filer</translation>
     </message>
     <message>
         <source>Ignore files that match these wildcard patterns, one wildcard per line.</source>
@@ -22675,7 +22677,7 @@ Double-click to edit item.</source>
     </message>
     <message>
         <source>C++</source>
-        <translation type="unfinished"></translation>
+        <translation>C++</translation>
     </message>
     <message>
         <source>&lt;p&gt;If background indexing is enabled, global symbol searches will yield more accurate results, at the cost of additional CPU load when the project is first opened. The indexing result is persisted in the project&apos;s build directory. If you disable background indexing, a faster, but less accurate, built-in indexer is used instead. The thread priority for building the background index can be adjusted since clangd 15.&lt;/p&gt;&lt;p&gt;Background Priority: Minimum priority, runs on idle CPUs. May leave &apos;performance&apos; cores unused.&lt;/p&gt;&lt;p&gt;Normal Priority: Reduced priority compared to interactive work.&lt;/p&gt;&lt;p&gt;Low Priority: Same priority as other clangd work.&lt;/p&gt;</source>
@@ -22725,7 +22727,7 @@ The built-in code model will handle highlighting, completion and so on.</source>
     </message>
     <message>
         <source>Use clangd</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd clangd</translation>
     </message>
     <message>
         <source>Insert header files on completion</source>
@@ -22749,7 +22751,7 @@ The built-in code model will handle highlighting, completion and so on.</source>
     </message>
     <message>
         <source>No limit</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen gräns</translation>
     </message>
     <message>
         <source>Path to executable:</source>
@@ -22795,11 +22797,11 @@ managed by the same clangd process, add them here.</source>
     </message>
     <message>
         <source>Add ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till ...</translation>
     </message>
     <message>
         <source>Choose a session:</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en session:</translation>
     </message>
     <message>
         <source>Additional settings are available via &lt;a href=&quot;https://clangd.llvm.org/config&quot;&gt; clangd configuration files&lt;/a&gt;.&lt;br&gt;User-specific settings go &lt;a href=&quot;%1&quot;&gt;here&lt;/a&gt;, project-specific settings can be configured by putting a .clangd file into the project source tree.</source>
@@ -22807,7 +22809,7 @@ managed by the same clangd process, add them here.</source>
     </message>
     <message>
         <source>Clangd</source>
-        <translation type="unfinished"></translation>
+        <translation>Clangd</translation>
     </message>
     <message>
         <source>None</source>
@@ -34550,7 +34552,7 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Copy to Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera till urklipp</translation>
     </message>
     <message>
         <source>Copy Link</source>
@@ -35857,7 +35859,7 @@ Expiration date: %3</source>
     </message>
     <message>
         <source>Copy to Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera till urklipp</translation>
     </message>
     <message>
         <source>Language Client</source>
@@ -38959,7 +38961,7 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>&quot;%1&quot; crashed.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; kraschade.</translation>
     </message>
     <message>
         <source>&quot;%1&quot; terminated with exit code %2: %3</source>
@@ -47959,7 +47961,7 @@ Please build the qmldump application on the Qt version options page.</source>
     <name>QtC::QmlJSTools</name>
     <message>
         <source>QML Functions</source>
-        <translation type="unfinished"></translation>
+        <translation>QML-funktioner</translation>
     </message>
     <message>
         <source>Locates QML functions in any open project.</source>
@@ -47971,7 +47973,7 @@ Please build the qmldump application on the Qt version options page.</source>
     </message>
     <message>
         <source>&amp;QML/JS</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;QML/JS</translation>
     </message>
     <message>
         <source>Reset Code Model</source>
@@ -47984,7 +47986,7 @@ Please build the qmldump application on the Qt version options page.</source>
     </message>
     <message>
         <source>Qt</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt</translation>
     </message>
     <message>
         <source>Qt Quick</source>
@@ -47992,11 +47994,11 @@ Please build the qmldump application on the Qt version options page.</source>
     </message>
     <message>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Annan</translation>
     </message>
     <message>
         <source>&amp;Line length:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Radlängd:</translation>
     </message>
 </context>
 <context>
@@ -48253,7 +48255,7 @@ Do you want to save the data first?</source>
     </message>
     <message>
         <source>Memory Usage</source>
-        <translation type="unfinished"></translation>
+        <translation>Minnesanvändning</translation>
     </message>
     <message>
         <source>Memory Allocated</source>
@@ -50311,7 +50313,7 @@ Control process failed to start.</source>
     </message>
     <message>
         <source>&quot;%1&quot; crashed.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; kraschade.</translation>
     </message>
     <message>
         <source>&quot;sftp&quot; binary &quot;%1&quot; does not exist.</source>
@@ -56149,7 +56151,7 @@ Influences the indentation of continuation lines.
     </message>
     <message>
         <source>Copy to Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera till urklipp</translation>
     </message>
     <message>
         <source>Git Blame</source>
@@ -60670,7 +60672,7 @@ defined in step size.</source>
     <name>RotateToolAction</name>
     <message>
         <source>Activate Rotate Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivera roteringsverktyg</translation>
     </message>
 </context>
 <context>
@@ -60708,7 +60710,7 @@ defined in step size.</source>
     <name>RowLayoutSpecifics</name>
     <message>
         <source>Row Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Radlayout</translation>
     </message>
     <message>
         <source>Row spacing</source>
@@ -60720,7 +60722,7 @@ defined in step size.</source>
     </message>
     <message>
         <source>Layout direction</source>
-        <translation type="unfinished"></translation>
+        <translation>Layoutriktning</translation>
     </message>
     <message>
         <source>Sets the direction of the item flow in the &lt;b&gt;Row Layout&lt;/b&gt;.</source>
