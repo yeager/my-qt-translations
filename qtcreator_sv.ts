@@ -1668,7 +1668,7 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Linear</source>
-        <translation type="unfinished"></translation>
+        <translation>Linjär</translation>
     </message>
     <message>
         <source>Radial</source>
@@ -7135,7 +7135,7 @@ Exporting assets: %2</source>
     </message>
     <message>
         <source>Linear</source>
-        <translation type="unfinished"></translation>
+        <translation>Linjär</translation>
     </message>
     <message>
         <source>Start Frame</source>
@@ -8366,7 +8366,7 @@ Please check the output pane for more information.</source>
     </message>
     <message>
         <source>Restart Required</source>
-        <translation type="unfinished"></translation>
+        <translation>Omstart krävs</translation>
     </message>
     <message>
         <source>The made changes will take effect after a restart of the QML Emulation layer or %1.</source>
@@ -19458,19 +19458,19 @@ If the system cursors for resizing views are not displayed properly, you can use
     </message>
     <message>
         <source>Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>Gränssnitt</translation>
     </message>
     <message>
         <source>Variables</source>
-        <translation type="unfinished"></translation>
+        <translation>Variabler</translation>
     </message>
     <message>
         <source>When files are externally modified:</source>
-        <translation type="unfinished"></translation>
+        <translation>När filer ändras externt:</translation>
     </message>
     <message>
         <source>User Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>Användargränssnitt</translation>
     </message>
     <message>
         <source>Color:</source>
@@ -19482,11 +19482,11 @@ If the system cursors for resizing views are not displayed properly, you can use
     </message>
     <message>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>System</translation>
     </message>
     <message>
         <source>External file browser:</source>
-        <translation type="unfinished"></translation>
+        <translation>Extern filbläddrare:</translation>
     </message>
     <message>
         <source>Bytes</source>
@@ -19502,7 +19502,7 @@ If the system cursors for resizing views are not displayed properly, you can use
     </message>
     <message>
         <source>Enable crash reporting</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivera kraschrapportering</translation>
     </message>
     <message>
         <source>Warn before opening text files greater than</source>
@@ -19534,7 +19534,7 @@ If the system cursors for resizing views are not displayed properly, you can use
     </message>
     <message>
         <source>Always Ask</source>
-        <translation type="unfinished"></translation>
+        <translation>Fråga alltid</translation>
     </message>
     <message>
         <source>Reload All Unchanged Editors</source>
@@ -19542,7 +19542,7 @@ If the system cursors for resizing views are not displayed properly, you can use
     </message>
     <message>
         <source>Ignore Modifications</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorera ändringar</translation>
     </message>
     <message>
         <source>Maximum number of entries in &quot;Recent Files&quot;:</source>
@@ -19554,19 +19554,19 @@ If the system cursors for resizing views are not displayed properly, you can use
     </message>
     <message>
         <source>KiB</source>
-        <translation type="unfinished"></translation>
+        <translation>KiB</translation>
     </message>
     <message>
         <source>MiB</source>
-        <translation type="unfinished"></translation>
+        <translation>MiB</translation>
     </message>
     <message>
         <source>GiB</source>
-        <translation type="unfinished"></translation>
+        <translation>GiB</translation>
     </message>
     <message>
         <source>TiB</source>
-        <translation type="unfinished"></translation>
+        <translation>TiB</translation>
     </message>
     <message>
         <source>Automatically creates temporary copies of modified files. If %1 is restarted after a crash or power failure, it asks whether to recover the auto-saved content.</source>
@@ -19583,7 +19583,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Crash Reporting</source>
-        <translation type="unfinished"></translation>
+        <translation>Kraschrapportering</translation>
     </message>
     <message>
         <source>Case Sensitive (Default)</source>
@@ -19608,16 +19608,16 @@ provided they were unmodified before the refactoring.</source>
     <message>
         <source>Reset to default.</source>
         <comment>Color</comment>
-        <translation type="unfinished"></translation>
+        <translation>Återställ till standard.</translation>
     </message>
     <message>
         <source>Reset to default.</source>
         <comment>Terminal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Återställ till standard.</translation>
     </message>
     <message>
         <source>Auto-save modified files</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara automatiskt ändrade filer</translation>
     </message>
     <message>
         <source>Command line arguments used for &quot;%1&quot;.</source>
@@ -19633,7 +19633,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Files to keep open:</source>
-        <translation type="unfinished"></translation>
+        <translation>Filer att hålla öppna:</translation>
     </message>
     <message>
         <source>Minimum number of open documents that should be kept in memory. Increasing this number will lead to greater resource usage when not manually closing documents.</source>
@@ -19641,7 +19641,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Patch command:</source>
-        <translation type="unfinished"></translation>
+        <translation>Patch-kommando:</translation>
     </message>
     <message>
         <source>Interval:</source>
@@ -19871,7 +19871,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Change Log</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändringslogg</translation>
     </message>
     <message>
         <source>Contact</source>
@@ -19915,7 +19915,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Meta+0</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta+0</translation>
     </message>
     <message>
         <source>Debug %1</source>
@@ -19983,7 +19983,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Files and Classes</source>
-        <translation type="unfinished"></translation>
+        <translation>Filer och klasser</translation>
     </message>
     <message>
         <source>All Templates</source>
@@ -19991,15 +19991,15 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>%1 Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 mallar</translation>
     </message>
     <message>
         <source>Platform independent</source>
-        <translation type="unfinished"></translation>
+        <translation>Plattformsoberoende</translation>
     </message>
     <message>
         <source>Supported Platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Plattformar som stöds</translation>
     </message>
     <message>
         <source>*</source>
@@ -20039,7 +20039,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Stop Logging</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoppa loggning</translation>
     </message>
     <message>
         <source>Auto Scroll</source>
@@ -20047,15 +20047,15 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Timestamps</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidsstämplar</translation>
     </message>
     <message>
         <source>Message Types</source>
-        <translation type="unfinished"></translation>
+        <translation>Meddelandetyper</translation>
     </message>
     <message>
         <source>Timestamp</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidsstämpel</translation>
     </message>
     <message>
         <source>Entry is missing a logging category name.</source>
@@ -20067,7 +20067,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Invalid level: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig nivå: %1</translation>
     </message>
     <message>
         <source>Debug</source>
@@ -20107,11 +20107,11 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Start Logging</source>
-        <translation type="unfinished"></translation>
+        <translation>Starta loggning</translation>
     </message>
     <message>
         <source>Copy Selected Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera markerade loggar</translation>
     </message>
     <message>
         <source>Copy All</source>
@@ -20119,27 +20119,27 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Uncheck All %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Avmarkera alla %1</translation>
     </message>
     <message>
         <source>Check All %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Markera alla %1</translation>
     </message>
     <message>
         <source>Reset All %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nollställ alla %1</translation>
     </message>
     <message>
         <source>Save Enabled as Preset...</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara aktiverade som förvall...</translation>
     </message>
     <message>
         <source>Update from Preset...</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdatera från förval...</translation>
     </message>
     <message>
         <source>Uncheck All</source>
-        <translation type="unfinished"></translation>
+        <translation>Avmarkera allt</translation>
     </message>
     <message>
         <source>Save Logs As</source>
@@ -20147,7 +20147,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Failed to write logs to &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att skriva loggar till &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Failed to open file &quot;%1&quot; for writing logs.</source>
@@ -20155,7 +20155,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Save Enabled Categories As...</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara aktiverade kategorier som...</translation>
     </message>
     <message>
         <source>Failed to open preset file &quot;%1&quot; for reading.</source>
@@ -20201,11 +20201,11 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Next Item</source>
-        <translation type="unfinished"></translation>
+        <translation>Nästa objekt</translation>
     </message>
     <message>
         <source>Previous Item</source>
-        <translation type="unfinished"></translation>
+        <translation>Föregående objekt</translation>
     </message>
     <message>
         <source>Out&amp;put</source>
@@ -20213,23 +20213,23 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Ctrl+Shift+9</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+9</translation>
     </message>
     <message>
         <source>Alt+Shift+9</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+Shift+9</translation>
     </message>
     <message>
         <source>Reset to Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Återställ till standard</translation>
     </message>
     <message>
         <source>Shift+F6</source>
-        <translation type="unfinished"></translation>
+        <translation>Shift+F6</translation>
     </message>
     <message>
         <source>F6</source>
-        <translation type="unfinished"></translation>
+        <translation>F6</translation>
     </message>
     <message>
         <source>Details</source>
@@ -20241,11 +20241,11 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Install Plugin...</source>
-        <translation type="unfinished"></translation>
+        <translation>Installera insticksmodul...</translation>
     </message>
     <message>
         <source>Installed Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Installerade insticksmoduler</translation>
     </message>
     <message>
         <source>Plugin changes will take effect after restart.</source>
@@ -20265,7 +20265,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Save Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara markerade</translation>
     </message>
     <message>
         <source>Save Changes</source>
@@ -20285,7 +20285,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Do &amp;Not Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara &amp;inte</translation>
     </message>
     <message>
         <source>&amp;Diff &amp;&amp; Cancel</source>
@@ -20293,7 +20293,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>&amp;Save All</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Spara alla</translation>
     </message>
     <message>
         <source>&amp;Diff All &amp;&amp; Cancel</source>
@@ -20309,7 +20309,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Keyboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Tangentbord</translation>
     </message>
     <message>
         <source>Keyboard Shortcuts</source>
@@ -20325,11 +20325,11 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Record</source>
-        <translation type="unfinished"></translation>
+        <translation>Spela in</translation>
     </message>
     <message>
         <source>Invalid key sequence.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig tangentsekvens.</translation>
     </message>
     <message>
         <source>Key sequence will not work in editor.</source>
@@ -20446,7 +20446,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Find Next (Selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Hitta nästa (markerade)</translation>
     </message>
     <message>
         <source>Ctrl+F3</source>
@@ -20454,7 +20454,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Find Previous (Selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Hitta föregående (markerade)</translation>
     </message>
     <message>
         <source>Ctrl+Shift+F3</source>
@@ -20502,7 +20502,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Preserve Case when Replacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Behåll skiftläge vid ersättning</translation>
     </message>
     <message>
         <source>Replace with...</source>
@@ -20530,7 +20530,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Show Paths in Relation to Active Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa sökvägar i relation till aktivt projekt</translation>
     </message>
     <message>
         <source>Filter Results</source>
@@ -20566,7 +20566,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Filter Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Filterkonfiguration</translation>
     </message>
     <message>
         <source>Type the prefix followed by a space and search term to restrict search to the filter.</source>
@@ -20574,7 +20574,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Include by default</source>
-        <translation type="unfinished"></translation>
+        <translation>Inkludera som standard</translation>
     </message>
     <message>
         <source>Include the filter when not using a prefix for searches.</source>
@@ -20586,7 +20586,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Generic Directory Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Allmänt katalogfilter</translation>
     </message>
     <message>
         <source>Select Directory</source>
@@ -20613,15 +20613,15 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>MIME type:</source>
-        <translation type="unfinished"></translation>
+        <translation>MIME-typ:</translation>
     </message>
     <message>
         <source>Default editor:</source>
-        <translation type="unfinished"></translation>
+        <translation>Standardredigerare:</translation>
     </message>
     <message>
         <source>Line endings:</source>
-        <translation type="unfinished"></translation>
+        <translation>Radslut:</translation>
     </message>
     <message>
         <source>Indentation:</source>
@@ -20641,11 +20641,11 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Last read:</source>
-        <translation type="unfinished"></translation>
+        <translation>Senast läst:</translation>
     </message>
     <message>
         <source>Last modified:</source>
-        <translation type="unfinished"></translation>
+        <translation>Senast ändrad:</translation>
     </message>
     <message>
         <source>Readable:</source>
@@ -20707,7 +20707,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>Files in File System</source>
-        <translation type="unfinished"></translation>
+        <translation>Filer i filsystemet</translation>
     </message>
     <message>
         <source>Opens a file given by a relative path to the current document, or absolute path. &quot;~&quot; refers to your home directory. You have the option to create a file if it does not exist yet.</source>
@@ -20731,31 +20731,31 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>Cannot Create File</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte skapa filen</translation>
     </message>
     <message>
         <source>Cannot create file &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte skapa filen &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Create Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa katalog</translation>
     </message>
     <message>
         <source>Create and Open File &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa och öppna filen &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Create Directory &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa katalogen &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Include hidden files</source>
-        <translation type="unfinished"></translation>
+        <translation>Inkludera dolda filer</translation>
     </message>
     <message>
         <source>Filter:</source>
-        <translation type="unfinished"></translation>
+        <translation>Filter:</translation>
     </message>
     <message>
         <source>Open Documents</source>
@@ -20763,7 +20763,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>Available filters</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillgängliga filter</translation>
     </message>
     <message>
         <source>Web Search</source>
@@ -20783,7 +20783,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>Ctrl+K</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+K</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;body style=&quot;color:#909090; font-size:14px&quot;&gt;&lt;div align=&apos;center&apos;&gt;&lt;div style=&quot;font-size:20px&quot;&gt;Open a document&lt;/div&gt;&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;hr/&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull; File &gt; Open File or Project (%1)&lt;/div&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull; File &gt; Recent Files&lt;/div&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull; Tools &gt; Locate (%2) and&lt;/div&gt;&lt;div style=&quot;margin-left: 1em&quot;&gt;- type to open file from any open project&lt;/div&gt;%4%5&lt;div style=&quot;margin-left: 1em&quot;&gt;- type &lt;code&gt;%3&amp;lt;space&amp;gt;&amp;lt;filename&amp;gt;&lt;/code&gt; to open file from file system&lt;/div&gt;&lt;div style=&quot;margin-left: 1em&quot;&gt;- select one of the other filters for jumping to a location&lt;/div&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull; Drag and drop files here&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -20895,11 +20895,11 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>Binary Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Binärredigerare</translation>
     </message>
     <message>
         <source>C++ Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>C++-redigerare</translation>
     </message>
     <message>
         <source>.pro File Editor</source>
@@ -20923,7 +20923,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>Resource Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Resursredigerare</translation>
     </message>
     <message>
         <source>GLSL Editor</source>
@@ -20931,7 +20931,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>Python Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Python-redigerare</translation>
     </message>
     <message>
         <source>Sort categories</source>
@@ -20951,7 +20951,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>Qt</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt</translation>
     </message>
     <message>
         <source>Environment</source>
@@ -20963,7 +20963,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>Design</source>
-        <translation type="unfinished"></translation>
+        <translation>Design</translation>
     </message>
     <message>
         <source>Drag to drag documents between splits</source>
@@ -20975,7 +20975,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>File is writable</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen är skrivbar</translation>
     </message>
     <message>
         <source>&amp;Find/Replace</source>
@@ -20983,23 +20983,23 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>Advanced Find</source>
-        <translation type="unfinished"></translation>
+        <translation>Avancerad sökning</translation>
     </message>
     <message>
         <source>Open Advanced Find...</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna avancerad sökning...</translation>
     </message>
     <message>
         <source>Ctrl+Shift+F</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+F</translation>
     </message>
     <message>
         <source>Open &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Show Hidden Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa dolda filer</translation>
     </message>
     <message>
         <source>Show Bread Crumbs</source>
@@ -21012,7 +21012,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>Synchronize with Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Synkronisera med redigerare</translation>
     </message>
     <message>
         <source>Synchronize Root Directory with Editor</source>
@@ -21021,7 +21021,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     <message>
         <source>New File</source>
         <comment>Title of dialog</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ny fil</translation>
     </message>
     <message>
         <source>New Folder</source>
@@ -21033,11 +21033,11 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>Meta+Y,Meta+F</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta+Y,Meta+F</translation>
     </message>
     <message>
         <source>Alt+Y,Alt+F</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+Y,Alt+F</translation>
     </message>
     <message>
         <source>Computer</source>
@@ -21073,7 +21073,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>Working directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbetskatalog:</translation>
     </message>
     <message>
         <source>Output:</source>
@@ -21118,7 +21118,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>Remove tool.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort verktyg.</translation>
     </message>
     <message>
         <source>Revert tool to default.</source>
@@ -21163,7 +21163,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>Environment:</source>
-        <translation type="unfinished"></translation>
+        <translation>Miljö:</translation>
     </message>
     <message>
         <source>Add Tool</source>
@@ -21175,11 +21175,11 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>PATH=C:\dev\bin;${PATH}</source>
-        <translation type="unfinished"></translation>
+        <translation>PATH=C:\dev\bin;${PATH}</translation>
     </message>
     <message>
         <source>PATH=/opt/bin:${PATH}</source>
-        <translation type="unfinished"></translation>
+        <translation>PATH=/opt/bin:${PATH}</translation>
     </message>
     <message>
         <source>Uncategorized</source>
@@ -21191,11 +21191,11 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>New Category</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny kategori</translation>
     </message>
     <message>
         <source>New Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Nytt verktyg</translation>
     </message>
     <message>
         <source>This tool prints a line of useful text</source>
@@ -21204,7 +21204,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     <message>
         <source>Useful text</source>
         <extracomment>Sample external tool text</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Användbar text</translation>
     </message>
     <message>
         <source>Creates qm translation files that can be used by an application from the translator&apos;s ts files</source>
@@ -21229,12 +21229,12 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     <message>
         <source>Opens the current file in Notepad</source>
         <translatorcomment>Notepad, c&apos;est pas très cross-platform</translatorcomment>
-        <translation type="unfinished"></translation>
+        <translation>Öppnar aktuell fil i Notepad</translation>
     </message>
     <message>
         <source>Edit with Notepad</source>
         <translatorcomment>Notepad, c&apos;est pas très cross-platform</translatorcomment>
-        <translation type="unfinished"></translation>
+        <translation>Redigera med Notepad</translation>
     </message>
     <message>
         <source>Runs the current QML file with QML utility.</source>
@@ -21242,7 +21242,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>QML utility</source>
-        <translation type="unfinished"></translation>
+        <translation>QML-verktyg</translation>
     </message>
     <message>
         <source>Text</source>
@@ -21258,15 +21258,15 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>Qt Quick</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt Quick</translation>
     </message>
     <message>
         <source>Opens the current file in vi</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppnar aktuell fil i vi</translation>
     </message>
     <message>
         <source>Edit with vi</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera med vi</translation>
     </message>
     <message>
         <source>Error while parsing external tool %1: %2</source>
@@ -21274,7 +21274,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>&amp;External</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Externt</translation>
     </message>
     <message>
         <source>Error: External tool in %1 has duplicate id</source>
@@ -21338,7 +21338,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>Use Recommended</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd rekommenderat</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;Note: Wide range values might impact performance when opening files.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -21394,7 +21394,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>Version Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Versionskontroll</translation>
     </message>
     <message>
         <source>Remove the following files from the version control system (%1)?</source>
@@ -21442,7 +21442,7 @@ to version control (%2)?</source>
     </message>
     <message>
         <source>Tags:</source>
-        <translation type="unfinished"></translation>
+        <translation>Taggar:</translation>
     </message>
     <message>
         <source>Show All</source>
@@ -21454,7 +21454,7 @@ to version control (%2)?</source>
     </message>
     <message>
         <source>Overwrite Existing Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv över existerande filer</translation>
     </message>
     <message>
         <source>The following files already exist in the folder
@@ -21490,7 +21490,7 @@ Would you like to overwrite them?</source>
     </message>
     <message>
         <source>Find in This Directory...</source>
-        <translation type="unfinished"></translation>
+        <translation>Sök i denna katalog...</translation>
     </message>
     <message>
         <source>Show in File System View</source>
@@ -21524,7 +21524,7 @@ Would you like to overwrite them?</source>
     <message>
         <source>Open Terminal With</source>
         <comment>Opens a submenu for choosing an environment, such as &quot;Run Environment&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Öppna terminal med</translation>
     </message>
     <message>
         <source>Failed to remove file &quot;%1&quot;.</source>
@@ -21544,11 +21544,11 @@ Would you like to overwrite them?</source>
     </message>
     <message>
         <source>Case sensitive</source>
-        <translation type="unfinished"></translation>
+        <translation>Skiftlägeskänslig</translation>
     </message>
     <message>
         <source>Whole words</source>
-        <translation type="unfinished"></translation>
+        <translation>Hela ord</translation>
     </message>
     <message>
         <source>Regular expressions</source>
@@ -21556,11 +21556,11 @@ Would you like to overwrite them?</source>
     </message>
     <message>
         <source>Preserve case</source>
-        <translation type="unfinished"></translation>
+        <translation>Behåll skiftläge</translation>
     </message>
     <message>
         <source>Flags: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Flaggor: %1</translation>
     </message>
     <message>
         <source>None</source>
@@ -21576,7 +21576,7 @@ Would you like to overwrite them?</source>
     </message>
     <message>
         <source>Replace with:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ersätt med:</translation>
     </message>
     <message>
         <source>Repeat the search with same parameters.</source>
@@ -21600,7 +21600,7 @@ Would you like to overwrite them?</source>
     </message>
     <message>
         <source>&amp;Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ersätt</translation>
     </message>
     <message>
         <source>This change cannot be undone.</source>
@@ -21619,22 +21619,22 @@ Would you like to overwrite them?</source>
     </message>
     <message>
         <source>Searching...</source>
-        <translation type="unfinished"></translation>
+        <translation>Söker...</translation>
     </message>
     <message>
         <source>No matches found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga matchningar hittades.</translation>
     </message>
     <message numerus="yes">
         <source>%n matches found.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n match hittades.</numerusform>
+            <numerusform>%n matchningar hittades.</numerusform>
         </translation>
     </message>
     <message>
         <source>Command Mappings</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommandomappningar</translation>
     </message>
     <message>
         <source>Target</source>
@@ -21642,11 +21642,11 @@ Would you like to overwrite them?</source>
     </message>
     <message>
         <source>Reset All</source>
-        <translation type="unfinished"></translation>
+        <translation>Nollställ allt</translation>
     </message>
     <message>
         <source>Reset to default.</source>
-        <translation type="unfinished"></translation>
+        <translation>Återställ till standard.</translation>
     </message>
     <message>
         <source>Import...</source>
@@ -21682,7 +21682,7 @@ Would you like to overwrite them?</source>
     </message>
     <message>
         <source>Patterns:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mönster:</translation>
     </message>
     <message>
         <source>A semicolon-separated list of wildcarded file names.</source>
@@ -21698,7 +21698,7 @@ Would you like to overwrite them?</source>
     </message>
     <message>
         <source>Priority</source>
-        <translation type="unfinished"></translation>
+        <translation>Prioritet</translation>
     </message>
     <message>
         <source>Changes will take effect after restart.</source>
@@ -21757,7 +21757,7 @@ Would you like to overwrite them?</source>
     </message>
     <message>
         <source>Not implemented</source>
-        <translation type="unfinished"></translation>
+        <translation>Inte implementerad</translation>
     </message>
     <message>
         <source>File was restored from auto-saved copy. Select Save to confirm or Revert to Saved to discard changes.</source>
@@ -21786,19 +21786,19 @@ Do you want to kill it?</source>
     </message>
     <message>
         <source>Execute Custom Commands</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör anpassade kommandon</translation>
     </message>
     <message>
         <source>Meta+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta+O</translation>
     </message>
     <message>
         <source>Alt+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+O</translation>
     </message>
     <message>
         <source>Open with VCS (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna med VCS (%1)</translation>
     </message>
     <message>
         <source>Version control state: added.</source>
@@ -21830,7 +21830,7 @@ Do you want to kill it?</source>
     </message>
     <message>
         <source>Open with VCS</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna med VCS</translation>
     </message>
     <message>
         <source>Save As</source>
@@ -21842,7 +21842,7 @@ Do you want to kill it?</source>
     </message>
     <message>
         <source>Filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Filnamn</translation>
     </message>
     <message>
         <source>Path</source>
@@ -21874,7 +21874,7 @@ Do you want to kill it?</source>
     </message>
     <message>
         <source>Cannot Save File</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte spara filen</translation>
     </message>
     <message>
         <source>%1 file %2 from version control system %3 failed.</source>
@@ -21891,7 +21891,7 @@ No version control system found.</source>
     </message>
     <message>
         <source>Cannot save file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte spara filen %1</translation>
     </message>
     <message>
         <source>Canceled Changing Permissions</source>
@@ -21947,7 +21947,7 @@ Do you want to check them out now?</source>
     </message>
     <message>
         <source>&lt;no document&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;inget dokument&gt;</translation>
     </message>
     <message>
         <source>No document is selected.</source>
@@ -22039,19 +22039,19 @@ Do you want to check them out now?</source>
     </message>
     <message>
         <source>Is %1 running on Windows?</source>
-        <translation type="unfinished"></translation>
+        <translation>Körs %1 på Windows?</translation>
     </message>
     <message>
         <source>Is %1 running on OS X?</source>
-        <translation type="unfinished"></translation>
+        <translation>Körs %1 på OS X?</translation>
     </message>
     <message>
         <source>Is %1 running on Linux?</source>
-        <translation type="unfinished"></translation>
+        <translation>Körs %1 på Linux?</translation>
     </message>
     <message>
         <source>Is %1 running on any unix-based platform?</source>
-        <translation type="unfinished"></translation>
+        <translation>Körs %1 på någon unix-baserad plattform?</translation>
     </message>
     <message>
         <source>The path list separator for the platform.</source>
@@ -22083,7 +22083,7 @@ Do you want to check them out now?</source>
     </message>
     <message>
         <source>Generate a new UUID.</source>
-        <translation type="unfinished"></translation>
+        <translation>Generera ett nytt UUID.</translation>
     </message>
     <message>
         <source>A comment.</source>
@@ -22091,7 +22091,7 @@ Do you want to check them out now?</source>
     </message>
     <message>
         <source>Convert string to pure ASCII.</source>
-        <translation type="unfinished"></translation>
+        <translation>Konvertera sträng till ren ASCII.</translation>
     </message>
     <message>
         <source>%1 &gt; %2 Preferences...</source>
@@ -22112,11 +22112,11 @@ You will not be able to store any %2 settings.</source>
     </message>
     <message>
         <source>The file is not readable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen är inte läsbar.</translation>
     </message>
     <message>
         <source>The file is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen är ogiltig.</translation>
     </message>
     <message>
         <source>Error reading settings file &quot;%1&quot;: %2
@@ -22157,7 +22157,7 @@ You will likely experience further problems using this instance of %3.</source>
     </message>
     <message>
         <source>Text Encoding</source>
-        <translation type="unfinished"></translation>
+        <translation>Textenkodning</translation>
     </message>
     <message>
         <source>The following encodings are likely to fit:</source>
@@ -22173,11 +22173,11 @@ You will likely experience further problems using this instance of %3.</source>
     </message>
     <message>
         <source>Save with Encoding</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara med enkodning</translation>
     </message>
     <message>
         <source>Restart Required</source>
-        <translation type="unfinished"></translation>
+        <translation>Omstart krävs</translation>
     </message>
     <message>
         <source>Later</source>
@@ -22189,7 +22189,7 @@ You will likely experience further problems using this instance of %3.</source>
     </message>
     <message>
         <source>System Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Systemredigerare</translation>
     </message>
     <message>
         <source>Could not open URL %1.</source>
@@ -22232,7 +22232,7 @@ You will likely experience further problems using this instance of %3.</source>
     </message>
     <message>
         <source>Error in &quot;%1&quot;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel i &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <source>Cannot convert result of &quot;%1&quot; to string.</source>
@@ -22312,7 +22312,7 @@ You will likely experience further problems using this instance of %3.</source>
     </message>
     <message>
         <source>Sort results</source>
-        <translation type="unfinished"></translation>
+        <translation>Sortera resultat</translation>
     </message>
     <message>
         <source>Case sensitive:</source>
@@ -22333,7 +22333,7 @@ Double-click to edit item.</source>
     </message>
     <message>
         <source>URLs:</source>
-        <translation type="unfinished"></translation>
+        <translation>URL:er:</translation>
     </message>
     <message>
         <source>Activate %1 View</source>
@@ -22442,11 +22442,11 @@ Double-click to edit item.</source>
     </message>
     <message>
         <source>Check Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrollera arkiv</translation>
     </message>
     <message>
         <source>Checking archive...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrollerar arkiv...</translation>
     </message>
     <message>
         <source>Load plugin immediately</source>
@@ -22526,7 +22526,7 @@ Double-click to edit item.</source>
     </message>
     <message>
         <source>Install Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Installera insticksmodul</translation>
     </message>
     <message>
         <source>Failed to Copy Plugin Files</source>
@@ -22542,7 +22542,7 @@ Double-click to edit item.</source>
     </message>
     <message>
         <source>The theme change will take effect after restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>Temaändringen blir aktiverad efter omstart.</translation>
     </message>
     <message>
         <source>About %1</source>
@@ -23549,7 +23549,7 @@ This is normally not a good idea, as the file will likely get overwritten during
     </message>
     <message>
         <source>Open &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna &quot;%1&quot;</translation>
     </message>
     <message>
         <source>&amp;Refactor</source>
@@ -23760,7 +23760,7 @@ if (a &amp;&amp;
     </message>
     <message>
         <source>Qt</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt</translation>
     </message>
     <message>
         <source>GNU</source>
@@ -24746,7 +24746,7 @@ Do you want to display them anyway?</source>
     </message>
     <message>
         <source>User Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>Användargränssnitt</translation>
     </message>
     <message>
         <source>When Debugging Stops</source>
@@ -29965,7 +29965,7 @@ Rebuilding the project might help.</source>
     </message>
     <message>
         <source>Tag:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tagg:</translation>
     </message>
     <message>
         <source>Image ID:</source>
@@ -31156,7 +31156,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Reset to default.</source>
-        <translation type="unfinished"></translation>
+        <translation>Återställ till standard.</translation>
     </message>
     <message>
         <source>Regular expression:</source>
@@ -31343,7 +31343,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Tags:</source>
-        <translation type="unfinished"></translation>
+        <translation>Taggar:</translation>
     </message>
     <message>
         <source>Commit Information</source>
@@ -34695,7 +34695,7 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Reset to default.</source>
-        <translation type="unfinished"></translation>
+        <translation>Återställ till standard.</translation>
     </message>
     <message>
         <source>Home page:</source>
@@ -35285,7 +35285,7 @@ Would you like to overwrite them?</source>
     </message>
     <message>
         <source>Reset to Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Återställ till standard</translation>
     </message>
     <message>
         <source>iOS Configuration</source>
@@ -38429,7 +38429,7 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>Timestamp</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidsstämpel</translation>
     </message>
     <message>
         <source>Guessed</source>
@@ -38444,7 +38444,7 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>System</translation>
     </message>
     <message>
         <source>Name</source>
@@ -41873,7 +41873,7 @@ Preselects a desktop Qt for building the application if available.</source>
     </message>
     <message>
         <source>Qt</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt</translation>
     </message>
     <message>
         <source>Qt Item Model</source>
@@ -44726,7 +44726,7 @@ What should %1 do now?</source>
     </message>
     <message>
         <source>Reset to Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Återställ till standard</translation>
     </message>
     <message>
         <source>Arguments</source>
@@ -45459,7 +45459,7 @@ These files are preserved.</source>
     </message>
     <message>
         <source>Flags:</source>
-        <translation type="unfinished"></translation>
+        <translation>Flaggor:</translation>
     </message>
     <message>
         <source>Equivalent command line:</source>
@@ -47817,7 +47817,7 @@ Please build the qmldump application on the Qt version options page.</source>
     </message>
     <message>
         <source>Reset to Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Återställ till standard</translation>
     </message>
     <message>
         <source>QML/JS Editing</source>
@@ -48531,7 +48531,7 @@ Saving failed.</source>
     </message>
     <message>
         <source>Timestamp</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidsstämpel</translation>
     </message>
     <message>
         <source>Message</source>
@@ -56595,7 +56595,7 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>Qt Maintenance Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Underhållsverktyg för Qt</translation>
     </message>
     <message>
         <source>Check for Updates</source>
@@ -56603,11 +56603,11 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>Start Maintenance Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Starta underhållsverktyg</translation>
     </message>
     <message>
         <source>Automatic Check for Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisk kontroll av uppdateringar</translation>
     </message>
     <message>
         <source>Automatically runs a scheduled check for updates on a time interval basis. The automatic check for updates will be performed at the scheduled date, or the next startup following it.</source>
@@ -56615,7 +56615,7 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>Check for new Qt versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Leta efter nya Qt-versioner</translation>
     </message>
     <message>
         <source>Check interval basis:</source>
@@ -56623,7 +56623,7 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>Next check date:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nästa datum för kontroll:</translation>
     </message>
     <message>
         <source>Check Now</source>
@@ -56631,11 +56631,11 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>Last check date:</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum för senaste kontroll:</translation>
     </message>
     <message>
         <source>Not checked yet</source>
-        <translation type="unfinished"></translation>
+        <translation>Inte kontrollerad ännu</translation>
     </message>
     <message>
         <source>Daily</source>
@@ -56651,11 +56651,11 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>New updates are available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nya uppdateringar finns tillgängliga.</translation>
     </message>
     <message>
         <source>No new updates are available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga nya uppdateringar finns tillgängliga.</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
@@ -56667,7 +56667,7 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>Configure Filters</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurera filter</translation>
     </message>
 </context>
 <context>
