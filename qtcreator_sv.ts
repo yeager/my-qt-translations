@@ -106,31 +106,31 @@
     <name>AddSignalHandlerDialog</name>
     <message>
         <source>Implement Signal Handler</source>
-        <translation type="unfinished"></translation>
+        <translation>Implementera signalhandtag</translation>
     </message>
     <message>
         <source>Frequently used signals</source>
-        <translation type="unfinished"></translation>
+        <translation>Ofta använda signaler</translation>
     </message>
     <message>
         <source>Property changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Egenskapsändringar</translation>
     </message>
     <message>
         <source>All signals</source>
-        <translation type="unfinished"></translation>
+        <translation>Alla signaler</translation>
     </message>
     <message>
         <source>Signal:</source>
-        <translation type="unfinished"></translation>
+        <translation>Signal:</translation>
     </message>
     <message>
         <source>Choose the signal you want to handle:</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj signalen som du vill hantera:</translation>
     </message>
     <message>
         <source>The item will be exported automatically.</source>
-        <translation type="unfinished"></translation>
+        <translation>Objektet kommer att exporteras automatiskt.</translation>
     </message>
 </context>
 <context>
@@ -149,7 +149,7 @@
     </message>
     <message>
         <source>Smooth</source>
-        <translation type="unfinished"></translation>
+        <translation>Mjuk</translation>
     </message>
     <message>
         <source>Toggles if the smoothing is performed using linear interpolation method. Keeping it unchecked would follow non-smooth method using nearest neighbor. It is mostly applicable on image based items.</source>
@@ -157,7 +157,7 @@
     </message>
     <message>
         <source>Antialiasing</source>
-        <translation type="unfinished"></translation>
+        <translation>Antialiasing</translation>
     </message>
     <message>
         <source>Refines the edges of the image.</source>
@@ -165,7 +165,7 @@
     </message>
     <message>
         <source>Focus</source>
-        <translation type="unfinished"></translation>
+        <translation>Fokus</translation>
     </message>
     <message>
         <source>Sets focus on the component within the enclosing focus scope.</source>
@@ -173,7 +173,7 @@
     </message>
     <message>
         <source>Focus on tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Fokus på flik</translation>
     </message>
     <message>
         <source>Adds the component to the tab focus chain.</source>
@@ -287,11 +287,11 @@
     </message>
     <message>
         <source>Align to</source>
-        <translation type="unfinished"></translation>
+        <translation>Justera till</translation>
     </message>
     <message>
         <source>Key object</source>
-        <translation type="unfinished"></translation>
+        <translation>Nyckelobjekt</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -670,7 +670,7 @@ Bind to AmbientSound.Infinite to loop the current sound forever.</source>
     <name>AnimationTargetSection</name>
     <message>
         <source>Animation Targets</source>
-        <translation type="unfinished"></translation>
+        <translation>Animeringsmål</translation>
     </message>
     <message>
         <source>Target</source>
@@ -678,7 +678,7 @@ Bind to AmbientSound.Infinite to loop the current sound forever.</source>
     </message>
     <message>
         <source>Target to animate the properties of.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mål att animera egenskapen för.</translation>
     </message>
     <message>
         <source>Property</source>
@@ -686,7 +686,7 @@ Bind to AmbientSound.Infinite to loop the current sound forever.</source>
     </message>
     <message>
         <source>Property to animate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Egenskap att animera.</translation>
     </message>
     <message>
         <source>Properties</source>
@@ -694,7 +694,7 @@ Bind to AmbientSound.Infinite to loop the current sound forever.</source>
     </message>
     <message>
         <source>Properties to animate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Egenskaper att animera.</translation>
     </message>
 </context>
 <context>
@@ -735,7 +735,7 @@ Bind to AmbientSound.Infinite to loop the current sound forever.</source>
     <name>Assets</name>
     <message>
         <source>Add a new asset to the project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till en ny tillgång till projektet.</translation>
     </message>
     <message>
         <source>No match found.</source>
@@ -743,11 +743,11 @@ Bind to AmbientSound.Infinite to loop the current sound forever.</source>
     </message>
     <message>
         <source>Looks like you don&apos;t have any assets yet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ser ut som om du inte har några tillgångar ännu.</translation>
     </message>
     <message>
         <source>Drag-and-drop your assets here or click the &apos;+&apos; button to browse assets from the file system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dra och släpp dina tillgångar här eller klicka på &quot;+&quot;-knappen för att bläddra efter tillgångar från filsystemet.</translation>
     </message>
 </context>
 <context>
@@ -841,11 +841,11 @@ Values between 0 and 1 will attenuate the sound, while values above 1 provide an
     <name>AudioRoomSection</name>
     <message>
         <source>Audio Room</source>
-        <translation type="unfinished"></translation>
+        <translation>Ljudrum</translation>
     </message>
     <message>
         <source>Dimensions</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimensioner</translation>
     </message>
     <message>
         <source>Sets the dimensions of the room in 3D space.</source>
@@ -905,7 +905,7 @@ A positive value will increase reverb for higher frequencies and dampen lower fr
     </message>
     <message>
         <source>Floor Material</source>
-        <translation type="unfinished"></translation>
+        <translation>Golvmaterial</translation>
     </message>
     <message>
         <source>Sets the material to use for the floor (negative y) side of the room.</source>
@@ -955,7 +955,7 @@ A positive value will increase reverb for higher frequencies and dampen lower fr
     <name>BackgroundColorMenuActions</name>
     <message>
         <source>Background Color Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Åtgärder för bakgrundsfärg</translation>
     </message>
 </context>
 <context>
@@ -1017,7 +1017,7 @@ A positive value will increase reverb for higher frequencies and dampen lower fr
     </message>
     <message>
         <source>In Use</source>
-        <translation type="unfinished"></translation>
+        <translation>Används</translation>
     </message>
     <message>
         <source>If checked, this model contributes to baked lighting,
@@ -1034,7 +1034,7 @@ for example in form of casting shadows or indirect light.</source>
     </message>
     <message>
         <source>Resolution:</source>
-        <translation type="unfinished"></translation>
+        <translation>Upplösning:</translation>
     </message>
     <message>
         <source>Generated lightmap resolution for this model.</source>
@@ -1055,7 +1055,7 @@ Instead, user is expected to set baking properties manually.</source>
     </message>
     <message>
         <source>Apply &amp; Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillämpa och stäng</translation>
     </message>
     <message>
         <source>Bake</source>
@@ -2193,7 +2193,7 @@ Detta går inte att ångra.</translation>
     </message>
     <message>
         <source>User Assets</source>
-        <translation type="unfinished"></translation>
+        <translation>Användartillgångar</translation>
     </message>
     <message>
         <source>material</source>
@@ -2592,15 +2592,15 @@ Detta går inte att ångra.</translation>
     </message>
     <message>
         <source>Save Custom Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara anpassat förval</translation>
     </message>
     <message>
         <source>Save Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara förval</translation>
     </message>
     <message>
         <source>Preset name</source>
-        <translation type="unfinished"></translation>
+        <translation>Förvalsnamn</translation>
     </message>
     <message>
         <source>MyPreset</source>
@@ -3222,11 +3222,11 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Set Binding</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställ in bindning</translation>
     </message>
     <message>
         <source>Export Property as Alias</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportera egenskap som alias</translation>
     </message>
     <message>
         <source>Insert Keyframe</source>
@@ -4243,7 +4243,7 @@ a highlight component.</source>
     </message>
     <message>
         <source>[None]</source>
-        <translation type="unfinished"></translation>
+        <translation>[Ingen]</translation>
     </message>
     <message>
         <source>Object name</source>
@@ -4312,7 +4312,7 @@ Ids must begin with a lowercase letter.</source>
     <name>ItemPane</name>
     <message>
         <source>Visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Synlighet</translation>
     </message>
     <message>
         <source>Visible</source>
@@ -4392,7 +4392,7 @@ Ids must begin with a lowercase letter.</source>
     <name>LayerSection</name>
     <message>
         <source>Layer</source>
-        <translation type="unfinished"></translation>
+        <translation>Lager</translation>
     </message>
     <message>
         <source>Enabled</source>
@@ -5125,15 +5125,15 @@ a highlight component.</source>
     </message>
     <message>
         <source>Copy properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera egenskaper</translation>
     </message>
     <message>
         <source>Paste properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Klistra in egenskaper</translation>
     </message>
     <message>
         <source>Duplicate</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplicera</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -5145,7 +5145,7 @@ a highlight component.</source>
     </message>
     <message>
         <source>Create New Material</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa nytt material</translation>
     </message>
     <message>
         <source>Add to Content Library</source>
@@ -5153,11 +5153,11 @@ a highlight component.</source>
     </message>
     <message>
         <source>Import Material</source>
-        <translation type="unfinished"></translation>
+        <translation>Importera material</translation>
     </message>
     <message>
         <source>Export Material</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportera material</translation>
     </message>
 </context>
 <context>
@@ -5551,19 +5551,19 @@ Error:
     <name>NewProjectDialog</name>
     <message>
         <source>Let&apos;s create something wonderful with </source>
-        <translation type="unfinished"></translation>
+        <translation>Låt oss skapa någonting vackert med </translation>
     </message>
     <message>
         <source>Qt Design Studio!</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt Design Studio!</translation>
     </message>
     <message>
         <source>Create new project by selecting a suitable Preset and then adjust details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa nytt projekt genom att välja ett lämpligt förval och justera sedan detaljerna.</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Förval</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -5578,7 +5578,7 @@ Error:
     <name>NodeSection</name>
     <message>
         <source>Visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Synlighet</translation>
     </message>
     <message>
         <source>Sets the local visibility of the node.</source>
@@ -5598,11 +5598,11 @@ Error:
     </message>
     <message>
         <source>Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformera</translation>
     </message>
     <message>
         <source>Translation</source>
-        <translation type="unfinished"></translation>
+        <translation>Översättning</translation>
     </message>
     <message>
         <source>Sets the translation of the node.</source>
@@ -5745,7 +5745,7 @@ Error:
     <name>PageSpecifics</name>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Sida</translation>
     </message>
     <message>
         <source>Title</source>
@@ -6160,7 +6160,7 @@ operation is in progress.</source>
     <message>
         <source>Property Action</source>
         <translatorcomment>Action sur une propriété?</translatorcomment>
-        <translation type="unfinished"></translation>
+        <translation>Egenskapsåtgärd</translation>
     </message>
     <message>
         <source>Value</source>
@@ -6168,7 +6168,7 @@ operation is in progress.</source>
     </message>
     <message>
         <source>Value of the property.</source>
-        <translation type="unfinished"></translation>
+        <translation>Värdet för egenskapen.</translation>
     </message>
 </context>
 <context>
@@ -6874,7 +6874,7 @@ Exporting assets: %2</source>
     <name>QmlDesigner::BakeLightsDataModel</name>
     <message>
         <source>Lights</source>
-        <translation type="unfinished"></translation>
+        <translation>Ljus</translation>
     </message>
     <message>
         <source>Models</source>
@@ -6978,19 +6978,19 @@ Exporting assets: %2</source>
     </message>
     <message>
         <source>Assignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilldelning</translation>
     </message>
     <message>
         <source>Set Property</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange egenskap</translation>
     </message>
     <message>
         <source>Set State</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange tillstånd</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv ut</translation>
     </message>
     <message>
         <source>Empty</source>
@@ -7264,19 +7264,19 @@ Exporting assets: %2</source>
     </message>
     <message>
         <source>Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Föregående</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Nästa</translation>
     </message>
     <message>
         <source>Go to error</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå till fel</translation>
     </message>
     <message>
         <source>Go to warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå till varning</translation>
     </message>
 </context>
 <context>
@@ -8049,7 +8049,7 @@ Please check the output pane for more information.</source>
     <name>QmlDesigner::Internal::AssetImportUpdateDialog</name>
     <message>
         <source>Select Files to Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj filer att uppdatera</translation>
     </message>
     <message>
         <source>Expand All</source>
@@ -8101,7 +8101,7 @@ Please check the output pane for more information.</source>
     </message>
     <message>
         <source>Lock Workspaces</source>
-        <translation type="unfinished"></translation>
+        <translation>Lås arbetsytor</translation>
     </message>
     <message>
         <source>Reset Active</source>
@@ -8693,11 +8693,11 @@ Locked components cannot be modified or selected.</source>
     <name>QmlDesigner::OpenUiQmlFileDialog</name>
     <message>
         <source>Open ui.qml file</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna ui.qml-fil</translation>
     </message>
     <message>
         <source>Do not show this dialog again</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa inte denna dialogruta igen</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -8971,47 +8971,47 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Cu&amp;t</source>
-        <translation type="unfinished"></translation>
+        <translation>Klipp &amp;ut</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kopiera</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Klistra &amp;in</translation>
     </message>
     <message>
         <source>Select &amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>Markera &amp;allt</translation>
     </message>
     <message>
         <source>Export as &amp;Image...</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportera som &amp;bild...</translation>
     </message>
     <message>
         <source>Take Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta skärmbild</translation>
     </message>
     <message>
         <source>&amp;Duplicate</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Duplicera</translation>
     </message>
     <message>
         <source>Edit Global Annotations...</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera globala anteckningar...</translation>
     </message>
     <message>
         <source>Save %1 As...</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara %1 som...</translation>
     </message>
     <message>
         <source>&amp;Save %1</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Spara %1</translation>
     </message>
     <message>
         <source>Revert %1 to Saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Återskapa %1 till sparad</translation>
     </message>
     <message>
         <source>Close %1</source>
@@ -9019,7 +9019,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Close All Except %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Stäng alla förutom %1</translation>
     </message>
     <message>
         <source>Close Others</source>
@@ -9582,7 +9582,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Föregående</translation>
     </message>
     <message>
         <source>Play</source>
@@ -9590,7 +9590,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Nästa</translation>
     </message>
     <message>
         <source>To End</source>
@@ -9629,7 +9629,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Timeline view</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidslinje-vy</translation>
     </message>
 </context>
 <context>
@@ -9641,7 +9641,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Add Timeline</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till tidslinje</translation>
     </message>
     <message>
         <source>This file does not contain a timeline. &lt;br&gt;&lt;br&gt;To create an animation, add a timeline by clicking the + button.</source>
@@ -14802,7 +14802,7 @@ a matches issues where the value contains the letter &apos;a&apos;
     <name>QtC::Bazaar</name>
     <message>
         <source>General Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Allmän information</translation>
     </message>
     <message>
         <source>Branch:</source>
@@ -14843,7 +14843,7 @@ Local commits are not pushed to the master branch until a normal commit is perfo
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished"></translation>
+        <translation>Användare</translation>
     </message>
     <message>
         <source>Username to use by default on commit.</source>
@@ -14938,7 +14938,7 @@ Local pulls are not applied to the master branch.</source>
     </message>
     <message>
         <source>Create prefix</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa prefix</translation>
     </message>
     <message>
         <source>Local</source>
@@ -15193,7 +15193,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>One Line</source>
-        <translation type="unfinished"></translation>
+        <translation>En rad</translation>
     </message>
     <message>
         <source>GNU Change Log</source>
@@ -21571,7 +21571,7 @@ Would you like to overwrite them?</source>
     </message>
     <message>
         <source>, </source>
-        <translation type="unfinished"></translation>
+        <translation>, </translation>
     </message>
     <message>
         <source>Search was canceled.</source>
@@ -24702,7 +24702,7 @@ Do you want to display them anyway?</source>
     </message>
     <message>
         <source>Statistics</source>
-        <translation type="unfinished"></translation>
+        <translation>Statistik</translation>
     </message>
     <message>
         <source>Load Chrome Trace Format File</source>
@@ -36129,7 +36129,7 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Capabilities:</source>
-        <translation type="unfinished"></translation>
+        <translation>Förmågor:</translation>
     </message>
     <message>
         <source>Dynamic Capabilities:</source>
@@ -36439,7 +36439,7 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Save Macro</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara makro</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -36451,7 +36451,7 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Playing Macro</source>
-        <translation type="unfinished"></translation>
+        <translation>Spelar upp makro</translation>
     </message>
     <message>
         <source>An error occurred while replaying the macro, execution stopped.</source>
@@ -36459,11 +36459,11 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Stop Recording Macro</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoppa inspelning av makro</translation>
     </message>
     <message>
         <source>Record Macro</source>
-        <translation type="unfinished"></translation>
+        <translation>Spela in makro</translation>
     </message>
     <message>
         <source>Text Editing &amp;Macros</source>
@@ -36471,19 +36471,19 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Ctrl+[</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+[</translation>
     </message>
     <message>
         <source>Alt+[</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+[</translation>
     </message>
     <message>
         <source>Ctrl+]</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+]</translation>
     </message>
     <message>
         <source>Alt+]</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+]</translation>
     </message>
     <message>
         <source>Play Last Macro</source>
@@ -36491,11 +36491,11 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Alt+R</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+R</translation>
     </message>
     <message>
         <source>Meta+R</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta+R</translation>
     </message>
     <message>
         <source>Save Last Macro</source>
@@ -38239,7 +38239,7 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>Statistics</source>
-        <translation type="unfinished"></translation>
+        <translation>Statistik</translation>
     </message>
     <message>
         <source>Flame Graph</source>
@@ -48036,7 +48036,7 @@ Please build the qmldump application on the Qt version options page.</source>
     </message>
     <message>
         <source>&amp;Port:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Port:</translation>
     </message>
     <message>
         <source>Start QML Profiler</source>
@@ -48056,7 +48056,7 @@ Please build the qmldump application on the Qt version options page.</source>
     </message>
     <message>
         <source>Calls</source>
-        <translation type="unfinished"></translation>
+        <translation>Anrop</translation>
     </message>
     <message>
         <source>Allocations</source>
@@ -48064,7 +48064,7 @@ Please build the qmldump application on the Qt version options page.</source>
     </message>
     <message>
         <source>Memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Minne</translation>
     </message>
     <message>
         <source>Various Events</source>
@@ -48138,7 +48138,7 @@ Do you want to retry and wait %2 s?</source>
     </message>
     <message>
         <source>%1 s</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 s</translation>
     </message>
     <message>
         <source>Elapsed: %1</source>
@@ -48235,15 +48235,15 @@ Do you want to save the data first?</source>
     </message>
     <message>
         <source>Statistics</source>
-        <translation type="unfinished"></translation>
+        <translation>Statistik</translation>
     </message>
     <message>
         <source>Copy Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera rad</translation>
     </message>
     <message>
         <source>Copy Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera tabell</translation>
     </message>
     <message>
         <source>Extended Event Statistics</source>
@@ -48255,7 +48255,7 @@ Do you want to save the data first?</source>
     </message>
     <message>
         <source>Memory Allocation</source>
-        <translation type="unfinished"></translation>
+        <translation>Minnesallokering</translation>
     </message>
     <message>
         <source>Memory Usage</source>
@@ -48271,18 +48271,18 @@ Do you want to save the data first?</source>
     </message>
     <message>
         <source>Total</source>
-        <translation type="unfinished"></translation>
+        <translation>Totalt</translation>
     </message>
     <message numerus="yes">
         <source>%n byte(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n byte</numerusform>
+            <numerusform>%n bytes</numerusform>
         </translation>
     </message>
     <message>
         <source>Allocated</source>
-        <translation type="unfinished"></translation>
+        <translation>Allokerat</translation>
     </message>
     <message>
         <source>Deallocated</source>
@@ -48430,7 +48430,7 @@ Do you want to save the data first?</source>
     </message>
     <message>
         <source>Waiting for data</source>
-        <translation type="unfinished"></translation>
+        <translation>Väntar på data</translation>
     </message>
     <message>
         <source>Analyze Current Range</source>
@@ -48836,7 +48836,7 @@ the program.</source>
     </message>
     <message>
         <source>Wait</source>
-        <translation type="unfinished"></translation>
+        <translation>Vänta</translation>
     </message>
     <message>
         <source>GUI Thread Sync</source>
@@ -48908,11 +48908,11 @@ the program.</source>
     </message>
     <message>
         <source>Stage</source>
-        <translation type="unfinished"></translation>
+        <translation>Steg</translation>
     </message>
     <message>
         <source>Glyphs</source>
-        <translation type="unfinished"></translation>
+        <translation>Glyfer</translation>
     </message>
 </context>
 <context>
@@ -49459,7 +49459,7 @@ Are you sure you want to continue?</source>
     <message>
         <source>&lt;unknown&gt;</source>
         <translatorcomment>contexte ?</translatorcomment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;okänd&gt;</translation>
     </message>
     <message>
         <source>System</source>
@@ -49498,7 +49498,7 @@ Are you sure you want to continue?</source>
     <message>
         <source>Embedded Linux</source>
         <comment>Qt Version is used for embedded Linux development</comment>
-        <translation type="unfinished"></translation>
+        <translation>Inbäddad Linux</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -49522,7 +49522,7 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>Qt %{Qt:Version} (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt %{Qt:Version} (%2)</translation>
     </message>
     <message>
         <source> (on %1)</source>
@@ -49554,7 +49554,7 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>ABI:</source>
-        <translation type="unfinished"></translation>
+        <translation>ABI:</translation>
     </message>
     <message>
         <source>Source:</source>
@@ -49562,11 +49562,11 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>mkspec:</source>
-        <translation type="unfinished"></translation>
+        <translation>mkspec:</translation>
     </message>
     <message>
         <source>qmake:</source>
-        <translation type="unfinished"></translation>
+        <translation>qmake:</translation>
     </message>
     <message>
         <source>Default:</source>
@@ -50888,7 +50888,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Prefix:</source>
-        <translation type="unfinished"></translation>
+        <translation>Prefix:</translation>
     </message>
     <message>
         <source>Language:</source>
@@ -50896,7 +50896,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Alias:</source>
-        <translation type="unfinished"></translation>
+        <translation>Alias:</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
@@ -50912,7 +50912,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Remove Prefix...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort prefix...</translation>
     </message>
     <message>
         <source>Rename...</source>
@@ -50920,31 +50920,31 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Remove File...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort fil...</translation>
     </message>
     <message>
         <source>Open in Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna i redigerare</translation>
     </message>
     <message>
         <source>Copy Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera sökväg</translation>
     </message>
     <message>
         <source>Copy Path &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera sökväg &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Copy URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera URL</translation>
     </message>
     <message>
         <source>Copy URL &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera URL &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Remove Prefix</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort prefix</translation>
     </message>
     <message>
         <source>Remove prefix %1 and all its files?</source>
@@ -50960,19 +50960,19 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Rename Prefix</source>
-        <translation type="unfinished"></translation>
+        <translation>Byt namn på prefix</translation>
     </message>
     <message>
         <source>Open With</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna med</translation>
     </message>
     <message>
         <source>Rename File...</source>
-        <translation type="unfinished"></translation>
+        <translation>Byt namn på fil...</translation>
     </message>
     <message>
         <source>Copy Resource Path to Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera resurssökväg till urklipp</translation>
     </message>
     <message>
         <source>Sort Alphabetically</source>
@@ -50980,23 +50980,23 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Add Prefix...</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till prefix...</translation>
     </message>
     <message>
         <source>Change Prefix...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra prefix...</translation>
     </message>
     <message>
         <source>Add Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till filer</translation>
     </message>
     <message>
         <source>Add Prefix</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till prefix</translation>
     </message>
     <message>
         <source>Remove Missing Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort saknade filer</translation>
     </message>
     <message>
         <source>Invalid file location</source>
@@ -51008,7 +51008,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <source>Skip</source>
@@ -51020,27 +51020,27 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Choose Copy Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj kopieringsplats</translation>
     </message>
     <message>
         <source>Overwriting Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Överskrivning misslyckades</translation>
     </message>
     <message>
         <source>Could not overwrite file %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte skriva över filen %1.</translation>
     </message>
     <message>
         <source>Copying Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiering misslyckades</translation>
     </message>
     <message>
         <source>Could not copy the file to %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte kopiera filen till %1.</translation>
     </message>
     <message>
         <source>The file name is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Filnamnet är tomt.</translation>
     </message>
     <message>
         <source>XML error on line %1, col %2: %3</source>
@@ -51052,7 +51052,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Cannot save file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte spara fil.</translation>
     </message>
     <message>
         <source>Open File</source>
@@ -51060,11 +51060,11 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>All files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Alla filer (*)</translation>
     </message>
     <message>
         <source>%1 Prefix: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Prefix: %2</translation>
     </message>
 </context>
 <context>
@@ -51273,7 +51273,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Export Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportera inställningar</translation>
     </message>
     <message>
         <source>Screen Recording</source>
@@ -51284,15 +51284,15 @@ The local and remote ports are determined automatically.</source>
     <name>QtC::ScxmlEditor</name>
     <message>
         <source>Basic Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Grundläggande färger</translation>
     </message>
     <message>
         <source>Last used colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Senaste använda färger</translation>
     </message>
     <message>
         <source>Create New Color Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa nytt färgtema</translation>
     </message>
     <message>
         <source>Theme ID</source>
@@ -51468,7 +51468,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Metadata</translation>
     </message>
     <message>
         <source>Other tags</source>
@@ -51484,7 +51484,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Structure</source>
-        <translation type="unfinished"></translation>
+        <translation>Struktur</translation>
     </message>
     <message>
         <source>Expand All</source>
@@ -51624,7 +51624,7 @@ Description:	%4</source>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Skärmbild</translation>
     </message>
     <message>
         <source>Screenshot (Ctrl + Shift + C)</source>
@@ -51937,7 +51937,7 @@ Row: %4, Column: %5
     </message>
     <message>
         <source>Switch Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Växla läge</translation>
     </message>
 </context>
 <context>
@@ -52377,7 +52377,7 @@ Refusing to record test case &quot;%2&quot;.</source>
     </message>
     <message>
         <source>Test Results</source>
-        <translation type="unfinished">Testresultat</translation>
+        <translation>Testresultat</translation>
     </message>
     <message>
         <source>Runner/Server Log</source>
@@ -52417,7 +52417,7 @@ Refusing to record test case &quot;%2&quot;.</source>
     </message>
     <message>
         <source>Warning Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Varningsmeddelanden</translation>
     </message>
     <message>
         <source>Log Messages</source>
@@ -52537,7 +52537,7 @@ Refusing to record test case &quot;%2&quot;.</source>
     </message>
     <message>
         <source>Verbose log</source>
-        <translation type="unfinished"></translation>
+        <translation>Utförlig logg</translation>
     </message>
     <message>
         <source>Minimize IDE</source>
@@ -61640,7 +61640,7 @@ it reaches the start or end.</source>
     </message>
     <message>
         <source>Method</source>
-        <translation type="unfinished"></translation>
+        <translation>Metod</translation>
     </message>
     <message>
         <source>Sets the item component&apos;s method that is affected by the &lt;b&gt;Target&lt;/b&gt; component&apos;s &lt;b&gt;Signal&lt;/b&gt;.</source>
@@ -62896,7 +62896,7 @@ Are you sure you want to remove it?</source>
     </message>
     <message>
         <source>Flags</source>
-        <translation type="unfinished"></translation>
+        <translation>Flaggor</translation>
     </message>
     <message>
         <source>Modality</source>
@@ -62922,7 +62922,7 @@ Are you sure you want to remove it?</source>
     </message>
     <message>
         <source>Start Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Starta hämtning</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -62930,7 +62930,7 @@ Are you sure you want to remove it?</source>
     </message>
     <message>
         <source>Folder </source>
-        <translation type="unfinished"></translation>
+        <translation>Mapp </translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -62946,11 +62946,11 @@ Are you sure you want to remove it?</source>
     </message>
     <message>
         <source>Finish</source>
-        <translation type="unfinished"></translation>
+        <translation>Färdig</translation>
     </message>
     <message>
         <source>Download failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Hämtning misslyckades</translation>
     </message>
 </context>
 <context>
