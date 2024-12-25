@@ -105,7 +105,7 @@ Vill du ersätta den?</translation>
     </message>
     <message>
         <source>QML Debugger: Ignoring &quot;-qmljsdebugger=%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>QML Debugger: Ignorerar &quot;-qmljsdebugger=%1&quot;.</translation>
     </message>
     <message>
         <source>The format is &quot;-qmljsdebugger=[file:&lt;file&gt;|port:&lt;port_from&gt;][,&lt;port_to&gt;][,host:&lt;ip address&gt;][,block][,services:&lt;service&gt;][,&lt;service&gt;]*&quot;</source>
@@ -357,7 +357,7 @@ Vill du ersätta den?</translation>
     </message>
     <message>
         <source>JavaScript declaration outside Script element</source>
-        <translation type="unfinished"></translation>
+        <translation>JavaScript-deklaration utanför Script-element</translation>
     </message>
     <message>
         <source>Illegal unicode escape sequence</source>
@@ -365,7 +365,7 @@ Vill du ersätta den?</translation>
     </message>
     <message>
         <source>Unexpected token &apos;.&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Oväntad token &apos;.&apos;</translation>
     </message>
     <message>
         <source>Stray newline in string literal</source>
@@ -433,7 +433,7 @@ Vill du ersätta den?</translation>
     </message>
     <message>
         <source>Syntax error</source>
-        <translation type="unfinished"></translation>
+        <translation>Syntaxfel</translation>
     </message>
     <message>
         <source>Imported file must be a script</source>
@@ -465,26 +465,26 @@ Vill du ersätta den?</translation>
     </message>
     <message>
         <source>Expected token `%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Förväntade token `%1&apos;</translation>
     </message>
 </context>
 <context>
     <name>QQmlComponent</name>
     <message>
         <source>Invalid empty URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig tom URL</translation>
     </message>
     <message>
         <source>createObject: value is not an object</source>
-        <translation type="unfinished"></translation>
+        <translation>createObject: value är inte ett object</translation>
     </message>
     <message>
         <source>Maximum call stack size exceeded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximal storlek för call stack överstegs.</translation>
     </message>
     <message>
         <source>Object or context destroyed during incubation</source>
-        <translation type="unfinished"></translation>
+        <translation>Object eller context förstörd under incubation</translation>
     </message>
 </context>
 <context>
@@ -495,7 +495,7 @@ Vill du ersätta den?</translation>
     </message>
     <message>
         <source>Cannot mark object as component</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte markera objekt som komponent</translation>
     </message>
     <message>
         <source>Component objects cannot declare new functions.</source>
@@ -511,7 +511,7 @@ Vill du ersätta den?</translation>
     </message>
     <message>
         <source>Cannot create empty component specification</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte skapa tom komponentspecifikation</translation>
     </message>
     <message>
         <source>Component elements may not contain properties other than id</source>
@@ -523,7 +523,7 @@ Vill du ersätta den?</translation>
     </message>
     <message>
         <source>id is not unique</source>
-        <translation type="unfinished"></translation>
+        <translation>id är inte unikt</translation>
     </message>
     <message>
         <source>Circular alias reference detected</source>
@@ -535,11 +535,11 @@ Vill du ersätta den?</translation>
     </message>
     <message>
         <source>Invalid alias target location: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig alias target location: %1</translation>
     </message>
     <message>
         <source>Unresolved alias found</source>
-        <translation type="unfinished"></translation>
+        <translation>Olöst alias hittades</translation>
     </message>
 </context>
 <context>
@@ -550,39 +550,39 @@ Vill du ersätta den?</translation>
     </message>
     <message>
         <source>executeSql called outside transaction()</source>
-        <translation type="unfinished"></translation>
+        <translation>executeSql anropad utanför transaction()</translation>
     </message>
     <message>
         <source>Read-only Transaction</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrivskyddad Transaction</translation>
     </message>
     <message>
         <source>Version mismatch: expected %1, found %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Versionen stämmer inte: förväntade %1, fick %2</translation>
     </message>
     <message>
         <source>SQL transaction failed</source>
-        <translation type="unfinished"></translation>
+        <translation>SQL transaktion misslyckades</translation>
     </message>
     <message>
         <source>transaction: missing callback</source>
-        <translation type="unfinished"></translation>
+        <translation>transaction: saknar callback</translation>
     </message>
     <message>
         <source>SQL: can&apos;t create database, offline storage is disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>SQL: kan inte skapa databasen, offline-lagring är inaktiverad.</translation>
     </message>
     <message>
         <source>LocalStorage: can&apos;t create path %1</source>
-        <translation type="unfinished"></translation>
+        <translation>LocalStorage: kan inte skapa sökväg %1</translation>
     </message>
     <message>
         <source>SQL: database version mismatch</source>
-        <translation type="unfinished"></translation>
+        <translation>SQL: databasversionen stämmer inte</translation>
     </message>
     <message>
         <source>SQL: Cannot open database</source>
-        <translation type="unfinished"></translation>
+        <translation>SQL: Kan inte öppna databasen</translation>
     </message>
 </context>
 <context>
@@ -700,7 +700,7 @@ Vill du ersätta den?</translation>
     </message>
     <message>
         <source>File was compiled ahead of time with an incompatible version of Qt and the original file cannot be found. Please recompile</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen kompilerades i framtiden med en inkompatibel version av Qt och originalfilen kan inte hittas. Kompilera om</translation>
     </message>
     <message>
         <source>No such file or directory</source>
@@ -708,27 +708,27 @@ Vill du ersätta den?</translation>
     </message>
     <message>
         <source>Script %1 unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriptet %1 inte tillgängligt</translation>
     </message>
     <message>
         <source>Type %1 has no inline component type called %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Typen %1 har ingen inline component type kallad %2</translation>
     </message>
     <message>
         <source>Type %1 unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation>Typen %1 inte tillgänglig</translation>
     </message>
     <message>
         <source>No matching type found, pragma Singleton files cannot be used by QQmlComponent.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen matchande type hittades, pragma Singleton-filer kan inte användas av QQmlComponent.</translation>
     </message>
     <message>
         <source>pragma Singleton used with a non composite singleton type %1</source>
-        <translation type="unfinished"></translation>
+        <translation>pragma Singleton användes med en icke-komposit singleton type %1</translation>
     </message>
     <message>
         <source>qmldir defines type as singleton, but no pragma Singleton found in type %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>qmldir definierar type som singleton, men ingen pragma Singleton hittades i typen %1.</translation>
     </message>
     <message>
         <source>File is empty</source>
@@ -744,7 +744,7 @@ Vill du ersätta den?</translation>
     </message>
     <message>
         <source>Unreported error adding script import to import database</source>
-        <translation type="unfinished"></translation>
+        <translation>Orapporterat fel vid tilläggning av skriptimport till importdatabasen</translation>
     </message>
     <message>
         <source>%1 %2</source>
@@ -840,7 +840,7 @@ Vill du ersätta den?</translation>
     <name>QQmlPropertyCacheCreatorBase</name>
     <message>
         <source>Type cannot be used for &apos;on&apos; assignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Type kan inte användas för &apos;on&apos;-tilldelning</translation>
     </message>
     <message>
         <source>Fully dynamic types cannot declare new properties.</source>
@@ -856,19 +856,19 @@ Vill du ersätta den?</translation>
     </message>
     <message>
         <source>Type &apos;%1&apos; cannot declare new members.</source>
-        <translation type="unfinished"></translation>
+        <translation>Typen &quot;%1&quot; kan inte deklarera nya medlemmar.</translation>
     </message>
     <message>
         <source>Non-existent attached object</source>
-        <translation type="unfinished"></translation>
+        <translation>Icke-existerande fäst objekt</translation>
     </message>
     <message>
         <source>Cannot override FINAL property</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte åsidosätta FINAL-egenskap</translation>
     </message>
     <message>
         <source>Invalid signal parameter type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig signalparametertyp: %1</translation>
     </message>
     <message>
         <source>Duplicate signal name: invalid override of property change signal or superclass signal</source>
@@ -880,7 +880,7 @@ Vill du ersätta den?</translation>
     </message>
     <message>
         <source>Invalid property type</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig egenskapstyp</translation>
     </message>
     <message>
         <source>Cyclic alias</source>
@@ -888,210 +888,210 @@ Vill du ersätta den?</translation>
     </message>
     <message>
         <source>Invalid alias target</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltigt aliasmål</translation>
     </message>
 </context>
 <context>
     <name>QQmlPropertyValidator</name>
     <message>
         <source>Property assignment expected</source>
-        <translation type="unfinished"></translation>
+        <translation>Egenskaptilldelning förväntades</translation>
     </message>
     <message>
         <source>&quot;%1.%2&quot; is not available in %3 %4.%5.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1.%2&quot; är inte tillgänglig i %3 %4.%5.</translation>
     </message>
     <message>
         <source>&quot;%1.%2&quot; is not available due to component versioning.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1.%2&quot; är inte tillgängliga på grund av component versioning.</translation>
     </message>
     <message>
         <source>Cannot assign a value directly to a grouped property</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte tilldela ett värde direkt till en grupperad egenskap</translation>
     </message>
     <message>
         <source>Invalid use of namespace</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig användning av namnrymd</translation>
     </message>
     <message>
         <source>Invalid attached object assignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltigt fäst objekttilldelning</translation>
     </message>
     <message>
         <source>%1 properties cannot be used here</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-egenskaper kan inte användas här</translation>
     </message>
     <message>
         <source>Invalid property assignment: &quot;%1&quot; is a read-only property</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig egenskapstilldelning: &quot;%1&quot; är en skrivskyddad egenskap</translation>
     </message>
     <message>
         <source>Cannot assign multiple values to a script property</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte tilldela flera värden till en script-egenskap</translation>
     </message>
     <message>
         <source>Cannot assign multiple values to a singular property</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte tilldela flera värden till en singular-egenskap</translation>
     </message>
     <message>
         <source>Property has already been assigned a value</source>
-        <translation type="unfinished"></translation>
+        <translation>Egenskapen har redan blivit tilldelat ett värde</translation>
     </message>
     <message>
         <source>Invalid grouped property access</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig grupperad egenskapsåtkomst</translation>
     </message>
     <message>
         <source>Invalid grouped property access: Property &quot;%1&quot; with primitive type &quot;%2&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig grupperad egenskapsåtkomst: Property &quot;%1&quot; med primitiva typen &quot;%2&quot;.</translation>
     </message>
     <message>
         <source>Invalid grouped property access: Property &quot;%1&quot; with type &quot;%2&quot;, which is neither a value nor an object type</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig grupperad egenskapsåtkomst: Property &quot;%1&quot; med typen &quot;%2&quot;, som varken är ett värde eller en objekttyp</translation>
     </message>
     <message>
         <source>Unsupported grouped property access: Property &quot;%1&quot; with type &quot;%2&quot; has a dynamic meta-object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Grupperad egenskapsåtkomst stöds inte för Property &quot;%1&quot; med typen &quot;%2&quot; har en dynamiskt metaobjekt.</translation>
     </message>
     <message>
         <source>Cannot assign to non-existent default property</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte tilldela till icke-existerande standardegenskapen</translation>
     </message>
     <message>
         <source>Cannot assign to non-existent property &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte tilldela till icke-existerande egenskapen &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Invalid use of id property with a value type</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig användning av id property med en value-typ</translation>
     </message>
     <message>
         <source>Cannot assign primitives to lists</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte tilldela primitiver till listor</translation>
     </message>
     <message>
         <source>Invalid property assignment: unknown enumeration</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig egenskapstilldelning: okänd enumeration</translation>
     </message>
     <message>
         <source>Invalid property assignment: string expected</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig egenskapstilldelning: string förväntades</translation>
     </message>
     <message>
         <source>Invalid property assignment: string or string list expected</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig egenskapstilldelning: string eller string list förväntades</translation>
     </message>
     <message>
         <source>Invalid property assignment: byte array expected</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig egenskapstilldelning: byte array förväntades</translation>
     </message>
     <message>
         <source>Invalid property assignment: url expected</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig egenskapstilldelning: url förväntades</translation>
     </message>
     <message>
         <source>Invalid property assignment: unsigned int expected</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig egenskapstilldelning: unsigned int förväntades</translation>
     </message>
     <message>
         <source>Invalid property assignment: int expected</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig egenskapstilldelning: int förväntades</translation>
     </message>
     <message>
         <source>Invalid property assignment: number expected</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig egenskapstilldelning: number förväntades</translation>
     </message>
     <message>
         <source>Invalid property assignment: color expected</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig egenskapstilldelning: color förväntades</translation>
     </message>
     <message>
         <source>Invalid property assignment: date expected</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig egenskapstilldelning: date förväntades</translation>
     </message>
     <message>
         <source>Invalid property assignment: time expected</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig egenskapstilldelning: time förväntades</translation>
     </message>
     <message>
         <source>Invalid property assignment: datetime expected</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig egenskapstilldelning: datetime förväntades</translation>
     </message>
     <message>
         <source>Invalid property assignment: point expected</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig egenskapstilldelning: point förväntades</translation>
     </message>
     <message>
         <source>Invalid property assignment: size expected</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig egenskapstilldelning: size förväntades</translation>
     </message>
     <message>
         <source>Invalid property assignment: rect expected</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig egenskapstilldelning: rect förväntades</translation>
     </message>
     <message>
         <source>Invalid property assignment: boolean expected</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig egenskapstilldelning: boolean förväntades</translation>
     </message>
     <message>
         <source>Invalid property assignment: %1 expected</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig egenskapstilldelning: %1 förväntades</translation>
     </message>
     <message>
         <source>Invalid property assignment: regular expression expected; use /pattern/ syntax</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig egenskapstilldelning: reguljärt uttryck förväntades; använd /pattern/-syntax</translation>
     </message>
     <message>
         <source>Invalid property assignment: number or array of numbers expected</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig egenskapstilldelning: number eller array av numbers förväntades</translation>
     </message>
     <message>
         <source>Invalid property assignment: int or array of ints expected</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig egenskapstilldelning: int eller array av ints förväntades</translation>
     </message>
     <message>
         <source>Invalid property assignment: bool or array of bools expected</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig egenskapstilldelning: bool eller array av bools förväntades</translation>
     </message>
     <message>
         <source>Invalid property assignment: url or array of urls expected</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig egenskapstilldelning: url eller array av urls förväntades</translation>
     </message>
     <message>
         <source>Invalid property assignment: string or array of strings expected</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig egenskapstilldelning: string eller array av strings förväntades</translation>
     </message>
     <message>
         <source>Invalid property assignment: unsupported type &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig egenskapstilldelning: typen &quot;%1&quot; stöds inte</translation>
     </message>
     <message>
         <source>&quot;%1&quot; cannot operate on &quot;%2&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; kan inte operera på &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Cannot assign object to list property &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte tilldela objekt till listegenskapen &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Cannot assign value of type &quot;%1&quot; to property &quot;%2&quot;, expecting &quot;%3&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte tilldela värde av typen &quot;%1&quot; till egenskapen &quot;%2&quot;, förväntade &quot;%3&quot;</translation>
     </message>
     <message>
         <source>Invalid property assignment: script expected</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig egenskapstilldelning: script förväntades</translation>
     </message>
     <message>
         <source>Cannot assign value of type &quot;%1&quot; to property &quot;%2&quot;, expecting an object</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte tilldela värde av typen &quot;%1&quot; till egenskapen &quot;%2&quot;, förväntar ett objekt</translation>
     </message>
     <message>
         <source>Cannot assign object of type &quot;%1&quot; to property of type &quot;%2&quot; as the former is neither the same as the latter nor a sub-class of it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte tilldela objekt av typen &quot;%1&quot; till egenskap av typen &quot;%2&quot; eftersom den tidigare varken är samma som den senare eller en sub-class av den.</translation>
     </message>
     <message>
         <source>Cannot assign to property of unknown type &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte tilldela till egenskap av okänd typ &quot;%1&quot;.</translation>
     </message>
 </context>
 <context>
@@ -1162,11 +1162,11 @@ Vill du ersätta den?</translation>
     <name>QQmlJSTypeDescriptionReader</name>
     <message>
         <source>Could not parse document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte tolka dokument.</translation>
     </message>
     <message>
         <source>Expected a single import.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förväntade en enda import.</translation>
     </message>
     <message>
         <source>Expected import of QtQuick.tooling.</source>
@@ -1174,7 +1174,7 @@ Vill du ersätta den?</translation>
     </message>
     <message>
         <source>Import statement without version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Import-villkor utan version.</translation>
     </message>
     <message>
         <source>Major version different from 1 not supported.</source>
@@ -1210,7 +1210,7 @@ Vill du ersätta den?</translation>
     </message>
     <message>
         <source>Component definition is missing a name binding.</source>
-        <translation type="unfinished"></translation>
+        <translation>Komponentdefinition saknar en namnbindning.</translation>
     </message>
     <message>
         <source>Expected only Parameter in object definitions.</source>
@@ -1226,7 +1226,7 @@ Vill du ersätta den?</translation>
     </message>
     <message>
         <source>Expected script binding.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förväntade skriptbindning.</translation>
     </message>
     <message>
         <source>Expected only type, name, revision, isPointer, isReadonly, isRequired, isFinal, isList, bindable, read, write, reset, notify, index, and privateClass and script bindings.</source>
@@ -1254,7 +1254,7 @@ Vill du ersätta den?</translation>
     </message>
     <message>
         <source>Expected true or false after colon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förväntade true eller false efter kolon.</translation>
     </message>
     <message>
         <source>Expected numeric literal after colon.</source>
@@ -1262,7 +1262,7 @@ Vill du ersätta den?</translation>
     </message>
     <message>
         <source>Expected integer after colon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förväntade heltal efter kolon.</translation>
     </message>
     <message>
         <source>Expected array of strings after colon.</source>
@@ -1290,7 +1290,7 @@ Vill du ersätta den?</translation>
     </message>
     <message>
         <source>Expected integer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förväntade heltal.</translation>
     </message>
     <message>
         <source>Meta object revision and export version differ.
@@ -1368,7 +1368,7 @@ Revision %1 corresponds to version %2.%3; it should be %4.%5.</source>
     </message>
     <message>
         <source>Error extracting integer from &apos;%1&apos; at char %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid extrahering av heltal från &quot;%1&quot; vid char %2.</translation>
     </message>
     <message>
         <source>Unclosed quoted string at char %1.</source>
@@ -1384,7 +1384,7 @@ Revision %1 corresponds to version %2.%3; it should be %4.%5.</source>
     </message>
     <message>
         <source>Filter from string not yet implemented.</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrera från sträng ännu inte implementerat.</translation>
     </message>
     <message>
         <source>Unexpected character &apos;%1&apos; after square bracket at %2.</source>
@@ -1507,11 +1507,11 @@ Revision %1 corresponds to version %2.%3; it should be %4.%5.</source>
     <name>DomItem</name>
     <message>
         <source>Root context %1 is not known</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotkontext %1 är inte känd</translation>
     </message>
     <message>
         <source>Circular reference:</source>
-        <translation type="unfinished"></translation>
+        <translation>Cirkulär referens:</translation>
     </message>
     <message>
         <source>Resolve with path ending with empty path, matches nothing.</source>
@@ -1551,7 +1551,7 @@ Revision %1 corresponds to version %2.%3; it should be %4.%5.</source>
     </message>
     <message>
         <source>Prototype chain called outside object</source>
-        <translation type="unfinished"></translation>
+        <translation>Prototype-kedja anropad utanför object</translation>
     </message>
     <message>
         <source>Detected multiple visit of %1 visiting prototypes of %2</source>
@@ -1596,15 +1596,15 @@ Revision %1 corresponds to version %2.%3; it should be %4.%5.</source>
     <name>ModuleIndex</name>
     <message>
         <source>Module %1 (unversioned) has versioned entries for &apos;%2&apos; from %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Modulen %1 (unversioned) har versioned-poster för &apos;%2&apos; från %3</translation>
     </message>
     <message>
         <source>Module %1 (major version %2) has versioned and unversioned entries for &apos;%3&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Modulen %1 (major version %2) har poster för versioned och unversioned &apos;%3&apos;</translation>
     </message>
     <message>
         <source>Failed to find main qmldir file for %1 %2 in %3.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att hitta main qmldir-filen för %1 %2 i %3.</translation>
     </message>
 </context>
 <context>
@@ -1718,27 +1718,27 @@ Revision %1 corresponds to version %2.%3; it should be %4.%5.</source>
     <name>QQmlConnections</name>
     <message>
         <source>Cannot assign to non-existent property &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte tilldela till ick-existerande egenskap &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Connections: nested objects not allowed</source>
-        <translation type="unfinished"></translation>
+        <translation>Connections: nästlade objekt tillåts inte</translation>
     </message>
     <message>
         <source>Connections: syntax error</source>
-        <translation type="unfinished"></translation>
+        <translation>Connections: syntaxfel</translation>
     </message>
     <message>
         <source>Connections: script expected</source>
-        <translation type="unfinished"></translation>
+        <translation>Connections: script förväntades</translation>
     </message>
     <message>
         <source>Implicitly defined onFoo properties in Connections are deprecated. Use this syntax instead: function onFoo(&lt;arguments&gt;) { ... }</source>
-        <translation type="unfinished"></translation>
+        <translation>Underförstådd definierad onFoo-egenskaper i Connections är föråldrade. Använd denna syntax istället: function onFoo(&lt;arguments&gt;) { ... }</translation>
     </message>
     <message>
         <source>Detected function &quot;%1&quot; in Connections element. This is probably intended to be a signal handler but no signal of the target matches the name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Upptäckte funktionen &quot;%1&quot; i Connections-element. Detta är antagligen tänkt att vara en signalhanterare men ingen signal för målet matchar namnet.</translation>
     </message>
 </context>
 <context>
@@ -1867,70 +1867,70 @@ Revision %1 corresponds to version %2.%3; it should be %4.%5.</source>
     </message>
     <message>
         <source>Delegate component must be Package type.</source>
-        <translation>Delegatkomponent måste vara Package-typ</translation>
+        <translation>Delegatkomponent måste vara Package-typ.</translation>
     </message>
 </context>
 <context>
     <name>QQmlListModel</name>
     <message>
         <source>unable to enable dynamic roles as this model is not empty</source>
-        <translation type="unfinished"></translation>
+        <translation>kunde inte aktivera dynamiska roller eftersom denna modell inte är tom</translation>
     </message>
     <message>
         <source>unable to enable static roles as this model is not empty</source>
-        <translation type="unfinished"></translation>
+        <translation>kunde inte aktivera statiska roller eftersom denna modell inte är tom</translation>
     </message>
     <message>
         <source>dynamic role setting must be made from the main thread, before any worker scripts are created</source>
-        <translation type="unfinished"></translation>
+        <translation>dynamisk rollinställning måste göras från huvudtråden, före några worker-skript har skapats</translation>
     </message>
     <message>
         <source>remove: indices [%1 - %2] out of range [0 - %3]</source>
-        <translation type="unfinished"></translation>
+        <translation>remove: indexen [%1 - %2] utanför intervall [0 - %3]</translation>
     </message>
     <message>
         <source>remove: incorrect number of arguments</source>
-        <translation type="unfinished"></translation>
+        <translation>remove: felaktigt antal argument</translation>
     </message>
     <message>
         <source>insert: index %1 out of range</source>
-        <translation type="unfinished"></translation>
+        <translation>insert: index %1 utanför intervall</translation>
     </message>
     <message>
         <source>insert: value is not an object</source>
-        <translation type="unfinished"></translation>
+        <translation>insert: value är inte ett object</translation>
     </message>
     <message>
         <source>move: out of range</source>
-        <translation type="unfinished"></translation>
+        <translation>move: utanför intervall</translation>
     </message>
     <message>
         <source>append: value is not an object</source>
-        <translation type="unfinished"></translation>
+        <translation>append: value är inte ett object</translation>
     </message>
     <message>
         <source>set: value is not an object</source>
-        <translation type="unfinished"></translation>
+        <translation>set: value är inte ett object</translation>
     </message>
     <message>
         <source>set: index %1 out of range</source>
-        <translation type="unfinished"></translation>
+        <translation>set: index %1 utanför intervall</translation>
     </message>
     <message>
         <source>ListElement: cannot contain nested elements</source>
-        <translation type="unfinished"></translation>
+        <translation>ListElement: kan inte innehålla nästlade element</translation>
     </message>
     <message>
         <source>ListElement: cannot use reserved &quot;id&quot; property</source>
-        <translation type="unfinished"></translation>
+        <translation>ListElement: kan inte använda reserverad &quot;id&quot;-egenskap</translation>
     </message>
     <message>
         <source>ListElement: cannot use script for property value</source>
-        <translation type="unfinished"></translation>
+        <translation>ListElement: kan inte använd script för egenskapsvärde</translation>
     </message>
     <message>
         <source>ListModel: undefined property &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>ListModel: odefinierad egenskap &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -1952,15 +1952,15 @@ Revision %1 corresponds to version %2.%3; it should be %4.%5.</source>
     <name>QQmlXmlListModelRole</name>
     <message>
         <source>An XML element must not start with &apos;/&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ett XML-element får inte börja med &apos;/&apos;</translation>
     </message>
     <message>
         <source>An XML element must not end with &apos;/&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ett XML-element får inte sluta med &apos;/&apos;</translation>
     </message>
     <message>
         <source>An XML element must not contain &quot;//&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ett XML-element får inte innehålla &quot;//&quot;</translation>
     </message>
 </context>
 <context>
@@ -2073,7 +2073,7 @@ Revision %1 corresponds to version %2.%3; it should be %4.%5.</source>
     </message>
     <message>
         <source>Unable to preserve appearance under scale of 0</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte behålla förfarandet under skalning med 0</translation>
     </message>
 </context>
 <context>

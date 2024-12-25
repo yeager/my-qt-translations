@@ -1007,7 +1007,7 @@ Vill du ersätta den?</translation>
     </message>
     <message>
         <source>The file does not appear to be a resource file; element &apos;%1&apos; was found where &apos;%2&apos; was expected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen verkar inte vara en resursfil, element &quot;%1&quot; hittades där &quot;%2&quot; förväntades.</translation>
     </message>
     <message>
         <source>%1 [read-only]</source>
@@ -1103,7 +1103,8 @@ till
     <message>
         <source>A parse error occurred at line %1, column %2 of %3:
 %4</source>
-        <translation type="unfinished"></translation>
+        <translation>Ett tolkningsfel inträffade på rad %1, kolumn %2 av %3:
+%4</translation>
     </message>
     <message>
         <source>Save Resource File</source>
@@ -1312,11 +1313,11 @@ till
     </message>
     <message>
         <source>Hue</source>
-        <translation type="unfinished"></translation>
+        <translation>Nyans</translation>
     </message>
     <message>
         <source>H</source>
-        <translation type="unfinished">H</translation>
+        <translation>H</translation>
     </message>
     <message>
         <source>Saturation</source>
@@ -1324,11 +1325,11 @@ till
     </message>
     <message>
         <source>S</source>
-        <translation type="unfinished">S</translation>
+        <translation>S</translation>
     </message>
     <message>
         <source>Sat</source>
-        <translation type="unfinished"></translation>
+        <translation>Mättnad</translation>
     </message>
     <message>
         <source>Value</source>
@@ -1336,7 +1337,7 @@ till
     </message>
     <message>
         <source>V</source>
-        <translation type="unfinished">V</translation>
+        <translation>V</translation>
     </message>
     <message>
         <source>Val</source>
@@ -1348,7 +1349,7 @@ till
     </message>
     <message>
         <source>A</source>
-        <translation type="unfinished"></translation>
+        <translation>A</translation>
     </message>
     <message>
         <source>Type</source>
@@ -1368,15 +1369,15 @@ till
     </message>
     <message>
         <source>Show HSV specification</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa HSV-specifiktation</translation>
     </message>
     <message>
         <source>HSV</source>
-        <translation type="unfinished"></translation>
+        <translation>HSV</translation>
     </message>
     <message>
         <source>Show RGB specification</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa RGB-specifikation</translation>
     </message>
     <message>
         <source>RGB</source>
@@ -1408,7 +1409,7 @@ till
     </message>
     <message>
         <source>Linear Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Linjärtyp</translation>
     </message>
     <message>
         <source>...</source>
@@ -1416,7 +1417,7 @@ till
     </message>
     <message>
         <source>Radial Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Radietyp</translation>
     </message>
     <message>
         <source>Conical Type</source>
@@ -1440,7 +1441,7 @@ till
     </message>
     <message>
         <source>Radial</source>
-        <translation type="unfinished"></translation>
+        <translation>Radie</translation>
     </message>
     <message>
         <source>Conical</source>
@@ -1829,7 +1830,7 @@ till
     </message>
     <message>
         <source>Preview Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Förhandsvisa zoom</translation>
     </message>
     <message>
         <source>Default Zoom</source>
@@ -1842,7 +1843,7 @@ till
     </message>
     <message>
         <source>Default Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Standardrutnät</translation>
     </message>
     <message>
         <source>Object Naming Convention</source>
@@ -2081,7 +2082,7 @@ till
     </message>
     <message>
         <source>Removes empty columns and rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Tar bort tomma kolumner och rader</translation>
     </message>
     <message>
         <source>&amp;Preview...</source>
@@ -2139,7 +2140,7 @@ till
     </message>
     <message>
         <source>This file cannot be read because the extra info extension failed to load.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denna fil kan inte läsas därför att extra info-utökningen misslyckades att läsas in.</translation>
     </message>
     <message>
         <source>%1 does not exist.</source>
@@ -2151,7 +2152,7 @@ till
     </message>
     <message>
         <source>%1 timed out.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 tidsgräns överstegs.</translation>
     </message>
     <message>
         <source>Custom Widgets</source>
@@ -5065,12 +5066,14 @@ Anledning: %2</translation>
     <message>
         <source>A parse error occurred at line %1, column %2 of the XML code specified for the widget %3: %4
 %5</source>
-        <translation type="unfinished"></translation>
+        <translation>Ett tolkningsfel inträffade på rad %1, kolumn %2 av XML-koden specificerad för widgeten %3: %4
+%5</translation>
     </message>
     <message>
         <source>The XML code specified for the widget %1 does not contain any widget elements.
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>XML-koden specificerad för widgeten %1 innehåller inte något widget-element.
+%2</translation>
     </message>
 </context>
 <context>
@@ -5391,7 +5394,7 @@ This indicates an inconsistency in the ui-file.</source>
     </message>
     <message>
         <source>Invalid UI file</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig gränssnittsfil</translation>
     </message>
 </context>
 <context>
