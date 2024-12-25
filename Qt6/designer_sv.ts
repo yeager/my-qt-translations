@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="sv">
+<TS version="2.1" language="sv_SE">
 <context>
     <name>DeviceProfileDialog</name>
     <message>
@@ -1817,7 +1817,7 @@ till
     </message>
     <message>
         <source>The file &quot;%1&quot; has changed outside Designer. Do you want to reload it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen &quot;%1&quot; har ändrats utanför Designer. Vill du läsa in den igen?</translation>
     </message>
 </context>
 <context>
@@ -1950,7 +1950,7 @@ till
     </message>
     <message>
         <source>Error while pasting clipboard contents at line %1, column %2: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid inklistring av urklippsinnehåll på rad %1, kolumn %2: %3</translation>
     </message>
 </context>
 <context>
@@ -4046,14 +4046,14 @@ Anledning: %2</translation>
     </message>
     <message numerus="yes">
         <source>There are %n forms with unsaved changes. Do you want to review these changes before quitting?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Det finns %n formulär med osparade ändringar. Vill du granska dessa ändringar innan avslut?</numerusform>
+            <numerusform>Det finns %n formulär med osparade ändringar. Vill du granska dessa ändringar innan avslut?</numerusform>
         </translation>
     </message>
     <message>
         <source>If you do not review your documents, all your changes will be lost.</source>
-        <translation type="unfinished"></translation>
+        <translation>Om du inte granskar dina dokument så kommer dina ändringar gå förlorade.</translation>
     </message>
     <message>
         <source>Discard Changes</source>
@@ -4065,15 +4065,15 @@ Anledning: %2</translation>
     </message>
     <message>
         <source>Backup Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Information om säkerhetskopior</translation>
     </message>
     <message>
         <source>The last session of Designer was not terminated correctly. Backup files were left behind. Do you want to load them?</source>
-        <translation type="unfinished"></translation>
+        <translation>Senaste sessionen med Designer avslutades inte korrekt. Säkerhetskopior lämnades kvar. Vill du läsa in dem?</translation>
     </message>
     <message>
         <source>The file &lt;b&gt;%1&lt;/b&gt; could not be opened: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen &lt;b&gt;%1&lt;/b&gt; kunde inte öppnas: %2</translation>
     </message>
 </context>
 <context>
@@ -4560,11 +4560,11 @@ Anledning: %2</translation>
     </message>
     <message>
         <source>Header file</source>
-        <translation type="unfinished"></translation>
+        <translation>Header-fil</translation>
     </message>
     <message>
         <source>Global include</source>
-        <translation type="unfinished"></translation>
+        <translation>Global include</translation>
     </message>
     <message>
         <source>Usage</source>
@@ -5635,15 +5635,15 @@ This indicates an inconsistency in the ui-file.</source>
     </message>
     <message>
         <source>Hue</source>
-        <translation type="unfinished"></translation>
+        <translation>Nyans</translation>
     </message>
     <message>
         <source>Sat</source>
-        <translation type="unfinished"></translation>
+        <translation>Mättn</translation>
     </message>
     <message>
         <source>Val</source>
-        <translation type="unfinished"></translation>
+        <translation>Vär</translation>
     </message>
     <message>
         <source>Saturation</source>

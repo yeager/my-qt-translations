@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="sv">
+<TS version="2.1" language="sv_SE">
 <context>
     <name>QtLocationQML</name>
     <message>
         <source>Plugin property is not set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Insticksmodulegenskap är inte inställd.</translation>
     </message>
     <message>
         <source>Plugin Error (%1): %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Insticksmodulfel (%1): %2</translation>
     </message>
     <message>
         <source>Plugin Error (%1): Could not instantiate provider</source>
-        <translation type="unfinished"></translation>
+        <translation>Insticksmodulfel (%1): Kunde inte instansiera leverantör</translation>
     </message>
     <message>
         <source>Plugin is not valid</source>
@@ -29,7 +29,7 @@
     </message>
     <message>
         <source>Index &apos;%1&apos; out of range</source>
-        <translation type="unfinished"></translation>
+        <translation>Indexet &apos;%1&apos; är utanför intervallet</translation>
     </message>
     <message>
         <source>Qt Location requires apiKey parameter.
@@ -74,38 +74,38 @@ Registrera dig på https://developer.here.com/ för att få din personliga progr
     <name>QDeclarativeGeocodeModel</name>
     <message>
         <source>Cannot geocode, plugin not set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte geocode, insticksmodul inte inställd.</translation>
     </message>
     <message>
         <source>Cannot geocode, geocode manager not set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte geocode, geocode-hanterare inte inställd.</translation>
     </message>
     <message>
         <source>Cannot geocode, valid query not set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte geocode, giltig frågesats inte inställd.</translation>
     </message>
     <message>
         <source>Plugin does not support (reverse) geocoding.</source>
-        <translation type="unfinished"></translation>
+        <translation>Insticksmodulen har inte stöd för (omvänd) geocoding.</translation>
     </message>
 </context>
 <context>
     <name>QDeclarativeGeoRouteModel</name>
     <message>
         <source>Plugin does not support routing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Insticksmodulen har inte stöd för rutter.</translation>
     </message>
     <message>
         <source>Cannot route, plugin not set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte lägga rutt, instickmodul inte inställd.</translation>
     </message>
     <message>
         <source>Cannot route, route manager not set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte lägga rutt, rutthanterare inte inställd.</translation>
     </message>
     <message>
         <source>Cannot route, valid query not set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte lägga rutt, giltig frågesats inte inställd.</translation>
     </message>
     <message>
         <source>Not enough waypoints for routing.</source>
@@ -320,15 +320,15 @@ Registrera dig på https://developer.here.com/ för att få din personliga progr
     </message>
     <message>
         <source>Head %1 onto %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Rakt fram %1 in på %2</translation>
     </message>
     <message>
         <source>Depart</source>
-        <translation type="unfinished"></translation>
+        <translation>Avresa</translation>
     </message>
     <message>
         <source>Depart onto %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Avres in på %1</translation>
     </message>
     <message>
         <source>At the end of the road, turn left</source>
@@ -440,67 +440,67 @@ Registrera dig på https://developer.here.com/ för att få din personliga progr
     </message>
     <message>
         <source>Merge sharply left</source>
-        <translation type="unfinished"></translation>
+        <translation>Sammanslå skarpt åt vänster</translation>
     </message>
     <message>
         <source>Merge sharply left onto %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sammanslå skarpt åt vänster in på %1</translation>
     </message>
     <message>
         <source>Merge left</source>
-        <translation type="unfinished"></translation>
+        <translation>Sammanslå åt vänster</translation>
     </message>
     <message>
         <source>Merge left onto %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sammanslå åt vänster in på %1</translation>
     </message>
     <message>
         <source>Merge slightly left</source>
-        <translation type="unfinished"></translation>
+        <translation>Sammanslå svagt åt vänster</translation>
     </message>
     <message>
         <source>Merge slightly left on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sammanslå svagt åt vänster in på %1</translation>
     </message>
     <message>
         <source>Merge sharply right</source>
-        <translation type="unfinished"></translation>
+        <translation>Sammanslå skarpt åt höger</translation>
     </message>
     <message>
         <source>Merge sharply right onto %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sammanslå skarpt åt höger in på %1</translation>
     </message>
     <message>
         <source>Merge right</source>
-        <translation type="unfinished"></translation>
+        <translation>Sammanslå åt höger</translation>
     </message>
     <message>
         <source>Merge right onto %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sammanslå åt höger in på %1</translation>
     </message>
     <message>
         <source>Merge slightly right</source>
-        <translation type="unfinished"></translation>
+        <translation>Sammanslå svagt åt höger</translation>
     </message>
     <message>
         <source>Merge slightly right on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sammanslå svagt åt höger in på %1</translation>
     </message>
     <message>
         <source>Merge straight</source>
-        <translation type="unfinished"></translation>
+        <translation>Sammanslå rakt fram</translation>
     </message>
     <message>
         <source>Merge straight on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sammanslå rakt fram på %1</translation>
     </message>
     <message>
         <source>Merge</source>
-        <translation type="unfinished"></translation>
+        <translation>Sammanslå</translation>
     </message>
     <message>
         <source>Merge onto %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sammanslå in på %1</translation>
     </message>
     <message>
         <source>Take a sharp left</source>
@@ -762,7 +762,7 @@ Registrera dig på https://developer.here.com/ för att få din personliga progr
     </message>
     <message>
         <source>Plugin does not support mapping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Insticksmodulen har inte stöd för mappning.</translation>
     </message>
 </context>
 <context>
@@ -770,7 +770,8 @@ Registrera dig på https://developer.here.com/ för att få din personliga progr
     <message>
         <source>Esri plugin requires a &apos;esri.token&apos; parameter.
 Please visit https://developers.arcgis.com/authentication/accessing-arcgis-online-services/</source>
-        <translation type="unfinished"></translation>
+        <translation>Insticksmodulen Esri kräver en &apos;esri.token&apos;-parameter.
+Besök https://developers.arcgis.com/authentication/accessing-arcgis-online-services/</translation>
     </message>
 </context>
 <context>
@@ -799,7 +800,8 @@ Please visit https://developers.arcgis.com/authentication/accessing-arcgis-onlin
     <message>
         <source>Mapbox plugin requires a &apos;mapbox.access_token&apos; parameter.
 Please visit https://www.mapbox.com</source>
-        <translation type="unfinished"></translation>
+        <translation>Insticksmodulen Mapbox kräver en &apos;mapbox.access_token&apos;-parameter.
+Besök https://www.mapbox.com</translation>
     </message>
 </context>
 <context>
@@ -832,12 +834,12 @@ Please visit https://www.mapbox.com</source>
     <message>
         <source>Wheatpaste</source>
         <extracomment>Noun describing type of a map using wheat paste colors</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Bleka färger</translation>
     </message>
     <message>
         <source>Streets Basic</source>
         <extracomment>Noun describing type of a basic street map</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Grundläggande gator</translation>
     </message>
     <message>
         <source>Comic</source>
@@ -852,7 +854,7 @@ Please visit https://www.mapbox.com</source>
     <message>
         <source>Run Bike Hike</source>
         <extracomment>Noun describing type of a map for sports</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kör cykla gå</translation>
     </message>
     <message>
         <source>Pencil</source>
@@ -867,7 +869,7 @@ Please visit https://www.mapbox.com</source>
     <message>
         <source>Emerald</source>
         <extracomment>Noun describing type of a map using emerald colors</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Smaragd</translation>
     </message>
     <message>
         <source>High Contrast</source>
@@ -893,22 +895,22 @@ Please visit https://www.mapbox.com</source>
     <name>QGeoMapMapboxGL</name>
     <message>
         <source>Development access token, do not use in production.</source>
-        <translation type="unfinished"></translation>
+        <translation>Accesstoken för utveckling, använd inte i produktion.</translation>
     </message>
 </context>
 <context>
     <name>QGeoMappingManagerEngineMapboxGL</name>
     <message>
         <source>China Streets</source>
-        <translation type="unfinished"></translation>
+        <translation>Kinagator</translation>
     </message>
     <message>
         <source>China Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Kina ljus</translation>
     </message>
     <message>
         <source>China Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Kina mörk</translation>
     </message>
     <message>
         <source>Streets</source>
@@ -932,7 +934,7 @@ Please visit https://www.mapbox.com</source>
     </message>
     <message>
         <source>Satellite Streets</source>
-        <translation type="unfinished"></translation>
+        <translation>Satellitgator</translation>
     </message>
     <message>
         <source>Light</source>
@@ -944,23 +946,23 @@ Please visit https://www.mapbox.com</source>
     </message>
     <message>
         <source>Navigation Preview Day</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigeringsförhandsvisning dag</translation>
     </message>
     <message>
         <source>Navigation Preview Night</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigeringsförhandsvisning natt</translation>
     </message>
     <message>
         <source>Navigation Guidance Day</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigeringsguidning dag</translation>
     </message>
     <message>
         <source>Navigation Guidance Night</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigeringsguidning natt</translation>
     </message>
     <message>
         <source>User provided style</source>
-        <translation type="unfinished"></translation>
+        <translation>Användartillhandahållen stil</translation>
     </message>
 </context>
 <context>
@@ -971,7 +973,7 @@ Please visit https://www.mapbox.com</source>
     </message>
     <message>
         <source>Normal map view in daylight mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal kartvy i dagsljusläge</translation>
     </message>
     <message>
         <source>Satellite Map</source>
@@ -979,7 +981,7 @@ Please visit https://www.mapbox.com</source>
     </message>
     <message>
         <source>Satellite map view in daylight mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Satellitkartvy i dagsljusläge</translation>
     </message>
     <message>
         <source>Terrain Map</source>
@@ -987,7 +989,7 @@ Please visit https://www.mapbox.com</source>
     </message>
     <message>
         <source>Terrain map view in daylight mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Terrängkartvy i dagsljusläge</translation>
     </message>
     <message>
         <source>Hybrid Map</source>
@@ -995,63 +997,63 @@ Please visit https://www.mapbox.com</source>
     </message>
     <message>
         <source>Satellite map view with streets in daylight mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Satellitkartvy med gator i dagsljusläge</translation>
     </message>
     <message>
         <source>Transit Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Pendlarkarta</translation>
     </message>
     <message>
         <source>Color-reduced map view with public transport scheme in daylight mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Färgreducerad kartvy med kollektivtrafik i dagsljusläge</translation>
     </message>
     <message>
         <source>Gray Street Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Grå gatukarta</translation>
     </message>
     <message>
         <source>Color-reduced map view in daylight mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Färgreducerad kartvy i dagsljusläge</translation>
     </message>
     <message>
         <source>Mobile Street Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Gatukarta (mobil)</translation>
     </message>
     <message>
         <source>Mobile normal map view in daylight mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal kartvy i dagsljusläge (mobil)</translation>
     </message>
     <message>
         <source>Mobile Terrain Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Terrängkarta (mobil)</translation>
     </message>
     <message>
         <source>Mobile terrain map view in daylight mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Terrängkartvy i dagsljusläge (mobil)</translation>
     </message>
     <message>
         <source>Mobile Hybrid Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Hybridkarta (mobil)</translation>
     </message>
     <message>
         <source>Mobile satellite map view with streets in daylight mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Satellitkartvy med gator i dagsljusläge (mobil)</translation>
     </message>
     <message>
         <source>Mobile Transit Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Pendlarkarta (mobil)</translation>
     </message>
     <message>
         <source>Mobile color-reduced map view with public transport scheme in daylight mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Färgreducerad kartvy med kollektivtrafik i dagsljusläge (mobil)</translation>
     </message>
     <message>
         <source>Mobile Gray Street Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Grå gatukarta (mobil)</translation>
     </message>
     <message>
         <source>Mobile color-reduced map view in daylight mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Färgreducerad kartvy i dagsljusläge (mobil)</translation>
     </message>
     <message>
         <source>Custom Street Map</source>
@@ -1059,67 +1061,67 @@ Please visit https://www.mapbox.com</source>
     </message>
     <message>
         <source>Night Street Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Nattgatukarta</translation>
     </message>
     <message>
         <source>Normal map view in night mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal kartvy i nattläge</translation>
     </message>
     <message>
         <source>Mobile Night Street Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Nattgatukarta (mobil)</translation>
     </message>
     <message>
         <source>Mobile normal map view in night mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal kartvy i nattläge (mobil)</translation>
     </message>
     <message>
         <source>Gray Night Street Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Grå nattgatukarta</translation>
     </message>
     <message>
         <source>Color-reduced map view in night mode (especially used for background maps)</source>
-        <translation type="unfinished"></translation>
+        <translation>Färgreducerad kartvy i nattläge (används specifikt för bakgrundskartor)</translation>
     </message>
     <message>
         <source>Mobile Gray Night Street Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Grå nattgatukarta (mobil)</translation>
     </message>
     <message>
         <source>Mobile color-reduced map view in night mode (especially used for background maps)</source>
-        <translation type="unfinished"></translation>
+        <translation>Färgreducerad kartvy i nattläge (används specifikt för bakgrundskartor)</translation>
     </message>
     <message>
         <source>Pedestrian Street Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Gatukarta för fotgängare</translation>
     </message>
     <message>
         <source>Pedestrian map view in daylight mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Kartvy för fotgängare i dagsljusläge</translation>
     </message>
     <message>
         <source>Mobile Pedestrian Street Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Gatukarta för fotgängare (mobil)</translation>
     </message>
     <message>
         <source>Mobile pedestrian map view in daylight mode for mobile usage</source>
-        <translation type="unfinished"></translation>
+        <translation>Kartvy för fotgängare i dagsljusläge för mobil användning</translation>
     </message>
     <message>
         <source>Pedestrian Night Street Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Nattgatukarta för fotgängare</translation>
     </message>
     <message>
         <source>Pedestrian map view in night mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Kartvy för fotgängare i nattläge</translation>
     </message>
     <message>
         <source>Mobile Pedestrian Night Street Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Nattgatukarta för fotgängare (mobil)</translation>
     </message>
     <message>
         <source>Mobile pedestrian map view in night mode for mobile usage</source>
-        <translation type="unfinished"></translation>
+        <translation>Kartvy för fotgängare i nattläge för mobil användning (mobil)</translation>
     </message>
     <message>
         <source>Car Navigation Map</source>
@@ -1127,14 +1129,14 @@ Please visit https://www.mapbox.com</source>
     </message>
     <message>
         <source>Normal map view in daylight mode for car navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal kartvy i dagsljusläge för bilnavigering</translation>
     </message>
 </context>
 <context>
     <name>QGeoTileFetcherNokia</name>
     <message>
         <source>Mapping manager no longer exists</source>
-        <translation type="unfinished"></translation>
+        <translation>Mappningshanterare finns inte längre</translation>
     </message>
 </context>
 <context>
@@ -1324,7 +1326,7 @@ Please visit https://www.mapbox.com</source>
     </message>
     <message>
         <source>Street map view in daylight mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Gatukartsvy i dagsljusläge</translation>
     </message>
     <message>
         <source>Satellite Map</source>
@@ -1332,7 +1334,7 @@ Please visit https://www.mapbox.com</source>
     </message>
     <message>
         <source>Satellite map view in daylight mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Satellitkartvy i dagsljusläge</translation>
     </message>
     <message>
         <source>Cycle Map</source>
@@ -1340,23 +1342,23 @@ Please visit https://www.mapbox.com</source>
     </message>
     <message>
         <source>Cycle map view in daylight mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Cyklingskartvy i dagsljusläge</translation>
     </message>
     <message>
         <source>Transit Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Pendlarkarta</translation>
     </message>
     <message>
         <source>Public transit map view in daylight mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Pendlarkartvy i dagsljusläge</translation>
     </message>
     <message>
         <source>Night Transit Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Nattpendlingskarta</translation>
     </message>
     <message>
         <source>Public transit map view in night mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Pendlarkartvy i nattläge</translation>
     </message>
     <message>
         <source>Terrain Map</source>
@@ -1364,23 +1366,23 @@ Please visit https://www.mapbox.com</source>
     </message>
     <message>
         <source>Terrain map view</source>
-        <translation type="unfinished"></translation>
+        <translation>Terrängkartvy</translation>
     </message>
     <message>
         <source>Hiking Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Fotgängarkarta</translation>
     </message>
     <message>
         <source>Hiking map view</source>
-        <translation type="unfinished"></translation>
+        <translation>Fotgängarkartvy</translation>
     </message>
     <message>
         <source>Custom URL Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Anpassad URL-karta</translation>
     </message>
     <message>
         <source>Custom url map view set via urlprefix parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Anpassad url-kartvy inställd via urlprefix-parametern</translation>
     </message>
 </context>
 <context>
@@ -1391,7 +1393,7 @@ Please visit https://www.mapbox.com</source>
     </message>
     <message>
         <source>Amenity</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekvämligheter</translation>
     </message>
     <message>
         <source>Building</source>
@@ -1407,7 +1409,7 @@ Please visit https://www.mapbox.com</source>
     </message>
     <message>
         <source>Land use</source>
-        <translation type="unfinished"></translation>
+        <translation>Landanvändning</translation>
     </message>
     <message>
         <source>Leisure</source>
@@ -1415,15 +1417,15 @@ Please visit https://www.mapbox.com</source>
     </message>
     <message>
         <source>Man made</source>
-        <translation type="unfinished"></translation>
+        <translation>Konstgjord</translation>
     </message>
     <message>
         <source>Natural</source>
-        <translation type="unfinished"></translation>
+        <translation>Naturlig</translation>
     </message>
     <message>
         <source>Place</source>
-        <translation type="unfinished"></translation>
+        <translation>Plats</translation>
     </message>
     <message>
         <source>Railway</source>
