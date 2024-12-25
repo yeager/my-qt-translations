@@ -18975,7 +18975,7 @@ Otherwise you need to specify the path to the %2 file from the Copilot neovim pl
     <name>QtC::Core</name>
     <message>
         <source>File Generation Failure</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades att generera fil</translation>
     </message>
     <message>
         <source>Existing files</source>
@@ -19005,7 +19005,7 @@ Otherwise you need to specify the path to the %2 file from the Copilot neovim pl
     </message>
     <message>
         <source>Revert to Saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Återgå till sparad</translation>
     </message>
     <message>
         <source>Close</source>
@@ -19037,7 +19037,7 @@ Otherwise you need to specify the path to the %2 file from the Copilot neovim pl
     </message>
     <message>
         <source>Revert File to Saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Återskapa filen till sparad</translation>
     </message>
     <message>
         <source>Ctrl+W</source>
@@ -19249,21 +19249,23 @@ Otherwise you need to specify the path to the %2 file from the Copilot neovim pl
     </message>
     <message>
         <source>Continue Opening Huge Text File?</source>
-        <translation type="unfinished"></translation>
+        <translation>Fortsätta öppna mycket stor textfil?</translation>
     </message>
     <message>
         <source>The text file &quot;%1&quot; has the size %2MB and might take more memory to open and process than available.
 
 Continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Textfilen &quot;%1&quot; har storleken %2MB och kan ta mer minne att öppna och behandla än vad som är tillgängligt.
+
+Fortsätta?</translation>
     </message>
     <message>
         <source>Could not open &quot;%1&quot;: Cannot open files of type &quot;%2&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte öppna &quot;%1&quot;. Kan inte öppna filer av typen &quot;%2&quot;.</translation>
     </message>
     <message>
         <source>Could not open &quot;%1&quot; for reading. Either the file does not exist or you do not have the permissions to open it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte öppna &quot;%1&quot; för läsning. Antingen finns filen inte eller så har du inte rättighet att öppna den.</translation>
     </message>
     <message>
         <source>Could not open &quot;%1&quot;: Unknown error.</source>
@@ -19271,7 +19273,7 @@ Continue?</source>
     </message>
     <message>
         <source>Reload %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Läs om %1</translation>
     </message>
     <message>
         <source>Cancel &amp;&amp; &amp;Diff</source>
@@ -19303,7 +19305,7 @@ Continue?</source>
     </message>
     <message>
         <source>Cannot open the file for editing with VCS.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte öppna filen för redigering med VCS.</translation>
     </message>
     <message>
         <source>Make Writable</source>
@@ -19319,7 +19321,7 @@ Continue?</source>
     </message>
     <message>
         <source>&lt;b&gt;Warning:&lt;/b&gt; This file was not opened in %1 yet.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Varning:&lt;/b&gt; Denna fil har inte öppnats i %1 ännu.</translation>
     </message>
     <message>
         <source>Open</source>
@@ -19327,7 +19329,7 @@ Continue?</source>
     </message>
     <message>
         <source>&lt;b&gt;Warning:&lt;/b&gt; You are changing a read-only file.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Varning:&lt;/b&gt; Du ändrar en skrivskyddad fil.</translation>
     </message>
     <message>
         <source>&amp;Save %1</source>
@@ -19335,7 +19337,7 @@ Continue?</source>
     </message>
     <message>
         <source>Revert %1 to Saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Återskapa %1 till sparad</translation>
     </message>
     <message>
         <source>Close %1</source>
@@ -19347,7 +19349,7 @@ Continue?</source>
     </message>
     <message>
         <source>You will lose your current changes if you proceed reverting %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du kommer att förlora dina aktuella ändringar om du fortsätter att återskapa %1.</translation>
     </message>
     <message>
         <source>Proceed</source>
@@ -19380,7 +19382,7 @@ Continue?</source>
     </message>
     <message>
         <source>Toolbar style:</source>
-        <translation type="unfinished"></translation>
+        <translation>Stil för verktygsrad:</translation>
     </message>
     <message>
         <source>Text codec for tools:</source>
@@ -19509,7 +19511,7 @@ If the system cursors for resizing views are not displayed properly, you can use
     </message>
     <message>
         <source>Warn before opening text files greater than</source>
-        <translation type="unfinished"></translation>
+        <translation>Varna innan textfiler större än öppnas</translation>
     </message>
     <message>
         <source>Ask for confirmation before exiting</source>
@@ -19533,7 +19535,7 @@ If the system cursors for resizing views are not displayed properly, you can use
     </message>
     <message>
         <source>Command line arguments used for &quot;Run in terminal&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommandoradsargument som används för &quot;Kör i terminal&quot;.</translation>
     </message>
     <message>
         <source>Always Ask</source>
@@ -19624,7 +19626,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Command line arguments used for &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommandoradsargument som används för &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>File system case sensitivity:</source>
@@ -20240,7 +20242,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Error Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Feldetaljer</translation>
     </message>
     <message>
         <source>Install Plugin...</source>
@@ -21149,7 +21151,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>No changes to apply.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga ändringar att verkställa.</translation>
     </message>
     <message>
         <source>Change...</source>
@@ -21365,7 +21367,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>Internal error: Type is invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>Internt fel. Typen är ogiltig</translation>
     </message>
     <message>
         <source>Priority:</source>
@@ -21377,7 +21379,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>Handler</source>
-        <translation type="unfinished"></translation>
+        <translation>Hanterare</translation>
     </message>
     <message>
         <source>Undefined</source>
@@ -21756,7 +21758,7 @@ Would you like to overwrite them?</source>
     </message>
     <message>
         <source>Cannot reload %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte läsa om %1</translation>
     </message>
     <message>
         <source>Not implemented</source>
@@ -21853,11 +21855,11 @@ Do you want to kill it?</source>
     </message>
     <message>
         <source>Change &amp;Permission</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra &amp;rättigheter</translation>
     </message>
     <message>
         <source>Select all, if possible: </source>
-        <translation type="unfinished"></translation>
+        <translation>Markera allt, om möjligt: </translation>
     </message>
     <message>
         <source>Mixed</source>
@@ -21865,11 +21867,11 @@ Do you want to kill it?</source>
     </message>
     <message>
         <source>Failed to %1 File</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att %1 fil</translation>
     </message>
     <message>
         <source>No Version Control System Found</source>
-        <translation type="unfinished"></translation>
+        <translation>Inget versionskontrollsystem hittades</translation>
     </message>
     <message>
         <source>Cannot Set Permissions</source>
@@ -39088,7 +39090,7 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>Could not create directory &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte skapa katalogen &quot;%1&quot;</translation>
     </message>
     <message>
         <source>The program &quot;%1&quot; does not exist or is not executable.</source>
@@ -39100,19 +39102,19 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>The process &quot;%1&quot; exited normally.</source>
-        <translation type="unfinished"></translation>
+        <translation>Processen &quot;%1&quot; avslutades normalt.</translation>
     </message>
     <message>
         <source>The process &quot;%1&quot; exited with code %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Processen &quot;%1&quot; avslutades med kod %2.</translation>
     </message>
     <message>
         <source>The process &quot;%1&quot; crashed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Processen &quot;%1&quot; kraschade.</translation>
     </message>
     <message>
         <source>Could not start process &quot;%1&quot; %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte starta processen &quot;%1&quot; %2.</translation>
     </message>
     <message numerus="yes">
         <source>Finished %1 of %n steps</source>
@@ -39124,11 +39126,11 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>Stop Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoppa program</translation>
     </message>
     <message>
         <source>Stop these applications before building?</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoppa dessa program innan byggnation?</translation>
     </message>
     <message>
         <source>The build device failed to prepare for the build of %1 (%2).</source>
@@ -39137,7 +39139,7 @@ You might find further explanations in the Application Output view.</source>
     <message>
         <source>Compile</source>
         <comment>Category for compiler issues listed under &apos;Issues&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kompilera</translation>
     </message>
     <message>
         <source>Issues parsed from the compile output.</source>
@@ -39146,7 +39148,7 @@ You might find further explanations in the Application Output view.</source>
     <message>
         <source>Build System</source>
         <comment>Category for build system issues listed under &apos;Issues&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Byggsystem</translation>
     </message>
     <message>
         <source>Issues from the build system, such as CMake or qmake.</source>
@@ -39208,7 +39210,7 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>Ed&amp;it</source>
-        <translation type="unfinished"></translation>
+        <translation>R&amp;edigera</translation>
     </message>
     <message>
         <source>&amp;Add</source>
@@ -39216,7 +39218,7 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>&amp;Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nollställ</translation>
     </message>
     <message>
         <source>&amp;Unset</source>
@@ -39232,7 +39234,7 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>Open &amp;Terminal</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna &amp;terminal</translation>
     </message>
     <message>
         <source>Open a terminal with this environment set up.</source>
@@ -39244,7 +39246,7 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>Set &lt;a href=&quot;%1&quot;&gt;&lt;b&gt;%1&lt;/b&gt;&lt;/a&gt; to &lt;b&gt;%2&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställ in &lt;a href=&quot;%1&quot;&gt;&lt;b&gt;%1&lt;/b&gt;&lt;/a&gt; till &lt;b&gt;%2&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Append &lt;b&gt;%2&lt;/b&gt; to &lt;a href=&quot;%1&quot;&gt;&lt;b&gt;%1&lt;/b&gt;&lt;/a&gt;</source>
@@ -39256,25 +39258,25 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>Set &lt;a href=&quot;%1&quot;&gt;&lt;b&gt;%1&lt;/b&gt;&lt;/a&gt; to &lt;b&gt;%2&lt;/b&gt; [disabled]</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställ in &lt;a href=&quot;%1&quot;&gt;&lt;b&gt;%1&lt;/b&gt;&lt;/a&gt; to &lt;b&gt;%2&lt;/b&gt; [inaktiverad]</translation>
     </message>
     <message>
         <source>Use &lt;b&gt;%1&lt;/b&gt;</source>
         <extracomment>%1 is &quot;System Environment&quot; or some such.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Använd &lt;b&gt;%1&lt;/b&gt;</translation>
     </message>
     <message>
         <source>&lt;b&gt;No environment changes&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Inga miljöändringar&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Use &lt;b&gt;%1&lt;/b&gt; and</source>
         <extracomment>Yup, word puzzle. The Set/Unset phrases above are appended to this. %1 is &quot;System Environment&quot; or some such.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Använd &lt;b&gt;%1&lt;/b&gt; och</translation>
     </message>
     <message>
         <source>Files in Any Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Filer i något projekt</translation>
     </message>
     <message>
         <source>Locates files of all open projects. Append &quot;+&lt;number&gt;&quot; or &quot;:&lt;number&gt;&quot; to jump to the given line number. Append another &quot;+&lt;number&gt;&quot; or &quot;:&lt;number&gt;&quot; to jump to the column number as well.</source>
@@ -39292,11 +39294,11 @@ Excluding: %2
     </message>
     <message>
         <source>No build settings available</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga bygginställningar tillgängliga</translation>
     </message>
     <message>
         <source>Edit build configuration:</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera byggkonfiguration:</translation>
     </message>
     <message>
         <source>Add</source>
@@ -39312,7 +39314,7 @@ Excluding: %2
     </message>
     <message>
         <source>New name for build configuration &lt;b&gt;%1&lt;/b&gt;:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nytt namn för byggkonfiguration &lt;b&gt;%1&lt;/b&gt;:</translation>
     </message>
     <message>
         <source>Clone Configuration</source>
@@ -39323,7 +39325,7 @@ Title of a the cloned RunConfiguration window, text of the window</extracomment>
     </message>
     <message>
         <source>New configuration name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nytt konfigurationsnamn:</translation>
     </message>
     <message>
         <source>Clone...</source>
@@ -39331,7 +39333,7 @@ Title of a the cloned RunConfiguration window, text of the window</extracomment>
     </message>
     <message>
         <source>New Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny konfiguration</translation>
     </message>
     <message>
         <source>Cancel Build &amp;&amp; Remove Build Configuration</source>
@@ -39343,7 +39345,7 @@ Title of a the cloned RunConfiguration window, text of the window</extracomment>
     </message>
     <message>
         <source>Remove Build Configuration %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort byggkonfigurationen %1?</translation>
     </message>
     <message>
         <source>The build configuration &lt;b&gt;%1&lt;/b&gt; is currently being built.</source>
@@ -39355,7 +39357,7 @@ Title of a the cloned RunConfiguration window, text of the window</extracomment>
     </message>
     <message>
         <source>Remove Build Configuration?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort byggkonfiguration?</translation>
     </message>
     <message>
         <source>Do you really want to delete build configuration &lt;b&gt;%1&lt;/b&gt;?</source>
@@ -39426,7 +39428,7 @@ Title of a the cloned RunConfiguration window, text of the window</extracomment>
     </message>
     <message>
         <source>Use context-specific margin</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd kontextspecifik marginal</translation>
     </message>
     <message>
         <source>If available, use a different margin. For example, the ColumnLimit from the ClangFormat plugin.</source>
@@ -39462,7 +39464,7 @@ Title of a the cloned RunConfiguration window, text of the window</extracomment>
     </message>
     <message>
         <source>Restore last session on startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Återställ senaste session vid uppstart</translation>
     </message>
     <message>
         <source>Custom Process Step</source>
@@ -39475,7 +39477,7 @@ Title of a the cloned RunConfiguration window, text of the window</extracomment>
     </message>
     <message>
         <source>Working directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbetskatalog:</translation>
     </message>
     <message>
         <source>Arguments:</source>
@@ -39515,11 +39517,11 @@ Title of a the cloned RunConfiguration window, text of the window</extracomment>
     </message>
     <message>
         <source>Hide Generated Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Dölj genererade filer</translation>
     </message>
     <message>
         <source>Hide Disabled Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Dölj inaktiverade filer</translation>
     </message>
     <message>
         <source>Focus Document in Project Tree</source>
@@ -39527,15 +39529,15 @@ Title of a the cloned RunConfiguration window, text of the window</extracomment>
     </message>
     <message>
         <source>Meta+Shift+L</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta+Shift+L</translation>
     </message>
     <message>
         <source>Alt+Shift+L</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+Shift+L</translation>
     </message>
     <message>
         <source>Hide Empty Directories</source>
-        <translation type="unfinished"></translation>
+        <translation>Dölj tomma kataloger</translation>
     </message>
     <message>
         <source>Hide Source and Header Groups</source>
@@ -39543,7 +39545,7 @@ Title of a the cloned RunConfiguration window, text of the window</extracomment>
     </message>
     <message>
         <source>Synchronize with Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Synkronisera med redigerare</translation>
     </message>
     <message>
         <source>Projects</source>
@@ -39552,11 +39554,11 @@ Title of a the cloned RunConfiguration window, text of the window</extracomment>
     </message>
     <message>
         <source>Meta+X</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta+X</translation>
     </message>
     <message>
         <source>Alt+X</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+X</translation>
     </message>
     <message>
         <source>Filter Tree</source>
@@ -39568,11 +39570,11 @@ Title of a the cloned RunConfiguration window, text of the window</extracomment>
     </message>
     <message>
         <source>Add as a subproject to project:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till som ett underprojekt till projektet</translation>
     </message>
     <message>
         <source>Add to &amp;project:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till i &amp;projekt:</translation>
     </message>
     <message>
         <source>A version control system repository could not be created in &quot;%1&quot;.</source>
@@ -39584,7 +39586,7 @@ Title of a the cloned RunConfiguration window, text of the window</extracomment>
     </message>
     <message>
         <source>Files to be added:</source>
-        <translation type="unfinished"></translation>
+        <translation>Filer som ska läggas till:</translation>
     </message>
     <message>
         <source>Files to be added in</source>
@@ -39612,17 +39614,17 @@ Title of a the cloned RunConfiguration window, text of the window</extracomment>
     </message>
     <message>
         <source>No build system active</source>
-        <translation type="unfinished"></translation>
+        <translation>Inget byggsystem aktivt</translation>
     </message>
     <message>
         <source>Run on %{Device:Name}</source>
         <extracomment>Shown in Run configuration if no executable is given, %1 is device name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kör på %{Device:Name}</translation>
     </message>
     <message>
         <source>%1 (on %{Device:Name})</source>
         <extracomment>Shown in Run configuration, Add menu: &quot;name of runnable (on device name)&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 (på %{Device:Name})</translation>
     </message>
     <message>
         <source>Deployment</source>
@@ -39969,7 +39971,7 @@ Do you want to ignore them?</source>
     </message>
     <message>
         <source>Build Project for All Configurations</source>
-        <translation type="unfinished"></translation>
+        <translation>Bygg projekt för alla konfigurationer</translation>
     </message>
     <message>
         <source>Build Project &quot;%1&quot; for All Configurations</source>
@@ -39997,19 +39999,19 @@ Do you want to ignore them?</source>
     </message>
     <message>
         <source>Meta+Backspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta+Backspace</translation>
     </message>
     <message>
         <source>Alt+Backspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+Backspace</translation>
     </message>
     <message>
         <source>Add Existing Projects...</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till existerande projekt...</translation>
     </message>
     <message>
         <source>Add Existing Directory...</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till existerande katalog...</translation>
     </message>
     <message>
         <source>Close All Files</source>
@@ -40049,7 +40051,7 @@ Do you want to ignore them?</source>
     </message>
     <message>
         <source>Expand</source>
-        <translation type="unfinished"></translation>
+        <translation>Expandera</translation>
     </message>
     <message>
         <source>Expand All</source>
@@ -40069,11 +40071,11 @@ Do you want to ignore them?</source>
     </message>
     <message>
         <source>Name of current session.</source>
-        <translation type="unfinished"></translation>
+        <translation>Namn för aktuell session.</translation>
     </message>
     <message>
         <source>Failed to Open Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att öppna projekt</translation>
     </message>
     <message>
         <source>&lt;b&gt;Warning:&lt;/b&gt; This file is generated.</source>
@@ -40093,7 +40095,7 @@ Do you want to ignore them?</source>
     </message>
     <message>
         <source>The project %1 is not configured.</source>
-        <translation type="unfinished"></translation>
+        <translation>Projektet %1 är inte konfigurerat.</translation>
     </message>
     <message>
         <source>Project has no build settings.</source>
@@ -40101,7 +40103,7 @@ Do you want to ignore them?</source>
     </message>
     <message>
         <source>No active project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inget aktivt projekt.</translation>
     </message>
     <message>
         <source>Could not add following files to project %1:</source>
@@ -40154,7 +40156,7 @@ Do you want to ignore them?</source>
     </message>
     <message>
         <source>&lt;h3&gt;Project already open&lt;/h3&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Projektet är redan öppnat&lt;/h3&gt;</translation>
     </message>
     <message>
         <source>Failed opening project &quot;%1&quot;: No plugin can open project type &quot;%2&quot;.</source>
@@ -40206,7 +40208,7 @@ Do you want to ignore them?</source>
     </message>
     <message>
         <source>A build is in progress.</source>
-        <translation type="unfinished"></translation>
+        <translation>En byggnation pågår.</translation>
     </message>
     <message>
         <source>Close %1?</source>
@@ -40364,7 +40366,7 @@ Please try again.</source>
     <message>
         <source>New Subproject</source>
         <comment>Title of dialog</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nytt underprojekt</translation>
     </message>
     <message>
         <source>Add Existing Files</source>
@@ -40396,7 +40398,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Could not delete file %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte ta bort filen %1.</translation>
     </message>
     <message>
         <source>Error while restoring session</source>
@@ -40404,7 +40406,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Could not restore session %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte återskapa sessionen %1</translation>
     </message>
     <message>
         <source>Failed to restore project files</source>
@@ -40412,7 +40414,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Could not save session %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte spara session %1</translation>
     </message>
     <message>
         <source>Delete Session</source>
@@ -40442,7 +40444,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Keep projects in Session</source>
-        <translation type="unfinished"></translation>
+        <translation>Behåll projekten i session</translation>
     </message>
     <message>
         <source>Remove projects from Session</source>
@@ -40536,7 +40538,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Save all files before build</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara alla filer innan byggnation</translation>
     </message>
     <message>
         <source>Add linker library search paths to run environment</source>
