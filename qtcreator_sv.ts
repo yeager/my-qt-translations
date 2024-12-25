@@ -12472,11 +12472,11 @@ the manifest file by overriding your settings. Allow override?</source>
     </message>
     <message>
         <source>Ctrl+Meta+T, Ctrl+Meta+A</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Meta+T, Ctrl+Meta+A</translation>
     </message>
     <message>
         <source>Alt+Shift+T,Alt+A</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+Shift+T,Alt+A</translation>
     </message>
     <message>
         <source>Run All Tests Without Deployment</source>
@@ -12484,23 +12484,23 @@ the manifest file by overriding your settings. Allow override?</source>
     </message>
     <message>
         <source>Ctrl+Meta+T, Ctrl+Meta+E</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Meta+T, Ctrl+Meta+E</translation>
     </message>
     <message>
         <source>Alt+Shift+T,Alt+E</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+Shift+T,Alt+E</translation>
     </message>
     <message>
         <source>&amp;Run Selected Tests</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kör markerade tester</translation>
     </message>
     <message>
         <source>Ctrl+Meta+T, Ctrl+Meta+R</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Meta+T, Ctrl+Meta+R</translation>
     </message>
     <message>
         <source>Alt+Shift+T,Alt+R</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+Shift+T,Alt+R</translation>
     </message>
     <message>
         <source>&amp;Run Selected Tests Without Deployment</source>
@@ -12508,35 +12508,35 @@ the manifest file by overriding your settings. Allow override?</source>
     </message>
     <message>
         <source>Ctrl+Meta+T, Ctrl+Meta+W</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Meta+T, Ctrl+Meta+W</translation>
     </message>
     <message>
         <source>Alt+Shift+T,Alt+W</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+Shift+T,Alt+W</translation>
     </message>
     <message>
         <source>Run &amp;Failed Tests</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör &amp;misslyckade tester</translation>
     </message>
     <message>
         <source>Ctrl+Meta+T, Ctrl+Meta+F</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Meta+T, Ctrl+Meta+F</translation>
     </message>
     <message>
         <source>Alt+Shift+T,Alt+F</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+Shift+T,Alt+F</translation>
     </message>
     <message>
         <source>Run Tests for &amp;Current File</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör tester för a&amp;ktuell fil</translation>
     </message>
     <message>
         <source>Run Test Under Cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör test under markör</translation>
     </message>
     <message>
         <source>&amp;Run Test</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kör test</translation>
     </message>
     <message>
         <source>Run Test Without Deployment</source>
@@ -12544,7 +12544,7 @@ the manifest file by overriding your settings. Allow override?</source>
     </message>
     <message>
         <source>&amp;Debug Test</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Felsök test</translation>
     </message>
     <message>
         <source>Debug Test Without Deployment</source>
@@ -12592,15 +12592,15 @@ the manifest file by overriding your settings. Allow override?</source>
     </message>
     <message>
         <source>Ctrl+Meta+T, Ctrl+Meta+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Meta+T, Ctrl+Meta+S</translation>
     </message>
     <message>
         <source>Alt+Shift+T,Alt+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+Shift+T,Alt+S</translation>
     </message>
     <message>
         <source>Cannot debug multiple tests at once.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte felsöka flera tester samtidigt.</translation>
     </message>
     <message>
         <source>Selected test was not found (%1).</source>
@@ -12643,11 +12643,11 @@ the manifest file by overriding your settings. Allow override?</source>
     </message>
     <message>
         <source>%1 tests passed.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 tester lyckades.</translation>
     </message>
     <message>
         <source>No errors detected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga fel upptäcktes.</translation>
     </message>
     <message>
         <source>Running tests exited with %1.</source>
@@ -12673,7 +12673,7 @@ Executable: %2</source>
     </message>
     <message>
         <source>Report level:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rapportnivå:</translation>
     </message>
     <message>
         <source>Seed:</source>
@@ -12693,11 +12693,11 @@ Executable: %2</source>
     </message>
     <message>
         <source>Catch system errors</source>
-        <translation type="unfinished"></translation>
+        <translation>Fånga systemfel</translation>
     </message>
     <message>
         <source>Catch or ignore system errors.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fånga eller ignorera systemfel.</translation>
     </message>
     <message>
         <source>Floating point exceptions</source>
@@ -12709,7 +12709,7 @@ Executable: %2</source>
     </message>
     <message>
         <source>Detect memory leaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Upptäck minnesläckor</translation>
     </message>
     <message>
         <source>Enable memory leak detection.</source>
@@ -12731,19 +12731,19 @@ Executable: %2</source>
     </message>
     <message>
         <source>Catch Test</source>
-        <translation type="unfinished"></translation>
+        <translation>Fånga test</translation>
     </message>
     <message>
         <source>Exception:</source>
-        <translation type="unfinished"></translation>
+        <translation>Undantag:</translation>
     </message>
     <message>
         <source>Executing %1 &quot;%2&quot;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör %1 &quot;%2&quot;...</translation>
     </message>
     <message>
         <source>%1 &quot;%2&quot; passed.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 &quot;%2&quot; lyckades.</translation>
     </message>
     <message>
         <source>Expression passed.</source>
@@ -12763,11 +12763,11 @@ Executable: %2</source>
     </message>
     <message>
         <source> ms</source>
-        <translation type="unfinished"></translation>
+        <translation> ms</translation>
     </message>
     <message>
         <source>Abort after</source>
-        <translation type="unfinished"></translation>
+        <translation>Avbryt efter</translation>
     </message>
     <message>
         <source>Aborts after the specified number of failures.</source>
@@ -12803,11 +12803,11 @@ Executable: %2</source>
     </message>
     <message>
         <source>Warmup time for each test.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppvärmningstid för varje test.</translation>
     </message>
     <message>
         <source>Disable analysis</source>
-        <translation type="unfinished"></translation>
+        <translation>Inaktivera analyser</translation>
     </message>
     <message>
         <source>Disables statistical analysis and bootstrapping.</source>
@@ -12815,15 +12815,15 @@ Executable: %2</source>
     </message>
     <message>
         <source>Show success</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa att det lyckas</translation>
     </message>
     <message>
         <source>Show success for tests.</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa att tester lyckas.</translation>
     </message>
     <message>
         <source>Break on failure while debugging</source>
-        <translation type="unfinished"></translation>
+        <translation>Bryt vid fel under felsökning</translation>
     </message>
     <message>
         <source>Turns failures into debugger breakpoints.</source>
@@ -12847,7 +12847,7 @@ Executable: %2</source>
     </message>
     <message>
         <source>Warn on empty tests</source>
-        <translation type="unfinished"></translation>
+        <translation>Varna vid tomma tester</translation>
     </message>
     <message>
         <source>Warns if a test section does not check any assertion.</source>
@@ -12855,7 +12855,7 @@ Executable: %2</source>
     </message>
     <message>
         <source>Repeat Tests</source>
-        <translation type="unfinished"></translation>
+        <translation>Upprepa tester</translation>
     </message>
     <message>
         <source>Output on failure</source>
@@ -12863,7 +12863,7 @@ Executable: %2</source>
     </message>
     <message>
         <source>Output mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Utdataläge</translation>
     </message>
     <message>
         <source>Default</source>
@@ -12875,36 +12875,36 @@ Executable: %2</source>
     </message>
     <message>
         <source>Very Verbose</source>
-        <translation type="unfinished"></translation>
+        <translation>Mycket utförligt</translation>
     </message>
     <message>
         <source>Repetition mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Upprepningsläge</translation>
     </message>
     <message>
         <source>Until Fail</source>
-        <translation type="unfinished"></translation>
+        <translation>Tills misslyckas</translation>
     </message>
     <message>
         <source>Until Pass</source>
-        <translation type="unfinished"></translation>
+        <translation>Tills lyckas</translation>
     </message>
     <message>
         <source>After Timeout</source>
-        <translation type="unfinished"></translation>
+        <translation>Efter tidsgräns</translation>
     </message>
     <message>
         <source>Count</source>
-        <translation type="unfinished"></translation>
+        <translation>Antal</translation>
     </message>
     <message>
         <source>Number of re-runs for the test.</source>
-        <translation type="unfinished"></translation>
+        <translation>Antal omkörningar för testet.</translation>
     </message>
     <message>
         <source>Schedule random</source>
         <translatorcomment>CTest Option --schedule-random </translatorcomment>
-        <translation type="unfinished"></translation>
+        <translation>Schemalägg slumpmässigt</translation>
     </message>
     <message>
         <source>Stop on failure</source>
@@ -12916,7 +12916,7 @@ Executable: %2</source>
     </message>
     <message>
         <source>Jobs</source>
-        <translation type="unfinished"></translation>
+        <translation>Jobb</translation>
     </message>
     <message>
         <source>Test load</source>
@@ -12928,15 +12928,15 @@ Executable: %2</source>
     </message>
     <message>
         <source>Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Tröskelvärde</translation>
     </message>
     <message>
         <source>CTest</source>
-        <translation type="unfinished"></translation>
+        <translation>CTest</translation>
     </message>
     <message>
         <source>Repeat tests</source>
-        <translation type="unfinished"></translation>
+        <translation>Upprepa tester</translation>
     </message>
     <message>
         <source>Run in Parallel</source>
@@ -12971,7 +12971,7 @@ Executable: %2</source>
     </message>
     <message>
         <source>Iterations:</source>
-        <translation type="unfinished"></translation>
+        <translation>Iterationer:</translation>
     </message>
     <message>
         <source>A seed of 0 generates a seed based on the current timestamp.</source>
@@ -12979,7 +12979,7 @@ Executable: %2</source>
     </message>
     <message>
         <source>Run disabled tests</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör inaktiverade tester</translation>
     </message>
     <message>
         <source>Executes disabled tests when performing a test run.</source>
@@ -12987,7 +12987,7 @@ Executable: %2</source>
     </message>
     <message>
         <source>Shuffle tests</source>
-        <translation type="unfinished"></translation>
+        <translation>Blanda tester</translation>
     </message>
     <message>
         <source>Shuffles tests automatically on every iteration by the given seed.</source>
@@ -13016,7 +13016,7 @@ Executable: %2</source>
     </message>
     <message>
         <source>Group mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Gruppläge:</translation>
     </message>
     <message>
         <source>Select on what grouping the tests should be based.</source>
@@ -13024,7 +13024,7 @@ Executable: %2</source>
     </message>
     <message>
         <source>Active filter:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivt filter:</translation>
     </message>
     <message>
         <source>Set the GTest filter to be used for grouping.
@@ -13049,7 +13049,7 @@ See Google Test documentation for further information on GTest filters.</source>
     </message>
     <message>
         <source>Automatically run tests after build</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör automatiskt tester efter byggnation</translation>
     </message>
     <message>
         <source>None</source>
@@ -13061,7 +13061,7 @@ See Google Test documentation for further information on GTest filters.</source>
     </message>
     <message>
         <source>Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Markerade</translation>
     </message>
     <message>
         <source>Apply path filters before scanning for tests.</source>
@@ -13082,7 +13082,7 @@ See Google Test documentation for further information on GTest filters.</source>
     <message>
         <source>Limit Files to Path Patterns</source>
         <translatorcomment>je ne suis pas certain de cette traduction</translatorcomment>
-        <translation type="unfinished"></translation>
+        <translation>Begränsa filer till sökvägsmönster</translation>
     </message>
     <message>
         <source>Qt Test</source>
@@ -13094,7 +13094,7 @@ See Google Test documentation for further information on GTest filters.</source>
     </message>
     <message>
         <source>Qt version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt-version: %1</translation>
     </message>
     <message>
         <source>Qt build: %1</source>
@@ -13102,7 +13102,7 @@ See Google Test documentation for further information on GTest filters.</source>
     </message>
     <message>
         <source>QTest version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>QTest-version: %1</translation>
     </message>
     <message>
         <source>XML parsing failed.</source>
@@ -13118,7 +13118,7 @@ See Google Test documentation for further information on GTest filters.</source>
     </message>
     <message>
         <source>Execution took %1 ms.</source>
-        <translation type="unfinished"></translation>
+        <translation>Körningen tog %1 ms.</translation>
     </message>
     <message>
         <source>Test execution took %1 ms.</source>
@@ -13134,7 +13134,7 @@ See Google Test documentation for further information on GTest filters.</source>
     </message>
     <message>
         <source>Walltime</source>
-        <translation type="unfinished"></translation>
+        <translation>Walltime</translation>
     </message>
     <message>
         <source>Uses walltime metrics for executing benchmarks (default).</source>
@@ -13158,7 +13158,7 @@ See Google Test documentation for further information on GTest filters.</source>
     </message>
     <message>
         <source>Callgrind</source>
-        <translation type="unfinished"></translation>
+        <translation>Callgrind</translation>
     </message>
     <message>
         <source>Uses Valgrind Callgrind when executing benchmarks (it must be installed).</source>
@@ -13166,7 +13166,7 @@ See Google Test documentation for further information on GTest filters.</source>
     </message>
     <message>
         <source>Perf</source>
-        <translation type="unfinished"></translation>
+        <translation>Perf</translation>
     </message>
     <message>
         <source>Uses Perf when executing benchmarks (it must be installed).</source>
@@ -13182,7 +13182,7 @@ See Google Test documentation for further information on GTest filters.</source>
     </message>
     <message>
         <source>Use XML output</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd XML-utdata</translation>
     </message>
     <message>
         <source>XML output is recommended, because it avoids parsing issues, while plain text is more human readable.&lt;p&gt;Warning: Plain text misses some information, such as duration.</source>
@@ -13194,7 +13194,7 @@ See Google Test documentation for further information on GTest filters.</source>
     </message>
     <message>
         <source>Log signals and slots</source>
-        <translation type="unfinished"></translation>
+        <translation>Logga signaler och platser</translation>
     </message>
     <message>
         <source>Log every signal emission and resulting slot invocations.</source>
@@ -13202,7 +13202,7 @@ See Google Test documentation for further information on GTest filters.</source>
     </message>
     <message>
         <source>Limit warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Begränsa varningar</translation>
     </message>
     <message>
         <source>Set the maximum number of warnings. 0 means that the number is not limited.</source>
@@ -13210,7 +13210,7 @@ See Google Test documentation for further information on GTest filters.</source>
     </message>
     <message>
         <source>Unlimited</source>
-        <translation type="unfinished"></translation>
+        <translation>Obegränsat</translation>
     </message>
     <message>
         <source>Check for derived Qt Quick tests</source>
@@ -13238,19 +13238,19 @@ See Google Test documentation for further information on GTest filters.</source>
     </message>
     <message>
         <source>inherited</source>
-        <translation type="unfinished"></translation>
+        <translation>ärvd</translation>
     </message>
     <message>
         <source>multiple testcases</source>
-        <translation type="unfinished"></translation>
+        <translation>flera testfall</translation>
     </message>
     <message>
         <source>Quick Test</source>
-        <translation type="unfinished"></translation>
+        <translation>Snabbtest</translation>
     </message>
     <message>
         <source>&lt;unnamed&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;namnlös&gt;</translation>
     </message>
     <message>
         <source>Give all test cases a name to ensure correct behavior when running test cases and to be able to select them</source>
@@ -13258,15 +13258,15 @@ See Google Test documentation for further information on GTest filters.</source>
     </message>
     <message>
         <source>Scanning for Tests</source>
-        <translation type="unfinished"></translation>
+        <translation>Söker efter tester</translation>
     </message>
     <message>
         <source>Auto Test</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatiskt test</translation>
     </message>
     <message>
         <source>Tests</source>
-        <translation type="unfinished"></translation>
+        <translation>Tester</translation>
     </message>
     <message>
         <source>No active test frameworks.</source>
@@ -13274,7 +13274,7 @@ See Google Test documentation for further information on GTest filters.</source>
     </message>
     <message>
         <source>Run This Test</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör detta test</translation>
     </message>
     <message>
         <source>Run Without Deployment</source>
@@ -13282,7 +13282,7 @@ See Google Test documentation for further information on GTest filters.</source>
     </message>
     <message>
         <source>Debug This Test</source>
-        <translation type="unfinished"></translation>
+        <translation>Felsök detta test</translation>
     </message>
     <message>
         <source>Debug Without Deployment</source>
@@ -13302,7 +13302,7 @@ See Google Test documentation for further information on GTest filters.</source>
     </message>
     <message>
         <source>Sort Naturally</source>
-        <translation type="unfinished"></translation>
+        <translation>Sortera naturligt</translation>
     </message>
     <message>
         <source>Expand All</source>
@@ -13323,7 +13323,7 @@ See Google Test documentation for further information on GTest filters.</source>
     <message>
         <source>Show Data Functions</source>
         <translatorcomment>Data functions?</translatorcomment>
-        <translation type="unfinished"></translation>
+        <translation>Visa datafunktioner</translation>
     </message>
     <message>
         <source>Test executable crashed.</source>
@@ -13331,11 +13331,11 @@ See Google Test documentation for further information on GTest filters.</source>
     </message>
     <message>
         <source>Stop Test Run</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoppa testkörning</translation>
     </message>
     <message>
         <source>Filter Test Results</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrera testresultat</translation>
     </message>
     <message>
         <source>Switch Between Visual and Text Display</source>
@@ -13343,7 +13343,7 @@ See Google Test documentation for further information on GTest filters.</source>
     </message>
     <message>
         <source>Test Results</source>
-        <translation type="unfinished">Testresultat</translation>
+        <translation>Testresultat</translation>
     </message>
     <message>
         <source>Show Durations</source>
@@ -13351,7 +13351,7 @@ See Google Test documentation for further information on GTest filters.</source>
     </message>
     <message>
         <source>Pass</source>
-        <translation type="unfinished"></translation>
+        <translation>Lyckades</translation>
     </message>
     <message>
         <source>Fail</source>
@@ -13383,47 +13383,47 @@ See Google Test documentation for further information on GTest filters.</source>
     </message>
     <message>
         <source>Internal Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Interna meddelanden</translation>
     </message>
     <message>
         <source>Check All Filters</source>
-        <translation type="unfinished"></translation>
+        <translation>Markera alla filter</translation>
     </message>
     <message>
         <source>Uncheck All Filters</source>
-        <translation type="unfinished"></translation>
+        <translation>Avmarkera alla filter</translation>
     </message>
     <message>
         <source>Test summary</source>
-        <translation type="unfinished"></translation>
+        <translation>Testsammandrag</translation>
     </message>
     <message>
         <source>passes</source>
-        <translation type="unfinished"></translation>
+        <translation>lyckades</translation>
     </message>
     <message>
         <source>fails</source>
-        <translation type="unfinished"></translation>
+        <translation>misslyckades</translation>
     </message>
     <message>
         <source>unexpected passes</source>
-        <translation type="unfinished"></translation>
+        <translation>lyckades (oväntade)</translation>
     </message>
     <message>
         <source>expected fails</source>
-        <translation type="unfinished"></translation>
+        <translation>förväntade fel</translation>
     </message>
     <message>
         <source>fatals</source>
-        <translation type="unfinished"></translation>
+        <translation>ödesdigra fel</translation>
     </message>
     <message>
         <source>blacklisted</source>
-        <translation type="unfinished"></translation>
+        <translation>svartlistade</translation>
     </message>
     <message>
         <source>skipped</source>
-        <translation type="unfinished"></translation>
+        <translation>hoppades över</translation>
     </message>
     <message>
         <source>disabled</source>
@@ -13439,7 +13439,7 @@ See Google Test documentation for further information on GTest filters.</source>
     </message>
     <message>
         <source>Save Output to File...</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara utdata till fil...</translation>
     </message>
     <message>
         <source>Run This Test Without Deployment</source>
@@ -13451,7 +13451,7 @@ See Google Test documentation for further information on GTest filters.</source>
     </message>
     <message>
         <source>Save Output To</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara utdata till</translation>
     </message>
     <message>
         <source>Error</source>
@@ -13461,7 +13461,9 @@ See Google Test documentation for further information on GTest filters.</source>
         <source>Failed to write &quot;%1&quot;.
 
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att skriva &quot;%1&quot;.
+
+%2</translation>
     </message>
     <message>
         <source>AutoTest Debug</source>
@@ -13469,7 +13471,7 @@ See Google Test documentation for further information on GTest filters.</source>
     </message>
     <message>
         <source>Test run canceled by user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Testkörning avbröts av användaren.</translation>
     </message>
     <message>
         <source>
@@ -13479,7 +13481,8 @@ Run configuration: deduced from &quot;%1&quot;</source>
     <message>
         <source>
 Run configuration: &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Kör konfiguration: &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Omitted the following arguments specified on the run configuration page for &quot;%1&quot;:</source>
@@ -13495,7 +13498,7 @@ Run configuration: &quot;%1&quot;</source>
     </message>
     <message>
         <source>Current kit has changed. Canceling test run.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuellt kit har ändrats. Avbryter testkörning.</translation>
     </message>
     <message>
         <source>Test case canceled due to timeout.
@@ -13508,7 +13511,7 @@ Maybe raise the timeout?</source>
     </message>
     <message>
         <source>Test for project &quot;%1&quot; crashed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Testet för projektet &quot;%1&quot; kraschade.</translation>
     </message>
     <message>
         <source>Test for project &quot;%1&quot; did not produce any expected output.</source>
@@ -13525,7 +13528,7 @@ Only desktop kits are supported. Make sure the currently active kit is a desktop
     </message>
     <message>
         <source>Project is not configured. Canceling test run.</source>
-        <translation type="unfinished"></translation>
+        <translation>Projektet är inte konfigurerat. Avbryter testkörning.</translation>
     </message>
     <message>
         <source>Project is null for &quot;%1&quot;. Removing from test run.
@@ -13548,7 +13551,7 @@ This might cause trouble during execution.
     </message>
     <message>
         <source>Running Tests</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör tester</translation>
     </message>
     <message>
         <source>Failed to get run configuration.</source>
@@ -13556,7 +13559,7 @@ This might cause trouble during execution.
     </message>
     <message>
         <source>Could not find command &quot;%1&quot;. (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte hitta kommandot &quot;%1&quot;. (%2)</translation>
     </message>
     <message>
         <source>Unable to display test results when using CDB.</source>
@@ -13564,11 +13567,11 @@ This might cause trouble during execution.
     </message>
     <message>
         <source>Build failed. Canceling test run.</source>
-        <translation type="unfinished"></translation>
+        <translation>Byggnation misslyckades. Avbryter testkörning.</translation>
     </message>
     <message>
         <source>Select Run Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj Kör konfiguration</translation>
     </message>
     <message>
         <source>Could not determine which run configuration to choose for running tests</source>
@@ -13580,7 +13583,7 @@ This might cause trouble during execution.
     </message>
     <message>
         <source>Run Configuration:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör konfiguration:</translation>
     </message>
     <message>
         <source>Executable:</source>
@@ -13592,11 +13595,11 @@ This might cause trouble during execution.
     </message>
     <message>
         <source>Working Directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbetskatalog:</translation>
     </message>
     <message>
         <source>Omit internal messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Undanta interna meddelanden</translation>
     </message>
     <message>
         <source>Hides internal messages by default. You can still enable them by using the test results filter.</source>
@@ -13612,7 +13615,7 @@ This might cause trouble during execution.
     </message>
     <message>
         <source>Limit result output</source>
-        <translation type="unfinished"></translation>
+        <translation>Begränsa resultatutdata</translation>
     </message>
     <message>
         <source>Limits result output to 100000 characters.</source>
@@ -13628,7 +13631,7 @@ This might cause trouble during execution.
     </message>
     <message>
         <source>Open results when tests start</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna resultat när tester startas</translation>
     </message>
     <message>
         <source>Displays test results automatically when tests are started.</source>
@@ -13636,7 +13639,7 @@ This might cause trouble during execution.
     </message>
     <message>
         <source>Open results when tests finish</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna resultat när tester färdigställts</translation>
     </message>
     <message>
         <source>Displays test results automatically when tests are finished.</source>
@@ -13652,7 +13655,7 @@ This might cause trouble during execution.
     </message>
     <message>
         <source>Automatically scroll results</source>
-        <translation type="unfinished"></translation>
+        <translation>Rulla automatiskt resultat</translation>
     </message>
     <message>
         <source>Number of worker threads used when scanning for tests.</source>
@@ -13676,7 +13679,7 @@ This might cause trouble during execution.
     </message>
     <message>
         <source>Process arguments</source>
-        <translation type="unfinished"></translation>
+        <translation>Processargument</translation>
     </message>
     <message>
         <source>Allow passing arguments specified on the respective run configuration.
@@ -13685,7 +13688,7 @@ Warning: this is an experimental feature and might lead to failing to execute th
     </message>
     <message>
         <source>Runs chosen tests automatically if a build succeeded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör valda tester automatiskt om en byggnation lyckas.</translation>
     </message>
     <message>
         <source>Timeout:</source>
@@ -13693,7 +13696,7 @@ Warning: this is an experimental feature and might lead to failing to execute th
     </message>
     <message>
         <source> s</source>
-        <translation type="unfinished"></translation>
+        <translation> s</translation>
     </message>
     <message>
         <source>Scan threads:</source>
@@ -13729,7 +13732,7 @@ Warning: this is an experimental feature and might lead to failing to execute th
     </message>
     <message>
         <source>Automatically run</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisk körning</translation>
     </message>
     <message>
         <source>Active Test Frameworks</source>
@@ -13741,7 +13744,7 @@ Warning: this is an experimental feature and might lead to failing to execute th
     </message>
     <message>
         <source>Enable or disable grouping of test cases by folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivera eller inaktivera gruppering av testfall efter mapp.</translation>
     </message>
     <message>
         <source>No active test frameworks or tools.</source>
@@ -13761,11 +13764,11 @@ Warning: this is an experimental feature and might lead to failing to execute th
     </message>
     <message>
         <source>%1 (none)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (ingen)</translation>
     </message>
     <message>
         <source>Running tests for &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör tester för &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Locate Qt Test data tags</source>
@@ -39570,7 +39573,7 @@ Title of a the cloned RunConfiguration window, text of the window</extracomment>
     </message>
     <message>
         <source>Add as a subproject to project:</source>
-        <translation>Lägg till som ett underprojekt till projektet</translation>
+        <translation>Lägg till som ett underprojekt till projektet:</translation>
     </message>
     <message>
         <source>Add to &amp;project:</source>
@@ -39784,7 +39787,7 @@ Title of a the cloned RunConfiguration window, text of the window</extracomment>
     </message>
     <message>
         <source>Sessions</source>
-        <translation type="unfinished">Sessioner</translation>
+        <translation>Sessioner</translation>
     </message>
     <message>
         <source>Ctrl+R</source>
@@ -40232,7 +40235,7 @@ Do you want to ignore them?</source>
     </message>
     <message>
         <source>Cannot run &quot;%1&quot;.</source>
-        <translation>Kan inte köra &quot;%1&quot;</translation>
+        <translation>Kan inte köra &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>A run action is already scheduled for the active project.</source>
@@ -42982,7 +42985,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     <message>
         <source>session</source>
         <comment>Appears in &quot;Open session &lt;name&gt;&quot;</comment>
-        <translation type="unfinished">Session</translation>
+        <translation>Session</translation>
     </message>
     <message>
         <source>%1 (current session)</source>
@@ -44327,19 +44330,19 @@ to project &quot;%2&quot;.</source>
     </message>
     <message>
         <source>Failed to Overwrite Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att skriva över filer</translation>
     </message>
     <message>
         <source>Failed to Format Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att formatera filer</translation>
     </message>
     <message>
         <source>Failed to Write Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att skriva filer</translation>
     </message>
     <message>
         <source>Failed to Post-Process Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att efterbehandla filer</translation>
     </message>
     <message>
         <source>Failed to Polish Files</source>
@@ -44347,35 +44350,35 @@ to project &quot;%2&quot;.</source>
     </message>
     <message>
         <source>Failed to Open Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att öppna filer</translation>
     </message>
     <message>
         <source>&quot;%1&quot; does not exist in the file system.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; finns inte på filsystemet.</translation>
     </message>
     <message>
         <source>Failed to open &quot;%1&quot; as a project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att öppna &quot;%1&quot; som ett projekt.</translation>
     </message>
     <message>
         <source>Failed to open an editor for &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att öppna en redigerare för &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>No file to open found in &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen fil att öppna hittades i &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Failed to open project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att öppna projektet.</translation>
     </message>
     <message>
         <source>Failed to open project in &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att öppna projektet i &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Cannot Open Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte öppna projektet</translation>
     </message>
     <message>
         <source>Generator is not a object.</source>
@@ -44399,7 +44402,7 @@ to project &quot;%2&quot;.</source>
     </message>
     <message>
         <source>* Failed to parse &quot;%1&quot;:%2:%3: %4</source>
-        <translation type="unfinished"></translation>
+        <translation>* Misslyckades med att tolka &quot;%1&quot;:%2:%3: %4</translation>
     </message>
     <message>
         <source>* Did not find a JSON object in &quot;%1&quot;.
@@ -44408,7 +44411,7 @@ to project &quot;%2&quot;.</source>
     </message>
     <message>
         <source>JsonWizard: &quot;%1&quot; not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>JsonWizard: &quot;%1&quot; hittades inte.</translation>
     </message>
     <message>
         <source>* Did not find a JSON object in &quot;%1&quot;.</source>
@@ -44416,7 +44419,7 @@ to project &quot;%2&quot;.</source>
     </message>
     <message>
         <source>* Configuration found and parsed.</source>
-        <translation type="unfinished"></translation>
+        <translation>* Konfiguration hittades och tolkades.</translation>
     </message>
     <message>
         <source>Page is not an object.</source>
@@ -44436,11 +44439,11 @@ to project &quot;%2&quot;.</source>
     </message>
     <message>
         <source>* Version %1 not supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>* Version %1 stöds inte.</translation>
     </message>
     <message>
         <source>* Failed to create: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>* Misslyckades med att skapa: %1</translation>
     </message>
     <message>
         <source>key not found.</source>
@@ -44480,11 +44483,11 @@ to project &quot;%2&quot;.</source>
     </message>
     <message>
         <source>Icon file &quot;%1&quot; not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikonfilen &quot;%1&quot; hittades inte.</translation>
     </message>
     <message>
         <source>Image file &quot;%1&quot; not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildfilen &quot;%1&quot; hittades inte.</translation>
     </message>
     <message>
         <source>No displayName set.</source>
@@ -44496,15 +44499,15 @@ to project &quot;%2&quot;.</source>
     </message>
     <message>
         <source>No description set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen beskrivning angiven.</translation>
     </message>
     <message>
         <source>When parsing &quot;generators&quot;: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Vid tolkning av &quot;generators&quot;: %1</translation>
     </message>
     <message>
         <source>When parsing &quot;pages&quot;: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Vid tolkning av &quot;pages&quot;: %1</translation>
     </message>
     <message>
         <source>Files data list entry is not an object.</source>
@@ -44512,23 +44515,23 @@ to project &quot;%2&quot;.</source>
     </message>
     <message>
         <source>Source and target are both empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Källa och mål är båda tomma.</translation>
     </message>
     <message>
         <source>When processing &quot;%1&quot;:&lt;br&gt;%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Vid processning av &quot;%1&quot;:&lt;br&gt;%2</translation>
     </message>
     <message>
         <source>%1 [folder]</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 [mapp]</translation>
     </message>
     <message>
         <source>%1 [symbolic link]</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 [symbolisk länk]</translation>
     </message>
     <message>
         <source>%1 [read only]</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 [skrivskyddad]</translation>
     </message>
     <message>
         <source>The directory %1 contains files which cannot be overwritten:
@@ -44581,7 +44584,7 @@ to project &quot;%2&quot;.</source>
     </message>
     <message>
         <source>Kit of Active Project: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kit för aktivt projekt: %1</translation>
     </message>
     <message>
         <source>The process cannot access the file because it is being used by another process.
@@ -44594,7 +44597,7 @@ Please close all running instances of your application before starting a build.<
     </message>
     <message>
         <source>Output went to stderr</source>
-        <translation type="unfinished"></translation>
+        <translation>Utdata gick till stderr</translation>
     </message>
     <message>
         <source>Clear existing tasks</source>
@@ -44602,35 +44605,35 @@ Please close all running instances of your application before starting a build.<
     </message>
     <message>
         <source>Load from File...</source>
-        <translation type="unfinished"></translation>
+        <translation>Läs in från fil...</translation>
     </message>
     <message>
         <source>Choose File</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj fil</translation>
     </message>
     <message>
         <source>Could Not Open File</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte öppna filen</translation>
     </message>
     <message>
         <source>Could not open file: &quot;%1&quot;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte öppna filen: &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <source>Build Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Byggutdata</translation>
     </message>
     <message>
         <source>Parsing Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Tolkningsalternativ</translation>
     </message>
     <message>
         <source>Use parsers from kit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd tolkare från kit:</translation>
     </message>
     <message>
         <source>Cannot Parse</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte tolka</translation>
     </message>
     <message>
         <source>Cannot parse: The chosen kit does not provide an output parser.</source>
@@ -44642,12 +44645,13 @@ Please close all running instances of your application before starting a build.<
     </message>
     <message>
         <source>Rename More Files?</source>
-        <translation type="unfinished"></translation>
+        <translation>Byta namn på fler filer?</translation>
     </message>
     <message>
         <source>Would you like to rename these files as well?
     %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Vill du byta namn på dessa filer också?
+    %1</translation>
     </message>
     <message>
         <source>Choose Drop Action</source>
@@ -44660,31 +44664,31 @@ What should %1 do now?</source>
     </message>
     <message>
         <source>Copy Only File References</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera endast filreferenser</translation>
     </message>
     <message>
         <source>Move Only File References</source>
-        <translation type="unfinished"></translation>
+        <translation>Flytta endast filreferenser</translation>
     </message>
     <message>
         <source>Copy file references and files</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera filreferenser och filer</translation>
     </message>
     <message>
         <source>Move file references and files</source>
-        <translation type="unfinished"></translation>
+        <translation>Flytta filreferenser och filer</translation>
     </message>
     <message>
         <source>Target directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>Målkatalog:</translation>
     </message>
     <message>
         <source>Copy File References</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera filreferenser</translation>
     </message>
     <message>
         <source>Move File References</source>
-        <translation type="unfinished"></translation>
+        <translation>Flytta filreferenser</translation>
     </message>
     <message>
         <source>Not all operations finished successfully.</source>
@@ -44692,19 +44696,19 @@ What should %1 do now?</source>
     </message>
     <message>
         <source>The following files could not be copied or moved:</source>
-        <translation type="unfinished"></translation>
+        <translation>Följande filer kunde inte kopieras eller flyttas:</translation>
     </message>
     <message>
         <source>The following files could not be removed from the project file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Följande filer kunde inte tas bort från projektfilen:</translation>
     </message>
     <message>
         <source>The following files could not be added to the project file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Följande filer kunde inte läggas till projektfilen:</translation>
     </message>
     <message>
         <source>The following files could not be deleted:</source>
-        <translation type="unfinished"></translation>
+        <translation>Följande filer kunde inte tas bort:</translation>
     </message>
     <message>
         <source>A version control operation failed for the following files. Please check your repository.</source>
@@ -44712,23 +44716,23 @@ What should %1 do now?</source>
     </message>
     <message>
         <source>Failure Updating Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades att uppdatera projekt</translation>
     </message>
     <message>
         <source>Terminal</source>
-        <translation type="unfinished"></translation>
+        <translation>Terminal</translation>
     </message>
     <message>
         <source>Run in terminal</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör i terminal</translation>
     </message>
     <message>
         <source>Working Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbetskatalog</translation>
     </message>
     <message>
         <source>Select Working Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj arbetskatalog</translation>
     </message>
     <message>
         <source>Reset to Default</source>
@@ -44744,7 +44748,7 @@ What should %1 do now?</source>
     </message>
     <message>
         <source>Toggle multi-line mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växla flerradsläge.</translation>
     </message>
     <message>
         <source>Executable</source>
@@ -44764,7 +44768,7 @@ What should %1 do now?</source>
     </message>
     <message>
         <source>Use this command instead</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd detta kommando istället</translation>
     </message>
     <message>
         <source>Add build library search path to DYLD_LIBRARY_PATH and DYLD_FRAMEWORK_PATH</source>
@@ -44784,11 +44788,11 @@ What should %1 do now?</source>
     </message>
     <message>
         <source>Run as root user</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör som root-användare</translation>
     </message>
     <message>
         <source>Emulator</source>
-        <translation type="unfinished"></translation>
+        <translation>Emulator</translation>
     </message>
     <message>
         <source>Launcher:</source>
@@ -44796,7 +44800,7 @@ What should %1 do now?</source>
     </message>
     <message>
         <source>Interpreter</source>
-        <translation type="unfinished"></translation>
+        <translation>Tolk</translation>
     </message>
     <message>
         <source>X11 Forwarding:</source>
@@ -44804,11 +44808,11 @@ What should %1 do now?</source>
     </message>
     <message>
         <source>Source directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>Källkatalog:</translation>
     </message>
     <message>
         <source>Start Parsing</source>
-        <translation type="unfinished"></translation>
+        <translation>Starta tolkning</translation>
     </message>
     <message>
         <source>Select files matching:</source>
@@ -44820,13 +44824,15 @@ What should %1 do now?</source>
     </message>
     <message>
         <source>Apply Filters</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillämpa filter</translation>
     </message>
     <message>
         <source>Generating file list...
 
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Genererar fillista...
+
+%1</translation>
     </message>
     <message numerus="yes">
         <source>Not showing %n files that are outside of the base directory.
@@ -44838,28 +44844,28 @@ These files are preserved.</source>
     </message>
     <message>
         <source>Edit Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera filer</translation>
     </message>
     <message>
         <source>Add Existing Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till befintlig katalog</translation>
     </message>
     <message>
         <source>Files</source>
         <extracomment>title in expanded session items in welcome mode</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Filer</translation>
     </message>
     <message>
         <source>Import Existing Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Importera befintligt projekt</translation>
     </message>
     <message>
         <source>Project Name and Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Projektnamn och plats</translation>
     </message>
     <message>
         <source>Project name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Projektnamn:</translation>
     </message>
     <message>
         <source>File Selection</source>
@@ -44867,7 +44873,7 @@ These files are preserved.</source>
     </message>
     <message>
         <source>Import as qmake or CMake Project (Limited Functionality)</source>
-        <translation type="unfinished"></translation>
+        <translation>Importera som qmake eller CMake-projekt (begränsad funktionalitet)</translation>
     </message>
     <message>
         <source>Imports existing projects that do not use qmake, CMake, Qbs, Meson, or Autotools.&lt;p&gt;This creates a project file that allows you to use %1 as a code editor and as a launcher for debugging and analyzing tools. If you want to build the project, you might need to edit the generated project file.</source>
@@ -44875,23 +44881,23 @@ These files are preserved.</source>
     </message>
     <message>
         <source>Unknown build system &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Okänt byggsystem &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Target Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Målinställningar</translation>
     </message>
     <message>
         <source>Source directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Källkatalog</translation>
     </message>
     <message>
         <source>Build system</source>
-        <translation type="unfinished"></translation>
+        <translation>Byggsystem</translation>
     </message>
     <message>
         <source>Name of current project</source>
-        <translation type="unfinished"></translation>
+        <translation>Namn på aktuellt projekt</translation>
     </message>
     <message>
         <source>Taskhub Error</source>
@@ -44903,7 +44909,7 @@ These files are preserved.</source>
     </message>
     <message>
         <source>Build Issue</source>
-        <translation type="unfinished"></translation>
+        <translation>Byggproblem</translation>
     </message>
     <message>
         <source>Replacing signature</source>
@@ -44911,7 +44917,7 @@ These files are preserved.</source>
     </message>
     <message>
         <source>Xcodebuild failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Xcodebuild misslyckades.</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -44920,7 +44926,7 @@ These files are preserved.</source>
     </message>
     <message>
         <source>Profiling</source>
-        <translation type="unfinished"></translation>
+        <translation>Profilering</translation>
     </message>
     <message>
         <source>&quot;data&quot; must be a JSON object for &quot;VcsConfiguration&quot; pages.</source>
@@ -44934,7 +44940,7 @@ These files are preserved.</source>
     </message>
     <message>
         <source>Source:</source>
-        <translation type="unfinished"></translation>
+        <translation>Källa:</translation>
     </message>
     <message>
         <source>Target:</source>
@@ -44942,25 +44948,25 @@ These files are preserved.</source>
     </message>
     <message>
         <source>Copying finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiering färdigställd.</translation>
     </message>
     <message>
         <source>Copying failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiering misslyckades.</translation>
     </message>
     <message>
         <source>Copy file</source>
         <extracomment>Default CopyStep display name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera fil</translation>
     </message>
     <message>
         <source>Copy directory recursively</source>
         <extracomment>Default CopyStep display name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera katalog rekursivt</translation>
     </message>
     <message>
         <source>unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation>inte tillgänglig</translation>
     </message>
     <message>
         <source>Clone the configuration to change it. Or, make the changes in the .qtcreator/project.json file.</source>
@@ -44968,11 +44974,11 @@ These files are preserved.</source>
     </message>
     <message>
         <source>Workspace Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbetsytehanterare</translation>
     </message>
     <message>
         <source>Exclude from Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Exkludera från projektet</translation>
     </message>
     <message>
         <source>Rescan Workspace</source>
@@ -44984,7 +44990,7 @@ These files are preserved.</source>
     </message>
     <message>
         <source>Machine type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Maskintyp:</translation>
     </message>
     <message>
         <source>Physical Device</source>
@@ -44992,7 +44998,7 @@ These files are preserved.</source>
     </message>
     <message>
         <source>Free ports:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lediga portar:</translation>
     </message>
     <message>
         <source>%1 at &quot;%2&quot;</source>
@@ -45001,7 +45007,7 @@ These files are preserved.</source>
     </message>
     <message>
         <source>&amp;Compiler path</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kompilatorsökväg</translation>
     </message>
     <message>
         <source>%1 compiler path</source>
@@ -45010,7 +45016,7 @@ These files are preserved.</source>
     </message>
     <message>
         <source>Provide manually</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange manuellt</translation>
     </message>
 </context>
 <context>
