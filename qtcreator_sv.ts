@@ -10869,19 +10869,19 @@ Install them manually after the current operation is done.
     </message>
     <message>
         <source>Show password</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa lösenord</translation>
     </message>
     <message>
         <source>Certificate</source>
-        <translation type="unfinished"></translation>
+        <translation>Certifikat</translation>
     </message>
     <message>
         <source>Alias name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aliasnamn:</translation>
     </message>
     <message>
         <source>Keysize:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nyckelstorlek:</translation>
     </message>
     <message>
         <source>Validity (days):</source>
@@ -10929,7 +10929,7 @@ Install them manually after the current operation is done.
     </message>
     <message>
         <source>Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Program</translation>
     </message>
     <message>
         <source>Sign package</source>
@@ -11125,7 +11125,7 @@ in the system&apos;s browser for manual download.</source>
     </message>
     <message>
         <source>Select an NDK</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en NDK</translation>
     </message>
     <message>
         <source>Add Custom NDK</source>
@@ -11169,7 +11169,7 @@ in the system&apos;s browser for manual download.</source>
     </message>
     <message>
         <source>(SDK Version: %1)</source>
-        <translation type="unfinished"></translation>
+        <translation>(SDK-version: %1)</translation>
     </message>
     <message>
         <source>Unset Default</source>
@@ -11237,7 +11237,7 @@ in the system&apos;s browser for manual download.</source>
     </message>
     <message>
         <source>Invalid country code.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig landskod.</translation>
     </message>
     <message>
         <source>Keystore files (*.keystore *.jks)</source>
@@ -11491,11 +11491,11 @@ The kit supports &quot;%2&quot;, but the device uses &quot;%3&quot;.</source>
     </message>
     <message>
         <source>CPU architecture:</source>
-        <translation type="unfinished"></translation>
+        <translation>CPU-arkitektur:</translation>
     </message>
     <message>
         <source>OS version:</source>
-        <translation type="unfinished"></translation>
+        <translation>OS-version:</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -11535,11 +11535,11 @@ The kit supports &quot;%2&quot;, but the device uses &quot;%3&quot;.</source>
     </message>
     <message>
         <source>Start AVD</source>
-        <translation type="unfinished"></translation>
+        <translation>Starta AVD</translation>
     </message>
     <message>
         <source>Erase AVD</source>
-        <translation type="unfinished"></translation>
+        <translation>Radera AVD</translation>
     </message>
     <message>
         <source>AVD Arguments</source>
@@ -11547,11 +11547,11 @@ The kit supports &quot;%2&quot;, but the device uses &quot;%3&quot;.</source>
     </message>
     <message>
         <source>Set up Wi-Fi</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurera wi-fi</translation>
     </message>
     <message>
         <source>Emulator for &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Emulator för &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Physical device</source>
@@ -11600,7 +11600,7 @@ This cannot be undone.</source>
     </message>
     <message>
         <source>Android Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Android-enhet</translation>
     </message>
     <message>
         <source>Android support is not yet configured.</source>
@@ -11616,7 +11616,7 @@ This cannot be undone.</source>
     </message>
     <message>
         <source>Cannot open &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte öppna &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Cannot parse &quot;%1&quot;.</source>
@@ -11656,7 +11656,7 @@ This cannot be undone.</source>
     </message>
     <message>
         <source>Removing directory %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tar bort katalogen %1</translation>
     </message>
     <message>
         <source>Failed to clean &quot;%1&quot; from the previous build, with error:
@@ -11711,7 +11711,7 @@ This cannot be undone.</source>
     </message>
     <message>
         <source>XML Source</source>
-        <translation type="unfinished"></translation>
+        <translation>XML-källa</translation>
     </message>
     <message>
         <source>Android Manifest editor</source>
@@ -11735,11 +11735,11 @@ This cannot be undone.</source>
     </message>
     <message>
         <source>Package name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Paketnamn:</translation>
     </message>
     <message>
         <source>The package name is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Paketnamnet är inte giltigt.</translation>
     </message>
     <message>
         <source>Version code:</source>
@@ -11755,7 +11755,7 @@ This cannot be undone.</source>
     </message>
     <message>
         <source>Not set</source>
-        <translation type="unfinished"></translation>
+        <translation>Inte inställd</translation>
     </message>
     <message>
         <source>Minimum required SDK:</source>
@@ -11767,7 +11767,7 @@ This cannot be undone.</source>
     </message>
     <message>
         <source>Activity name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivitetsnamn:</translation>
     </message>
     <message>
         <source>Style extraction:</source>
@@ -11775,7 +11775,7 @@ This cannot be undone.</source>
     </message>
     <message>
         <source>Screen orientation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Skärmorientering:</translation>
     </message>
     <message>
         <source>Advanced</source>
@@ -11791,11 +11791,11 @@ This cannot be undone.</source>
     </message>
     <message>
         <source>Could not parse file: &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte tolka filen: &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>%2: Could not parse file: &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>%2: Kunde inte tolka filen: &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Target SDK:</source>
@@ -11803,7 +11803,7 @@ This cannot be undone.</source>
     </message>
     <message>
         <source>Application name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Programnamn:</translation>
     </message>
     <message>
         <source>The structure of the Android manifest file is corrupted. Expected a top level &apos;manifest&apos; node.</source>
@@ -11819,7 +11819,7 @@ This cannot be undone.</source>
     </message>
     <message>
         <source>Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Rättigheter</translation>
     </message>
     <message>
         <source>Goto error</source>
@@ -11843,7 +11843,7 @@ This cannot be undone.</source>
     </message>
     <message>
         <source>Incorrect password.</source>
-        <translation type="unfinished"></translation>
+        <translation>Felaktigt lösenord.</translation>
     </message>
     <message>
         <source>Android build-tools version:</source>
@@ -11875,7 +11875,7 @@ This cannot be undone.</source>
     </message>
     <message>
         <source>Create...</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa...</translation>
     </message>
     <message>
         <source>Add debug server</source>
@@ -11915,11 +11915,11 @@ This cannot be undone.</source>
     </message>
     <message>
         <source>Failed to run keytool.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att göra keytool.</translation>
     </message>
     <message>
         <source>Select additional libraries</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj ytterligare bibliotek</translation>
     </message>
     <message>
         <source>Libraries (*.so)</source>
@@ -11939,7 +11939,7 @@ This cannot be undone.</source>
     </message>
     <message>
         <source>Build target:</source>
-        <translation type="unfinished"></translation>
+        <translation>Byggmål:</translation>
     </message>
     <message>
         <source>Select a build target</source>
@@ -12062,7 +12062,7 @@ The files in the Android package source directory will be copied to the Android 
     </message>
     <message>
         <source>Click to select...</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicka för att välja...</translation>
     </message>
     <message>
         <source>Images %1</source>
@@ -12147,7 +12147,7 @@ The files in the Android package source directory will be copied to the Android 
     </message>
     <message>
         <source>Download SDK Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Hämta SDK-verktyg</translation>
     </message>
     <message>
         <source>Could not open &quot;%1&quot; for writing: %2.</source>
@@ -12179,11 +12179,11 @@ The files in the Android package source directory will be copied to the Android 
     </message>
     <message>
         <source>SDK Platform</source>
-        <translation type="unfinished"></translation>
+        <translation>SDK-plattform</translation>
     </message>
     <message>
         <source>Android Clang</source>
-        <translation type="unfinished"></translation>
+        <translation>Android Clang</translation>
     </message>
     <message>
         <source>Java:</source>
@@ -12244,7 +12244,7 @@ To hide a sticky splash screen, invoke QtAndroid::hideSplashScreen().</source>
     </message>
     <message>
         <source>Background color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bakgrundsfärg:</translation>
     </message>
     <message>
         <source>Select master image to use.</source>
@@ -12306,7 +12306,7 @@ the manifest file by overriding your settings. Allow override?</source>
     </message>
     <message>
         <source>Select background color</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj bakgrundsfärg</translation>
     </message>
     <message>
         <source>Select master image</source>
@@ -12322,7 +12322,7 @@ the manifest file by overriding your settings. Allow override?</source>
     </message>
     <message>
         <source>Images</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilder</translation>
     </message>
 </context>
 <context>
@@ -15671,7 +15671,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Clear system environment</source>
-        <translation type="unfinished"></translation>
+        <translation>Töm systemmiljö</translation>
     </message>
     <message>
         <source>CMake Build</source>
@@ -15688,7 +15688,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Kit Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurera kit</translation>
     </message>
     <message>
         <source>Edit the current kit&apos;s CMake configuration.</source>
@@ -15880,7 +15880,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Build type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Byggtyp:</translation>
     </message>
     <message>
         <source>Clean Environment</source>
@@ -15896,7 +15896,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Build Environment</source>
-        <translation type="unfinished"></translation>
+        <translation>Byggmiljö</translation>
     </message>
     <message>
         <source>Clear CMake Configuration</source>
@@ -18398,7 +18398,7 @@ Oui :)</translatorcomment>
     <name>QtC::CodePaster</name>
     <message>
         <source>&amp;Code Pasting</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kodinklistring</translation>
     </message>
     <message>
         <source>Paste Snippet...</source>
@@ -18407,11 +18407,11 @@ Oui :)</translatorcomment>
     </message>
     <message>
         <source>Alt+C,Alt+P</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+C,Alt+P</translation>
     </message>
     <message>
         <source>Meta+C,Meta+P</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta+C,Meta+P</translation>
     </message>
     <message>
         <source>Fetch Snippet...</source>
@@ -18419,23 +18419,23 @@ Oui :)</translatorcomment>
     </message>
     <message>
         <source>Alt+C,Alt+F</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+C,Alt+F</translation>
     </message>
     <message>
         <source>Meta+C,Meta+F</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta+C,Meta+F</translation>
     </message>
     <message>
         <source>Fetch from URL...</source>
-        <translation type="unfinished"></translation>
+        <translation>Hämta från URL...</translation>
     </message>
     <message>
         <source>Fetch from URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Hämta från URL</translation>
     </message>
     <message>
         <source>Enter URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange URL:</translation>
     </message>
     <message>
         <source>Empty snippet received for &quot;%1&quot;.</source>
@@ -18447,11 +18447,11 @@ Oui :)</translatorcomment>
     </message>
     <message>
         <source>Waiting for items</source>
-        <translation type="unfinished"></translation>
+        <translation>Väntar på objekt</translation>
     </message>
     <message>
         <source>This protocol does not support listing</source>
-        <translation type="unfinished"></translation>
+        <translation>Detta protokoll har inte stöd för listning</translation>
     </message>
     <message>
         <source>General</source>
@@ -18459,11 +18459,11 @@ Oui :)</translatorcomment>
     </message>
     <message>
         <source>Code Pasting</source>
-        <translation type="unfinished"></translation>
+        <translation>Kodinklistring</translation>
     </message>
     <message>
         <source>Cannot open %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte öppna %1: %2</translation>
     </message>
     <message>
         <source>%1 does not appear to be a paster file.</source>
@@ -18471,23 +18471,23 @@ Oui :)</translatorcomment>
     </message>
     <message>
         <source>Error in %1 at %2: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel i %1 vid %2: %3</translation>
     </message>
     <message>
         <source>Please configure a path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurera en sökväg.</translation>
     </message>
     <message>
         <source>Fileshare</source>
-        <translation type="unfinished"></translation>
+        <translation>Fildelning</translation>
     </message>
     <message>
         <source>&lt;Comment&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Kommentar&gt;</translation>
     </message>
     <message>
         <source> Days</source>
-        <translation type="unfinished"></translation>
+        <translation> dagar</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -18495,15 +18495,15 @@ Oui :)</translatorcomment>
     </message>
     <message>
         <source>%1 - Configuration Error</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - Konfigurationsfel</translation>
     </message>
     <message>
         <source>Checking connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrollerar anslutning</translation>
     </message>
     <message>
         <source>Connecting to %1...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ansluter till %1...</translation>
     </message>
     <message>
         <source>The fileshare-based paster protocol allows for sharing code snippets using simple files on a shared network drive. Files are never deleted.</source>
@@ -18511,7 +18511,7 @@ Oui :)</translatorcomment>
     </message>
     <message>
         <source>&amp;Path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sö&amp;kväg:</translation>
     </message>
     <message>
         <source>&amp;Display:</source>
@@ -18519,15 +18519,15 @@ Oui :)</translatorcomment>
     </message>
     <message>
         <source>entries</source>
-        <translation type="unfinished"></translation>
+        <translation>objekt</translation>
     </message>
     <message>
         <source>Protocol:</source>
-        <translation type="unfinished"></translation>
+        <translation>Protokoll:</translation>
     </message>
     <message>
         <source>Paste:</source>
-        <translation type="unfinished"></translation>
+        <translation>Klistra in:</translation>
     </message>
     <message>
         <source>Send to Codepaster</source>
@@ -18535,23 +18535,23 @@ Oui :)</translatorcomment>
     </message>
     <message>
         <source>&amp;Username:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Användarnamn:</translation>
     </message>
     <message>
         <source>&lt;Username&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Användarnamn&gt;</translation>
     </message>
     <message>
         <source>&amp;Description:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Beskrivning:</translation>
     </message>
     <message>
         <source>&lt;Description&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Beskrivning&gt;</translation>
     </message>
     <message>
         <source>Parts to Send to Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Delar till Skicka till server</translation>
     </message>
     <message>
         <source>&amp;Expires after:</source>
@@ -18559,7 +18559,7 @@ Oui :)</translatorcomment>
     </message>
     <message>
         <source>Copy-paste URL to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera inklistrings-URL till urklipp</translation>
     </message>
     <message>
         <source>Username:</source>
@@ -18567,15 +18567,15 @@ Oui :)</translatorcomment>
     </message>
     <message>
         <source>Default protocol:</source>
-        <translation type="unfinished"></translation>
+        <translation>Standardprotokoll:</translation>
     </message>
     <message>
         <source>Display General Messages after sending a post</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa allmänna meddelanden efter en post skickats</translation>
     </message>
     <message>
         <source>%1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: %2</translation>
     </message>
 </context>
 <context>
@@ -18759,204 +18759,205 @@ Oui :)</translatorcomment>
     <name>QtC::Copilot</name>
     <message>
         <source>Sign In</source>
-        <translation type="unfinished"></translation>
+        <translation>Logga in</translation>
     </message>
     <message>
         <source>A browser window will open. Enter the code %1 when asked.
 The code has been copied to your clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ett webbläsarfönster kommer att öppnas. Ange koden %1 vid fråga.
+Koden har kopierats till ditt urklipp.</translation>
     </message>
     <message>
         <source>Login Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Inloggning misslyckades</translation>
     </message>
     <message>
         <source>The login request failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Inloggningsbegäran misslyckades: %1</translation>
     </message>
     <message>
         <source>Copilot</source>
-        <translation type="unfinished"></translation>
+        <translation>Copilot</translation>
     </message>
     <message>
         <source>Proxy username and password required:</source>
-        <translation type="unfinished"></translation>
+        <translation>Användarnamn och lösenord för proxyn krävs:</translation>
     </message>
     <message>
         <source>Do not ask again. This will disable Copilot for now.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fråga inte igen. Detta inaktiverar Copilot för stunden.</translation>
     </message>
     <message>
         <source>Request Copilot Suggestion</source>
-        <translation type="unfinished"></translation>
+        <translation>Begär Copilot-förslag</translation>
     </message>
     <message>
         <source>Request Copilot suggestion at the current editor&apos;s cursor position.</source>
-        <translation type="unfinished"></translation>
+        <translation>Begär Copilot-förslag för aktuell markörposition i redigeraren.</translation>
     </message>
     <message>
         <source>Show Next Copilot Suggestion</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa nästa Copilot-förslag</translation>
     </message>
     <message>
         <source>Cycles through the received Copilot Suggestions showing the next available Suggestion.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar genom de mottagna Copilot-förslagen som visar nästa tillgängliga förslag.</translation>
     </message>
     <message>
         <source>Show Previous Copilot Suggestion</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa föregående Copilot-förslag</translation>
     </message>
     <message>
         <source>Cycles through the received Copilot Suggestions showing the previous available Suggestion.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar genom de mottagna Copilot-förslagen som visar föregående tillgängliga förslag.</translation>
     </message>
     <message>
         <source>Disable Copilot</source>
-        <translation type="unfinished"></translation>
+        <translation>Inaktivera Copilot</translation>
     </message>
     <message>
         <source>Disable Copilot.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inaktivera Copilot.</translation>
     </message>
     <message>
         <source>Enable Copilot</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivera Copilot</translation>
     </message>
     <message>
         <source>Enable Copilot.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivera Copilot.</translation>
     </message>
     <message>
         <source>Toggle Copilot</source>
-        <translation type="unfinished"></translation>
+        <translation>Växla Copilot</translation>
     </message>
     <message>
         <source>Enables the Copilot integration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiverar Copilot-integrationen.</translation>
     </message>
     <message>
         <source>Node.js path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökväg till Node.js:</translation>
     </message>
     <message>
         <source>Node.js Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökväg till Node.js</translation>
     </message>
     <message>
         <source>Select path to node.js executable. See %1 for installation instructions.</source>
         <extracomment>%1 is the URL to nodejs</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Välj sökväg till körbar node.js. Se %1 för installationsinstruktioner.</translation>
     </message>
     <message>
         <source>Path to %1:</source>
         <extracomment>%1 is the filename of the copilot language server</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Sökväg till %1:</translation>
     </message>
     <message>
         <source>%1 path</source>
         <extracomment>%1 is the filename of the copilot language server</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 sökväg</translation>
     </message>
     <message>
         <source>Select path to %2 in Copilot Neovim plugin. See %1 for installation instructions.</source>
         <extracomment>%1 is the URL to copilot.vim getting started, %2 is the filename of the copilot language server</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Välj sökväg till %2 i Copilot Neovim insticksmodulen. Se %1 för installationsinstruktioner.</translation>
     </message>
     <message>
         <source>Auto Request</source>
-        <translation type="unfinished"></translation>
+        <translation>Begär automatiskt</translation>
     </message>
     <message>
         <source>Auto request</source>
-        <translation type="unfinished"></translation>
+        <translation>Begär automatiskt</translation>
     </message>
     <message>
         <source>Automatically request suggestions for the current text cursor position after changes to the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Begär automatiskt förslag för aktuell textmarkörposition efter ändringar i dokumentet.</translation>
     </message>
     <message>
         <source>Use Proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd proxy</translation>
     </message>
     <message>
         <source>Use proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd proxy</translation>
     </message>
     <message>
         <source>Use a proxy to connect to the Copilot servers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd en proxy för att ansluta till Copilot-servrarna.</translation>
     </message>
     <message>
         <source>Proxy Host</source>
-        <translation type="unfinished"></translation>
+        <translation>Proxyvärd</translation>
     </message>
     <message>
         <source>Proxy host:</source>
-        <translation type="unfinished"></translation>
+        <translation>Proxyvärd:</translation>
     </message>
     <message>
         <source>The host name of the proxy server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Värdnamnet för proxyservern.</translation>
     </message>
     <message>
         <source>Proxy Port</source>
-        <translation type="unfinished"></translation>
+        <translation>Proxyport</translation>
     </message>
     <message>
         <source>Proxy port:</source>
-        <translation type="unfinished"></translation>
+        <translation>Proxyport:</translation>
     </message>
     <message>
         <source>The port of the proxy server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Porten för proxyservern.</translation>
     </message>
     <message>
         <source>Proxy User</source>
-        <translation type="unfinished"></translation>
+        <translation>Proxyanvändare</translation>
     </message>
     <message>
         <source>Proxy user:</source>
-        <translation type="unfinished"></translation>
+        <translation>Proxyanvändare:</translation>
     </message>
     <message>
         <source>The user name to access the proxy server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Användarnamnet för att komma åt proxyservern.</translation>
     </message>
     <message>
         <source>Save Proxy Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara proxylösenord</translation>
     </message>
     <message>
         <source>Save proxy password</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara proxylösenord</translation>
     </message>
     <message>
         <source>Save the password to access the proxy server. The password is stored insecurely.</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara lösenordet för att komma åt proxyservern. Lösenordet sparas på ett icke-säkert sätt.</translation>
     </message>
     <message>
         <source>Proxy Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Proxylösenord</translation>
     </message>
     <message>
         <source>Proxy password:</source>
-        <translation type="unfinished"></translation>
+        <translation>Proxylösenord:</translation>
     </message>
     <message>
         <source>The password for the proxy server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lösenordet för proxyservern.</translation>
     </message>
     <message>
         <source>Reject Unauthorized</source>
-        <translation type="unfinished"></translation>
+        <translation>Neka icke-auktoriserade</translation>
     </message>
     <message>
         <source>Reject unauthorized</source>
-        <translation type="unfinished"></translation>
+        <translation>Neka icke-auktoriserade</translation>
     </message>
     <message>
         <source>Reject unauthorized certificates from the proxy server. Turning this off is a security risk.</source>
-        <translation type="unfinished"></translation>
+        <translation>Neka icke-auktoriserade certifikat från proxyservern. Stänga av detta är en säkerhetsrisk.</translation>
     </message>
     <message>
         <source>Enabling %1 is subject to your agreement and abidance with your applicable %1 terms. It is your responsibility to know and accept the requirements and parameters of using tools like %1. This may include, but is not limited to, ensuring you have the rights to allow %1 access to your code, as well as understanding any implications of your use of %1 and suggestions produced (like copyright, accuracy, etc.).</source>
@@ -18971,7 +18972,7 @@ Otherwise you need to specify the path to the %2 file from the Copilot neovim pl
     </message>
     <message>
         <source>Note</source>
-        <translation type="unfinished"></translation>
+        <translation>Anteckning</translation>
     </message>
 </context>
 <context>
@@ -34248,7 +34249,7 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Build directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>Byggkatalog:</translation>
     </message>
     <message>
         <source>GHCi</source>
@@ -35923,7 +35924,7 @@ Expiration date: %3</source>
     </message>
     <message>
         <source>Language Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Språkserver</translation>
     </message>
     <message>
         <source>Generic StdIO Language Server</source>
@@ -39097,7 +39098,7 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>The program &quot;%1&quot; does not exist or is not executable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Programmet &quot;%1&quot; finns inte eller är inte en körbar fil.</translation>
     </message>
     <message>
         <source>Starting: &quot;%1&quot; %2</source>
@@ -39597,7 +39598,7 @@ Title of a the cloned RunConfiguration window, text of the window</extracomment>
     </message>
     <message>
         <source>Run Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Körinställningar</translation>
     </message>
     <message>
         <source>Variables in the run environment.</source>
@@ -40155,7 +40156,7 @@ Do you want to ignore them?</source>
     </message>
     <message>
         <source>Parse Build Output...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tolka byggutdata...</translation>
     </message>
     <message>
         <source>&lt;h3&gt;Project already open&lt;/h3&gt;</source>
@@ -40862,11 +40863,11 @@ Display name of the clean build step list. Used as part of the labels in the pro
     </message>
     <message>
         <source>Clear system environment</source>
-        <translation type="unfinished"></translation>
+        <translation>Töm systemmiljö</translation>
     </message>
     <message>
         <source>Build Environment</source>
-        <translation type="unfinished"></translation>
+        <translation>Byggmiljö</translation>
     </message>
     <message>
         <source>URI:</source>
@@ -43539,7 +43540,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Parse standard output during build</source>
-        <translation type="unfinished"></translation>
+        <translation>Tolka standardutdata under byggnation</translation>
     </message>
     <message>
         <source>Makes output parsers look for diagnostics on stdout rather than stderr.</source>
@@ -43547,11 +43548,11 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Build Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Bygginställningar</translation>
     </message>
     <message>
         <source>Build directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Byggkatalog</translation>
     </message>
     <message>
         <source>Name of the build configuration</source>
@@ -43571,11 +43572,11 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>System Environment</source>
-        <translation type="unfinished"></translation>
+        <translation>Systemmiljö</translation>
     </message>
     <message>
         <source>Clean Environment</source>
-        <translation type="unfinished"></translation>
+        <translation>Ren miljö</translation>
     </message>
     <message>
         <source>The project was not parsed successfully.</source>
@@ -43583,11 +43584,11 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Main file of the project</source>
-        <translation type="unfinished"></translation>
+        <translation>Huvudfil för projektet</translation>
     </message>
     <message>
         <source>Name of the project</source>
-        <translation type="unfinished"></translation>
+        <translation>Namn på projektet</translation>
     </message>
     <message>
         <source>Name of the project&apos;s active build configuration</source>
@@ -43599,7 +43600,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Type of current build</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ av aktuell byggnation</translation>
     </message>
     <message>
         <source>Type of the project&apos;s active build configuration</source>
@@ -43632,7 +43633,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Custom Parser</source>
-        <translation type="unfinished"></translation>
+        <translation>Anpassad tolk</translation>
     </message>
     <message>
         <source>&amp;Error message capture pattern:</source>
@@ -43644,32 +43645,32 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>&amp;File name:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Filnamn:</translation>
     </message>
     <message>
         <source>&amp;Line number:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Radnummer:</translation>
     </message>
     <message>
         <source>&amp;Message:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Meddelande:</translation>
     </message>
     <message>
         <source>Standard output</source>
-        <translation type="unfinished"></translation>
+        <translation>Standardutdata</translation>
     </message>
     <message>
         <source>Standard error</source>
         <translatorcomment>A revoir -&gt; Sortie d&apos;erreur</translatorcomment>
-        <translation type="unfinished"></translation>
+        <translation>Standardfel</translation>
     </message>
     <message>
         <source>E&amp;rror message:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fe&amp;lmeddelande:</translation>
     </message>
     <message>
         <source>Warning message:</source>
-        <translation type="unfinished"></translation>
+        <translation>Varningsmeddelande:</translation>
     </message>
     <message>
         <source>Warning message capture pattern:</source>
@@ -43681,7 +43682,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>No message given.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inget meddelande gavs.</translation>
     </message>
     <message>
         <source>Pattern does not match the message.</source>
@@ -43709,11 +43710,11 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Not applicable:</source>
-        <translation type="unfinished"></translation>
+        <translation>Inte tillämpningsbar:</translation>
     </message>
     <message>
         <source>Pattern is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mönstret är tomt.</translation>
     </message>
     <message>
         <source>Close</source>
@@ -43729,7 +43730,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>ICC</source>
-        <translation type="unfinished"></translation>
+        <translation>ICC</translation>
     </message>
     <message>
         <source>Cannot kill process with pid %1: %2</source>
@@ -43741,11 +43742,11 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Cannot open process.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte öppna process.</translation>
     </message>
     <message>
         <source>Invalid process id.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltigt process-id.</translation>
     </message>
     <message>
         <source>Cannot open process: %1</source>
@@ -43753,7 +43754,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>DebugBreakProcess failed:</source>
-        <translation type="unfinished"></translation>
+        <translation>DebugBreakProcess misslyckades:</translation>
     </message>
     <message>
         <source>%1 does not exist. If you built %2 yourself, check out https://code.qt.io/cgit/qt-creator/binary-artifacts.git/.</source>
@@ -43765,11 +43766,11 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>could not break the process.</source>
-        <translation type="unfinished"></translation>
+        <translation>kunde inte bryta processen.</translation>
     </message>
     <message>
         <source>Import Build From...</source>
-        <translation type="unfinished"></translation>
+        <translation>Importera byggnation från...</translation>
     </message>
     <message>
         <source>Import</source>
@@ -43777,7 +43778,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>No Build Found</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen byggnation hittades</translation>
     </message>
     <message>
         <source>No build found in %1 matching project %2.</source>
@@ -43785,15 +43786,15 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Import Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Importvarning</translation>
     </message>
     <message>
         <source>Import Build</source>
-        <translation type="unfinished"></translation>
+        <translation>Importera byggnation</translation>
     </message>
     <message>
         <source>%1 - temporary</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - temporär</translation>
     </message>
     <message>
         <source>Imported Kit</source>
@@ -43801,7 +43802,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>No suitable kits found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga lämpliga kit hittades.</translation>
     </message>
     <message>
         <source>Add a kit in the &lt;a href=&quot;buildandrun&quot;&gt;options&lt;/a&gt; or via the maintenance tool of the SDK.</source>
@@ -43831,12 +43832,12 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     <message>
         <source>&lt;b&gt;Error:&lt;/b&gt; </source>
         <comment>Severity is Task::Error</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Fel:&lt;/b&gt; </translation>
     </message>
     <message>
         <source>&lt;b&gt;Warning:&lt;/b&gt; </source>
         <comment>Severity is Task::Warning</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Varning:&lt;/b&gt; </translation>
     </message>
     <message>
         <source>Configure Project</source>
@@ -43852,7 +43853,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Waiting for applications to stop.</source>
-        <translation type="unfinished"></translation>
+        <translation>Väntar på att program ska stoppa.</translation>
     </message>
     <message>
         <source>Debug</source>
@@ -43874,7 +43875,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>The process failed to start.</source>
-        <translation type="unfinished"></translation>
+        <translation>Processen misslyckades med att starta.</translation>
     </message>
     <message>
         <source>Start removing auto-detected items associated with this docker image.</source>
@@ -43882,7 +43883,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Removing kits...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tar bort kit...</translation>
     </message>
     <message>
         <source>Removed &quot;%1&quot;</source>
@@ -43906,11 +43907,11 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Kits:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kit:</translation>
     </message>
     <message>
         <source>Qt versions:</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt-versioner:</translation>
     </message>
     <message>
         <source>Toolchains:</source>
@@ -43922,7 +43923,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Found &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Hittade &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Searching for qmake executables...</source>
@@ -43930,11 +43931,11 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Error: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel: %1.</translation>
     </message>
     <message>
         <source>No Qt installation found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen Qt-installation hittades.</translation>
     </message>
     <message>
         <source>Searching toolchains...</source>
@@ -43954,11 +43955,11 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Registered kit %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Registererat kit %1</translation>
     </message>
     <message>
         <source>Build directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>Byggkatalog:</translation>
     </message>
     <message>
         <source>The build directory is not reachable from the build device.</source>
@@ -44017,11 +44018,11 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>New Parser</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny tolk</translation>
     </message>
     <message>
         <source>Source File Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Källfilens sökväg</translation>
     </message>
     <message>
         <source>Target Directory</source>
@@ -44041,11 +44042,11 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>No device for path &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen enhet för sökvägen &quot;%1&quot;</translation>
     </message>
     <message>
         <source>No device found for path &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen enhet hittades för sökväg &quot;%1&quot;</translation>
     </message>
     <message>
         <source>No file access for device &quot;%1&quot;</source>
@@ -44057,14 +44058,14 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message numerus="yes">
         <source>Found %n free ports.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Hittade %n ledig port.</numerusform>
+            <numerusform>Hittade %n lediga portar.</numerusform>
         </translation>
     </message>
     <message>
         <source>Checking available ports...</source>
-        <translation type="unfinished"></translation>
+        <translation>Letar efter tillgängliga portar...</translation>
     </message>
     <message>
         <source>No device set for test transfer.</source>
@@ -44072,7 +44073,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>No files to transfer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga filer att överföra.</translation>
     </message>
     <message>
         <source>Missing transfer implementation.</source>
@@ -44080,23 +44081,23 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>sftp</source>
-        <translation type="unfinished"></translation>
+        <translation>sftp</translation>
     </message>
     <message>
         <source>rsync</source>
-        <translation type="unfinished"></translation>
+        <translation>rsync</translation>
     </message>
     <message>
         <source>generic file copy</source>
-        <translation type="unfinished"></translation>
+        <translation>allmän filkopiering</translation>
     </message>
     <message>
         <source>SSH</source>
-        <translation type="unfinished"></translation>
+        <translation>SSH</translation>
     </message>
     <message>
         <source>Enable connection sharing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivera anslutningsdelning:</translation>
     </message>
     <message>
         <source>Connection sharing timeout:</source>
@@ -44104,23 +44105,23 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Path to ssh executable:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökväg till körbar ssh-fil:</translation>
     </message>
     <message>
         <source>Path to sftp executable:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökväg till körbar sftp-fil:</translation>
     </message>
     <message>
         <source>Path to ssh-askpass executable:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökväg till körbar ssh-askpass-fil:</translation>
     </message>
     <message>
         <source>Path to ssh-keygen executable:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökväg till körbar ssh-keygen-fil:</translation>
     </message>
     <message>
         <source> minutes</source>
-        <translation type="unfinished"></translation>
+        <translation> minuter</translation>
     </message>
     <message>
         <source>Environment</source>
@@ -44128,15 +44129,15 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Files in All Project Directories</source>
-        <translation type="unfinished"></translation>
+        <translation>Filer i alla projektkataloger</translation>
     </message>
     <message>
         <source>Files in All Project Directories:</source>
-        <translation type="unfinished"></translation>
+        <translation>Filer i alla projektkataloger:</translation>
     </message>
     <message>
         <source>Setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Inställning</translation>
     </message>
     <message>
         <source>Visible</source>
@@ -44156,7 +44157,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Field has no name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fältet har inget namn.</translation>
     </message>
     <message>
         <source>Field &quot;%1&quot; has no type.</source>
@@ -44280,7 +44281,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Failed to Add to Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att lägga till i projekt</translation>
     </message>
     <message>
         <source>Failed to add subproject &quot;%1&quot;
@@ -44302,7 +44303,7 @@ to project &quot;%2&quot;.</source>
     </message>
     <message>
         <source>Choose Project File</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj projektfil</translation>
     </message>
     <message>
         <source>The project contains more than one project file. Select the one you would like to use.</source>
@@ -49141,7 +49142,7 @@ Qt Design Studio requires a .qmlproject based project to open the .ui.qml file.<
     </message>
     <message>
         <source>Build directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>Byggkatalog:</translation>
     </message>
     <message>
         <source>The Selected Kit Is Not Supported</source>
@@ -56816,7 +56817,7 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>Browse...</source>
-        <translation type="unfinished"></translation>
+        <translation>Bläddra...</translation>
     </message>
     <message>
         <source>Local</source>
