@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="sv">
+<TS version="2.1" language="sv_SE">
 <context>
     <name>ColorDialog</name>
     <message>
@@ -17,7 +17,8 @@
     <message>
         <source>“%1” already exists.
 Do you want to replace it?</source>
-        <translation type="unfinished"></translation>
+        <translation>“%1” finns redan.
+Vill du ersätta den?</translation>
     </message>
     <message>
         <source>File name</source>
@@ -25,14 +26,14 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filter</translation>
     </message>
 </context>
 <context>
     <name>FontDialog</name>
     <message>
         <source>Writing System</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrivsystem</translation>
     </message>
 </context>
 <context>
@@ -50,50 +51,50 @@ Do you want to replace it?</source>
     <name>ColorInputs</name>
     <message>
         <source>Hex</source>
-        <translation type="unfinished"></translation>
+        <translation>Hex</translation>
     </message>
     <message>
         <source>RGB</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB</translation>
     </message>
     <message>
         <source>HSV</source>
-        <translation type="unfinished"></translation>
+        <translation>HSV</translation>
     </message>
     <message>
         <source>HSL</source>
-        <translation type="unfinished"></translation>
+        <translation>HSL</translation>
     </message>
 </context>
 <context>
     <name>FontDialogContent</name>
     <message>
         <source>Family</source>
-        <translation type="unfinished"></translation>
+        <translation>Familj</translation>
     </message>
     <message>
         <source>Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Stil</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Storlek</translation>
     </message>
     <message>
         <source>Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Effekter</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Understruken</translation>
     </message>
     <message>
         <source>Strikeout</source>
-        <translation type="unfinished"></translation>
+        <translation>Överstrykning</translation>
     </message>
     <message>
         <source>Sample</source>
-        <translation type="unfinished"></translation>
+        <translation>Exempel</translation>
     </message>
 </context>
 <context>
@@ -170,134 +171,134 @@ Do you want to replace it?</source>
     <name>QQmlCodeGenerator</name>
     <message>
         <source>Duplicate method name</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplikat metodnamn</translation>
     </message>
     <message>
         <source>Method names cannot begin with an upper case letter</source>
-        <translation type="unfinished"></translation>
+        <translation>Method-namn får inte börja med en versal bokstav</translation>
     </message>
     <message>
         <source>Illegal method name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltigt method-namn</translation>
     </message>
     <message>
         <source>Property value set multiple times</source>
-        <translation type="unfinished"></translation>
+        <translation>Property-värdet inställt flera gånger</translation>
     </message>
     <message>
         <source>Expected type name</source>
-        <translation type="unfinished"></translation>
+        <translation>Förväntade type-namn</translation>
     </message>
     <message>
         <source>Scoped enum names must begin with an upper case letter</source>
-        <translation type="unfinished"></translation>
+        <translation>Scoped enum-namn måste börja med en versal bokstav</translation>
     </message>
     <message>
         <source>Enum names must begin with an upper case letter</source>
-        <translation type="unfinished"></translation>
+        <translation>Enum-namn måste börja med en versal bokstav</translation>
     </message>
     <message>
         <source>Enum value must be an integer</source>
-        <translation type="unfinished"></translation>
+        <translation>Enum-värde måste vara ett heltal</translation>
     </message>
     <message>
         <source>Enum value out of range</source>
-        <translation type="unfinished"></translation>
+        <translation>Enum-värdet utanför intervall</translation>
     </message>
     <message>
         <source>Signal names cannot begin with an upper case letter</source>
-        <translation type="unfinished"></translation>
+        <translation>Signalnamn får inte börja med en versal bokstav</translation>
     </message>
     <message>
         <source>Illegal signal name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltigt signalnamn</translation>
     </message>
     <message>
         <source>Illegal property name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltigt egenskapsnamn</translation>
     </message>
     <message>
         <source>Invalid component id specification</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig component id-specifikation</translation>
     </message>
     <message>
         <source>No property alias location</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen property alias-plats</translation>
     </message>
     <message>
         <source>Invalid alias reference. An alias reference must be specified as &lt;id&gt;, &lt;id&gt;.&lt;property&gt; or &lt;id&gt;.&lt;value property&gt;.&lt;property&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig alias-referens. En alias-referens måste anges som &lt;id&gt;, &lt;id&gt;.&lt;property&gt; eller &lt;id&gt;.&lt;value property&gt;.&lt;property&gt;</translation>
     </message>
     <message>
         <source>Invalid alias location</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig alias-plats</translation>
     </message>
     <message>
         <source>Invalid empty ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltigt tomt ID</translation>
     </message>
     <message>
         <source>IDs cannot start with an uppercase letter</source>
-        <translation type="unfinished"></translation>
+        <translation>IDn får inte börja med en versal bokstav</translation>
     </message>
     <message>
         <source>IDs must start with a letter or underscore</source>
-        <translation type="unfinished"></translation>
+        <translation>IDn måste börjar med en bokstav eller understreck</translation>
     </message>
     <message>
         <source>IDs must contain only letters, numbers, and underscores</source>
-        <translation type="unfinished"></translation>
+        <translation>IDn måste innehålla endast bokstäver , siffror och understreck</translation>
     </message>
     <message>
         <source>ID illegally masks global JavaScript property</source>
-        <translation type="unfinished"></translation>
+        <translation>ID maskar felaktigt global JavaScript-egenskap</translation>
     </message>
     <message>
         <source>Invalid use of id property</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig användning av id-egenskap</translation>
     </message>
 </context>
 <context>
     <name>Object</name>
     <message>
         <source>Duplicate scoped enum name</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplikat scoped enum-namn</translation>
     </message>
     <message>
         <source>Duplicate signal name</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplikat signalnamn</translation>
     </message>
     <message>
         <source>Duplicate property name</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplikat egenskapsnamn</translation>
     </message>
     <message>
         <source>Property duplicates alias name</source>
-        <translation type="unfinished"></translation>
+        <translation>Egenskap duplikat aliasnamn</translation>
     </message>
     <message>
         <source>Property names cannot begin with an upper case letter</source>
-        <translation type="unfinished"></translation>
+        <translation>Egenskapsnamn får inte börja med en versal bokstav</translation>
     </message>
     <message>
         <source>Duplicate default property</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplikat standardegenskap</translation>
     </message>
     <message>
         <source>Duplicate alias name</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplikat aliasnamn</translation>
     </message>
     <message>
         <source>Alias has same name as existing property</source>
-        <translation type="unfinished"></translation>
+        <translation>Alias har samma namn som befintlig egenskap</translation>
     </message>
     <message>
         <source>Alias names cannot begin with an upper case letter</source>
-        <translation type="unfinished"></translation>
+        <translation>Aliasnamn får inte börja med en versal bokstav</translation>
     </message>
     <message>
         <source>Property value set multiple times</source>
-        <translation type="unfinished"></translation>
+        <translation>Egenskapsvärdet inställt flera gånger</translation>
     </message>
 </context>
 <context>
@@ -588,112 +589,114 @@ Do you want to replace it?</source>
     <name>QQmlImportDatabase</name>
     <message>
         <source>module &quot;%1&quot; version %2.%3 is not installed</source>
-        <translation type="unfinished"></translation>
+        <translation>module &quot;%1&quot; version %2.%3 är inte installerad</translation>
     </message>
     <message>
         <source>module &quot;%1&quot; is not installed</source>
-        <translation type="unfinished"></translation>
+        <translation>modulen &quot;%1&quot; är inte installerad</translation>
     </message>
     <message>
         <source>&quot;%1&quot; is ambiguous. Found in %2 and in %3</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; är tvetydig. Hittades i %2 och i %3</translation>
     </message>
     <message>
         <source>- %1 is neither a type nor a namespace</source>
-        <translation type="unfinished"></translation>
+        <translation>- %1 är varken en type eller en namespace</translation>
     </message>
     <message>
         <source>- %1 is not a namespace</source>
-        <translation type="unfinished"></translation>
+        <translation>- %1 är inte en namespace</translation>
     </message>
     <message>
         <source>- %1 is not a type</source>
-        <translation type="unfinished"></translation>
+        <translation>- %1 är inte en type</translation>
     </message>
     <message>
         <source>- nested namespaces not allowed</source>
-        <translation type="unfinished"></translation>
+        <translation>- nästlade namnrymder tillåts inte</translation>
     </message>
     <message>
         <source>local directory</source>
-        <translation type="unfinished"></translation>
+        <translation>lokal katalog</translation>
     </message>
     <message>
         <source>is ambiguous. Found in %1 and in %2</source>
-        <translation type="unfinished"></translation>
+        <translation>är tvetydig. Hittades i %1 och i %2</translation>
     </message>
     <message>
         <source>is ambiguous. Found in %1 in version %2.%3 and %4.%5</source>
-        <translation type="unfinished"></translation>
+        <translation>är tvetydig. Hittades i %1 i version %2.%3 och %4.%5</translation>
     </message>
     <message>
         <source>is instantiated recursively</source>
-        <translation type="unfinished"></translation>
+        <translation>är instansierad rekursivt</translation>
     </message>
     <message>
         <source>is not a type</source>
-        <translation type="unfinished"></translation>
+        <translation>är inte en type</translation>
     </message>
     <message>
         <source>module does not support the designer &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>modulen har inte stöd för designern &quot;%1&quot;</translation>
     </message>
     <message>
         <source>&quot;%1&quot; version %2.%3 is defined more than once in module &quot;%4&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; version %2.%3 är definierad fler än en gång i modulen &quot;%4&quot;</translation>
     </message>
     <message>
         <source>&quot;%1&quot; is not a valid import URL. You can pass relative paths or URLs with schema, but not absolute paths or resource paths. Try &quot;%2&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; är inte en giltig import-URL. Du kan skicka relativa sökvägar eller URLer med schema, men inte absoluta sökvägar eller resurssökvägar. Prova &quot;%2&quot;.</translation>
     </message>
     <message>
         <source>&quot;%1&quot;: no such directory</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot;: ingen sådan katalog</translation>
     </message>
     <message>
         <source>import &quot;%1&quot; has no qmldir and no namespace</source>
-        <translation type="unfinished"></translation>
+        <translation>import &quot;%1&quot; har no qmldir och no namespace</translation>
     </message>
     <message>
         <source>Cannot resolve URL for import &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte slå upp URL för import &quot;%1&quot;</translation>
     </message>
     <message>
         <source>File name case mismatch for &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Filnamnets skiftläge stämmer inte för &quot;%1&quot;</translation>
     </message>
     <message>
         <source>static plugin for module &quot;%1&quot; with name &quot;%2&quot; has no metadata URI</source>
-        <translation type="unfinished"></translation>
+        <translation>statisk insticksmodul för modulen &quot;%1&quot; med namn &quot;%2&quot; saknar metadata-URI</translation>
     </message>
     <message>
         <source>static plugin for module &quot;%1&quot; with name &quot;%2&quot; cannot be loaded: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>statisk insticksmodul för modulen &quot;%1&quot; med namn &quot;%2&quot; kan inte läsas in: %3</translation>
     </message>
     <message>
         <source>could not resolve all plugins for module &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>kunde inte slå upp alla insticksmoduler för modulen &quot;%1&quot;</translation>
     </message>
     <message>
         <source>module &quot;%1&quot; plugin &quot;%2&quot; not found</source>
-        <translation type="unfinished"></translation>
+        <translation>modulen &quot;%1&quot; insticksmodul &quot;%2&quot; hittades inte</translation>
     </message>
     <message>
         <source>module &quot;%1&quot; version %2.%3 cannot be imported because:
 %4</source>
-        <translation type="unfinished"></translation>
+        <translation>module &quot;%1&quot; version %2.%3 kan inte importeras därför att:
+%4</translation>
     </message>
     <message>
         <source>module &quot;%1&quot; cannot be imported because:
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>module &quot;%1&quot; kan inte importeras därför att:
+%2</translation>
     </message>
 </context>
 <context>
     <name>QQmlTypeLoader</name>
     <message>
         <source>Cannot update qmldir content for &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte uppdatera qmldir-innehåll för &apos;%1&apos;</translation>
     </message>
     <message>
         <source>File was compiled ahead of time with an incompatible version of Qt and the original file cannot be found. Please recompile</source>
@@ -701,7 +704,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>No such file or directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen sådan fil eller katalog</translation>
     </message>
     <message>
         <source>Script %1 unavailable</source>
@@ -729,15 +732,15 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>File is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen är tom</translation>
     </message>
     <message>
         <source>module &quot;%1&quot; is not installed</source>
-        <translation type="unfinished"></translation>
+        <translation>modulen &quot;%1&quot; är inte installerad</translation>
     </message>
     <message>
         <source>Namespace %1 cannot be used as a type</source>
-        <translation type="unfinished"></translation>
+        <translation>Namnrymden %1 kan inte användas som en type</translation>
     </message>
     <message>
         <source>Unreported error adding script import to import database</source>
@@ -745,92 +748,92 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>%1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 %2</translation>
     </message>
 </context>
 <context>
     <name>qmlRegisterType</name>
     <message>
         <source>Invalid QML %1 name &quot;%2&quot;; type names must begin with an uppercase letter</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltigt QML %1 namn &quot;%2&quot;; type-nam måste börja med en versal bokstav</translation>
     </message>
     <message>
         <source>Invalid QML %1 name &quot;%2&quot;; value type names should begin with a lowercase letter</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltigt QML %1 namn &quot;%2&quot;; value type-namn ska börja med gemen bokstav</translation>
     </message>
     <message>
         <source>Invalid QML %1 name &quot;%2&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltigt QML %1 namn &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Cannot install %1 &apos;%2&apos; into protected module &apos;%3&apos; version &apos;%4&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte installera %1 &apos;%2&apos; in i skyddade modulen &apos;%3&apos; version &apos;%4&apos;</translation>
     </message>
 </context>
 <context>
     <name>QQmlObjectCreator</name>
     <message>
         <source>Cannot instantiate bound inline component in different file</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte instansiera bound inline-komponent i annan fil</translation>
     </message>
     <message>
         <source>Cannot instantiate bound component outside its creation context</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte instansiera bound component utanför sin creation context</translation>
     </message>
     <message>
         <source>Cannot assign value %1 to property %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte tilldela värdet %1 till egenskap %2</translation>
     </message>
     <message>
         <source>Cannot set properties on %1 as it is null</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte ställa in egenskaper på %1 eftersom den är null</translation>
     </message>
     <message>
         <source>Cannot assign an object to signal property %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte tilldela ett objekt till signalegenskap %1</translation>
     </message>
     <message>
         <source>Cannot assign object type %1 with no default method</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte tilldela objekttypen %1 utan no default-metoden</translation>
     </message>
     <message>
         <source>Cannot connect mismatched signal/slot %1 vs %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte ansluta icke-matchande signal/plats %1 mot %2</translation>
     </message>
     <message>
         <source>Cannot assign object to interface property</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte tilldela objekt till gränssnittsegenskap</translation>
     </message>
     <message>
         <source>Cannot assign object to read only list</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte tilldela objekt till skrivskyddad lista</translation>
     </message>
     <message>
         <source>Cannot assign primitives to lists</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte tilldela primitiver till listor</translation>
     </message>
     <message>
         <source>Unable to create object of type %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte skapa objekt av typen %1</translation>
     </message>
     <message>
         <source>Composite Singleton Type %1 is not creatable</source>
-        <translation type="unfinished"></translation>
+        <translation>Composite Singleton Type %1 är inte möjlig att skapa</translation>
     </message>
 </context>
 <context>
     <name>QQmlRewrite</name>
     <message>
         <source>Signal has an excessive number of parameters: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Signal har ett för stort antal parametrar: %1</translation>
     </message>
     <message>
         <source>Signal uses unnamed parameter followed by named parameter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Signal använder namnlös parameter följt av namngiven parameter.</translation>
     </message>
     <message>
         <source>Signal parameter &quot;%1&quot; hides global variable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Signalparameter &quot;%1&quot; döljer global variabel.</translation>
     </message>
 </context>
 <context>
@@ -1095,38 +1098,38 @@ Do you want to replace it?</source>
     <name>SignalHandlerResolver</name>
     <message>
         <source>Non-existent attached object</source>
-        <translation type="unfinished"></translation>
+        <translation>Icke-existerande fäst objekt</translation>
     </message>
     <message>
         <source>Signal uses unnamed parameter followed by named parameter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Signal använder namnlös parameter följt av namngiven parameter.</translation>
     </message>
     <message>
         <source>Signal parameter &quot;%1&quot; hides global variable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Signalparametern &quot;%1&quot; döljer global variabel.</translation>
     </message>
     <message>
         <source>&quot;%1.%2&quot; is not available in %3 %4.%5.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1.%2&quot; är inte tillgängliga i %3 %4.%5.</translation>
     </message>
     <message>
         <source>&quot;%1.%2&quot; is not available due to component versioning.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1.%2&quot; är inte tillgängliga på grund av component versioning.</translation>
     </message>
     <message>
         <source>Cannot assign a value to a signal (expecting a script to be run)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte tilldela ett värde till en signal (förväntar ett skript att köras)</translation>
     </message>
     <message>
         <source>Incorrectly specified signal assignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Felaktigt angiven signaltilldelning</translation>
     </message>
 </context>
 <context>
     <name>QQmlEnumTypeResolver</name>
     <message>
         <source>Invalid property assignment: &quot;%1&quot; is a read-only property</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig egenskapstilldelning: &quot;%1&quot; är en skrivskyddad egenskap</translation>
     </message>
 </context>
 <context>
@@ -1148,11 +1151,11 @@ Do you want to replace it?</source>
     <name>QQmlTypeData</name>
     <message>
         <source>Composite Singleton Type %1 is not creatable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Composite Singleton Type %1 är inte skapningsbar.</translation>
     </message>
     <message>
         <source>Element is not creatable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Element är inte skapningsbar.</translation>
     </message>
 </context>
 <context>
@@ -1342,22 +1345,22 @@ Revision %1 corresponds to version %2.%3; it should be %4.%5.</source>
     <name>CommentInfo</name>
     <message>
         <source>Unexpected comment start %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Oväntad kommentarstart %1</translation>
     </message>
     <message>
         <source>Non whitespace char %1 after comment end at %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Icke-blankstegstecken %1 efter kommentar i slutet av %2</translation>
     </message>
 </context>
 <context>
     <name>ErrorGroup</name>
     <message>
         <source>Invalid module name in import %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltigt modulnamn i import %1</translation>
     </message>
     <message>
         <source>Invalid Version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig Version %1</translation>
     </message>
     <message>
         <source>Field expressions should start with a dot, even when at the start of the path %1.</source>
@@ -1412,92 +1415,92 @@ Revision %1 corresponds to version %2.%3; it should be %4.%5.</source>
     <name>Import</name>
     <message>
         <source>Version %1 in import string &apos;%2&apos; overridden by explicit version %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Version %1 i importsträng &apos;%2&apos; åsidosatt av uttrycklig version %3</translation>
     </message>
     <message>
         <source>namespace %1 in import string &apos;%2&apos; overridden by explicit importId %3</source>
-        <translation type="unfinished"></translation>
+        <translation>namnrymden %1 i en importsträng &quot;%2&quot; åsidosatt av uttrycklig importId %3</translation>
     </message>
     <message>
         <source>Unexpected URI format in import &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Oväntat URI-format i import &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
     <name>QmlObject</name>
     <message>
         <source>Repeated PropertyDefinition with name %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Upprepad PropertyDefinition med namnet %1</translation>
     </message>
     <message>
         <source>Repeated binding with name %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Upprepad binding med namnet %1</translation>
     </message>
     <message>
         <source>Repeated Method with name %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Upprepad Method med namnet %1</translation>
     </message>
 </context>
 <context>
     <name>Export</name>
     <message>
         <source>Expected string literal to contain &apos;Package/Name major.minor&apos; or &apos;Name major.minor&apos; not &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förväntade string literal att innehålla &apos;Package/Name major.minor&apos; eller &apos;Name major.minor&apos; inte &apos;%1&apos;.</translation>
     </message>
 </context>
 <context>
     <name>ScriptExpression</name>
     <message>
         <source>Parsing of code failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Tolkning av kod misslyckades</translation>
     </message>
 </context>
 <context>
     <name>ImportScope</name>
     <message>
         <source>Looking up &apos;%1&apos; expected a list of exports, not %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppslagning av &quot;%1&quot; förväntade en lista över exporter, inte %2</translation>
     </message>
     <message>
         <source>Expected Export looking up &apos;%1&apos;, not %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Expected Export slog upp &quot;%1&quot;, inte %2</translation>
     </message>
 </context>
 <context>
     <name>ErrorMessage</name>
     <message>
         <source>Double registration of error %1: (%2) vs (%3)</source>
-        <translation type="unfinished"></translation>
+        <translation>Dubbelregistrering av fel %1: (%2) mot (%3)</translation>
     </message>
 </context>
 <context>
     <name>QmldirFile</name>
     <message>
         <source>QmldirFile started from invalid path &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>QmldirFile startades från ogiltig sökväg &apos;%1&apos;</translation>
     </message>
     <message>
         <source>canonicalFilePath is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>canonicalFilePath är tom</translation>
     </message>
 </context>
 <context>
     <name>FileWriter</name>
     <message>
         <source>Could not create temp file for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte skapa temporärfil för %1</translation>
     </message>
     <message>
         <source>Rename of file %1 to %2 failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Namnbyte av filen %1 till %2 misslyckades</translation>
     </message>
     <message>
         <source>Error while writing</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid skrivning</translation>
     </message>
     <message>
         <source>Exception trying to write file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Undantag vid försök att skriva filen %1</translation>
     </message>
 </context>
 <context>
@@ -1567,26 +1570,26 @@ Revision %1 corresponds to version %2.%3; it should be %4.%5.</source>
     <name>QQmlJS::Dom</name>
     <message>
         <source>could not resolve prototype %1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>kunde inte slå upp prototype %1 (%2)</translation>
     </message>
     <message>
         <source>Multiple definitions found, using first only, resolving prototype %1 (%2): %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Flera definitioner hittades, använd endast första, slår upp prototype %1 (%2): %3</translation>
     </message>
     <message>
         <source>Unexpected prototype type %1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Oväntad prototype type %1 (%2)</translation>
     </message>
 </context>
 <context>
     <name>CppTypeInfo</name>
     <message>
         <source>Unexpected complex CppType %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Oväntad komplex CppType %1</translation>
     </message>
     <message>
         <source>Unexpected complex CppType %1 (map with non QString key)</source>
-        <translation type="unfinished"></translation>
+        <translation>Oväntad komplex CppType %1 (mappning med icke-QString-nyckel)</translation>
     </message>
 </context>
 <context>
@@ -1608,107 +1611,107 @@ Revision %1 corresponds to version %2.%3; it should be %4.%5.</source>
     <name>Dom::fileTypeForPath</name>
     <message>
         <source>Could not detect type of file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte detektera typ av fil %1</translation>
     </message>
 </context>
 <context>
     <name>DomUniverse</name>
     <message>
         <source>Ignoring request to load file %1 of unexpected type %2, calling callback immediately</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorerar begäran att läsa in filen %1 för oväntad type %2, anropar callback direkt</translation>
     </message>
     <message>
         <source>Non existing path %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Icke-existerande sökväg %1</translation>
     </message>
     <message>
         <source>Error opening path %1: %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid öppning av sökväg %1: %2 %3</translation>
     </message>
 </context>
 <context>
     <name>LoadInfo</name>
     <message>
         <source>advanceLoad called but found no work, which should never happen</source>
-        <translation type="unfinished"></translation>
+        <translation>advanceLoad anropades men hittade inget work, vilket aldrig ska hända</translation>
     </message>
     <message>
         <source>advanceLoad called after work should have been done, which should never happen</source>
-        <translation type="unfinished"></translation>
+        <translation>advanceLoad anropad efter att work skulle ha gjorts, vilket aldrig ska hända</translation>
     </message>
     <message>
         <source>Uninitialized LoadInfo %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Oinitierad LoadInfo %1</translation>
     </message>
     <message>
         <source>Ignoring dependencies for empty (invalid) type %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorerar beroenden för tom (ogiltig) typ %1</translation>
     </message>
     <message>
         <source>dependencies of %1 (%2) not yet implemented</source>
-        <translation type="unfinished"></translation>
+        <translation>beroenden av %1 (%2) ännu inte implementerat</translation>
     </message>
 </context>
 <context>
     <name>DomEnvironment</name>
     <message>
         <source>Non existing path to load: &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Icke-existerande sökväg att läsa in: &apos;%1&apos;</translation>
     </message>
     <message>
         <source>Unexpected file to load: &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Oväntad fil att läsa in: &apos;%1&apos;</translation>
     </message>
     <message>
         <source>missing load info in </source>
-        <translation type="unfinished"></translation>
+        <translation>saknar load info i </translation>
     </message>
     <message>
         <source>Failed to find main qmldir file for %1 %2 in %3.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades att hitta main qmldir-filen för %1 %2 i %3.</translation>
     </message>
     <message>
         <source>Missing loadInfo for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Saknar loadInfo för %1</translation>
     </message>
     <message>
         <source>Could not find builtins.qmltypes file</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte hitta filen builtins.qmltypes</translation>
     </message>
     <message>
         <source>A mutable module was requested in a multithreaded environment</source>
-        <translation type="unfinished"></translation>
+        <translation>En mutable-modul begärdes i en flertrådad miljö</translation>
     </message>
     <message>
         <source>Could not get path for newly created ModuleIndex %1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte få sökväg för nyligen skapade ModuleIndex %1 %2</translation>
     </message>
     <message>
         <source>Unexpected path not ending with qmldir in qmldirFilePaths: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Oväntad sökväg utan slut med qmldir i qmldirFilePaths: %1</translation>
     </message>
     <message>
         <source>addLoadinfo replaces unfinished load info for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>addLoadinfo ersätter ofärdiga load info för %1</translation>
     </message>
 </context>
 <context>
     <name>TypeDescriptionReader</name>
     <message>
         <source>Property object is missing a name or type script binding.</source>
-        <translation type="unfinished"></translation>
+        <translation>Egenskapsobjektet saknar ett namn eller type script-bindning.</translation>
     </message>
     <message>
         <source>Method or signal is missing a name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Metod eller signal saknar ett namn.</translation>
     </message>
     <message>
         <source>negative meta revision %1 not supported</source>
-        <translation type="unfinished"></translation>
+        <translation>negativ meta revision %1 stöds inte</translation>
     </message>
     <message>
         <source>Component definition is missing a name binding.</source>
-        <translation type="unfinished"></translation>
+        <translation>Komponentdefinition saknar en namnbindning.</translation>
     </message>
 </context>
 <context>
@@ -1742,129 +1745,129 @@ Revision %1 corresponds to version %2.%3; it should be %4.%5.</source>
     <name>QQmlDelegateModelGroup</name>
     <message>
         <source>Group names must start with a lower case letter</source>
-        <translation type="unfinished"></translation>
+        <translation>Gruppnamn måste börjar med en gemen bokstav</translation>
     </message>
     <message>
         <source>get: index out of range</source>
-        <translation type="unfinished"></translation>
+        <translation>get: index utanför intervall</translation>
     </message>
     <message>
         <source>insert: index out of range</source>
-        <translation type="unfinished"></translation>
+        <translation>insert: index utanför intervall</translation>
     </message>
     <message>
         <source>create: index out of range</source>
-        <translation type="unfinished"></translation>
+        <translation>create: index utanför intervall</translation>
     </message>
     <message>
         <source>resolve: from index out of range</source>
-        <translation type="unfinished"></translation>
+        <translation>resolve: from index utanför intervall</translation>
     </message>
     <message>
         <source>resolve: from index invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>resolve: from index ogiltigt</translation>
     </message>
     <message>
         <source>resolve: to index out of range</source>
-        <translation type="unfinished"></translation>
+        <translation>resolve: to index utanför intervall</translation>
     </message>
     <message>
         <source>resolve: to index invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>resolve: to index ogiltigt</translation>
     </message>
     <message>
         <source>resolve: from is not an unresolved item</source>
-        <translation type="unfinished"></translation>
+        <translation>resolve: from är inte en unresolved item</translation>
     </message>
     <message>
         <source>resolve: to is not a model item</source>
-        <translation type="unfinished"></translation>
+        <translation>resolve: to är inte ett model-objekt</translation>
     </message>
     <message>
         <source>remove: invalid index</source>
-        <translation type="unfinished"></translation>
+        <translation>remove: ogiltigt index</translation>
     </message>
     <message>
         <source>remove: index out of range</source>
-        <translation type="unfinished"></translation>
+        <translation>remove: index utanför intervall</translation>
     </message>
     <message>
         <source>remove: invalid count</source>
-        <translation type="unfinished"></translation>
+        <translation>remove: ogiltigt antal</translation>
     </message>
     <message>
         <source>addGroups: index out of range</source>
-        <translation type="unfinished"></translation>
+        <translation>addGroups: index utanför intervall</translation>
     </message>
     <message>
         <source>addGroups: invalid count</source>
-        <translation type="unfinished"></translation>
+        <translation>addGroups: ogiltigt antal</translation>
     </message>
     <message>
         <source>removeGroups: index out of range</source>
-        <translation type="unfinished"></translation>
+        <translation>removeGroups: index utanför intervall</translation>
     </message>
     <message>
         <source>removeGroups: invalid count</source>
-        <translation type="unfinished"></translation>
+        <translation>removeGroups: ogiltigt antal</translation>
     </message>
     <message>
         <source>setGroups: index out of range</source>
-        <translation type="unfinished"></translation>
+        <translation>setGroups: index utanför intervall</translation>
     </message>
     <message>
         <source>setGroups: invalid count</source>
-        <translation type="unfinished"></translation>
+        <translation>setGroups: ogiltigt antal</translation>
     </message>
     <message>
         <source>move: invalid from index</source>
-        <translation type="unfinished"></translation>
+        <translation>move: ogiltigt from index</translation>
     </message>
     <message>
         <source>move: invalid to index</source>
-        <translation type="unfinished"></translation>
+        <translation>move: ogiltigt to index</translation>
     </message>
     <message>
         <source>move: invalid count</source>
-        <translation type="unfinished"></translation>
+        <translation>move: ogiltigt antal</translation>
     </message>
     <message>
         <source>move: from index out of range</source>
-        <translation type="unfinished"></translation>
+        <translation>move: from index utanför intervall</translation>
     </message>
     <message>
         <source>move: to index out of range</source>
-        <translation type="unfinished"></translation>
+        <translation>move: to index utanför intervall</translation>
     </message>
 </context>
 <context>
     <name>QQmlDelegateModel</name>
     <message>
         <source>The delegate of a DelegateModel cannot be changed within onUpdated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Delegaten för en DelegateModel får inte ändras inom onUpdated.</translation>
     </message>
     <message>
         <source>The maximum number of supported DelegateModelGroups is 8</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximalt antal DelegateModelGroups som stöds är 8</translation>
     </message>
     <message>
         <source>The group of a DelegateModel cannot be changed within onChanged</source>
-        <translation type="unfinished"></translation>
+        <translation>Gruppen av en DelegateModel får inte ändras inom onChanged</translation>
     </message>
     <message>
         <source>The delegates of a DelegateModel cannot be changed within onUpdated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Delegaterna för en DelegateModel får inte ändras inom onUpdated.</translation>
     </message>
 </context>
 <context>
     <name>QQmlPartsModel</name>
     <message>
         <source>The group of a DelegateModel cannot be changed within onChanged</source>
-        <translation type="unfinished"></translation>
+        <translation>Gruppen för en DelegateModel får inte ändras inom onChanged</translation>
     </message>
     <message>
         <source>Delegate component must be Package type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Delegatkomponent måste vara Package-typ</translation>
     </message>
 </context>
 <context>
@@ -1934,15 +1937,15 @@ Revision %1 corresponds to version %2.%3; it should be %4.%5.</source>
     <name>QQmlObjectModel</name>
     <message>
         <source>insert: index %1 out of range</source>
-        <translation type="unfinished"></translation>
+        <translation>insert: index %1 utanför intervall</translation>
     </message>
     <message>
         <source>move: out of range</source>
-        <translation type="unfinished"></translation>
+        <translation>move: utanför intervall</translation>
     </message>
     <message>
         <source>remove: indices [%1 - %2] out of range [0 - %3]</source>
-        <translation type="unfinished"></translation>
+        <translation>remove: indices [%1 - %2] utanför intervall [0 - %3]</translation>
     </message>
 </context>
 <context>
@@ -1964,22 +1967,22 @@ Revision %1 corresponds to version %2.%3; it should be %4.%5.</source>
     <name>XmlListModelRoleList</name>
     <message>
         <source>An XmlListModel query must start with &apos;/&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>En XmlListModel-frågesats måste börja med &apos;/&apos;</translation>
     </message>
 </context>
 <context>
     <name>QQmlXmlListModel</name>
     <message>
         <source>&quot;%1&quot; duplicates a previous role name and will be disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; duplicerar ett tidigare rollnamn och kommer att inaktiveras.</translation>
     </message>
     <message>
         <source>Failed to create an instance of QRunnable query object</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att skapa en instans av QRunnable-frågesatsobjekt</translation>
     </message>
     <message>
         <source>Query error: &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Frågesatsfel: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -2037,36 +2040,36 @@ Revision %1 corresponds to version %2.%3; it should be %4.%5.</source>
     <name>QQuickFlipable</name>
     <message>
         <source>front is a write-once property</source>
-        <translation type="unfinished"></translation>
+        <translation>front är en egenskap som går att skriva en gång</translation>
     </message>
     <message>
         <source>back is a write-once property</source>
-        <translation type="unfinished"></translation>
+        <translation>back är en egenskap som går att skriva en gång</translation>
     </message>
 </context>
 <context>
     <name>QQuickLayoutMirroringAttached</name>
     <message>
         <source>LayoutMirroring attached property only works with Items and Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>LayoutMirroring-fäst egenskap fungerar endast med Items och Windows</translation>
     </message>
 </context>
 <context>
     <name>QQuickEnterKeyAttached</name>
     <message>
         <source>EnterKey attached property only works with Items</source>
-        <translation type="unfinished"></translation>
+        <translation>EnterKey-färst egenskap fungerar endast med Items</translation>
     </message>
 </context>
 <context>
     <name>QQuickParentAnimation</name>
     <message>
         <source>Unable to preserve appearance under complex transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte bevara framträdandet under komplex transformering</translation>
     </message>
     <message>
         <source>Unable to preserve appearance under non-uniform scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte behålla framträdandet under icke-enhetlig skalning</translation>
     </message>
     <message>
         <source>Unable to preserve appearance under scale of 0</source>
@@ -2077,72 +2080,72 @@ Revision %1 corresponds to version %2.%3; it should be %4.%5.</source>
     <name>QQuickAnchorAnimation</name>
     <message>
         <source>Cannot set a duration of &lt; 0</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte ställa in en längd på &lt; 0</translation>
     </message>
 </context>
 <context>
     <name>QQuickPathAnimation</name>
     <message>
         <source>Cannot set a duration of &lt; 0</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte ställa in en längd på &lt; 0</translation>
     </message>
 </context>
 <context>
     <name>QQuickItemView</name>
     <message>
         <source>Delegate must be of Item type</source>
-        <translation type="unfinished"></translation>
+        <translation>Delegaten måste vara en  Item-typ</translation>
     </message>
 </context>
 <context>
     <name>QQuickLoader</name>
     <message>
         <source>setSource: value is not an object</source>
-        <translation type="unfinished"></translation>
+        <translation>setSource: värdet är inte ett objekt</translation>
     </message>
 </context>
 <context>
     <name>QQuickPathView</name>
     <message>
         <source>Delegate must be of Item type</source>
-        <translation type="unfinished"></translation>
+        <translation>Delegaten måste vara en  Item-typ</translation>
     </message>
 </context>
 <context>
     <name>QQuickRepeater</name>
     <message>
         <source>Delegate must be of Item type</source>
-        <translation type="unfinished"></translation>
+        <translation>Delegaten måste vara en  Item-typ</translation>
     </message>
 </context>
 <context>
     <name>QQuickParentChange</name>
     <message>
         <source>Unable to preserve appearance under complex transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte behålla framträdandet under komplex transformering</translation>
     </message>
     <message>
         <source>Unable to preserve appearance under non-uniform scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte behålla framträdandet under icke-enhetlig skalning</translation>
     </message>
     <message>
         <source>Unable to preserve appearance under scale of 0</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte behålla framträdandet under skalning med 0</translation>
     </message>
 </context>
 <context>
     <name>QQuickTextDocument</name>
     <message>
         <source>Null document object: cannot load</source>
-        <translation type="unfinished"></translation>
+        <translation>Null-dokumentobjekt: kan inte läsa in</translation>
     </message>
     <message>
         <source>Failed to read: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att läsa: %1</translation>
     </message>
     <message>
         <source>%1 does not exist</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 finns inte</translation>
     </message>
     <message>
         <source>Cannot save: %1</source>
@@ -2150,99 +2153,99 @@ Revision %1 corresponds to version %2.%3; it should be %4.%5.</source>
     </message>
     <message>
         <source>Can only save to local files</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan endast spara till lokala filer</translation>
     </message>
 </context>
 <context>
     <name>QQuickTextUtil</name>
     <message>
         <source>%1 does not support loading non-visual cursor delegates.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 saknar stöd för att läsa in icke-visuella markördelegater.</translation>
     </message>
     <message>
         <source>Could not load cursor delegate</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte läsa in markördelegat</translation>
     </message>
 </context>
 <context>
     <name>QQuickWindow</name>
     <message>
         <source>Failed to initialize graphics backend for %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att initiera grafikbakände för %1.</translation>
     </message>
 </context>
 <context>
     <name>QQuickAbstractAnimation</name>
     <message>
         <source>Cannot animate non-existent property &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte animera icke-existerande egenskap &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Cannot animate read-only property &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte animera skrivskyddad egenskap &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
     <name>QQuickPauseAnimation</name>
     <message>
         <source>Cannot set a duration of &lt; 0</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte ställa in en längd på &lt; 0</translation>
     </message>
 </context>
 <context>
     <name>QQuickPropertyAnimation</name>
     <message>
         <source>Cannot set a duration of &lt; 0</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte ställa in en längd på &lt; 0</translation>
     </message>
 </context>
 <context>
     <name>QQuickBehavior</name>
     <message>
         <source>Cannot change the animation assigned to a Behavior.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte ändra animeringen tilldelad till ett Behavior.</translation>
     </message>
 </context>
 <context>
     <name>QQuickPixmap</name>
     <message>
         <source>Error decoding: %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid dekodning: %1: %2</translation>
     </message>
     <message>
         <source>Error decoding: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid dekodning: %1</translation>
     </message>
     <message>
         <source>Invalid image provider: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig bildleverantör: %1</translation>
     </message>
     <message>
         <source>Failed to get image from provider: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att få bild från leverantör: %1</translation>
     </message>
     <message>
         <source>Failed to get texture from provider: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att få textur från leverantör: %1</translation>
     </message>
     <message>
         <source>Cannot open: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte öppna: %1</translation>
     </message>
 </context>
 <context>
     <name>QQuickPropertyChanges</name>
     <message>
         <source>PropertyChanges does not support creating state-specific objects.</source>
-        <translation type="unfinished"></translation>
+        <translation>PropertyChanges saknar stöd för att skapa tillståndsspecifika objekt.</translation>
     </message>
     <message>
         <source>Cannot assign to non-existent property &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte tilldela till icke-existerande egenskap &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Cannot assign to read-only property &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte tilldela till skrivskyddad egenskap &quot;%1&quot;</translation>
     </message>
 </context>
 </TS>

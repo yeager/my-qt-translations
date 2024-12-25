@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="sv">
+<TS version="2.1" language="sv_SE">
 <context>
     <name>QBluetoothDeviceDiscoveryAgent</name>
     <message>
@@ -336,7 +336,7 @@
     </message>
     <message>
         <source>3D Synchronization</source>
-        <translation type="unfinished"></translation>
+        <translation>3D-synkronisering</translation>
     </message>
     <message>
         <source>Multi-Profile Specification (Profile)</source>
@@ -488,7 +488,7 @@
     </message>
     <message>
         <source>Weight Scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Våg</translation>
     </message>
     <message>
         <source>Bond Management</source>
@@ -533,7 +533,7 @@
     </message>
     <message>
         <source>Internet Protocol</source>
-        <translation type="unfinished"></translation>
+        <translation>Internetprotokoll</translation>
     </message>
     <message>
         <source>File Transfer Protocol</source>
@@ -597,7 +597,7 @@
     </message>
     <message>
         <source>Layer 2 Control Protocol</source>
-        <translation type="unfinished"></translation>
+        <translation>Layer 2 Control Protocol</translation>
     </message>
     <message>
         <source>GAP Device Name</source>
@@ -630,7 +630,7 @@
     </message>
     <message>
         <source>Alert Level</source>
-        <translation type="unfinished"></translation>
+        <translation>Larmnivå</translation>
     </message>
     <message>
         <source>TX Power</source>
@@ -666,7 +666,7 @@
     </message>
     <message>
         <source>Time With DST</source>
-        <translation type="unfinished"></translation>
+        <translation>Tid med DST</translation>
     </message>
     <message>
         <source>Time Accuracy</source>
@@ -702,7 +702,7 @@
     </message>
     <message>
         <source>Temperature Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Temperaturtyp</translation>
     </message>
     <message>
         <source>Intermediate Temperature</source>
@@ -710,7 +710,7 @@
     </message>
     <message>
         <source>Measurement Interval</source>
-        <translation type="unfinished"></translation>
+        <translation>Mätintervall</translation>
     </message>
     <message>
         <source>Boot Keyboard Input Report</source>
@@ -818,7 +818,7 @@
     </message>
     <message>
         <source>New Alert</source>
-        <translation type="unfinished"></translation>
+        <translation>Nytt larm</translation>
     </message>
     <message>
         <source>Supported New Alert Category</source>
@@ -852,7 +852,7 @@
     </message>
     <message>
         <source>Protocol Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Protokolläge</translation>
     </message>
     <message>
         <source>Scan Interval Window</source>
@@ -921,7 +921,7 @@
     </message>
     <message>
         <source>Navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigering</translation>
     </message>
     <message>
         <source>Position Quality</source>
@@ -947,7 +947,7 @@
     </message>
     <message>
         <source>Pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>Lufttryck</translation>
     </message>
     <message>
         <source>Temperature</source>
@@ -994,7 +994,7 @@
     </message>
     <message>
         <source>Rainfall</source>
-        <translation type="unfinished"></translation>
+        <translation>Nederbörd</translation>
     </message>
     <message>
         <source>Wind Chill</source>
@@ -1130,7 +1130,7 @@
     </message>
     <message>
         <source>User Index</source>
-        <translation type="unfinished"></translation>
+        <translation>Användarindex</translation>
     </message>
     <message>
         <source>Body Composition Feature</source>
@@ -1142,7 +1142,7 @@
     </message>
     <message>
         <source>Weight Measurement</source>
-        <translation type="unfinished"></translation>
+        <translation>Viktmätning</translation>
     </message>
     <message>
         <source>Weight Scale Feature</source>
@@ -1194,7 +1194,7 @@
     </message>
     <message>
         <source>Valid Range</source>
-        <translation type="unfinished"></translation>
+        <translation>Giltigt intervall</translation>
     </message>
     <message>
         <source>External Report Reference</source>
@@ -1229,11 +1229,11 @@
     </message>
     <message>
         <source>Cannot write while not connected</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte skriva när inte ansluten</translation>
     </message>
     <message>
         <source>Trying to connect while connection is in progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Försöker att ansluta under anslutning pågår</translation>
     </message>
     <message>
         <source>Service cannot be found</source>
@@ -1241,11 +1241,11 @@
     </message>
     <message>
         <source>Invalid data/data size</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltigt data/datastorlek</translation>
     </message>
     <message>
         <source>Cannot read while not connected</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte läsa när inte ansluten</translation>
     </message>
     <message>
         <source>Cannot connect to %1</source>
@@ -1254,7 +1254,7 @@
     </message>
     <message>
         <source>Bluetooth socket connect failed due to missing permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bluetooth-uttagsanslutning misslyckades på grund av saknad behörighet.</translation>
     </message>
     <message>
         <source>Device does not support Bluetooth</source>
@@ -1276,27 +1276,27 @@
     </message>
     <message>
         <source>Socket type not supported</source>
-        <translation type="unfinished"></translation>
+        <translation>Uttagstypen stöds inte</translation>
     </message>
     <message>
         <source>Obtaining streams for service failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Hämtning av strömmar för tjänst misslyckades</translation>
     </message>
     <message>
         <source>Input stream thread cannot be started</source>
-        <translation type="unfinished"></translation>
+        <translation>Inmatningsströmtråd kan inte startas</translation>
     </message>
     <message>
         <source>Connection to service failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Anslutning till tjänsten misslyckades</translation>
     </message>
     <message>
         <source>Error during write on socket.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid skrivning på uttag.</translation>
     </message>
     <message>
         <source>Network error during read</source>
-        <translation type="unfinished"></translation>
+        <translation>Nätverksfel under läsning</translation>
     </message>
     <message>
         <source>Unknown socket error</source>
@@ -1304,7 +1304,7 @@
     </message>
     <message>
         <source>Cannot set connection security level</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte ställa in anslutningens säkerhetsnivå</translation>
     </message>
     <message>
         <source>Network Error: %1</source>
@@ -1312,7 +1312,7 @@
     </message>
     <message>
         <source>Cannot export profile on DBus</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte exportera profil på DBus</translation>
     </message>
     <message>
         <source>Cannot register profile on DBus</source>
@@ -1320,19 +1320,19 @@
     </message>
     <message>
         <source>Cannot find remote device</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte hitta fjärrenheten</translation>
     </message>
     <message>
         <source>Cannot connect to remote profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte ansluta till fjärrprofilen</translation>
     </message>
     <message>
         <source>Missing serviceUuid or Serial Port service class uuid</source>
-        <translation type="unfinished"></translation>
+        <translation>Saknar serviceUuid eller Serial Port service class uuid</translation>
     </message>
     <message>
         <source>Invalid Bluetooth address passed to connectToService()</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig Bluetooth-adress skickades till connectToService()</translation>
     </message>
     <message>
         <source>Network error</source>
@@ -1340,11 +1340,11 @@
     </message>
     <message>
         <source>Remote host closed connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjärrvärden stängde anslutningen</translation>
     </message>
     <message>
         <source>Connection timed out</source>
-        <translation type="unfinished"></translation>
+        <translation>Anslutningen översteg tidsgränsen</translation>
     </message>
     <message>
         <source>Host not reachable</source>
@@ -1352,7 +1352,7 @@
     </message>
     <message>
         <source>Host refused connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Värden nekade anslutningen</translation>
     </message>
 </context>
 <context>
@@ -1363,11 +1363,11 @@
     </message>
     <message>
         <source>Push session cannot be started</source>
-        <translation type="unfinished"></translation>
+        <translation>Push session kan inte startas</translation>
     </message>
     <message>
         <source>Push session cannot connect</source>
-        <translation type="unfinished"></translation>
+        <translation>Push session kan inte ansluta</translation>
     </message>
     <message>
         <source>Source file does not exist</source>
@@ -1375,15 +1375,15 @@
     </message>
     <message>
         <source>QIODevice cannot be read. Make sure it is open for reading.</source>
-        <translation type="unfinished"></translation>
+        <translation>QIODevice kan inte läsas. Försäkra dig om att den är öppen för läsning.</translation>
     </message>
     <message>
         <source>Push session failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Push session misslyckades</translation>
     </message>
     <message>
         <source>Invalid input device (null)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig inmatningsenhet (null)</translation>
     </message>
     <message>
         <source>Operation canceled</source>
@@ -1395,14 +1395,14 @@
     </message>
     <message>
         <source>Push service not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Push-tjänst hittades inte</translation>
     </message>
 </context>
 <context>
     <name>QLowEnergyController</name>
     <message>
         <source>Remote device cannot be found</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjärrenheten kan inte hittas</translation>
     </message>
     <message>
         <source>Cannot find local adapter</source>
@@ -1422,43 +1422,43 @@
     </message>
     <message>
         <source>Advertisement data is larger than 31 bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>Advertisement-data är större än 31 bytes</translation>
     </message>
     <message>
         <source>Advertisement feature not supported on the platform</source>
-        <translation type="unfinished"></translation>
+        <translation>Advertisement-funktionen stöds inte på plattformen</translation>
     </message>
     <message>
         <source>Error occurred trying to start advertising</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel inträffade vid försök att starta advertising</translation>
     </message>
     <message>
         <source>Failed due to too many advertisers</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades på grund av för många advertisers</translation>
     </message>
     <message>
         <source>Unknown advertisement error</source>
-        <translation type="unfinished"></translation>
+        <translation>Okänt advertisement-fel</translation>
     </message>
     <message>
         <source>Error occurred trying to connect to remote device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel inträffade vid försök att ansluta till fjärrenheten.</translation>
     </message>
     <message>
         <source>Remote device closed the connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjärrenheten stängde anslutningen</translation>
     </message>
     <message>
         <source>Failed to authorize on the remote device</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att auktorisera på fjärrenheten</translation>
     </message>
     <message>
         <source>Missing permissions error</source>
-        <translation type="unfinished"></translation>
+        <translation>Saknar behörighet</translation>
     </message>
     <message>
         <source>Error reading RSSI value</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid läsning av RSSI-värde</translation>
     </message>
 </context>
 <context>

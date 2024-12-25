@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="sv">
+<TS version="2.1" language="sv_SE">
 <context>
     <name>Assets::Downloader::AssetDownloader</name>
     <message>
@@ -2174,11 +2174,11 @@ Vill du ta bort den ändå?</translation>
     </message>
     <message>
         <source>a section name is empty or extends past the end of the file</source>
-        <translation type="unfinished"></translation>
+        <translation>ett sektionsnamn är tomt eller överstiger filslutet</translation>
     </message>
     <message>
         <source>section contents extend past the end of the file</source>
-        <translation type="unfinished"></translation>
+        <translation>sektionsinnehållet överstiger filslutet</translation>
     </message>
     <message>
         <source>.qtmetadata section is too small</source>
@@ -2234,7 +2234,7 @@ Vill du ta bort den ändå?</translation>
     </message>
     <message>
         <source>section table extends past the end of the file</source>
-        <translation type="unfinished"></translation>
+        <translation>sektionstabellen överstiger filslutet</translation>
     </message>
     <message>
         <source>section header string table extends past the end of the file</source>
@@ -2242,7 +2242,7 @@ Vill du ta bort den ändå?</translation>
     </message>
     <message>
         <source>a section name extends past the end of the file</source>
-        <translation type="unfinished"></translation>
+        <translation>ett sektionsnamn överstiger filslutet</translation>
     </message>
     <message>
         <source>file too small</source>
@@ -2306,7 +2306,7 @@ Vill du ta bort den ändå?</translation>
     </message>
     <message>
         <source>Cannot unload library %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte läsa ur biblioteket %1: %2</translation>
     </message>
     <message>
         <source>&apos;%1&apos; is not a valid Mach-O binary (%2)</source>
@@ -4557,7 +4557,7 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>internal error: parsed pattern overflow</source>
-        <translation type="unfinished"></translation>
+        <translation>internt fel: överflöde i tolkat mönster</translation>
     </message>
     <message>
         <source>non-octal character in \o{} (closing brace missing?)</source>
