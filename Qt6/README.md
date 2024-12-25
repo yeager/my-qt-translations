@@ -1,4 +1,4 @@
-$ for a in *sv.ts; do lrelease $a; done
+$ lrelease *sv.ts
 
 Updating 'assistant_sv.qm'...
 
@@ -6,9 +6,9 @@ Updating 'assistant_sv.qm'...
     
 Updating 'designer_sv.qm'...
 
-    Genererade 1072 översättningar (1069 slutförda och 3 oavslutade)
+    Genererade 1084 översättningar (1081 slutförda och 3 oavslutade)
     
-    Ignorerade 260 oöversatta källtexter
+    Ignorerade 248 oöversatta källtexter
     
 Updating 'linguist_sv.qm'...
 
@@ -16,21 +16,21 @@ Updating 'linguist_sv.qm'...
     
 Updating 'qtbase_sv.qm'...
 
-    Genererade 1698 översättningar (1698 slutförda och 0 oavslutade)
+    Genererade 1704 översättningar (1704 slutförda och 0 oavslutade)
     
-    Ignorerade 95 oöversatta källtexter
+    Ignorerade 89 oöversatta källtexter
     
 Updating 'qtconnectivity_sv.qm'...
 
-    Genererade 98 översättningar (98 slutförda och 0 oavslutade)
+    Genererade 151 översättningar (151 slutförda och 0 oavslutade)
     
-    Ignorerade 259 oöversatta källtexter
+    Ignorerade 206 oöversatta källtexter
     
 Updating 'qtdeclarative_sv.qm'...
 
-    Genererade 6 översättningar (6 slutförda och 0 oavslutade)
+    Genererade 234 översättningar (234 slutförda och 0 oavslutade)
     
-    Ignorerade 496 oöversatta källtexter
+    Ignorerade 268 oöversatta källtexter
     
 Updating 'qt_help_sv.qm'...
 
@@ -38,9 +38,7 @@ Updating 'qt_help_sv.qm'...
     
 Updating 'qtlocation_sv.qm'...
 
-    Genererade 235 översättningar (235 slutförda och 0 oavslutade)
-    
-    Ignorerade 101 oöversatta källtexter
+    Genererade 336 översättningar (336 slutförda och 0 oavslutade)
     
 Updating 'qtmultimedia_sv.qm'...
 
