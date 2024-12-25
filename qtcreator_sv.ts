@@ -37,7 +37,7 @@
     </message>
     <message>
         <source>Toggles if the button is exclusive. Non-exclusive checkable buttons that belong to the same parent behave as if they are part of the same button group; only one button can be checked at any time.</source>
-        <translation>Växlar om knappen är exklusiv. Icke-exklusiva markerbara knappar som tillhär samma förälder beter sig som de är en del av samma knappgrupp; endast en knapp kan markeras samtidigt.</translation>
+        <translation>Växlar om knappen är exklusiv. Icke-exklusiva markerbara knappar som tillhör samma förälder beter sig som de är en del av samma knappgrupp; endast en knapp kan markeras samtidigt.</translation>
     </message>
     <message>
         <source>Toggles if pressed, released, and clicked actions are repeated while the button is pressed and held down.</source>
@@ -39004,7 +39004,7 @@ You might find further explanations in the Application Output view.</source>
     <name>QtC::ProjectExplorer</name>
     <message>
         <source>Unable to Add Dependency</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte lägga till beroende</translation>
     </message>
     <message>
         <source>This would create a circular dependency.</source>
@@ -39012,7 +39012,7 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>Synchronize configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Synkronisera konfiguration</translation>
     </message>
     <message>
         <source>Synchronize active kit, build, and deploy configuration between projects.</source>
@@ -39028,11 +39028,11 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>Parallel jobs:</source>
-        <translation type="unfinished"></translation>
+        <translation>Parallella jobb:</translation>
     </message>
     <message>
         <source>Override MAKEFLAGS</source>
-        <translation type="unfinished"></translation>
+        <translation>Åsidosätt MAKEFLAGS</translation>
     </message>
     <message>
         <source>Disable in subdirectories:</source>
@@ -39096,7 +39096,7 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>Starting: &quot;%1&quot; %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Startar: &quot;%1&quot; %2</translation>
     </message>
     <message>
         <source>The process &quot;%1&quot; exited normally.</source>
