@@ -84,10 +84,8 @@ Updating 'qt_sv.qm'...
     
 Updating 'qtwebengine_sv.qm'...
 
-    Genererade 118 översättningar (97 slutförda och 21 oavslutade)
+    Genererade 124 översättningar (124 slutförda och 0 oavslutade)
     
-    Ignorerade 6 oöversatta källtexter
-
     
 Updating 'qtwebsockets_sv.qm'...
 
