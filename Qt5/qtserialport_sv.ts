@@ -4,66 +4,84 @@
 <context>
     <name>QSerialPort</name>
     <message>
+        <location filename="../../qtserialport/src/serialport/qserialport.cpp" line="+61"/>
         <source>No error</source>
         <translation>Inget fel</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Device is already open</source>
         <translation>Enheten är redan öppen</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Device is not open</source>
         <translation>Enheten är inte öppen</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Operation timed out</source>
         <translation>Åtgärden översteg tidsgränsen</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Error reading from device</source>
         <translation>Fel vid läsning från enheten</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Error writing to device</source>
         <translation>Fel vid skrivning till enheten</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Device disappeared from the system</source>
         <translation>Enheten försvann från systemet</translation>
     </message>
     <message>
+        <location line="+478"/>
         <source>Unsupported open mode</source>
         <translation>Öppningsläget stöds inte</translation>
     </message>
     <message>
+        <location line="+568"/>
         <source>The device supports only the ignoring policy</source>
-        <translation>Enheten har endast stöd för ignoreringspolicyn</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../../qtserialport/src/serialport/qserialport_unix.cpp" line="+315"/>
         <source>Permission error while creating lock file</source>
         <translation>Behörighetsfel vid skapande av låsfilen</translation>
     </message>
     <message>
+        <location line="+7"/>
         <source>Permission error while locking the device</source>
         <translation>Behörighetsfel vid låsning av enheten</translation>
     </message>
     <message>
+        <location line="+280"/>
+        <location line="+57"/>
         <source>Cannot set custom speed for one direction</source>
         <translation>Kan inte ställa in anpassad hastighet för en riktning</translation>
     </message>
     <message>
+        <location line="-25"/>
         <source>No suitable custom baud rate divisor</source>
         <translation>Ingen lämplig anpassad baudhastighetsdivisor</translation>
     </message>
     <message>
+        <location line="+38"/>
+        <location line="+24"/>
         <source>Custom baud rate is not supported</source>
         <translation>Anpassad baudhastighet stöds inte</translation>
     </message>
     <message>
+        <location line="+9"/>
         <source>Invalid baud rate value</source>
         <translation>Ogiltigt värde för baudhastighet</translation>
     </message>
     <message>
+        <location filename="../../qtserialport/src/serialport/qserialport_win.cpp" line="+401"/>
         <source>Custom baud rate direction is unsupported</source>
         <translation>Anpassad baudhastighetsriktning stöds inte</translation>
     </message>
