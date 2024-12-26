@@ -92,12 +92,12 @@ Besök https://developers.arcgis.com/authentication/accessing-arcgis-online-serv
     <message>
         <location filename="../../qtlocation/src/location/labs/qdeclarativenavigator.cpp" line="+505"/>
         <source>Plugin does not support navigation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Insticksmodulen har inte stöd för navigering.</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Failed to create a navigator object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att skapa ett navigatorobjekt.</translation>
     </message>
 </context>
 <context>
@@ -1789,7 +1789,8 @@ Registrera dig på https://developer.here.com/ för att få din personliga progr
         <location filename="../../qtlocation/src/plugins/geoservices/nokia/qgeoerror_messages.cpp" line="+42"/>
         <source>Qt Location requires app_id and token parameters.
 Please register at https://developer.here.com/ to get your personal application credentials.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt Location kräver app_id och token parameters.
+Registrera på https://developer.here.com/ för att få dina personliga programuppgifter.</translation>
     </message>
     <message>
         <location line="+1"/>
