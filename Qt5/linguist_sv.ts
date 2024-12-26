@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="sv">
+<TS version="2.1" language="sv_SE">
 <context>
     <name>AboutDialog</name>
     <message>
@@ -12,62 +12,50 @@
 <context>
     <name>BatchTranslationDialog</name>
     <message>
-        <location filename="../../qttools/src/linguist/linguist/batchtranslation.ui"/>
         <source>Qt Linguist - Batch Translation</source>
         <translation>Qt Linguist - Mängdöversättning</translation>
     </message>
     <message>
-        <location/>
         <source>Options</source>
         <translation>Alternativ</translation>
     </message>
     <message>
-        <location/>
         <source>Set translated entries to finished</source>
         <translation>Ange översatta poster som slutförda</translation>
     </message>
     <message>
-        <location/>
         <source>Retranslate entries with existing translation</source>
         <translation>Återöversätt poster med befintlig översättning</translation>
     </message>
     <message>
-        <location/>
         <source>Note that the modified entries will be reset to unfinished if &apos;Set translated entries to finished&apos; above is unchecked</source>
         <translation>Notera att ändrade poster kommer att nollställas till oavslutade, om &quot;Ange översatta poster som färdiga&quot; är avmarkerat</translation>
     </message>
     <message>
-        <location/>
         <source>Translate also finished entries</source>
         <translation>Översätt även slutförda poster</translation>
     </message>
     <message>
-        <location/>
         <source>Phrase book preference</source>
         <translation>Ordboksinställning</translation>
     </message>
     <message>
-        <location/>
         <source>Move up</source>
         <translation>Flytta upp</translation>
     </message>
     <message>
-        <location/>
         <source>Move down</source>
         <translation>Flytta ner</translation>
     </message>
     <message>
-        <location/>
         <source>The batch translator will search through the selected phrase books in the order given above</source>
         <translation>Mängdöversättaren kommer att söka igenom de valda ordböckerna i den ordning som anges ovan</translation>
     </message>
     <message>
-        <location/>
         <source>&amp;Run</source>
         <translation>&amp;Kör</translation>
     </message>
     <message>
-        <location/>
         <source>Cancel</source>
         <translation>Avbryt</translation>
     </message>
@@ -205,143 +193,121 @@ Kommer att anta en enskild universell form.</translation>
     <message>
         <location filename="../../qttools/src/linguist/shared/po.cpp" line="+893"/>
         <source>GNU Gettext localization files</source>
-        <translation type="unfinished"></translation>
+        <translation>GNU Gettext-lokalanpassningsfiler</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>GNU Gettext localization template files</source>
-        <translation type="unfinished"></translation>
+        <translation>GNU Gettext lokalanpassningsmallfiler</translation>
     </message>
     <message>
         <location filename="../../qttools/src/linguist/shared/qm.cpp" line="+740"/>
         <source>Compiled Qt translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Kompilerade Qt-översättningar</translation>
     </message>
     <message>
         <location filename="../../qttools/src/linguist/shared/qph.cpp" line="+180"/>
         <source>Qt Linguist &apos;Phrase Book&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt Linguist &apos;ordbok&apos;</translation>
     </message>
     <message>
         <location filename="../../qttools/src/linguist/shared/ts.cpp" line="+689"/>
         <source>Qt translation sources</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt-översättningskällor</translation>
     </message>
     <message>
         <location filename="../../qttools/src/linguist/shared/xliff.cpp" line="+838"/>
         <source>XLIFF localization files</source>
-        <translation type="unfinished"></translation>
+        <translation>XLIFF lokalanpassningsfiler</translation>
     </message>
 </context>
 <context>
     <name>FindDialog</name>
     <message>
-        <location filename="../../qttools/src/linguist/linguist/finddialog.ui"/>
         <source>Find</source>
         <translation>Sök</translation>
     </message>
     <message>
-        <location/>
         <source>This window allows you to search for some text in the translation source file.</source>
         <translation>Detta fönster låter dig söka efter text i översättningens källfil.</translation>
     </message>
     <message>
-        <location/>
         <source>&amp;Find what:</source>
         <translation>&amp;Sök efter:</translation>
     </message>
     <message>
-        <location/>
         <source>Type in the text to search for.</source>
         <translation>Skriv in text att söka efter.</translation>
     </message>
     <message>
-        <location/>
         <source>Options</source>
         <translation>Alternativ</translation>
     </message>
     <message>
-        <location/>
         <source>Lets you use a Perl-compatible regular expression</source>
         <translation>Låter dig använda en Perl-kompatibel regular expression</translation>
     </message>
     <message>
-        <location/>
         <source>Regular &amp;expression</source>
         <translation>Regular &amp;expression</translation>
     </message>
     <message>
-        <location/>
         <source>Texts such as &apos;TeX&apos; and &apos;tex&apos; are considered as different when checked.</source>
         <translation>Text såsom &quot;TeX&quot; och &quot;tex&quot; betraktas som olika om markerad.</translation>
     </message>
     <message>
-        <location/>
         <source>&amp;Match case</source>
         <translation>Skiftl&amp;ägeskänslig</translation>
     </message>
     <message>
-        <location/>
         <source>Source texts are searched when checked.</source>
         <translation>Källtexter genomsöks vid markering.</translation>
     </message>
     <message>
-        <location/>
         <source>&amp;Source texts</source>
         <translation>&amp;Källtexter</translation>
     </message>
     <message>
-        <location/>
         <source>Obsoleted messages are skipped when checked.</source>
         <translation>Föråldrade meddelanden undantas om markerad.</translation>
     </message>
     <message>
-        <location/>
         <source>Skip &amp;obsolete</source>
         <translation>&amp;Undanta föråldrade</translation>
     </message>
     <message>
-        <location/>
         <source>Comments and contexts are searched when checked.</source>
         <translation>Kommentarer och kontext genomsöks vid markering.</translation>
     </message>
     <message>
-        <location/>
         <source>&amp;Comments</source>
         <translation>K&amp;ommentarer</translation>
     </message>
     <message>
-        <location/>
         <source>Ignore &amp;accelerators</source>
         <translation>Ignorera &amp;acceleratorer</translation>
     </message>
     <message>
-        <location/>
         <source>Translations are searched when checked.</source>
         <translation>Översättningar genomsöks vid markering.</translation>
     </message>
     <message>
-        <location/>
         <source>&amp;Translations</source>
         <translation>&amp;Översättningar</translation>
     </message>
     <message>
-        <location/>
         <source>Click here to find the next occurrence of the text you typed in.</source>
         <translation>Klicka här för att hitta nästa förekomst av den text du söker.</translation>
     </message>
     <message>
-        <location/>
         <source>Find Next</source>
         <translation>Sök nästa</translation>
     </message>
     <message>
-        <location/>
         <source>Click here to close this window.</source>
         <translation>Klicka här för att stänga detta fönster.</translation>
     </message>
     <message>
-        <location/>
         <source>Cancel</source>
         <translation>Avbryt</translation>
     </message>
@@ -407,819 +373,665 @@ Kommer att anta en enskild universell form.</translation>
     <message numerus="yes">
         <location filename="../../qttools/src/linguist/shared/qm.cpp" line="-29"/>
         <source>Dropped %n message(s) which had no ID.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Släppte %n meddelande som inte har något id.</numerusform>
+            <numerusform>Släppte %n meddelanden som inte har något id.</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location line="+4"/>
         <source>Excess context/disambiguation dropped from %n message(s).</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>För många kontext/särskiljning släpptes från %n meddelande.</numerusform>
+            <numerusform>För många kontext/särskiljning släpptes från %n meddelanden.</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location line="+9"/>
         <source>    Generated %n translation(s) (%1 finished and %2 unfinished)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>    Genererade %n översättning (%1 slutförda och %2 oavslutade)</numerusform>
+            <numerusform>    Genererade %n översättningar (%1 slutförda och %2 oavslutade)</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location line="+4"/>
         <source>    Ignored %n untranslated source text(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>    Ignorerade %n oavslutad källtext</numerusform>
+            <numerusform>    Ignorerade %n oavslutade källtexter</numerusform>
         </translation>
     </message>
 </context>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../../qttools/src/linguist/linguist/mainwindow.ui"/>
         <source>MainWindow</source>
         <translation>Huvudfönster</translation>
     </message>
     <message>
-        <location/>
         <source>&amp;Phrases</source>
         <translation>&amp;Fraser</translation>
     </message>
     <message>
-        <location/>
         <source>&amp;Close Phrase Book</source>
         <translation>&amp;Stäng ordbok</translation>
     </message>
     <message>
-        <location/>
         <source>&amp;Edit Phrase Book</source>
         <translation>&amp;Redigera ordbok</translation>
     </message>
     <message>
-        <location/>
         <source>&amp;Print Phrase Book</source>
         <translation>S&amp;kriv ut ordbok</translation>
     </message>
     <message>
-        <location/>
         <source>V&amp;alidation</source>
         <translation>Va&amp;lidering</translation>
     </message>
     <message>
-        <location/>
         <source>&amp;View</source>
         <translation>&amp;Visa</translation>
     </message>
     <message>
-        <location/>
         <source>Vie&amp;ws</source>
         <translation>V&amp;yer</translation>
     </message>
     <message>
-        <location/>
         <source>&amp;Toolbars</source>
         <translation>V&amp;erktygsfält</translation>
     </message>
     <message>
-        <location/>
         <source>&amp;Zoom</source>
         <translation>&amp;Zoom</translation>
     </message>
     <message>
-        <location/>
         <source>Guesses</source>
         <translation>Gissningar</translation>
     </message>
     <message>
-        <location/>
         <source>&amp;Help</source>
         <translation>&amp;Hjälp</translation>
     </message>
     <message>
-        <location/>
         <source>&amp;Translation</source>
         <translation>&amp;Översättning</translation>
     </message>
     <message>
-        <location/>
         <source>&amp;File</source>
         <translation>&amp;Arkiv</translation>
     </message>
     <message>
-        <location/>
         <source>Recently Opened &amp;Files</source>
         <translation>Tidigare öppnade &amp;filer</translation>
     </message>
     <message>
-        <location/>
         <source>&amp;Edit</source>
         <translation>&amp;Redigera</translation>
     </message>
     <message>
-        <location/>
         <source>&amp;Open...</source>
         <translation>&amp;Öppna...</translation>
     </message>
     <message>
-        <location/>
         <source>Open a Qt translation source file (TS file) for editing</source>
         <translation>Öppna en Qt översättningsfil (TS-fil) för redigering</translation>
     </message>
     <message>
-        <location/>
         <source>Ctrl+O</source>
         <translation>Ctrl+O</translation>
     </message>
     <message>
-        <location/>
         <source>E&amp;xit</source>
         <translation>A&amp;vsluta</translation>
     </message>
     <message>
-        <location/>
         <source>Close this window and exit.</source>
         <translation>Stäng detta fönster och avsluta.</translation>
     </message>
     <message>
-        <location/>
         <source>Ctrl+Q</source>
         <translation>Ctrl+Q</translation>
     </message>
     <message>
-        <location/>
         <source>Save</source>
         <translation>Spara</translation>
     </message>
     <message>
-        <location/>
         <source>Save changes made to this Qt translation source file</source>
         <translation>Spara ändringar gjorda i denna Qt översättningsfil</translation>
     </message>
     <message>
-        <location/>
         <location filename="../../qttools/src/linguist/linguist/mainwindow.cpp" line="+705"/>
         <location line="+11"/>
         <source>Save &amp;As...</source>
         <translation>S&amp;para som...</translation>
     </message>
     <message>
-        <location/>
         <source>Save As...</source>
         <translation>Spara som...</translation>
     </message>
     <message>
-        <location/>
         <source>Save changes made to this Qt translation source file into a new file.</source>
         <translation>Spara ändringar gjorda i denna Qt översättningsfil, i en ny fil.</translation>
     </message>
     <message>
-        <location/>
         <location filename="../../qttools/src/linguist/linguist/mainwindow.cpp" line="-1236"/>
         <location line="+1226"/>
         <source>Release</source>
         <translation>Kompilera</translation>
     </message>
     <message>
-        <location/>
         <source>Create a Qt message file suitable for released applications from the current message file.</source>
         <translation>Skapa en QT meddelandefil, passande för publicerade program, från den aktuella meddelandefilen.</translation>
     </message>
     <message>
-        <location/>
         <source>&amp;Print...</source>
         <translation>Skriv &amp;ut...</translation>
     </message>
     <message>
-        <location/>
         <source>Print a list of all the translation units in the current translation source file.</source>
         <translation>Skriv ut en lista med alla översättningsposter i den aktuella översättningsfilen.</translation>
     </message>
     <message>
-        <location/>
         <source>Ctrl+P</source>
         <translation>Ctrl+P</translation>
     </message>
     <message>
-        <location/>
         <source>&amp;Undo</source>
         <translation>&amp;Ångra</translation>
     </message>
     <message>
-        <location/>
         <source>Undo the last editing operation performed on the current translation.</source>
         <translation>Ångra den senaste redigeringen av aktuell översättningspost.</translation>
     </message>
     <message>
-        <location/>
         <source>Ctrl+Z</source>
         <translation>Ctrl+Z</translation>
     </message>
     <message>
-        <location/>
         <source>&amp;Redo</source>
         <translation>&amp;Upprepa</translation>
     </message>
     <message>
-        <location/>
         <source>Redo an undone editing operation performed on the translation.</source>
         <translation>Upprepa en ångrad redigering i översättningen.</translation>
     </message>
     <message>
-        <location/>
         <source>Ctrl+Y</source>
         <translation>Ctrl+Y</translation>
     </message>
     <message>
-        <location/>
         <source>Cu&amp;t</source>
         <translation>Kli&amp;pp ut</translation>
     </message>
     <message>
-        <location/>
         <source>Copy the selected translation text to the clipboard and deletes it.</source>
         <translation>Kopiera markerad översättningstext till urklipp och tar bort den.</translation>
     </message>
     <message>
-        <location/>
         <source>Ctrl+X</source>
         <translation>Ctrl+X</translation>
     </message>
     <message>
-        <location/>
         <source>&amp;Copy</source>
         <translation>K&amp;opiera</translation>
     </message>
     <message>
-        <location/>
         <source>Copy the selected translation text to the clipboard.</source>
         <translation>Kopiera markerad översättningstext till urklipp.</translation>
     </message>
     <message>
-        <location/>
         <source>Ctrl+C</source>
         <translation>Ctrl+C</translation>
     </message>
     <message>
-        <location/>
         <source>&amp;Paste</source>
         <translation>&amp;Klistra in</translation>
     </message>
     <message>
-        <location/>
         <source>Paste the clipboard text into the translation.</source>
         <translation>Klistra in urklippstext i översättningen.</translation>
     </message>
     <message>
-        <location/>
         <source>Ctrl+V</source>
         <translation>Ctrl+V</translation>
     </message>
     <message>
-        <location/>
         <source>Select &amp;All</source>
         <translation>&amp;Markera allt</translation>
     </message>
     <message>
-        <location/>
         <source>Select the whole translation text.</source>
         <translation>Markera hela översättningstexten.</translation>
     </message>
     <message>
-        <location/>
         <source>Ctrl+A</source>
         <translation>Ctrl+A</translation>
     </message>
     <message>
-        <location/>
         <source>&amp;Find...</source>
         <translation>&amp;Sök...</translation>
     </message>
     <message>
-        <location/>
         <source>Search for some text in the translation source file.</source>
         <translation>Sök efter text i översättningsfilen.</translation>
     </message>
     <message>
-        <location/>
         <source>Ctrl+F</source>
         <translation>Ctrl+F</translation>
     </message>
     <message>
-        <location/>
         <source>Find &amp;Next</source>
         <translation>Sök &amp;nästa</translation>
     </message>
     <message>
-        <location/>
         <source>Continue the search where it was left.</source>
         <translation>Fortsätt sökningen från senaste träff.</translation>
     </message>
     <message>
-        <location/>
         <source>F3</source>
         <translation>F3</translation>
     </message>
     <message>
-        <location/>
         <source>&amp;Prev Unfinished</source>
         <translation>&amp;Föregående oavslutade</translation>
     </message>
     <message>
-        <location/>
         <source>Previous unfinished item</source>
         <translation>Föregående oavslutade post</translation>
     </message>
     <message>
-        <location/>
         <source>Move to the previous unfinished item.</source>
         <translation>Flytta till föregående oavslutade post.</translation>
     </message>
     <message>
-        <location/>
         <source>Ctrl+K</source>
         <translation>Ctrl+K</translation>
     </message>
     <message>
-        <location/>
         <source>&amp;Next Unfinished</source>
         <translation>&amp;Nästa oavslutade</translation>
     </message>
     <message>
-        <location/>
         <source>Next unfinished item</source>
         <translation>Nästa oavslutade post</translation>
     </message>
     <message>
-        <location/>
         <source>Move to the next unfinished item.</source>
         <translation>Flytta till nästa oavslutade post.</translation>
     </message>
     <message>
-        <location/>
         <source>Ctrl+J</source>
         <translation>Ctrl+J</translation>
     </message>
     <message>
-        <location/>
         <source>P&amp;rev</source>
         <translation>F&amp;öregående</translation>
     </message>
     <message>
-        <location/>
         <source>Move to previous item</source>
         <translation>Flytta till föregående post</translation>
     </message>
     <message>
-        <location/>
         <source>Move to the previous item.</source>
         <translation>Flytta till föregående post.</translation>
     </message>
     <message>
-        <location/>
         <source>Ctrl+Shift+K</source>
         <translation>Ctrl+Shift+K</translation>
     </message>
     <message>
-        <location/>
         <source>Ne&amp;xt</source>
         <translation>N&amp;ästa</translation>
     </message>
     <message>
-        <location/>
         <source>Next item</source>
         <translation>Nästa post</translation>
     </message>
     <message>
-        <location/>
         <source>Move to the next item.</source>
         <translation>Flytta till nästa post.</translation>
     </message>
     <message>
-        <location/>
         <source>Ctrl+Shift+J</source>
         <translation>Ctrl+Shift+J</translation>
     </message>
     <message>
-        <location/>
         <source>&amp;Done and Next</source>
         <translation>&amp;Slutför och nästa</translation>
     </message>
     <message>
-        <location/>
         <source>Mark item as done and move to the next unfinished item</source>
         <translation>Markera posten som slutförd och fortsätt till nästa oavslutade post</translation>
     </message>
     <message>
-        <location/>
         <source>Mark this item as done and move to the next unfinished item.</source>
         <translation>Markera denna post som slutförd och fortsätt till nästa oavslutade post.</translation>
     </message>
     <message>
-        <location/>
         <source>Copy from source text</source>
         <translation>Kopiera från källtext</translation>
     </message>
     <message>
-        <location/>
         <source>Copies the source text into the translation field</source>
         <translation>Kopiera källtexten till översättningsfältet</translation>
     </message>
     <message>
-        <location/>
         <source>Copies the source text into the translation field.</source>
         <translation>Kopiera källtexten till översättningsfältet.</translation>
     </message>
     <message>
-        <location/>
         <source>Ctrl+B</source>
         <translation>Ctrl+B</translation>
     </message>
     <message>
-        <location/>
         <source>&amp;Accelerators</source>
         <translation>&amp;Acceleratorer</translation>
     </message>
     <message>
-        <location/>
         <source>Toggles the validity check of accelerators, i.e. whether the number of ampersands in the source and translation text is the same. If the check fails, a message is shown in the warnings window.</source>
         <translation>Validering av acceleratorer, t.ex. om antalet et-tecken i käll- och översättningstexten är desamma. Om kontrollen misslyckas visas ett meddelande i varningsfönstret.</translation>
     </message>
     <message>
-        <location/>
         <source>Surrounding &amp;Whitespace</source>
         <translation>&amp;Omgivande blanksteg</translation>
     </message>
     <message>
-        <location/>
         <source>Toggles the validity check of surrounding whitespace.</source>
         <translation>Validering av omgivande blanksteg.</translation>
     </message>
     <message>
-        <location/>
         <source>Toggles the validity check of surrounding whitespace. If the check fails, a message is shown in the warnings window.</source>
         <translation>Validering av omgivande blanksteg. Om kontrollen misslyckas visas ett meddelande i varningsfönstret.</translation>
     </message>
     <message>
-        <location/>
         <source>&amp;Ending Punctuation</source>
         <translation>A&amp;vslutande skiljetecken</translation>
     </message>
     <message>
-        <location/>
         <source>Toggles the validity check of ending punctuation</source>
         <translation>Validering av avslutande skiljetecken</translation>
     </message>
     <message>
-        <location/>
         <source>Toggles the validity check of ending punctuation. If the check fails, a message is shown in the warnings window.</source>
         <translation>Validering av avslutande skiljetecken. Om kontrollen misslyckas visas ett meddelande i varningsfönstret.</translation>
     </message>
     <message>
-        <location/>
         <source>&amp;Phrase matches</source>
         <translation>&amp;Frasmatchning</translation>
     </message>
     <message>
-        <location/>
         <source>Toggles checking that phrase suggestions are used</source>
         <translation>Kontrollera om frasförslag används</translation>
     </message>
     <message>
-        <location/>
         <source>Toggles checking that phrase suggestions are used. If the check fails, a message is shown in the warnings window.</source>
         <translation>Kontrollera om frasförslag används. Om kontrollen misslyckas visas ett meddelande i varningsfönstret.</translation>
     </message>
     <message>
-        <location/>
         <source>Place &amp;Marker Matches</source>
         <translation>&amp;Platsmarkörmatchning</translation>
     </message>
     <message>
-        <location/>
         <source>Toggles the validity check of place markers</source>
         <translation>Validering av platsmarkörer</translation>
     </message>
     <message>
-        <location/>
         <source>Toggles the validity check of place markers, i.e. whether %1, %2, ... are used consistently in the source text and translation text. If the check fails, a message is shown in the warnings window.</source>
         <translation>Validering av platsmarkörer, t.ex. om %1, %2, o.s.v, används genomgående i källtext och översättningstext. Om kontrollen misslyckas, visas ett meddelande i varningsfönstret.</translation>
     </message>
     <message>
-        <location/>
         <source>&amp;New Phrase Book...</source>
         <translation>&amp;Ny ordbok...</translation>
     </message>
     <message>
-        <location/>
         <source>Create a new phrase book.</source>
         <translation>Skapa ny ordbok.</translation>
     </message>
     <message>
-        <location/>
         <source>Ctrl+N</source>
         <translation>Ctrl+N</translation>
     </message>
     <message>
-        <location/>
         <source>&amp;Open Phrase Book...</source>
         <translation>&amp;Öppna ordbok...</translation>
     </message>
     <message>
-        <location/>
         <source>Open a phrase book to assist translation.</source>
         <translation>Öppna en ordbok för att assistera översättningen.</translation>
     </message>
     <message>
-        <location/>
         <source>Ctrl+H</source>
         <translation>Ctrl+H</translation>
     </message>
     <message>
-        <location/>
         <source>&amp;Reset Sorting</source>
         <translation>&amp;Återställ sortering</translation>
     </message>
     <message>
-        <location/>
         <source>Sort the items back in the same order as in the message file.</source>
         <translation>Sortera tillbaka objekten till samma ordning som i meddelandefilen.</translation>
     </message>
     <message>
-        <location/>
         <source>&amp;Display guesses</source>
         <translation>Visa &amp;gissningar</translation>
     </message>
     <message>
-        <location/>
         <source>Set whether or not to display translation guesses.</source>
         <translation>Ange om gissningar skall visas eller inte.</translation>
     </message>
     <message>
-        <location/>
         <source>&amp;Statistics</source>
         <translation>&amp;Statistik</translation>
     </message>
     <message>
-        <location/>
         <source>Display translation statistics.</source>
         <translation>Visa översättningsstatistik.</translation>
     </message>
     <message>
-        <location/>
         <source>&amp;Manual</source>
         <translation>&amp;Manual</translation>
     </message>
     <message>
-        <location/>
         <source>F1</source>
         <translation>F1</translation>
     </message>
     <message>
-        <location/>
         <source>About Qt Linguist</source>
         <translation>Om Qt Linguist</translation>
     </message>
     <message>
-        <location/>
         <source>About Qt</source>
         <translation>Om Qt</translation>
     </message>
     <message>
-        <location/>
         <source>Display information about the Qt toolkit by Digia.</source>
         <translation>Visa information om Qt toolkit av Digia.</translation>
     </message>
     <message>
-        <location/>
         <source>&amp;What&apos;s This?</source>
         <translation>&amp;Vad är detta?</translation>
     </message>
     <message>
-        <location/>
         <source>What&apos;s This?</source>
         <translation>Vad är detta?</translation>
     </message>
     <message>
-        <location/>
         <source>Enter What&apos;s This? mode.</source>
         <translation>Gå in i &quot;Vad är detta?&quot;-läget.</translation>
     </message>
     <message>
-        <location/>
         <source>Shift+F1</source>
         <translation>Shift+F1</translation>
     </message>
     <message>
-        <location/>
         <source>&amp;Search And Translate...</source>
         <translation>&amp;Sök och översätt...</translation>
     </message>
     <message>
-        <location/>
         <source>Replace the translation on all entries that matches the search source text.</source>
         <translation>Ersätt översättningen i alla poster som matchar sökningens källtext.</translation>
     </message>
     <message>
-        <location/>
         <location filename="../../qttools/src/linguist/linguist/mainwindow.cpp" line="+35"/>
         <source>&amp;Batch Translation...</source>
         <translation>M&amp;ängdöversättning...</translation>
     </message>
     <message>
-        <location/>
         <source>Batch translate all entries using the information in the phrase books.</source>
         <translation>Mängdöversätt alla poster med hjälp av informationen i ordböckerna.</translation>
     </message>
     <message>
-        <location/>
         <location filename="../../qttools/src/linguist/linguist/mainwindow.cpp" line="-34"/>
         <location line="+10"/>
         <source>Release As...</source>
         <translation>Kompilera som...</translation>
     </message>
     <message>
-        <location/>
         <source>Create a Qt message file suitable for released applications from the current message file. The filename will automatically be determined from the name of the TS file.</source>
         <translation>Skapa en QT meddelandefil, passande för publicerade program, från den aktuella meddelandefilen. Filnamnet hämtas automatiskt från namnet på TS-filen.</translation>
     </message>
     <message>
-        <location/>
         <location filename="../../qttools/src/linguist/linguist/mainwindow.cpp" line="+76"/>
         <source>File</source>
         <translation>Arkiv</translation>
     </message>
     <message>
-        <location/>
         <location filename="../../qttools/src/linguist/linguist/mainwindow.cpp" line="+7"/>
         <source>Edit</source>
         <translation>Redigera</translation>
     </message>
     <message>
-        <location/>
         <location filename="../../qttools/src/linguist/linguist/mainwindow.cpp" line="+6"/>
         <source>Translation</source>
         <translation>Översättning</translation>
     </message>
     <message>
-        <location/>
         <location filename="../../qttools/src/linguist/linguist/mainwindow.cpp" line="+6"/>
         <source>Validation</source>
         <translation>Validering</translation>
     </message>
     <message>
-        <location/>
         <location filename="../../qttools/src/linguist/linguist/mainwindow.cpp" line="+7"/>
         <source>Help</source>
         <translation>Hjälp</translation>
     </message>
     <message>
-        <location/>
         <source>Open/Refresh Form &amp;Preview</source>
         <translation>Öppna/Uppdatera form&amp;granskning</translation>
     </message>
     <message>
-        <location/>
         <source>Form Preview Tool</source>
         <translation>Formgranskningsverktyg</translation>
     </message>
     <message>
-        <location/>
         <source>F5</source>
         <translation>F5</translation>
     </message>
     <message>
-        <location/>
         <location filename="../../qttools/src/linguist/linguist/mainwindow.cpp" line="-79"/>
         <source>Translation File &amp;Settings...</source>
         <translation>&amp;Översättningsfilens inställningar...</translation>
     </message>
     <message>
-        <location/>
         <source>&amp;Add to Phrase Book</source>
         <translation>&amp;Lägg till i ordbok</translation>
     </message>
     <message>
-        <location/>
         <source>Ctrl+T</source>
         <translation>Ctrl+T</translation>
     </message>
     <message>
-        <location/>
         <source>Open Read-O&amp;nly...</source>
         <translation>Öppna &amp;med skrivskydd...</translation>
     </message>
     <message>
-        <location/>
         <source>&amp;Save All</source>
         <translation>&amp;Spara alla</translation>
     </message>
     <message>
-        <location/>
         <source>Ctrl+S</source>
         <translation>Ctrl+S</translation>
     </message>
     <message>
-        <location/>
         <location filename="../../qttools/src/linguist/linguist/mainwindow.cpp" line="-28"/>
         <source>&amp;Release All</source>
         <translation>&amp;Kompilera alla</translation>
     </message>
     <message>
-        <location/>
         <source>Close</source>
         <translation>Stäng</translation>
     </message>
     <message>
-        <location/>
         <source>&amp;Close All</source>
         <translation>St&amp;äng alla</translation>
     </message>
     <message>
-        <location/>
         <source>Ctrl+W</source>
         <translation>Ctrl+W</translation>
     </message>
     <message>
-        <location/>
         <source>Length Variants</source>
         <translation>Längdvarianter</translation>
     </message>
     <message>
-        <location/>
         <source>Visualize whitespace</source>
         <translation>Visualisera blanksteg</translation>
     </message>
     <message>
-        <location/>
         <source>Increase</source>
         <translation>Öka</translation>
     </message>
     <message>
-        <location/>
         <source>Ctrl++</source>
         <translation>Ctrl++</translation>
     </message>
     <message>
-        <location/>
         <source>Decrease</source>
         <translation>Minska</translation>
     </message>
     <message>
-        <location/>
         <source>Ctrl+-</source>
         <translation>Ctrl+-</translation>
     </message>
     <message>
-        <location/>
         <source>Reset to default</source>
         <translation>Återställ standard</translation>
     </message>
     <message>
-        <location/>
         <source>Ctrl+0</source>
         <translation>Ctrl+0</translation>
     </message>
     <message>
-        <location/>
         <source>Show more</source>
         <translation>Visa mer</translation>
     </message>
     <message>
-        <location/>
         <source>Alt++</source>
         <translation>Alt++</translation>
     </message>
     <message>
-        <location/>
         <source>Show fewer</source>
         <translation>Visa mindre</translation>
     </message>
     <message>
-        <location/>
         <source>Alt+-</source>
         <translation>Alt+-</translation>
     </message>
     <message>
-        <location/>
         <source>Alt+0</source>
         <translation>Alt+0</translation>
     </message>
     <message>
-        <location/>
         <source>D&amp;one</source>
         <translation>Sl&amp;utför</translation>
     </message>
     <message>
-        <location/>
         <source>Mark item as done</source>
         <translation>Markera objekt som slutfört</translation>
     </message>
     <message>
-        <location/>
         <source>Mark this item as done.</source>
         <translation>Markera detta objekt som slutfört.</translation>
     </message>
@@ -1516,7 +1328,7 @@ Alla filer (*)</translation>
     <message>
         <location line="+2"/>
         <source>Copyright (C) %1 The Qt Company Ltd.</source>
-        <translation type="unfinished"></translation>
+        <translation>Copyright (C) %1 The Qt Company Ltd.</translation>
     </message>
     <message>
         <location line="+37"/>
@@ -1685,12 +1497,10 @@ Alla filer (*)</translation>
         <translation>Alla</translation>
     </message>
     <message>
-        <location filename="../../qttools/src/linguist/linguist/mainwindow.ui"/>
         <source>Toggles the validity check of accelerators</source>
         <translation>Växlar giltighetskontroll för acceleratorer</translation>
     </message>
     <message>
-        <location/>
         <source>Toggles visualize whitespace in editors</source>
         <translation>Växlar visualisera blanksteg i redigerare</translation>
     </message>
@@ -1820,87 +1630,70 @@ Rad: %2</translation>
 <context>
     <name>PhraseBookBox</name>
     <message>
-        <location filename="../../qttools/src/linguist/linguist/phrasebookbox.ui"/>
         <source>Edit Phrase Book</source>
         <translation>Redigera ordbok</translation>
     </message>
     <message>
-        <location/>
         <source>This window allows you to add, modify, or delete entries in a phrase book.</source>
         <translation>Detta fönster låter dig lägga till, ändra eller ta bort poster i en ordbok.</translation>
     </message>
     <message>
-        <location/>
         <source>&amp;Translation:</source>
         <translation>&amp;Översättning:</translation>
     </message>
     <message>
-        <location/>
         <source>This is the phrase in the target language corresponding to the source phrase.</source>
         <translation>Detta är den fras på målspråket som motsvarar källfrasen.</translation>
     </message>
     <message>
-        <location/>
         <source>S&amp;ource phrase:</source>
         <translation>&amp;Källfras:</translation>
     </message>
     <message>
-        <location/>
         <source>This is a definition for the source phrase.</source>
         <translation>Detta är en definition på källfrasen.</translation>
     </message>
     <message>
-        <location/>
         <source>This is the phrase in the source language.</source>
         <translation>Detta är en fras på källspråket.</translation>
     </message>
     <message>
-        <location/>
         <source>&amp;Definition:</source>
         <translation>&amp;Definition:</translation>
     </message>
     <message>
-        <location/>
         <source>Click here to add the phrase to the phrase book.</source>
         <translation>Klicka här för att lägga till frasen i ordboken.</translation>
     </message>
     <message>
-        <location/>
         <source>&amp;New Entry</source>
         <translation>&amp;Ny post</translation>
     </message>
     <message>
-        <location/>
         <source>Click here to remove the entry from the phrase book.</source>
         <translation>Klicka här för att ta bort posten från ordboken.</translation>
     </message>
     <message>
-        <location/>
         <source>&amp;Remove Entry</source>
         <translation>&amp;Ta bort post</translation>
     </message>
     <message>
-        <location/>
         <source>Settin&amp;gs...</source>
         <translation>&amp;Inställningar...</translation>
     </message>
     <message>
-        <location/>
         <source>Click here to save the changes made.</source>
         <translation>Klicka här för att spara utförda ändringar.</translation>
     </message>
     <message>
-        <location/>
         <source>&amp;Save</source>
         <translation>&amp;Spara</translation>
     </message>
     <message>
-        <location/>
         <source>Click here to close this window.</source>
         <translation>Klicka här för att stänga detta fönster.</translation>
     </message>
     <message>
-        <location/>
         <source>Close</source>
         <translation>Stäng</translation>
     </message>
@@ -2022,42 +1815,34 @@ Rad: %2</translation>
 <context>
     <name>Statistics</name>
     <message>
-        <location filename="../../qttools/src/linguist/linguist/statistics.ui"/>
         <source>Statistics</source>
         <translation>Statistik</translation>
     </message>
     <message>
-        <location/>
         <source>Close</source>
         <translation>Stäng</translation>
     </message>
     <message>
-        <location/>
         <source>Translation</source>
         <translation>Översättning</translation>
     </message>
     <message>
-        <location/>
         <source>Source</source>
         <translation>Källa</translation>
     </message>
     <message>
-        <location/>
         <source>0</source>
         <translation>0</translation>
     </message>
     <message>
-        <location/>
         <source>Words:</source>
         <translation>Ord:</translation>
     </message>
     <message>
-        <location/>
         <source>Characters:</source>
         <translation>Tecken:</translation>
     </message>
     <message>
-        <location/>
         <source>Characters (with spaces):</source>
         <translation>Tecken (inkl. blanksteg):</translation>
     </message>
@@ -2093,72 +1878,58 @@ Rad: %2</translation>
 <context>
     <name>TranslateDialog</name>
     <message>
-        <location filename="../../qttools/src/linguist/linguist/translatedialog.ui"/>
         <source>This window allows you to search for some text in the translation source file.</source>
         <translation>Detta fönster låter dig söka efter text översättningsfilen.</translation>
     </message>
     <message>
-        <location/>
         <source>Type in the text to search for.</source>
         <translation>Skriv in text att söka efter.</translation>
     </message>
     <message>
-        <location/>
         <source>Find &amp;source text:</source>
         <translation>Sök &amp;källtext:</translation>
     </message>
     <message>
-        <location/>
         <source>&amp;Translate to:</source>
         <translation>&amp;Översätt till:</translation>
     </message>
     <message>
-        <location/>
         <source>Search options</source>
         <translation>Sökalternativ</translation>
     </message>
     <message>
-        <location/>
         <source>Texts such as &apos;TeX&apos; and &apos;tex&apos; are considered as different when checked.</source>
         <translation>Texter som &quot;TeX&quot; och &quot;tex&quot; betraktas som olika när detta är markerat.</translation>
     </message>
     <message>
-        <location/>
         <source>Match &amp;case</source>
         <translation>Skift&amp;lägeskänslig</translation>
     </message>
     <message>
-        <location/>
         <source>Mark new translation as &amp;finished</source>
         <translation>Markera ny översättning som sl&amp;utförd</translation>
     </message>
     <message>
-        <location/>
         <source>Click here to find the next occurrence of the text you typed in.</source>
         <translation>Klicka här för att hitta nästa förekomst av den text du söker.</translation>
     </message>
     <message>
-        <location/>
         <source>Find Next</source>
         <translation>Sök nästa</translation>
     </message>
     <message>
-        <location/>
         <source>Translate</source>
         <translation>Översätt</translation>
     </message>
     <message>
-        <location/>
         <source>Translate All</source>
         <translation>Översätt alla</translation>
     </message>
     <message>
-        <location/>
         <source>Click here to close this window.</source>
         <translation>Klicka här för att stänga detta fönster.</translation>
     </message>
     <message>
-        <location/>
         <source>Cancel</source>
         <translation>Avbryt</translation>
     </message>
@@ -2166,22 +1937,18 @@ Rad: %2</translation>
 <context>
     <name>TranslationSettingsDialog</name>
     <message>
-        <location filename="../../qttools/src/linguist/linguist/translationsettings.ui"/>
         <source>Source language</source>
         <translation>Källspråk</translation>
     </message>
     <message>
-        <location/>
         <source>Language</source>
         <translation>Språk</translation>
     </message>
     <message>
-        <location/>
         <source>Country/Region</source>
         <translation>Land/Region</translation>
     </message>
     <message>
-        <location/>
         <source>Target language</source>
         <translation>Målspråk</translation>
     </message>
@@ -2201,7 +1968,7 @@ Rad: %2</translation>
     <message>
         <location line="+20"/>
         <source>Any Country</source>
-        <translation type="unfinished"></translation>
+        <translation>Valfritt land</translation>
     </message>
     <message>
         <source>Any Territory</source>
