@@ -45,9 +45,7 @@ Updating 'qt_help_sv.qm'...
     
 Updating 'qtlocation_sv.qm'...
 
-    Genererade 335 översättningar (335 slutförda och 0 oavslutade)
-    
-    Ignorerade 3 oöversatta källtexter
+    Genererade 338 översättningar (338 slutförda och 0 oavslutade)
 
     
 Updating 'qtmultimedia_sv.qm'...
