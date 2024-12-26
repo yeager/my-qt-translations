@@ -3326,7 +3326,7 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Left margin</source>
-        <translation type="unfinished"></translation>
+        <translation>Vänstermarginal</translation>
     </message>
     <message>
         <source>Sets an additional left margin in the flickable area.</source>
@@ -3649,7 +3649,7 @@ The foreground component should be transparent, and the background component sho
     <name>GeometrySection</name>
     <message>
         <source>Geometry - 2D</source>
-        <translation type="unfinished"></translation>
+        <translation>Geometri - 2D</translation>
     </message>
     <message>
         <source>This property is defined by an anchor or a layout.</source>
@@ -3665,11 +3665,11 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>X-coordinate</source>
-        <translation type="unfinished"></translation>
+        <translation>X-koordinat</translation>
     </message>
     <message>
         <source>Y-coordinate</source>
-        <translation type="unfinished"></translation>
+        <translation>Y-koordinat</translation>
     </message>
     <message>
         <source>Size</source>
@@ -3701,7 +3701,7 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotering</translation>
     </message>
     <message>
         <source>Rotate the component at an angle.</source>
@@ -3709,7 +3709,7 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Angle (in degree)</source>
-        <translation type="unfinished"></translation>
+        <translation>Vinkel (i grader)</translation>
     </message>
     <message>
         <source>Scale</source>
@@ -3721,7 +3721,7 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Percentage</source>
-        <translation type="unfinished"></translation>
+        <translation>Procentdel</translation>
     </message>
     <message>
         <source>Z stack</source>
@@ -30107,63 +30107,63 @@ Rebuilding the project might help.</source>
     <name>QtC::EmacsKeys</name>
     <message>
         <source>Delete Character</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort tecken</translation>
     </message>
     <message>
         <source>Kill Word</source>
-        <translation type="unfinished"></translation>
+        <translation>Döda ord</translation>
     </message>
     <message>
         <source>Kill Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Döda rad</translation>
     </message>
     <message>
         <source>Insert New Line and Indent</source>
-        <translation type="unfinished"></translation>
+        <translation>Infoga ny rad och dra in</translation>
     </message>
     <message>
         <source>Go to File Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå till filstart</translation>
     </message>
     <message>
         <source>Go to File End</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå till filslut</translation>
     </message>
     <message>
         <source>Go to Line Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå till radstart</translation>
     </message>
     <message>
         <source>Go to Line End</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå till radslut</translation>
     </message>
     <message>
         <source>Go to Next Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå till nästa rad</translation>
     </message>
     <message>
         <source>Go to Previous Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå till föregående rad</translation>
     </message>
     <message>
         <source>Go to Next Character</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå till nästa tecken</translation>
     </message>
     <message>
         <source>Go to Previous Character</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå till föregående tecken</translation>
     </message>
     <message>
         <source>Go to Next Word</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå till nästa ord</translation>
     </message>
     <message>
         <source>Go to Previous Word</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå till föregående ord</translation>
     </message>
     <message>
         <source>Mark</source>
-        <translation type="unfinished"></translation>
+        <translation>Markera</translation>
     </message>
     <message>
         <source>Exchange Cursor and Mark</source>
@@ -30179,15 +30179,15 @@ Rebuilding the project might help.</source>
     </message>
     <message>
         <source>Yank</source>
-        <translation type="unfinished"></translation>
+        <translation>Yank</translation>
     </message>
     <message>
         <source>Scroll Half Screen Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Rulla halva skärmen ner</translation>
     </message>
     <message>
         <source>Scroll Half Screen Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Rulla halva skärmen upp</translation>
     </message>
 </context>
 <context>
@@ -51967,51 +51967,51 @@ Row: %4, Column: %5
     <name>QtC::SerialTerminal</name>
     <message>
         <source>Unable to open port %1: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte öppna port %1: %2.</translation>
     </message>
     <message>
         <source>Session resumed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sessionen återupptagen.</translation>
     </message>
     <message>
         <source>Starting new session on %1...</source>
-        <translation type="unfinished"></translation>
+        <translation>Startar ny session på %1...</translation>
     </message>
     <message>
         <source>Session finished on %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sessionen färdig på %1.</translation>
     </message>
     <message>
         <source>Session paused...</source>
-        <translation type="unfinished"></translation>
+        <translation>Sessionen pausad...</translation>
     </message>
     <message>
         <source>No Port</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen port</translation>
     </message>
     <message>
         <source>Serial port error: %1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Serieportsfel: %1 (%2)</translation>
     </message>
     <message>
         <source>Close Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Stäng flik</translation>
     </message>
     <message>
         <source>Close All Tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>Stäng alla flikar</translation>
     </message>
     <message>
         <source>Close Other Tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>Stäng andra flikar</translation>
     </message>
     <message>
         <source>Type text and hit Enter to send.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv text och tryck Enter för att skicka.</translation>
     </message>
     <message>
         <source>Serial Terminal Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Seriell terminal-fönster</translation>
     </message>
     <message>
         <source>Connect</source>
@@ -52019,19 +52019,19 @@ Row: %4, Column: %5
     </message>
     <message>
         <source>Disconnect</source>
-        <translation type="unfinished"></translation>
+        <translation>Koppla från</translation>
     </message>
     <message>
         <source>Reset Board</source>
-        <translation type="unfinished"></translation>
+        <translation>Nollställ bräda</translation>
     </message>
     <message>
         <source>Add New Terminal</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till ny terminal</translation>
     </message>
     <message>
         <source>Serial Terminal</source>
-        <translation type="unfinished"></translation>
+        <translation>Seriell terminal</translation>
     </message>
     <message>
         <source>None</source>
@@ -52040,15 +52040,15 @@ Row: %4, Column: %5
     </message>
     <message>
         <source>LF</source>
-        <translation type="unfinished"></translation>
+        <translation>LF</translation>
     </message>
     <message>
         <source>CR</source>
-        <translation type="unfinished"></translation>
+        <translation>CR</translation>
     </message>
     <message>
         <source>CRLF</source>
-        <translation type="unfinished"></translation>
+        <translation>CRLF</translation>
     </message>
 </context>
 <context>
@@ -56482,7 +56482,7 @@ Influences the indentation of continuation lines.
     <name>QtC::Tracing</name>
     <message>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Markering</translation>
     </message>
     <message>
         <source>Start</source>
@@ -56502,15 +56502,15 @@ Influences the indentation of continuation lines.
     </message>
     <message>
         <source>Jump to previous event.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoppa till föregående händelse.</translation>
     </message>
     <message>
         <source>Jump to next event.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoppa till nästa händelse.</translation>
     </message>
     <message>
         <source>Show zoom slider.</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa zoomdraglisten.</translation>
     </message>
     <message>
         <source>Select range.</source>
@@ -56522,11 +56522,11 @@ Influences the indentation of continuation lines.
     </message>
     <message>
         <source>Collapse category</source>
-        <translation type="unfinished"></translation>
+        <translation>Fäll in kategori</translation>
     </message>
     <message>
         <source>Expand category</source>
-        <translation type="unfinished"></translation>
+        <translation>Fäll ut kategori</translation>
     </message>
     <message>
         <source>others</source>
@@ -56538,31 +56538,31 @@ Influences the indentation of continuation lines.
     </message>
     <message>
         <source>No data available</source>
-        <translation type="unfinished"></translation>
+        <translation>Inget data tillgängligt</translation>
     </message>
     <message>
         <source>Edit note</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera anteckning</translation>
     </message>
     <message>
         <source>Collapse</source>
-        <translation type="unfinished"></translation>
+        <translation>Fäll in</translation>
     </message>
     <message>
         <source>Expand</source>
-        <translation type="unfinished"></translation>
+        <translation>Fäll ut</translation>
     </message>
     <message>
         <source>[unknown]</source>
-        <translation type="unfinished"></translation>
+        <translation>[okänt]</translation>
     </message>
     <message>
         <source>Could not open %1 for writing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte öppna %1 för skrivning.</translation>
     </message>
     <message>
         <source>Could not open %1 for reading.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte öppna %1 för läsning.</translation>
     </message>
     <message>
         <source>Could not re-read events from temporary trace file: %1
@@ -62115,7 +62115,7 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Format</translation>
     </message>
     <message>
         <source>Sets the formatting method of the text.</source>
@@ -62123,7 +62123,7 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>Render type</source>
-        <translation type="unfinished"></translation>
+        <translation>Renderingstyp</translation>
     </message>
     <message>
         <source>Sets the rendering type for this component.</source>
@@ -62151,11 +62151,11 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>Line height mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Radhöjdsläge</translation>
     </message>
     <message>
         <source>Size mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Storleksläge</translation>
     </message>
     <message>
         <source>Min size</source>
@@ -62175,7 +62175,7 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>Max line count</source>
-        <translation type="unfinished"></translation>
+        <translation>Max radantal</translation>
     </message>
 </context>
 <context>
