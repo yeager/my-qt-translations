@@ -83,12 +83,12 @@
     <message>
         <location line="+35"/>
         <source>Missing Location permission. Search is not possible.</source>
-        <translation type="unfinished"></translation>
+        <translation>Saknar Location-behörighet. Sökning inte möjlig.</translation>
     </message>
     <message>
         <location line="+130"/>
         <source>Low Energy Discovery not supported</source>
-        <translation type="unfinished"></translation>
+        <translation>Low Energy Discovery stöds inte</translation>
     </message>
     <message>
         <source>Failed to start device discovery due to missing permissions.</source>
@@ -199,7 +199,7 @@
         <location line="+44"/>
         <location line="+93"/>
         <source>Unable to access device</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte komma åt enhet</translation>
     </message>
     <message>
         <location filename="../../qtconnectivity/src/bluetooth/qbluetoothservicediscoveryagent_android.cpp" line="-397"/>
@@ -1534,7 +1534,7 @@
     <message>
         <location line="+2"/>
         <source>Report Reference</source>
-        <translation type="unfinished"></translation>
+        <translation>Rapportreferens</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -1787,22 +1787,22 @@
     <message>
         <location filename="../../qtconnectivity/src/bluetooth/qbluetoothsocket_win.cpp" line="-371"/>
         <source>Unsupported protocol. Win32 only supports RFCOMM sockets</source>
-        <translation type="unfinished"></translation>
+        <translation>Protokollet stöds inte. Win32 har endast stöd för RFCOMM-uttag</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Failed to create socket</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att skapa uttag</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Socket type not handled: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Uttagstypen inte hanterad: %1</translation>
     </message>
     <message>
         <location line="+90"/>
         <source>Logic error: more bytes sent than passed to ::send</source>
-        <translation type="unfinished"></translation>
+        <translation>Logikfel: mer byte skickade än vad skickat till ::send</translation>
     </message>
 </context>
 <context>
@@ -1886,23 +1886,23 @@
     <message>
         <location filename="../../qtconnectivity/src/bluetooth/qbluetoothtransferreply_bluez.cpp" line="-97"/>
         <source>Unknown Error</source>
-        <translation type="unfinished">Okänt fel</translation>
+        <translation>Okänt fel</translation>
     </message>
     <message>
         <location line="+54"/>
         <location line="+40"/>
         <source>Could not open file for sending</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte öppna filen för sändning</translation>
     </message>
     <message>
         <location line="-37"/>
         <source>The transfer was canceled</source>
-        <translation type="unfinished"></translation>
+        <translation>Överföringen avbröts</translation>
     </message>
     <message>
         <location line="+110"/>
         <source>Operation canceled</source>
-        <translation type="unfinished">Åtgärden avbröts</translation>
+        <translation>Åtgärden avbröts</translation>
     </message>
 </context>
 <context>
