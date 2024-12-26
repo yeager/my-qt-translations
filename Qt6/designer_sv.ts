@@ -685,11 +685,11 @@ Vill du skriva över mallen?</translation>
     </message>
     <message>
         <source>Open Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppningsfel</translation>
     </message>
     <message>
         <source>There was an error opening template %1 for writing. Reason: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Det uppstod ett fel vid öppning av mallen %1 för skrivning. Anledning: %2</translation>
     </message>
     <message>
         <source>Write Error</source>
@@ -697,11 +697,11 @@ Vill du skriva över mallen?</translation>
     </message>
     <message>
         <source>There was an error writing the template %1 to disk. Reason: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Det uppstod ett fel vid skrivning av mallen %1 till disk. Anledning: %2</translation>
     </message>
     <message>
         <source>Pick a directory to save templates in</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en katalog att spara mallar i</translation>
     </message>
 </context>
 <context>
@@ -1962,7 +1962,7 @@ till
     </message>
     <message>
         <source>Cuts the selected widgets and puts them on the clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Klipper ut markerade widgetar och lägger dem i urklipp</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
@@ -1970,7 +1970,7 @@ till
     </message>
     <message>
         <source>Copies the selected widgets to the clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopierar markerade widgetar till urklipp</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
@@ -2026,7 +2026,7 @@ till
     </message>
     <message>
         <source>Lays out the selected widgets horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägger ut markerade widgetar horisontellt</translation>
     </message>
     <message>
         <source>Lay Out &amp;Vertically</source>
@@ -2034,7 +2034,7 @@ till
     </message>
     <message>
         <source>Lays out the selected widgets vertically</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägger ut markerade widgetar vertikalt</translation>
     </message>
     <message>
         <source>Lay Out in a &amp;Form Layout</source>
@@ -2042,7 +2042,7 @@ till
     </message>
     <message>
         <source>Lays out the selected widgets in a form layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägger ut markerade widgetar i en formulärlayout</translation>
     </message>
     <message>
         <source>Lay Out in a &amp;Grid</source>
@@ -2050,7 +2050,7 @@ till
     </message>
     <message>
         <source>Lays out the selected widgets in a grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägger ut markerade widgetar i ett rutnät</translation>
     </message>
     <message>
         <source>Lay Out Horizontally in S&amp;plitter</source>
@@ -2074,7 +2074,7 @@ till
     </message>
     <message>
         <source>Breaks the selected layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Bryter markerad layout</translation>
     </message>
     <message>
         <source>Si&amp;mplify Grid Layout</source>
@@ -2090,7 +2090,7 @@ till
     </message>
     <message>
         <source>Preview current form</source>
-        <translation type="unfinished"></translation>
+        <translation>Förhandsvia aktuellt formulär</translation>
     </message>
     <message>
         <source>Form &amp;Settings...</source>
@@ -2107,7 +2107,7 @@ till
     <message>
         <source>Could not create form preview</source>
         <comment>Title of warning message box</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte skapa förhandsvisning av formulär</translation>
     </message>
     <message>
         <source>Form Settings - %1</source>
@@ -2167,7 +2167,7 @@ till
     <name>QDesignerResource</name>
     <message>
         <source>The layout type &apos;%1&apos; is not supported, defaulting to grid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Layouttypen &quot;%1&quot; stöds inte, faller tillbaka på rutnät.</translation>
     </message>
     <message>
         <source>The container extension of the widget &apos;%1&apos; (%2) returned a widget not managed by Designer &apos;%3&apos; (%4) when queried for page #%5.
@@ -2198,7 +2198,7 @@ Container pages should only be added by specifying them in XML returned by the d
     </message>
     <message>
         <source>The specified qrc file &lt;p&gt;&lt;b&gt;%1&lt;/b&gt;&lt;/p&gt;&lt;p&gt;could not be found. Do you want to update the file location?&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Den angivna qrc-filen &lt;p&gt;&lt;b&gt;%1&lt;/b&gt;&lt;/p&gt;&lt;p&gt;kunde inte hittas. Vill du uppdatera filens plats?&lt;/p&gt;</translation>
     </message>
     <message>
         <source>New location for %1</source>
@@ -2729,7 +2729,7 @@ Klass: %2</translation>
     </message>
     <message>
         <source>Change signal-slot connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra signal-plats-anslutning</translation>
     </message>
     <message>
         <source>Change sender</source>
@@ -2749,7 +2749,7 @@ Klass: %2</translation>
     </message>
     <message>
         <source>Break button group &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Bryt knappgruppen &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Add buttons to group</source>
@@ -2800,7 +2800,7 @@ Klass: %2</translation>
     </message>
     <message>
         <source>Change Z-order of &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra Z-ordning för &apos;%1&apos;</translation>
     </message>
     <message>
         <source>Raise &apos;%1&apos;</source>
@@ -2900,7 +2900,7 @@ Klass: %2</translation>
     </message>
     <message>
         <source>Change Layout Item Geometry</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra layoutobjektets geometri</translation>
     </message>
     <message>
         <source>Delete Subwindow</source>
@@ -2980,9 +2980,9 @@ Klass: %2</translation>
     </message>
     <message numerus="yes">
         <source>Changed &apos;%1&apos; of %n objects</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Ändrade &apos;%1&apos; för %n objekt</numerusform>
+            <numerusform>Ändrade &apos;%1&apos; för %n objekt</numerusform>
         </translation>
     </message>
     <message>
@@ -2991,9 +2991,9 @@ Klass: %2</translation>
     </message>
     <message numerus="yes">
         <source>Reset &apos;%1&apos; of %n objects</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Nollställ &apos;%1&apos; för %n objekt</numerusform>
+            <numerusform>Nollställ &apos;%1&apos; för %n objekt</numerusform>
         </translation>
     </message>
     <message>
@@ -3002,20 +3002,20 @@ Klass: %2</translation>
     </message>
     <message numerus="yes">
         <source>Add dynamic property &apos;%1&apos; to %n objects</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Lägg till dynamiska egenskapen &apos;%1&apos; till %n objekt</numerusform>
+            <numerusform>Lägg till dynamiska egenskapen &apos;%1&apos; till %n objekt</numerusform>
         </translation>
     </message>
     <message>
         <source>Remove dynamic property &apos;%1&apos; from &apos;%2&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort dynamiska egenskapen &apos;%1&apos; från &apos;%2&apos;</translation>
     </message>
     <message numerus="yes">
         <source>Remove dynamic property &apos;%1&apos; from %n objects</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Ta bort dynamiska egenskapen &apos;%1&apos; från %n objekt</numerusform>
+            <numerusform>Ta bort dynamiska egenskapen &apos;%1&apos; från %n objekt</numerusform>
         </translation>
     </message>
     <message>
@@ -3460,15 +3460,15 @@ Klass: %2</translation>
     </message>
     <message>
         <source>Unexpected element &lt;%1&gt; encountered when parsing for &lt;widget&gt; or &lt;ui&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Oväntat element &lt;%1&gt; påträffades vid tolkning efter &lt;widget&gt; eller &lt;ui&gt;</translation>
     </message>
     <message>
         <source>Unexpected end of file encountered when parsing widgets.</source>
-        <translation type="unfinished"></translation>
+        <translation>Oväntat filslut påträffades vid tolkning av widgetar.</translation>
     </message>
     <message>
         <source>A widget element could not be found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ett widgetelement kunde inte hittas.</translation>
     </message>
 </context>
 <context>
@@ -3788,11 +3788,11 @@ Klass: %2</translation>
     </message>
     <message>
         <source>Qt Widgets Designer &amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Hjälp för Qt Widgets Designer</translation>
     </message>
     <message>
         <source>Current Widget Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuell widgethjälp</translation>
     </message>
     <message>
         <source>About Plugins</source>
@@ -3837,7 +3837,8 @@ Klass: %2</translation>
     <message>
         <source>%1
 Do you want to update the file location or generate a new form?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1
+Vill du uppdatera filens plats eller generera ett nytt formulär?</translation>
     </message>
     <message>
         <source>&amp;Update</source>
@@ -3895,11 +3896,11 @@ Anledning: %2</translation>
     </message>
     <message>
         <source>The backup file %1 could not be written: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Säkerhetskopiefilen %1 kunde inte skrivas: %2</translation>
     </message>
     <message>
         <source>The backup directory %1 could not be created.</source>
-        <translation type="unfinished"></translation>
+        <translation>Säkerhetskopiekatalogen %1 kunde inte skapas.</translation>
     </message>
     <message>
         <source>Preview failed</source>
@@ -3923,7 +3924,7 @@ Anledning: %2</translation>
     </message>
     <message>
         <source>Please close all forms to enable the loading of additional fonts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stäng alla formulär för att aktivera inläsning av ytterligare typsnitt.</translation>
     </message>
     <message>
         <source>Printed %1.</source>
@@ -3942,7 +3943,7 @@ Anledning: %2</translation>
     </message>
     <message>
         <source>Toolwindow Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Typsnitt för verktygsfönster</translation>
     </message>
 </context>
 <context>
@@ -4687,7 +4688,7 @@ Anledning: %2</translation>
     </message>
     <message>
         <source>The class %1 cannot be removed because it is still referenced.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klassen %1 kan inte tas bort därför att den refereras fortfarande.</translation>
     </message>
     <message>
         <source>The class %1 cannot be renamed</source>
@@ -4695,7 +4696,7 @@ Anledning: %2</translation>
     </message>
     <message>
         <source>The class %1 cannot be renamed to an empty name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klassen %1 kan inte namnbytas till ett tomt namn.</translation>
     </message>
     <message>
         <source>There is already a class named %1.</source>
@@ -4703,7 +4704,7 @@ Anledning: %2</translation>
     </message>
     <message>
         <source>Cannot set an empty include file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte ställa in en tom include-fil.</translation>
     </message>
 </context>
 <context>
@@ -4993,7 +4994,7 @@ Anledning: %2</translation>
     </message>
     <message>
         <source>Append Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till avgränsare</translation>
     </message>
     <message>
         <source>Remove action &apos;%1&apos;</source>
@@ -5334,7 +5335,7 @@ This indicates an inconsistency in the ui-file.</source>
     </message>
     <message>
         <source>Cannot create style &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte skapa stilen &apos;%1&apos;.</translation>
     </message>
 </context>
 <context>
@@ -5362,11 +5363,11 @@ This indicates an inconsistency in the ui-file.</source>
     </message>
     <message>
         <source>Empty widget item in %1 &apos;%2&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tomt widget-objekt i %1 &apos;%2&apos;.</translation>
     </message>
     <message>
         <source>Flags property are not supported yet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Flags-egenskaper stöd inte än.</translation>
     </message>
     <message>
         <source>While applying tab stops: The widget &apos;%1&apos; could not be found.</source>
@@ -5374,7 +5375,7 @@ This indicates an inconsistency in the ui-file.</source>
     </message>
     <message>
         <source>Invalid QButtonGroup reference &apos;%1&apos; referenced by &apos;%2&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig QButtonGroup-referens &apos;%1&apos; refererad av &apos;%2&apos;.</translation>
     </message>
     <message>
         <source>An error has occurred while reading the UI file at line %1, column %2: %3</source>
@@ -5382,11 +5383,11 @@ This indicates an inconsistency in the ui-file.</source>
     </message>
     <message>
         <source>This file was created using Designer from Qt-%1 and cannot be read.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denna fil skapades med Designer från Qt-%1 och kan inte läsas.</translation>
     </message>
     <message>
         <source>This file cannot be read because it was created using %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denna fil kan inte läsas därför att den skapades med %1.</translation>
     </message>
     <message>
         <source>Invalid UI file: The root element &lt;ui&gt; is missing.</source>
@@ -5402,15 +5403,15 @@ This indicates an inconsistency in the ui-file.</source>
     <message>
         <source>An empty class name was passed on to %1 (object name: &apos;%2&apos;).</source>
         <extracomment>Empty class name passed to widget factory method</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>En  tomt klassnamn skickades vidare till %1 (objektnamn: &apos;%2&apos;).</translation>
     </message>
     <message>
         <source>QFormBuilder was unable to create a custom widget of the class &apos;%1&apos;; defaulting to base class &apos;%2&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>QFormBuilder kunde inte skapa en anpassad widget av klassen &apos;%1&apos;; går tillbaka till basklassen &apos;%2&apos;.</translation>
     </message>
     <message>
         <source>QFormBuilder was unable to create a widget of the class &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>QFormBuilder kunde inte skapa en widget av klassen &apos;%1&apos;.</translation>
     </message>
     <message>
         <source>The layout type `%1&apos; is not supported.</source>
@@ -5422,7 +5423,7 @@ This indicates an inconsistency in the ui-file.</source>
     </message>
     <message>
         <source>The value &quot;%1&quot; of the set-type property %2 could not be read.</source>
-        <translation type="unfinished"></translation>
+        <translation>Värdet &quot;%1&quot; för set-type-egenskapen %2 kunde inte läsas.</translation>
     </message>
     <message>
         <source>The enumeration-type property %1 could not be read.</source>
@@ -5434,7 +5435,7 @@ This indicates an inconsistency in the ui-file.</source>
     </message>
     <message>
         <source>Reading properties of the type %1 is not supported yet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Läsning av egenskaper av typen %1 stöds inte än.</translation>
     </message>
     <message>
         <source>The property %1 could not be written. The type %2 is not supported yet.</source>
@@ -5446,7 +5447,7 @@ This indicates an inconsistency in the ui-file.</source>
     </message>
     <message>
         <source>The flag-value &apos;%1&apos; is invalid. Zero will be used instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltigt flag-value &apos;%1&apos;. Zero kommer att användas istället.</translation>
     </message>
 </context>
 <context>
@@ -5533,15 +5534,15 @@ This indicates an inconsistency in the ui-file.</source>
     </message>
     <message>
         <source>The skin directory &apos;%1&apos; does not contain a configuration file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skalkatalogen &quot;%1&quot; innehåller inte en konfigurationsfil.</translation>
     </message>
     <message>
         <source>The skin configuration file &apos;%1&apos; could not be opened.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skalkonfigurationsfilen &quot;%1&quot; kunde inte öppnas.</translation>
     </message>
     <message>
         <source>The skin configuration file &apos;%1&apos; could not be read: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Skalkonfigurationsfilen &quot;%1&quot; kunde inte öppnas: %2</translation>
     </message>
     <message>
         <source>Syntax error: %1</source>
@@ -5565,7 +5566,7 @@ This indicates an inconsistency in the ui-file.</source>
     </message>
     <message>
         <source>Syntax error in area definition: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Syntaxfel i area-definition: %1</translation>
     </message>
     <message>
         <source>Mismatch in number of areas, expected %1, got %2.</source>
