@@ -74,10 +74,8 @@ Updating 'qtscript_sv.qm'...
     
 Updating 'qtserialport_sv.qm'...
 
-    Genererade 15 översättningar (15 slutförda och 0 oavslutade)
+    Genererade 16 översättningar (16 slutförda och 0 oavslutade)
     
-    Ignorerade 1 oöversatt källtext
-
     
 Updating 'qt_sv.qm'...
 
