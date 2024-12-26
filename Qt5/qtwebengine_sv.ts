@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="sv">
+<TS version="2.1" language="sv_SE">
 <context>
     <name>AlertDialog</name>
     <message>
@@ -37,12 +37,12 @@
     <message>
         <location line="+21"/>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Avbryt</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>&amp;Log In</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Logga in</translation>
     </message>
     <message>
         <location filename="../../qtwebengine/src/webengine/ui2/AuthenticationDialog.qml" line="+21"/>
@@ -87,7 +87,7 @@
     <message>
         <location filename="../../qtwebengine/src/webengine/ui2/ConfirmDialog.qml" line="+50"/>
         <source>Alert Dialog</source>
-        <translation type="unfinished">Larmdialog</translation>
+        <translation>Larmdialog</translation>
     </message>
     <message>
         <location line="+52"/>
@@ -307,97 +307,97 @@
     <message>
         <location filename="../../qtwebengine/src/webengine/api/qquickwebengineview.cpp" line="+2025"/>
         <source>Stop</source>
-        <translation type="unfinished">Stoppa</translation>
+        <translation>Stoppa</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Reload and Bypass Cache</source>
-        <translation type="unfinished">Uppdatera och kringgå cache</translation>
+        <translation>Uppdatera och kringgå cache</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>Open link in this window</source>
-        <translation type="unfinished">Öppna länk i detta fönster</translation>
+        <translation>Öppna länk i detta fönster</translation>
     </message>
     <message>
         <location line="+33"/>
         <source>Toggle Play/Pause</source>
-        <translation type="unfinished">Växla Spela upp/Paus</translation>
+        <translation>Växla Spela upp/Paus</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Toggle Mute</source>
-        <translation type="unfinished">Växla volym</translation>
+        <translation>Växla volym</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Close Page</source>
-        <translation type="unfinished">Stäng sida</translation>
+        <translation>Stäng sida</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Unselect</source>
-        <translation type="unfinished">Avmarkera</translation>
+        <translation>Avmarkera</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>&amp;Bold</source>
-        <translation type="unfinished">&amp;Fet stil</translation>
+        <translation>&amp;Fet stil</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>&amp;Italic</source>
-        <translation type="unfinished">&amp;Kursiv stil</translation>
+        <translation>&amp;Kursiv stil</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>&amp;Underline</source>
-        <translation type="unfinished">&amp;Understruken</translation>
+        <translation>&amp;Understruken</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>&amp;Strikethrough</source>
-        <translation type="unfinished">&amp;Genomstruken</translation>
+        <translation>&amp;Genomstruken</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Align &amp;Left</source>
-        <translation type="unfinished">Justera &amp;vänster</translation>
+        <translation>Justera &amp;vänster</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Align &amp;Center</source>
-        <translation type="unfinished">Justera &amp;mitten</translation>
+        <translation>Justera &amp;mitten</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Align &amp;Right</source>
-        <translation type="unfinished">Justera &amp;höger</translation>
+        <translation>Justera &amp;höger</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Align &amp;Justified</source>
-        <translation type="unfinished">Justera &amp;marginal</translation>
+        <translation>Justera &amp;marginal</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Indent</source>
-        <translation type="unfinished">&amp;Dra in</translation>
+        <translation>&amp;Dra in</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>&amp;Outdent</source>
-        <translation type="unfinished">Dra &amp;ut</translation>
+        <translation>Dra &amp;ut</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Insert &amp;Ordered List</source>
-        <translation type="unfinished">Infoga &amp;ordnad lista</translation>
+        <translation>Infoga &amp;ordnad lista</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Insert &amp;Unordered List</source>
-        <translation type="unfinished">Infoga oo&amp;rdnat lista</translation>
+        <translation>Infoga oo&amp;rdnat lista</translation>
     </message>
 </context>
 <context>
@@ -505,7 +505,7 @@
     <message>
         <location line="+990"/>
         <source>Select folder to upload</source>
-        <translation type="unfinished">Välj mapp att skicka upp</translation>
+        <translation>Välj mapp att skicka upp</translation>
     </message>
     <message>
         <source>Change text direction left to right</source>
@@ -533,12 +533,12 @@
     <message>
         <location filename="../../qtwebengine/src/webengine/plugin/plugin.cpp" line="+128"/>
         <source>Cannot create separate instance of WebEngineNewViewRequest</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte skapa separat instans av WebEngineNewViewRequest</translation>
     </message>
     <message>
         <location line="+56"/>
         <source>Cannot create separate instance of %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte skapa separat instans av %1</translation>
     </message>
 </context>
 <context>
@@ -547,12 +547,12 @@
         <location filename="../../qtwebengine/src/webengine/testsupport/plugin.cpp" line="+60"/>
         <location line="+2"/>
         <source>Cannot create a separate instance of WebEngineErrorPage</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte skapa en separat instans av WebEngineErrorPage</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Cannot create a separate instance of WebEngineTestEvent</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte skapa en separat instans av WebEngineTestEvent</translation>
     </message>
 </context>
 <context>
