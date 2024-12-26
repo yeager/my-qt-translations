@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="sv">
+<TS version="2.1" language="sv_SE">
 <context>
     <name>AboutApplicationDialog</name>
     <message>
@@ -9,7 +9,7 @@
     </message>
     <message>
         <source>About %1 Maintenance Tool</source>
-        <translation>Om underhållsverktyget för %1</translation>
+        <translation>Om Underhållsverktyg för %1</translation>
     </message>
 </context>
 <context>
@@ -760,7 +760,7 @@
     </message>
     <message>
         <source>Read failed after %1 bytes: %2</source>
-        <translation>Läsning misslyckades efter %1 bytes: %2</translation>
+        <translation>Läsning misslyckades efter %1 byte: %2</translation>
     </message>
     <message>
         <source>Copy failed: %1</source>
@@ -768,11 +768,11 @@
     </message>
     <message>
         <source>Write failed after %1 bytes: %2</source>
-        <translation>Skrivning misslyckades efter %1 bytes: %2</translation>
+        <translation>Skrivning misslyckades efter %1 byte: %2</translation>
     </message>
     <message>
         <source>bytes</source>
-        <translation>bytes</translation>
+        <translation>byte</translation>
     </message>
     <message>
         <source>KB</source>
@@ -1233,7 +1233,7 @@
     <name>QInstaller::CreateShortcutOperation</name>
     <message>
         <source>&lt;target&gt; &lt;link location&gt; [target arguments] [&quot;workingDirectory=...&quot;] [&quot;iconPath=...&quot;] [&quot;iconId=...&quot;] [&quot;description=...&quot;]</source>
-        <translation>&lt;target&gt; &lt;link location&gt; [target arguments] [&quot;workingDirectory=...&quot;] [&quot;iconPath=...&quot;] [&quot;iconId=...&quot;] [&quot;description=...&quot;]</translation>
+        <translation>&lt;target&gt; &lt;link plats&gt; [målargument] [&quot;workingDirectory=...&quot;] [&quot;iconPath=...&quot;] [&quot;iconId=...&quot;] [&quot;description=...&quot;]</translation>
     </message>
     <message>
         <source>Cannot create directory &quot;%1&quot;: %2</source>
@@ -1434,7 +1434,7 @@ Hämtade: %2</translation>
     </message>
     <message>
         <source>Unsupported archive &quot;%1&quot;: no handler registered for file suffix &quot;%2&quot;.</source>
-        <translation>Arkivet &quot;%1&quot; stöds inte: inget handtag registrerat för filändelsen &quot;%2&quot;.</translation>
+        <translation>Arkivet &quot;%1&quot; stöds inte: ingen hanterare registrerad för filändelsen &quot;%2&quot;.</translation>
     </message>
     <message>
         <source>Cannot open archive &quot;%1&quot; for reading: %2</source>
@@ -1453,7 +1453,7 @@ Hämtade: %2</translation>
     <name>QInstaller::ExtractArchiveOperation::Worker</name>
     <message>
         <source>Could not create handler object for archive &quot;%1&quot;: &quot;%2&quot;.</source>
-        <translation>Kunde inte skapa handtagsobjekt för arkivet &quot;%1&quot;: &quot;%2&quot;.</translation>
+        <translation>Kunde inte skapa hanterarobjekt för arkivet &quot;%1&quot;: &quot;%2&quot;.</translation>
     </message>
     <message>
         <source>Cannot open archive &quot;%1&quot; for reading: %2</source>
@@ -1794,7 +1794,7 @@ Hämtade: %2</translation>
     </message>
     <message>
         <source>Unsupported archive &quot;%1&quot;: no handler registered for file suffix &quot;%2&quot;.</source>
-        <translation>Arkivet stöds inte &quot;%1&quot;: inget handtag registrerat för filändelsen &quot;%2&quot;.</translation>
+        <translation>Arkivet stöds inte &quot;%1&quot;: ingen hanterare registrerad för filändelsen &quot;%2&quot;.</translation>
     </message>
     <message>
         <source>Fetching latest update information...</source>
@@ -2027,7 +2027,7 @@ Vill du fortsätta?</translation>
     </message>
     <message>
         <source>Not enough disk space to store temporary files! %1 are available, while the minimum required is %2. You may select another location for the temporary files by modifying the local cache path from the installer settings.</source>
-        <translation>Inte tillräckligt mycket diskutrymme för att lagra temporärfiler! %1 finns tillgänglig där minsta kravet är %2. Du kan välja en annan plats för temporärfiler genom att ändra lokal cachesökväg från installerarens inställningar.</translation>
+        <translation>Inte tillräckligt med ledigt diskutrymme för att lagra temporärfiler! %1 finns tillgängligt där minsta kravet är %2. Du kan välja en annan plats för temporärfiler genom att ändra lokal cachesökväg från installerarens inställningar.</translation>
     </message>
     <message>
         <source>Cannot resolve components to uninstall.</source>
@@ -2035,11 +2035,11 @@ Vill du fortsätta?</translation>
     </message>
     <message>
         <source>Cannot select alias %1. There was a problem loading this alias, so it is marked unstable and cannot be selected.</source>
-        <translation>Kan inte välja aslias %1. Det inträffade ett problem vid inläsning av detta alias så det är markerat som instabilt och kan inte väljas.</translation>
+        <translation>Kan inte välja aliaset %1. Det inträffade ett problem vid inläsning av detta alias så det är markerat som instabilt och kan inte väljas.</translation>
     </message>
     <message>
         <source>Cannot select %1. Alias is marked virtual, meaning it cannot be selected manually.</source>
-        <translation>Kan inte välja %1. Alias är markerat som virtuell, vilket betyder att det inte kan väljas manuellt.</translation>
+        <translation>Kan inte välja %1. Alias är markerat som virtuellt, vilket betyder att det inte kan väljas manuellt.</translation>
     </message>
     <message>
         <source>Created installer will use %1 of disk space.</source>
@@ -2082,7 +2082,7 @@ Vill du fortsätta?</translation>
     </message>
     <message>
         <source>Writing maintenance tool.</source>
-        <translation>Skriver underhållsverktyg.</translation>
+        <translation>Skriver Underhållsverktyg.</translation>
     </message>
     <message>
         <source>Failed to seek in file %1: %2</source>
@@ -2098,11 +2098,11 @@ Vill du fortsätta?</translation>
     </message>
     <message>
         <source>Cannot write maintenance tool data to %1: %2</source>
-        <translation>Kan inte skriva underhållsverktygsdata till %1: %2</translation>
+        <translation>Kan inte skriva data för Underhållsverktyg till %1: %2</translation>
     </message>
     <message>
         <source>Cannot write maintenance tool to &quot;%1&quot;: %2</source>
-        <translation>Kan inte skriva underhållsverktyg till &quot;%1&quot;: %2</translation>
+        <translation>Kan inte skriva Underhållsverktyg till &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <source>Cannot remove temporary data file &quot;%1&quot;: %2</source>
@@ -2110,7 +2110,7 @@ Vill du fortsätta?</translation>
     </message>
     <message>
         <source>Cannot write maintenance tool binary data to %1: %2</source>
-        <translation>Kan inte skriva underhållsverktygets binärdata till %1: %2</translation>
+        <translation>Kan inte skriva binärdata för Underhållsverktyg till %1: %2</translation>
     </message>
     <message>
         <source>Writing offline base binary.</source>
@@ -2150,7 +2150,7 @@ Vill du fortsätta?</translation>
     </message>
     <message>
         <source>Creating Maintenance Tool</source>
-        <translation>Skapar underhållsverktyg</translation>
+        <translation>Skapar Underhållsverktyg</translation>
     </message>
     <message>
         <source>Installation finished!</source>
@@ -2162,7 +2162,7 @@ Vill du fortsätta?</translation>
     </message>
     <message>
         <source>It is not possible to run that operation from a network location</source>
-        <translation>Det är itne möjligt att köra den åtgärden från en nätverksplats</translation>
+        <translation>Det är inte möjligt att köra den åtgärden från en nätverksplats</translation>
     </message>
     <message>
         <source>Removing deselected components...</source>
@@ -2548,7 +2548,7 @@ Kopiera installeraren till en lokal enhet</translation>
     <name>QInstaller::RemoteObject</name>
     <message>
         <source>Cannot read all data after sending command: %1. Bytes expected: %2, Bytes received: %3. Error: %4</source>
-        <translation>Kan inte läsa all data efter att kommandot skickades: %1. Bytes förväntade: %2, Bytes togs emot: %3. Fel: %4</translation>
+        <translation>Kan inte läsa all data efter att kommandot skickades: %1. Byte förväntade: %2, Byte mottagna: %3. Fel: %4</translation>
     </message>
 </context>
 <context>
@@ -2578,11 +2578,11 @@ Kopiera installeraren till en lokal enhet</translation>
     </message>
     <message>
         <source>Read failed after %1 bytes: %2</source>
-        <translation>Läsning misslyckades efter %1 bytes: %2</translation>
+        <translation>Läsning misslyckades efter %1 byte: %2</translation>
     </message>
     <message>
         <source>Write failed after %1 bytes: %2</source>
-        <translation>Skrivning misslyckades efter %1 bytes: %2</translation>
+        <translation>Skrivning misslyckades efter %1 byte: %2</translation>
     </message>
 </context>
 <context>
@@ -2615,7 +2615,7 @@ Kopiera installeraren till en lokal enhet</translation>
     <name>QInstaller::SelfRestartOperation</name>
     <message>
         <source>Installer object needed in operation %1 is empty.</source>
-        <translation>Installerar-objektet som behövs i åtgärden %1 är tom.</translation>
+        <translation>Installerarobjektet som behövs i åtgärden %1 är tomt.</translation>
     </message>
     <message>
         <source>Self Restart: Only valid within updater or package manager mode.</source>
@@ -2765,7 +2765,7 @@ Kopiera installeraren till en lokal enhet</translation>
     </message>
     <message>
         <source>Cannot start installer binary as updater.</source>
-        <translation>Kan inte starta installarbinären som uppdaterare.</translation>
+        <translation>Kan inte starta installerarbinären som uppdaterare.</translation>
     </message>
     <message>
         <source>Cannot start installer binary as package manager.</source>
@@ -2824,7 +2824,7 @@ Kopiera installeraren till en lokal enhet</translation>
     <name>RemoteClient</name>
     <message>
         <source>Cannot get authorization.</source>
-        <translation>Kan inte få auktorisation.</translation>
+        <translation>Kan inte få auktorisering.</translation>
     </message>
     <message>
         <source>Cannot get authorization that is needed for continuing the installation.
