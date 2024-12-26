@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="sv">
+<TS version="2.1" language="sv_SE">
 <context>
     <name>QSerialPort</name>
     <message>
@@ -46,7 +46,7 @@
     <message>
         <location line="+568"/>
         <source>The device supports only the ignoring policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Enheten har endast stöd för ignoreringspolicyn</translation>
     </message>
     <message>
         <location filename="../../qtserialport/src/serialport/qserialport_unix.cpp" line="+315"/>
