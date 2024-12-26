@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="sv">
+<TS version="2.1" language="sv_SE">
 <context>
     <name>QQmlWebSocket</name>
     <message>
@@ -70,28 +70,28 @@
     <message>
         <location line="+149"/>
         <source>Invalid statusline in response: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig statusline i svar: %1.</translation>
     </message>
     <message>
         <location line="+18"/>
         <location line="+8"/>
         <source>Malformed header in response: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Felformaterad rubrik i svar: %1.</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>QWebSocketPrivate::processHandshake: Connection closed while reading header.</source>
-        <translation type="unfinished"></translation>
+        <translation>QWebSocketPrivate::processHandshake: Anslutningen stängdes vid läsning av rubrik.</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>QWebSocketPrivate::processHandshake: Invalid statusline in response: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>QWebSocketPrivate::processHandshake: Ogiltig statusline i svar: %1.</translation>
     </message>
     <message>
         <location line="+211"/>
         <source>The protocols attribute contains newlines. Possible attack detected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Protokollets attribut innehåller nyrader. Potentiell attack upptäcktes.</translation>
     </message>
     <message>
         <source>QWebSocketPrivate::processHandshake: Unsupported WWW-Authenticate challenge encountered.</source>
