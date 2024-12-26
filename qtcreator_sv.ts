@@ -651,7 +651,7 @@ Bind to AmbientSound.Infinite to loop the current sound forever.</source>
     </message>
     <message>
         <source>Run to end</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör till slutet</translation>
     </message>
     <message>
         <source>Runs the animation to completion when it is stopped.</source>
@@ -2584,7 +2584,7 @@ Detta går inte att ångra.</translation>
     </message>
     <message>
         <source>Use Qt Virtual Keyboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd Qt virtuellt tangentbord</translation>
     </message>
     <message>
         <source>Target Qt Version:</source>
@@ -3310,11 +3310,11 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Horizontal position.</source>
-        <translation type="unfinished"></translation>
+        <translation>Horisontell position.</translation>
     </message>
     <message>
         <source>Vertical position.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertikal position.</translation>
     </message>
     <message>
         <source>Origin</source>
@@ -3334,7 +3334,7 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Right margin</source>
-        <translation type="unfinished"></translation>
+        <translation>Högermarginal</translation>
     </message>
     <message>
         <source>Sets an additional right margin in the flickable area.</source>
@@ -3342,7 +3342,7 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Top margin</source>
-        <translation type="unfinished"></translation>
+        <translation>Övre marginal</translation>
     </message>
     <message>
         <source>Sets an additional top margin in the flickable area.</source>
@@ -3350,7 +3350,7 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Bottom margin</source>
-        <translation type="unfinished"></translation>
+        <translation>Nedre marginal</translation>
     </message>
     <message>
         <source>Sets an additional bottom margin in the flickable area.</source>
@@ -3413,7 +3413,7 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Movement</source>
-        <translation type="unfinished"></translation>
+        <translation>Rörelse</translation>
     </message>
     <message>
         <source>Max. velocity</source>
@@ -3486,7 +3486,7 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Stil</translation>
     </message>
     <message>
         <source>Sets the font style.</source>
@@ -3494,7 +3494,7 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Style color</source>
-        <translation type="unfinished"></translation>
+        <translation>Stilfärg</translation>
     </message>
     <message>
         <source>Sets the color for the font style.</source>
@@ -3779,11 +3779,11 @@ The foreground component should be transparent, and the background component sho
     <name>GridLayoutSpecifics</name>
     <message>
         <source>Grid Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Rutnätslayout</translation>
     </message>
     <message>
         <source>Columns &amp; Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolumner och rader</translation>
     </message>
     <message>
         <source>Sets the number of columns and rows in the &lt;b&gt;Grid Layout&lt;/b&gt;.</source>
@@ -3823,11 +3823,11 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Heights</source>
-        <translation type="unfinished"></translation>
+        <translation>Höjder</translation>
     </message>
     <message>
         <source>Widths</source>
-        <translation type="unfinished"></translation>
+        <translation>Bredder</translation>
     </message>
 </context>
 <context>
@@ -4041,7 +4041,7 @@ a highlight component.</source>
     </message>
     <message>
         <source>Sets a background image for the icon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in en bakgrundsbild för ikonen.</translation>
     </message>
     <message>
         <source>Color</source>
@@ -4049,7 +4049,7 @@ a highlight component.</source>
     </message>
     <message>
         <source>Sets the color for the icon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in färgen för ikonen.</translation>
     </message>
     <message>
         <source>Size</source>
@@ -4057,7 +4057,7 @@ a highlight component.</source>
     </message>
     <message>
         <source>Sets the height and width of the icon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in höjd och bredd för ikonen.</translation>
     </message>
     <message>
         <source>W</source>
@@ -4081,11 +4081,11 @@ a highlight component.</source>
     </message>
     <message>
         <source>Cache</source>
-        <translation type="unfinished"></translation>
+        <translation>Cache</translation>
     </message>
     <message>
         <source>Toggles if the icon is saved to the cache memory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar om ikonen är sparad till cacheminnet.</translation>
     </message>
 </context>
 <context>
@@ -4532,7 +4532,7 @@ be rendered into the texture.</source>
     </message>
     <message>
         <source>Preferred size</source>
-        <translation type="unfinished"></translation>
+        <translation>Föredragen storlek</translation>
     </message>
     <message>
         <source>Preferred size of a component in a layout. If the preferred height or width is -1, it is ignored.</source>
@@ -4552,7 +4552,7 @@ be rendered into the texture.</source>
     </message>
     <message>
         <source>Minimum size</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimal storlek</translation>
     </message>
     <message>
         <source>Minimum size of a component in a layout.</source>
@@ -4560,7 +4560,7 @@ be rendered into the texture.</source>
     </message>
     <message>
         <source>Maximum size</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximal storlek</translation>
     </message>
     <message>
         <source>Maximum size of a component in a layout.</source>
@@ -5117,11 +5117,11 @@ a highlight component.</source>
     <name>MaterialBrowserContextMenu</name>
     <message>
         <source>Apply to selected (replace)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillämpa på markerade (ersätt)</translation>
     </message>
     <message>
         <source>Apply to selected (add)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillämpa på markerade (lägg till)</translation>
     </message>
     <message>
         <source>Copy properties</source>
@@ -5276,7 +5276,7 @@ a highlight component.</source>
     <name>ModelNodeOperations</name>
     <message>
         <source>Go to Implementation</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå till implementation</translation>
     </message>
     <message>
         <source>Invalid component.</source>
@@ -5284,11 +5284,11 @@ a highlight component.</source>
     </message>
     <message>
         <source>Cannot find an implementation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte hitta en implementation.</translation>
     </message>
     <message>
         <source>Cannot Set Property %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte ställa in egenskapen %1</translation>
     </message>
     <message>
         <source>The property %1 is bound to an expression.</source>
@@ -5322,13 +5322,15 @@ a highlight component.</source>
     </message>
     <message>
         <source>Import Update Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Importuppdatering misslyckades</translation>
     </message>
     <message>
         <source>Failed to update import.
 Error:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att uppdatera import.
+Fel:
+%1</translation>
     </message>
 </context>
 <context>
@@ -6554,31 +6556,31 @@ Do you want to edit this effect?</source>
     <name>QmlDesigner::AnnotationEditorWidget</name>
     <message>
         <source>Add Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till status</translation>
     </message>
     <message>
         <source>In Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Pågår</translation>
     </message>
     <message>
         <source>In Review</source>
-        <translation type="unfinished"></translation>
+        <translation>Granskas</translation>
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>Färdig</translation>
     </message>
     <message>
         <source>Tab view</source>
-        <translation type="unfinished"></translation>
+        <translation>Flikvy</translation>
     </message>
     <message>
         <source>Table view</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabellvy</translation>
     </message>
     <message>
         <source>Selected component</source>
-        <translation type="unfinished"></translation>
+        <translation>Markerad komponent</translation>
     </message>
     <message>
         <source>Name</source>
@@ -6586,11 +6588,11 @@ Do you want to edit this effect?</source>
     </message>
     <message>
         <source>Tab 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Flik 1</translation>
     </message>
     <message>
         <source>Tab 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Flik 2</translation>
     </message>
 </context>
 <context>
@@ -7637,7 +7639,7 @@ Exporting assets: %2</source>
     </message>
     <message>
         <source>Override Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Åsidosätt bredd</translation>
     </message>
     <message>
         <source>Override width of root component.</source>
@@ -7645,7 +7647,7 @@ Exporting assets: %2</source>
     </message>
     <message>
         <source>Override Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Åsidosätt höjd</translation>
     </message>
     <message>
         <source>Override height of root component.</source>
@@ -7665,7 +7667,7 @@ Exporting assets: %2</source>
     </message>
     <message>
         <source>Ctrl+Alt+0</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Alt+0</translation>
     </message>
     <message>
         <source>Zoom screen to fit current selection.</source>
@@ -7673,19 +7675,19 @@ Exporting assets: %2</source>
     </message>
     <message>
         <source>Ctrl+Alt+i</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Alt+i</translation>
     </message>
     <message>
         <source>Reload View</source>
-        <translation type="unfinished"></translation>
+        <translation>Läs om vyn</translation>
     </message>
     <message>
         <source>Export Current QML File as Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportera aktuell QML-fil som bild</translation>
     </message>
     <message>
         <source>PNG (*.png);;JPG (*.jpg)</source>
-        <translation type="unfinished"></translation>
+        <translation>PNG (*.png);;JPG (*.jpg)</translation>
     </message>
 </context>
 <context>
@@ -9217,7 +9219,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Reset Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Nollställ sökväg</translation>
     </message>
     <message>
         <source>Bundles</source>
@@ -9229,7 +9231,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Experimental Features</source>
-        <translation type="unfinished"></translation>
+        <translation>Experimentella funktioner</translation>
     </message>
     <message>
         <source>This option enables experimental features in Qt Design Studio. Please provide feedback and bug reports at: %1</source>
@@ -9571,11 +9573,11 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Not Supported for MCUs</source>
-        <translation type="unfinished"></translation>
+        <translation>Stöds inte för MCUer</translation>
     </message>
     <message>
         <source>Timeline Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidslinjeinställningar</translation>
     </message>
     <message>
         <source>To Start</source>
@@ -9587,7 +9589,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Spela upp</translation>
     </message>
     <message>
         <source>Next</source>
@@ -9603,7 +9605,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Playback Speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppspelningshastighet</translation>
     </message>
     <message>
         <source>Auto Key</source>
@@ -31721,19 +31723,19 @@ Reason: %3</source>
     <name>QtC::GenericProjectManager</name>
     <message>
         <source>Generic Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Allmän hanterare</translation>
     </message>
     <message>
         <source>Import Existing Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Importera befintligt projekt</translation>
     </message>
     <message>
         <source>Project Name and Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Projektnamn och plats</translation>
     </message>
     <message>
         <source>Project name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Projektnamn:</translation>
     </message>
     <message>
         <source>Location:</source>
@@ -31741,31 +31743,31 @@ Reason: %3</source>
     </message>
     <message>
         <source>File Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Filväljare</translation>
     </message>
     <message>
         <source>Imports existing projects that do not use qmake, CMake, Qbs, Meson, or Autotools. This allows you to use %1 as a code editor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Importerar befintliga projekt som inte använder qmake, CMake, Qbs, Meson eller Autotools. Detta låter dig använda %1 som en kodredigerare.</translation>
     </message>
     <message>
         <source>Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Filer</translation>
     </message>
     <message>
         <source>Edit Files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera filer...</translation>
     </message>
     <message>
         <source>Remove Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort katalog</translation>
     </message>
     <message>
         <source>Project files list update failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Listuppdatering av projektfiler misslyckades.</translation>
     </message>
     <message>
         <source>Build %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Bygg %1</translation>
     </message>
 </context>
 <context>
@@ -34259,16 +34261,16 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>GHCi</source>
-        <translation type="unfinished"></translation>
+        <translation>GHCi</translation>
     </message>
     <message>
         <source>Run GHCi</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör GHCi</translation>
     </message>
     <message>
         <source>Haskell</source>
         <comment>SnippetProvider</comment>
-        <translation type="unfinished"></translation>
+        <translation>Haskell</translation>
     </message>
     <message>
         <source>Executable</source>
@@ -34276,7 +34278,7 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Haskell</source>
-        <translation type="unfinished"></translation>
+        <translation>Haskell</translation>
     </message>
     <message>
         <source>Stack executable:</source>
@@ -46835,11 +46837,11 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>Export Components</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportera komponenter</translation>
     </message>
     <message>
         <source>Export path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportsökväg:</translation>
     </message>
     <message>
         <source>Baking aborted: %1</source>
@@ -46867,11 +46869,11 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>Cannot Create QtQuick View</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte skapa QtQuick-vy</translation>
     </message>
     <message>
         <source>ConnectionsEditorWidget: %1 cannot be created.%2</source>
-        <translation type="unfinished"></translation>
+        <translation>ConnectionsEditorWidget: %1 kan inte skapas.%2</translation>
     </message>
     <message>
         <source>Property Type</source>
@@ -60516,7 +60518,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Value 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Värde 1</translation>
     </message>
     <message>
         <source>Sets the value of the first range slider handle.</source>
@@ -60562,7 +60564,7 @@ defined in step size.</source>
     </message>
     <message>
         <source>Value 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Värde 2</translation>
     </message>
     <message>
         <source>From</source>
@@ -60574,7 +60576,7 @@ defined in step size.</source>
     </message>
     <message>
         <source>Step size</source>
-        <translation type="unfinished"></translation>
+        <translation>Stegstorlek</translation>
     </message>
     <message>
         <source>Drag threshold</source>
@@ -61378,11 +61380,11 @@ it reaches the start or end.</source>
     </message>
     <message>
         <source>Step size</source>
-        <translation type="unfinished"></translation>
+        <translation>Stegstorlek</translation>
     </message>
     <message>
         <source>Editable</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigerbar</translation>
     </message>
     <message>
         <source>Wrap</source>
@@ -62016,7 +62018,7 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>Determines whether the text area is read only.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestämmer huruvida textytan är skrivskyddad.</translation>
     </message>
     <message>
         <source>Color</source>
@@ -62024,31 +62026,31 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>Document margins</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokumentmarginaler</translation>
     </message>
     <message>
         <source>Text Area</source>
-        <translation type="unfinished"></translation>
+        <translation>Textyta</translation>
     </message>
     <message>
         <source>Frame width</source>
-        <translation type="unfinished"></translation>
+        <translation>Rambredd</translation>
     </message>
     <message>
         <source>Text shown on the text area.</source>
-        <translation type="unfinished"></translation>
+        <translation>Text som visas på textytan.</translation>
     </message>
     <message>
         <source>Margins of the text area.</source>
-        <translation type="unfinished"></translation>
+        <translation>Marginaler för textytan.</translation>
     </message>
     <message>
         <source>Width of the frame.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bredd på ramen.</translation>
     </message>
     <message>
         <source>Contents frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Innehållsram</translation>
     </message>
     <message>
         <source>Determines whether the frame around contents is shown.</source>
@@ -62056,7 +62058,7 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>Focus Handling</source>
-        <translation type="unfinished"></translation>
+        <translation>Fokushantering</translation>
     </message>
     <message>
         <source>Highlight on focus</source>
@@ -62076,7 +62078,7 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>Focus on press</source>
-        <translation type="unfinished"></translation>
+        <translation>Fokus vid tryck</translation>
     </message>
     <message>
         <source>Determines whether the text area gets focus if pressed.</source>
@@ -62888,19 +62890,19 @@ Are you sure you want to remove it?</source>
     </message>
     <message>
         <source>Minimum size</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimal storlek</translation>
     </message>
     <message>
         <source>Minimum size of the window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimum storlek för fönstret.</translation>
     </message>
     <message>
         <source>Maximum size</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximal storlek</translation>
     </message>
     <message>
         <source>Maximum size of the window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximal storlek för fönstret.</translation>
     </message>
     <message>
         <source>Color</source>
@@ -62916,7 +62918,7 @@ Are you sure you want to remove it?</source>
     </message>
     <message>
         <source>Content orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Innehållsorientering</translation>
     </message>
     <message>
         <source>Flags</source>
@@ -62924,11 +62926,11 @@ Are you sure you want to remove it?</source>
     </message>
     <message>
         <source>Modality</source>
-        <translation type="unfinished"></translation>
+        <translation>Modalitet</translation>
     </message>
     <message>
         <source>Visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Synlighet</translation>
     </message>
 </context>
 <context>
