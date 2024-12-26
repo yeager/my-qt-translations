@@ -14151,11 +14151,11 @@ a matches issues where the value contains the letter &apos;a&apos;
     </message>
     <message>
         <source>GDB</source>
-        <translation type="unfinished"></translation>
+        <translation>GDB</translation>
     </message>
     <message>
         <source>UVSC</source>
-        <translation type="unfinished"></translation>
+        <translation>UVSC</translation>
     </message>
     <message>
         <source>GDB compatible provider engine
@@ -14253,7 +14253,7 @@ a matches issues where the value contains the letter &apos;a&apos;
     </message>
     <message>
         <source>Speed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Hastighet:</translation>
     </message>
     <message>
         <source>Do not use EBlink flash cache.</source>
@@ -14281,11 +14281,11 @@ a matches issues where the value contains the letter &apos;a&apos;
     </message>
     <message>
         <source>SWD</source>
-        <translation type="unfinished"></translation>
+        <translation>SWD</translation>
     </message>
     <message>
         <source>JTAG</source>
-        <translation type="unfinished"></translation>
+        <translation>JTAG</translation>
     </message>
     <message>
         <source>Cannot debug: Local executable is not set.</source>
@@ -14345,7 +14345,7 @@ a matches issues where the value contains the letter &apos;a&apos;
     </message>
     <message>
         <source>JLink</source>
-        <translation type="unfinished"></translation>
+        <translation>JLink</translation>
     </message>
     <message>
         <source>JLink GDB Server (JLinkGDBServerCL.exe)</source>
@@ -14357,7 +14357,7 @@ a matches issues where the value contains the letter &apos;a&apos;
     </message>
     <message>
         <source>IP Address</source>
-        <translation type="unfinished"></translation>
+        <translation>IP-adress</translation>
     </message>
     <message>
         <source>Host interface:</source>
@@ -14373,11 +14373,11 @@ a matches issues where the value contains the letter &apos;a&apos;
     </message>
     <message>
         <source>Device:</source>
-        <translation type="unfinished"></translation>
+        <translation>Enhet:</translation>
     </message>
     <message>
         <source>Additional arguments:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ytterligare argument:</translation>
     </message>
     <message>
         <source>Default</source>
@@ -14385,23 +14385,23 @@ a matches issues where the value contains the letter &apos;a&apos;
     </message>
     <message>
         <source>USB</source>
-        <translation type="unfinished"></translation>
+        <translation>USB</translation>
     </message>
     <message>
         <source>TCP/IP</source>
-        <translation type="unfinished"></translation>
+        <translation>TCP/IP</translation>
     </message>
     <message>
         <source>Compact JTAG</source>
-        <translation type="unfinished"></translation>
+        <translation>Kompakt JTAG</translation>
     </message>
     <message>
         <source>Renesas RX FINE</source>
-        <translation type="unfinished"></translation>
+        <translation>Renesas RX FINE</translation>
     </message>
     <message>
         <source>ICSP</source>
-        <translation type="unfinished"></translation>
+        <translation>ICSP</translation>
     </message>
     <message>
         <source>Auto</source>
@@ -14413,11 +14413,11 @@ a matches issues where the value contains the letter &apos;a&apos;
     </message>
     <message>
         <source>%1 kHz</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 kHz</translation>
     </message>
     <message>
         <source>OpenOCD</source>
-        <translation type="unfinished"></translation>
+        <translation>OpenOCD</translation>
     </message>
     <message>
         <source>Root scripts directory:</source>
@@ -14461,11 +14461,11 @@ a matches issues where the value contains the letter &apos;a&apos;
     </message>
     <message>
         <source>ST-LINK/V1</source>
-        <translation type="unfinished"></translation>
+        <translation>ST-LINK/V1</translation>
     </message>
     <message>
         <source>ST-LINK/V2</source>
-        <translation type="unfinished"></translation>
+        <translation>ST-LINK/V2</translation>
     </message>
     <message>
         <source>Keep unspecified</source>
@@ -14489,51 +14489,51 @@ a matches issues where the value contains the letter &apos;a&apos;
     </message>
     <message>
         <source>50MHz</source>
-        <translation type="unfinished"></translation>
+        <translation>50MHz</translation>
     </message>
     <message>
         <source>33MHz</source>
-        <translation type="unfinished"></translation>
+        <translation>33MHz</translation>
     </message>
     <message>
         <source>25MHz</source>
-        <translation type="unfinished"></translation>
+        <translation>25MHz</translation>
     </message>
     <message>
         <source>20MHz</source>
-        <translation type="unfinished"></translation>
+        <translation>20MHz</translation>
     </message>
     <message>
         <source>10MHz</source>
-        <translation type="unfinished"></translation>
+        <translation>10MHz</translation>
     </message>
     <message>
         <source>5MHz</source>
-        <translation type="unfinished"></translation>
+        <translation>5MHz</translation>
     </message>
     <message>
         <source>3MHz</source>
-        <translation type="unfinished"></translation>
+        <translation>3MHz</translation>
     </message>
     <message>
         <source>2MHz</source>
-        <translation type="unfinished"></translation>
+        <translation>2MHz</translation>
     </message>
     <message>
         <source>1MHz</source>
-        <translation type="unfinished"></translation>
+        <translation>1MHz</translation>
     </message>
     <message>
         <source>500kHz</source>
-        <translation type="unfinished"></translation>
+        <translation>500kHz</translation>
     </message>
     <message>
         <source>200kHz</source>
-        <translation type="unfinished"></translation>
+        <translation>200kHz</translation>
     </message>
     <message>
         <source>100kHz</source>
-        <translation type="unfinished"></translation>
+        <translation>100kHz</translation>
     </message>
     <message>
         <source>uVision Simulator</source>
@@ -14553,71 +14553,71 @@ a matches issues where the value contains the letter &apos;a&apos;
     </message>
     <message>
         <source>9MHz</source>
-        <translation type="unfinished"></translation>
+        <translation>9MHz</translation>
     </message>
     <message>
         <source>4.5MHz</source>
-        <translation type="unfinished"></translation>
+        <translation>4.5MHz</translation>
     </message>
     <message>
         <source>2.25MHz</source>
-        <translation type="unfinished"></translation>
+        <translation>2.25MHz</translation>
     </message>
     <message>
         <source>1.12MHz</source>
-        <translation type="unfinished"></translation>
+        <translation>1.12MHz</translation>
     </message>
     <message>
         <source>560kHz</source>
-        <translation type="unfinished"></translation>
+        <translation>560kHz</translation>
     </message>
     <message>
         <source>280kHz</source>
-        <translation type="unfinished"></translation>
+        <translation>280kHz</translation>
     </message>
     <message>
         <source>140kHz</source>
-        <translation type="unfinished"></translation>
+        <translation>140kHz</translation>
     </message>
     <message>
         <source>4MHz</source>
-        <translation type="unfinished"></translation>
+        <translation>4MHz</translation>
     </message>
     <message>
         <source>1.8MHz</source>
-        <translation type="unfinished"></translation>
+        <translation>1.8MHz</translation>
     </message>
     <message>
         <source>950kHz</source>
-        <translation type="unfinished"></translation>
+        <translation>950kHz</translation>
     </message>
     <message>
         <source>480kHz</source>
-        <translation type="unfinished"></translation>
+        <translation>480kHz</translation>
     </message>
     <message>
         <source>240kHz</source>
-        <translation type="unfinished"></translation>
+        <translation>240kHz</translation>
     </message>
     <message>
         <source>125kHz</source>
-        <translation type="unfinished"></translation>
+        <translation>125kHz</translation>
     </message>
     <message>
         <source>50kHz</source>
-        <translation type="unfinished"></translation>
+        <translation>50kHz</translation>
     </message>
     <message>
         <source>25kHz</source>
-        <translation type="unfinished"></translation>
+        <translation>25kHz</translation>
     </message>
     <message>
         <source>15kHz</source>
-        <translation type="unfinished"></translation>
+        <translation>15kHz</translation>
     </message>
     <message>
         <source>5kHz</source>
-        <translation type="unfinished"></translation>
+        <translation>5kHz</translation>
     </message>
     <message>
         <source>Unable to create a uVision project template.</source>
@@ -14633,7 +14633,7 @@ a matches issues where the value contains the letter &apos;a&apos;
     </message>
     <message>
         <source>Target device:</source>
-        <translation type="unfinished"></translation>
+        <translation>Målenhet:</translation>
     </message>
     <message>
         <source>Target driver:</source>
@@ -14641,7 +14641,7 @@ a matches issues where the value contains the letter &apos;a&apos;
     </message>
     <message>
         <source>Starting %1...</source>
-        <translation type="unfinished"></translation>
+        <translation>Startar %1...</translation>
     </message>
     <message>
         <source>Version</source>
@@ -14686,19 +14686,19 @@ a matches issues where the value contains the letter &apos;a&apos;
     </message>
     <message>
         <source>FLASH:</source>
-        <translation type="unfinished"></translation>
+        <translation>FLASH:</translation>
     </message>
     <message>
         <source>Start address.</source>
-        <translation type="unfinished"></translation>
+        <translation>Startadress.</translation>
     </message>
     <message>
         <source>Size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Storlek.</translation>
     </message>
     <message>
         <source>RAM:</source>
-        <translation type="unfinished"></translation>
+        <translation>RAM:</translation>
     </message>
     <message>
         <source>Vendor:</source>
@@ -14714,7 +14714,7 @@ a matches issues where the value contains the letter &apos;a&apos;
     </message>
     <message>
         <source>Memory:</source>
-        <translation type="unfinished"></translation>
+        <translation>Minne:</translation>
     </message>
     <message>
         <source>Flash algorithm:</source>
@@ -14758,11 +14758,11 @@ a matches issues where the value contains the letter &apos;a&apos;
     </message>
     <message>
         <source>IAREW %1 (%2, %3)</source>
-        <translation type="unfinished"></translation>
+        <translation>IAREW %1 (%2, %3)</translation>
     </message>
     <message>
         <source>IAREW</source>
-        <translation type="unfinished"></translation>
+        <translation>IAREW</translation>
     </message>
     <message>
         <source>Platform codegen flags:</source>
@@ -14770,7 +14770,7 @@ a matches issues where the value contains the letter &apos;a&apos;
     </message>
     <message>
         <source>&amp;ABI:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ABI:</translation>
     </message>
     <message>
         <source>Enter the name of the debugger server provider.</source>
@@ -14786,19 +14786,19 @@ a matches issues where the value contains the letter &apos;a&apos;
     </message>
     <message>
         <source>KEIL %1 (%2, %3)</source>
-        <translation type="unfinished"></translation>
+        <translation>KEIL %1 (%2, %3)</translation>
     </message>
     <message>
         <source>KEIL</source>
-        <translation type="unfinished"></translation>
+        <translation>KEIL</translation>
     </message>
     <message>
         <source>SDCC %1 (%2, %3)</source>
-        <translation type="unfinished"></translation>
+        <translation>SDCC %1 (%2, %3)</translation>
     </message>
     <message>
         <source>SDCC</source>
-        <translation type="unfinished"></translation>
+        <translation>SDCC</translation>
     </message>
 </context>
 <context>
@@ -15488,7 +15488,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>File Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Filfel</translation>
     </message>
     <message>
         <source>Memory at 0x%1</source>
@@ -15616,7 +15616,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Target: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Mål: %1</translation>
     </message>
     <message>
         <source>CMake arguments:</source>
@@ -15716,7 +15716,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>&amp;Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Katalog</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -15796,7 +15796,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Stop CMake</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoppa CMake</translation>
     </message>
     <message>
         <source>bool</source>
@@ -15924,11 +15924,11 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Build File</source>
-        <translation type="unfinished"></translation>
+        <translation>Bygg fil</translation>
     </message>
     <message>
         <source>Build File &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Bygg filen &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Ctrl+Alt+B</source>
@@ -16013,7 +16013,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Platform:</source>
-        <translation type="unfinished"></translation>
+        <translation>Plattform:</translation>
     </message>
     <message>
         <source>Toolset:</source>
@@ -16057,7 +16057,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Platform: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Plattform: %1</translation>
     </message>
     <message>
         <source>Toolset: %1</source>
@@ -16117,7 +16117,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Run CMake</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör CMake</translation>
     </message>
     <message>
         <source>Targets:</source>
@@ -16189,7 +16189,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>%1 (via cmake)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (via cmake)</translation>
     </message>
     <message>
         <source>cmake generator failed: %1.</source>
@@ -16209,7 +16209,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Running in &quot;%1&quot;: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör i &quot;%1&quot;: %2.</translation>
     </message>
     <message>
         <source>Failed to open %1 for reading.</source>
@@ -16217,7 +16217,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Format &amp;Current File</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatera a&amp;ktuell fil</translation>
     </message>
     <message>
         <source>Enable auto format on file save</source>
@@ -16225,7 +16225,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Restrict to MIME types:</source>
-        <translation type="unfinished"></translation>
+        <translation>Begränsa till MIME-typer:</translation>
     </message>
     <message>
         <source>Restrict to files contained in the current project</source>
@@ -16276,11 +16276,11 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Running %1 in %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör %1 i %2.</translation>
     </message>
     <message>
         <source>Configuring &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurerar &quot;%1&quot;</translation>
     </message>
     <message>
         <source>No cmake tool set.</source>
@@ -16373,7 +16373,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source> (Default)</source>
-        <translation type="unfinished"></translation>
+        <translation> (Standard)</translation>
     </message>
     <message>
         <source>CMake executable path does not exist.</source>
@@ -16421,7 +16421,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Help file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Hjälpfil:</translation>
     </message>
     <message>
         <source>Add</source>
@@ -16449,7 +16449,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>New CMake</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny CMake</translation>
     </message>
     <message>
         <source>Tools</source>
@@ -16509,7 +16509,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Found &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Hittade &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Removing CMake entries...</source>
@@ -16521,7 +16521,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>CMake:</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake:</translation>
     </message>
     <message>
         <source>System CMake at %1</source>
@@ -16537,23 +16537,23 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Kit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kit:</translation>
     </message>
     <message>
         <source>Initial Configuration:</source>
-        <translation type="unfinished"></translation>
+        <translation>Initial konfiguration:</translation>
     </message>
     <message>
         <source>Expands to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Expanderar till:</translation>
     </message>
     <message>
         <source>Current Configuration:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuell konfiguration:</translation>
     </message>
     <message>
         <source>Not in CMakeCache.txt</source>
-        <translation type="unfinished"></translation>
+        <translation>Inte i CMakeCache.txt</translation>
     </message>
     <message>
         <source>Type:</source>
@@ -16561,11 +16561,11 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Select a file for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en fil för %1</translation>
     </message>
     <message>
         <source>Select a directory for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en katalog för %1</translation>
     </message>
     <message>
         <source>&lt;Build Directory&gt;</source>
@@ -16672,15 +16672,15 @@ Make sure that CMAKE_BUILD_TYPE variable matches the &quot;Build type&quot; fiel
     </message>
     <message>
         <source>Failed to rename &quot;%1&quot; to &quot;%2&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att byta namn på &quot;%1&quot; till &quot;%2&quot;.</translation>
     </message>
     <message>
         <source>Failed to copy &quot;%1&quot; to &quot;%2&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att kopiera &quot;%1&quot; till &quot;%2&quot;.</translation>
     </message>
     <message>
         <source>&lt;File System&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Filsystem&gt;</translation>
     </message>
     <message>
         <source>Call stack:</source>
@@ -16688,11 +16688,11 @@ Make sure that CMAKE_BUILD_TYPE variable matches the &quot;Build type&quot; fiel
     </message>
     <message>
         <source>Failed to read file &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att läsa filen &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Invalid file &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig fil &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Invalid &quot;version&quot; in file &quot;%1&quot;.</source>
@@ -45981,11 +45981,11 @@ The affected files are:
     <name>QtC::QmakeProjectManager</name>
     <message>
         <source>Unable to start &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte starta &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Qt Widgets Designer is not responding (%1).</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt Widgets Designer svarar inte (%1).</translation>
     </message>
     <message>
         <source>Unable to create server socket: %1</source>
@@ -46025,7 +46025,7 @@ The affected files are:
     </message>
     <message>
         <source>Use global setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd global inställning</translation>
     </message>
     <message>
         <source>qmake system() behavior when parsing:</source>
@@ -46033,11 +46033,11 @@ The affected files are:
     </message>
     <message>
         <source>Error:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel:</translation>
     </message>
     <message>
         <source>Warning:</source>
-        <translation type="unfinished"></translation>
+        <translation>Varning:</translation>
     </message>
     <message>
         <source>The build directory contains a build for a different project, which will be overwritten.</source>
@@ -46116,7 +46116,7 @@ The affected files are:
     </message>
     <message>
         <source>Build &amp;Subproject</source>
-        <translation type="unfinished"></translation>
+        <translation>Bygg &amp;underprojekt</translation>
     </message>
     <message>
         <source>Build &amp;Subproject &quot;%1&quot;</source>
@@ -46124,7 +46124,7 @@ The affected files are:
     </message>
     <message>
         <source>Rebuild Subproject</source>
-        <translation type="unfinished"></translation>
+        <translation>Bygg om underprojekt</translation>
     </message>
     <message>
         <source>Clean Subproject</source>
@@ -46201,11 +46201,11 @@ The affected files are:
     </message>
     <message>
         <source>&lt;b&gt;qmake:&lt;/b&gt; No Qt version set. Cannot run qmake.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;qmake:&lt;/b&gt; Ingen Qt-version inställd. Kan inte köra qmake.</translation>
     </message>
     <message>
         <source>&lt;b&gt;qmake:&lt;/b&gt; %1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;qmake:&lt;/b&gt; %1 %2</translation>
     </message>
     <message>
         <source>QMake</source>
@@ -46249,7 +46249,7 @@ The affected files are:
     </message>
     <message>
         <source>Icon file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikonfil:</translation>
     </message>
     <message>
         <source>&amp;Link library</source>
@@ -46265,7 +46265,7 @@ The affected files are:
     </message>
     <message>
         <source>&amp;Description</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Beskrivning</translation>
     </message>
     <message>
         <source>G&amp;roup:</source>
@@ -46277,7 +46277,7 @@ The affected files are:
     </message>
     <message>
         <source>W&amp;hat&apos;s this:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vad är det &amp;här:</translation>
     </message>
     <message>
         <source>The widget is a &amp;container</source>
@@ -46289,15 +46289,15 @@ The affected files are:
     </message>
     <message>
         <source>dom&amp;XML:</source>
-        <translation type="unfinished"></translation>
+        <translation>dom&amp;XML:</translation>
     </message>
     <message>
         <source>Select Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj ikon</translation>
     </message>
     <message>
         <source>Icon files (*.png *.ico *.jpg *.xpm *.tif *.svg)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikonfiler (*.png *.ico *.jpg *.xpm *.tif *.svg)</translation>
     </message>
     <message>
         <source>Specify the properties of the plugin library and the collection class.</source>
@@ -46321,7 +46321,7 @@ The affected files are:
     </message>
     <message>
         <source>Resource file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Resursfil:</translation>
     </message>
     <message>
         <source>icons.qrc</source>
@@ -46337,7 +46337,7 @@ The affected files are:
     </message>
     <message>
         <source>&lt;New class&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Ny klass&gt;</translation>
     </message>
     <message>
         <source>Confirm Delete</source>
@@ -46398,7 +46398,7 @@ The affected files are:
     </message>
     <message>
         <source>Qt version is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt-versionen är ogiltig.</translation>
     </message>
     <message>
         <source>No C++ compiler set in kit.</source>
@@ -46475,7 +46475,7 @@ Please update your kit (%3) or choose a mkspec for qmake that matches your targe
     </message>
     <message>
         <source>Dynamic</source>
-        <translation type="unfinished"></translation>
+        <translation>Dynamisk</translation>
     </message>
     <message>
         <source>Static</source>
@@ -46531,7 +46531,7 @@ Please update your kit (%3) or choose a mkspec for qmake that matches your targe
     </message>
     <message>
         <source>Add Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till bibliotek</translation>
     </message>
     <message>
         <source>Summary</source>
@@ -46539,7 +46539,7 @@ Please update your kit (%3) or choose a mkspec for qmake that matches your targe
     </message>
     <message>
         <source>Library Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Bibliotekstyp</translation>
     </message>
     <message>
         <source>Choose the type of the library to link to</source>
@@ -46547,7 +46547,7 @@ Please update your kit (%3) or choose a mkspec for qmake that matches your targe
     </message>
     <message>
         <source>System library</source>
-        <translation type="unfinished"></translation>
+        <translation>Systembibliotek</translation>
     </message>
     <message>
         <source>Links to a system library.
@@ -46556,7 +46556,7 @@ Neither the path to the library nor the path to its includes is added to the .pr
     </message>
     <message>
         <source>System package</source>
-        <translation type="unfinished"></translation>
+        <translation>Systempaket</translation>
     </message>
     <message>
         <source>Links to a system library using pkg-config.</source>
@@ -46564,7 +46564,7 @@ Neither the path to the library nor the path to its includes is added to the .pr
     </message>
     <message>
         <source>External library</source>
-        <translation type="unfinished"></translation>
+        <translation>Externt bibliotek</translation>
     </message>
     <message>
         <source>Links to a library that is not located in your build tree.
@@ -46575,7 +46575,7 @@ Ajoute la bibliothèque et les chemins d’inclusion dans le fichier .pro.</tran
     </message>
     <message>
         <source>Internal library</source>
-        <translation type="unfinished"></translation>
+        <translation>Internt bibliotek</translation>
     </message>
     <message>
         <source>Links to a library that is located in your build tree.
@@ -46584,7 +46584,7 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>System Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Systembibliotek</translation>
     </message>
     <message>
         <source>Specify the library to link to</source>
@@ -46592,7 +46592,7 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>System Package</source>
-        <translation type="unfinished"></translation>
+        <translation>Systempaket</translation>
     </message>
     <message>
         <source>Specify the package to link to</source>
@@ -46600,7 +46600,7 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>External Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Externt bibliotek</translation>
     </message>
     <message>
         <source>Specify the library to link to and the includes path</source>
@@ -46608,7 +46608,7 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>Internal Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Internt bibliotek</translation>
     </message>
     <message>
         <source>Choose the project file of the library to link to</source>
@@ -46656,7 +46656,7 @@ Adds the library and include paths to the .pro file.</source>
     <message>
         <source>New Subproject</source>
         <comment>Title of dialog</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nytt underprojekt</translation>
     </message>
     <message>
         <source>Error while parsing file %1. Giving up.</source>
@@ -46680,7 +46680,7 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>Resources</source>
-        <translation type="unfinished"></translation>
+        <translation>Resurser</translation>
     </message>
     <message>
         <source>QML</source>
@@ -46692,7 +46692,7 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>Generated Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Genererade filer</translation>
     </message>
     <message>
         <source>Failed</source>
@@ -46704,7 +46704,7 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>File Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Filfel</translation>
     </message>
     <message>
         <source>Could not find .pro file for subdirectory &quot;%1&quot; in &quot;%2&quot;.</source>
@@ -46716,7 +46716,7 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>Additional arguments:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ytterligare argument:</translation>
     </message>
     <message>
         <source>Effective qmake call:</source>
@@ -46728,7 +46728,7 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>Qt mkspec</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt mkspec</translation>
     </message>
     <message>
         <source>No Qt version set, so mkspec is ignored.</source>
@@ -46740,7 +46740,7 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>mkspec</source>
-        <translation type="unfinished"></translation>
+        <translation>mkspec</translation>
     </message>
     <message>
         <source>Mkspec configured for qmake by the kit.</source>
@@ -48048,7 +48048,7 @@ Please build the qmldump application on the Qt version options page.</source>
     <name>QtC::QmlProfiler</name>
     <message>
         <source>QML Profiler</source>
-        <translation type="unfinished"></translation>
+        <translation>QML-profilerare</translation>
     </message>
     <message>
         <source>&amp;Port:</source>
@@ -48064,11 +48064,11 @@ Please build the qmldump application on the Qt version options page.</source>
     </message>
     <message>
         <source>Kit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kit:</translation>
     </message>
     <message>
         <source>Source code not available</source>
-        <translation type="unfinished"></translation>
+        <translation>Källkod inte tillgänglig</translation>
     </message>
     <message>
         <source>Calls</source>
@@ -48125,11 +48125,11 @@ Please use the stop button instead.</source>
     </message>
     <message>
         <source>Disable Profiling</source>
-        <translation type="unfinished"></translation>
+        <translation>Inaktivera profilering</translation>
     </message>
     <message>
         <source>Enable Profiling</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivera profilering</translation>
     </message>
     <message>
         <source>A QML Profiler analysis is still in progress.</source>
@@ -48150,7 +48150,7 @@ Do you want to retry and wait %2 s?</source>
     </message>
     <message>
         <source>Failed to connect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att ansluta.</translation>
     </message>
     <message>
         <source>%1 s</source>
@@ -48158,7 +48158,7 @@ Do you want to retry and wait %2 s?</source>
     </message>
     <message>
         <source>Elapsed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Förflutet: %1</translation>
     </message>
     <message>
         <source>QML traces (*%1 *%2)</source>
@@ -48183,7 +48183,7 @@ Do you want to save the data first?</source>
     </message>
     <message>
         <source>Discard data</source>
-        <translation type="unfinished"></translation>
+        <translation>Förkasta data</translation>
     </message>
     <message>
         <source>Pixmap Cache</source>
@@ -48470,7 +48470,7 @@ Do you want to save the data first?</source>
     </message>
     <message>
         <source>Animations</source>
-        <translation type="unfinished"></translation>
+        <translation>Animeringar</translation>
     </message>
     <message>
         <source>GUI Thread</source>
@@ -48527,27 +48527,27 @@ Saving failed.</source>
     </message>
     <message>
         <source>Debug Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Felsökningsmeddelande</translation>
     </message>
     <message>
         <source>Warning Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Varningsmeddelande</translation>
     </message>
     <message>
         <source>Critical Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Kritiskt meddelande</translation>
     </message>
     <message>
         <source>Fatal Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Ödesdigert meddelande</translation>
     </message>
     <message>
         <source>Info Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Informationsmeddelande</translation>
     </message>
     <message>
         <source>Unknown Message %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Okänt meddelande %1</translation>
     </message>
     <message>
         <source>Timestamp</source>
@@ -48571,11 +48571,11 @@ Saving failed.</source>
     </message>
     <message>
         <source>Mouse Events</source>
-        <translation type="unfinished"></translation>
+        <translation>Mushändelser</translation>
     </message>
     <message>
         <source>Keyboard Events</source>
-        <translation type="unfinished"></translation>
+        <translation>Tangentbordshändelser</translation>
     </message>
     <message>
         <source>Key Press</source>
@@ -48595,7 +48595,7 @@ Saving failed.</source>
     </message>
     <message>
         <source>Double Click</source>
-        <translation type="unfinished"></translation>
+        <translation>Dubbelklick</translation>
     </message>
     <message>
         <source>Mouse Press</source>
@@ -48639,11 +48639,11 @@ Saving failed.</source>
     </message>
     <message>
         <source>Keyboard Event</source>
-        <translation type="unfinished"></translation>
+        <translation>Tangentbordshändelse</translation>
     </message>
     <message>
         <source>Mouse Event</source>
-        <translation type="unfinished"></translation>
+        <translation>Mushändelse</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -48663,7 +48663,7 @@ Saving failed.</source>
     </message>
     <message>
         <source>Load Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Inläsningsfel</translation>
     </message>
     <message>
         <source>Duration</source>
@@ -48720,7 +48720,7 @@ the program.</source>
     </message>
     <message>
         <source>View3D</source>
-        <translation type="unfinished"></translation>
+        <translation>View3D</translation>
     </message>
     <message>
         <source>All</source>
@@ -48736,7 +48736,7 @@ the program.</source>
     </message>
     <message>
         <source>Select View3D</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj View3D</translation>
     </message>
     <message>
         <source>Compare Frame</source>
@@ -50342,13 +50342,15 @@ Control process failed to start.</source>
     <message>
         <source>Created directory: &quot;%1&quot;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Skapade katalog: &quot;%1&quot;.
+</translation>
     </message>
     <message>
         <source>Copied %1/%2: &quot;%3&quot; -&gt; &quot;%4&quot;.
 </source>
         <extracomment>%1/%2 = progress in the form 4/15, %3 and %4 = source and target file paths</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kopierat %1/%2: &quot;%3&quot; -&gt; &quot;%4&quot;.
+</translation>
     </message>
     <message>
         <source>Failed to deploy files.</source>
@@ -50384,7 +50386,7 @@ Control process failed to start.</source>
     </message>
     <message>
         <source>All specified ports are available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alla angivna portar är tillgängliga.</translation>
     </message>
     <message>
         <source>Sending echo to device...</source>
@@ -50442,7 +50444,7 @@ Control process failed to start.</source>
     </message>
     <message>
         <source>%1...</source>
-        <translation type="unfinished"></translation>
+        <translation>%1...</translation>
     </message>
     <message>
         <source>%1 found.</source>
@@ -50648,11 +50650,11 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Create New...</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa ny...</translation>
     </message>
     <message>
         <source>Machine type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Maskintyp:</translation>
     </message>
     <message>
         <source>GDB server executable:</source>
@@ -50845,11 +50847,11 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>&amp;RSA</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;RSA</translation>
     </message>
     <message>
         <source>ECDSA</source>
-        <translation type="unfinished"></translation>
+        <translation>ECDSA</translation>
     </message>
     <message>
         <source>&amp;Generate And Save Key Pair</source>
@@ -51352,7 +51354,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Pick Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj färg</translation>
     </message>
     <message>
         <source>Automatic Color</source>
@@ -51368,7 +51370,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Loading document...</source>
-        <translation type="unfinished"></translation>
+        <translation>Läser in dokument...</translation>
     </message>
     <message>
         <source>State Color</source>
@@ -52172,7 +52174,7 @@ Row: %4, Column: %5
     </message>
     <message>
         <source>Symbolic Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Symboliskt namn</translation>
     </message>
     <message>
         <source>CopyOf</source>
@@ -52360,7 +52362,7 @@ Refusing to record test case &quot;%2&quot;.</source>
     </message>
     <message>
         <source>Remove Shared File</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort delad fil</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -52666,7 +52668,7 @@ Squish server finished with process error %1.</source>
     </message>
     <message>
         <source>%1 (none)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (ingen)</translation>
     </message>
     <message>
         <source>Refusing to run a test case.</source>
@@ -52794,7 +52796,7 @@ Wait until it has finished and try again.</source>
     </message>
     <message>
         <source>&lt;None&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Ingen&gt;</translation>
     </message>
     <message>
         <source>Key is not an object.</source>
@@ -56861,7 +56863,7 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>The path &quot;%1&quot; is not a file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökvägen &quot;%1&quot; är inte en fil.</translation>
     </message>
     <message>
         <source>The directory &quot;%1&quot; does not exist.</source>
@@ -56881,7 +56883,7 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>The path must not be empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökvägen får inte vara tom.</translation>
     </message>
     <message>
         <source>File name:</source>
@@ -56941,7 +56943,7 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>Invalid character &quot;%1&quot; found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltigt tecken &quot;%1&quot; hittades.</translation>
     </message>
     <message>
         <source>The project already exists.</source>
@@ -56949,7 +56951,7 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>A file with that name already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>En fil med det namnet finns redan.</translation>
     </message>
     <message>
         <source>Use as default project location</source>
@@ -56961,11 +56963,11 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>Choose the Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj platsen</translation>
     </message>
     <message>
         <source>File Changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen ändrades</translation>
     </message>
     <message>
         <source>Details</source>
@@ -57010,7 +57012,7 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation>S&amp;täng</translation>
     </message>
     <message>
         <source>No to All &amp;&amp; &amp;Diff</source>
@@ -57018,7 +57020,7 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>File Has Been Removed</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen har tagits bort</translation>
     </message>
     <message>
         <source>The file %1 has been removed from disk. Do you want to save it under a different name, or close the editor?</source>
@@ -57074,7 +57076,7 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>The process is not responding.</source>
-        <translation type="unfinished"></translation>
+        <translation>Processen svarar inte.</translation>
     </message>
     <message>
         <source>The process &quot;%1&quot; is not responding.</source>
@@ -57225,7 +57227,7 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>Failed to copy file &quot;%1&quot; to &quot;%2&quot;: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att kopiera filen &quot;%1&quot; till &quot;%2&quot;: %3</translation>
     </message>
     <message>
         <source>File &quot;%1&quot; does not exist.</source>
@@ -57245,7 +57247,7 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>Failed reading file &quot;%1&quot;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att läsa filen &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <source>Failed writing file &quot;%1&quot;: %2</source>
@@ -57257,7 +57259,7 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>File Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Filfel</translation>
     </message>
     <message>
         <source>Cannot write file %1: %2</source>
@@ -57420,7 +57422,7 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>Command failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommandot misslyckades.</translation>
     </message>
     <message>
         <source>Running %1
@@ -57467,7 +57469,7 @@ i &quot;%2&quot;.
     </message>
     <message>
         <source>Edit Environment</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera miljö</translation>
     </message>
     <message>
         <source>%1 on %2</source>
