@@ -28,7 +28,7 @@ Qt Installer Framework 4.8.1
 .
 .
 
-Updating 'ifw_sv.qm'...
+Updating 'ifw_sv.qm'... (Tack för granskningen, Anders Jonsson)
 
     Genererade 684 översättningar (684 slutförda och 0 oavslutade)
 
