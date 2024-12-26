@@ -1426,7 +1426,7 @@ It should be a relative path.</source>
     <name>CameraSpeedConfigurationDialog</name>
     <message>
         <source>Camera Speed Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurera kamerahastighet</translation>
     </message>
     <message>
         <source>The speed camera moves when controlled by keyboard.</source>
@@ -2333,23 +2333,23 @@ Detta går inte att ångra.</translation>
     <name>ContentLibraryTexture</name>
     <message>
         <source>Texture was already downloaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Texturen har redan hämtad.</translation>
     </message>
     <message>
         <source>Network/Texture unavailable or broken Link.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nätverk/Textur inte tillgänglig eller trasig länk.</translation>
     </message>
     <message>
         <source>Could not download texture.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte hämta textur.</translation>
     </message>
     <message>
         <source>Click to download the texture.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicka för att hämta texturen.</translation>
     </message>
     <message>
         <source>Updating...</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdaterar...</translation>
     </message>
     <message>
         <source>Progress:</source>
@@ -2365,7 +2365,7 @@ Detta går inte att ångra.</translation>
     </message>
     <message>
         <source>Update texture</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdatera textur</translation>
     </message>
     <message>
         <source>Extracting...</source>
@@ -2388,7 +2388,7 @@ Detta går inte att ångra.</translation>
     </message>
     <message>
         <source>Remove from Content Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort från innehållsbibliotek</translation>
     </message>
 </context>
 <context>
@@ -2464,7 +2464,7 @@ Detta går inte att ångra.</translation>
     <name>ControlSection</name>
     <message>
         <source>Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontroll</translation>
     </message>
     <message>
         <source>Enable</source>
@@ -2476,7 +2476,7 @@ Detta går inte att ångra.</translation>
     </message>
     <message>
         <source>Sets focus method.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anger fokusmetoden.</translation>
     </message>
     <message>
         <source>Sets the spacing between internal elements of the component.</source>
@@ -2492,7 +2492,7 @@ Detta går inte att ångra.</translation>
     </message>
     <message>
         <source>Focus policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Fokuspolicy</translation>
     </message>
     <message>
         <source>Spacing</source>
@@ -2500,7 +2500,7 @@ Detta går inte att ångra.</translation>
     </message>
     <message>
         <source>Wheel</source>
-        <translation type="unfinished"></translation>
+        <translation>Hjul</translation>
     </message>
 </context>
 <context>
@@ -2530,7 +2530,7 @@ Detta går inte att ångra.</translation>
     </message>
     <message>
         <source>Are you sure? The action cannot be undone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Är du säker? Åtgärden kan inte ångras.</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -2553,7 +2553,7 @@ Detta går inte att ångra.</translation>
     </message>
     <message>
         <source>Document Cannot Be Written</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokumentet kan inte skrivas</translation>
     </message>
     <message>
         <source>An error occurred during a write attemp.</source>
@@ -2759,7 +2759,7 @@ defined in &lt;b&gt;Step size&lt;/b&gt;.</source>
     </message>
     <message>
         <source>Edge</source>
-        <translation type="unfinished"></translation>
+        <translation>Kant</translation>
     </message>
     <message>
         <source>Defines the edge of the window the drawer will open from.</source>
@@ -2778,15 +2778,15 @@ defined in &lt;b&gt;Step size&lt;/b&gt;.</source>
     <name>DynamicPropertiesSection</name>
     <message>
         <source>Local Custom Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokalt anpassade egenskaper</translation>
     </message>
     <message>
         <source>No editor for type: </source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen redigerare för typen: </translation>
     </message>
     <message>
         <source>Add New Property</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till ny egenskap</translation>
     </message>
     <message>
         <source>Name</source>
@@ -2798,7 +2798,7 @@ defined in &lt;b&gt;Step size&lt;/b&gt;.</source>
     </message>
     <message>
         <source>Add Property</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till egenskap</translation>
     </message>
 </context>
 <context>
@@ -2853,7 +2853,7 @@ defined in &lt;b&gt;Step size&lt;/b&gt;.</source>
     </message>
     <message>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Ram</translation>
     </message>
     <message>
         <source>This property allows explicit control of current animation frame.</source>
@@ -3153,19 +3153,19 @@ The foreground component should be transparent, and the background component sho
     <name>EmptyTextureEditorPane</name>
     <message>
         <source>&lt;b&gt;Texture Editor&lt;/b&gt; is not supported in Qt5 projects.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Texturredigerare&lt;/b&gt; stöds inte i Qt5-projekt.</translation>
     </message>
     <message>
         <source>To use &lt;b&gt;Texture Editor&lt;/b&gt;, first add the QtQuick3D module in the &lt;b&gt;Components&lt;/b&gt; view.</source>
-        <translation type="unfinished"></translation>
+        <translation>För att använda &lt;b&gt;Texturredigerare&lt;/b&gt; måste du först lägga till QtQuick3D-modulen i &lt;b&gt;Komponenter&lt;/b&gt;-vyn.</translation>
     </message>
     <message>
         <source>&lt;b&gt;Texture Editor&lt;/b&gt; is disabled inside a non-visual component.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Texturredigerare&lt;/b&gt; är inaktiverad inuti en icke-visuell komponent.</translation>
     </message>
     <message>
         <source>There are no textures in this project.&lt;br&gt;Select &apos;&lt;b&gt;+&lt;/b&gt;&apos; to create one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det finns inga texturer i detta projekt.&lt;br&gt;Välj &apos;&lt;b&gt;+&lt;/b&gt;&apos; för att skapa en.</translation>
     </message>
 </context>
 <context>
@@ -3255,7 +3255,7 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>%1 items selected</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 poster markerade</translation>
     </message>
     <message>
         <source>Select All</source>
@@ -3263,7 +3263,7 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Select None</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj ingen</translation>
     </message>
 </context>
 <context>
@@ -4018,7 +4018,7 @@ a highlight component.</source>
     <name>GroupBoxSpecifics</name>
     <message>
         <source>Group Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Gruppruta</translation>
     </message>
     <message>
         <source>Title</source>
@@ -4026,7 +4026,7 @@ a highlight component.</source>
     </message>
     <message>
         <source>Sets the title for the group box.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anger titeln för grupprutan.</translation>
     </message>
 </context>
 <context>
@@ -4268,7 +4268,8 @@ Ids must begin with a lowercase letter.</source>
     <message>
         <source>Invalid Id: %1
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltigt Id: %1
+%2</translation>
     </message>
 </context>
 <context>
@@ -4339,7 +4340,7 @@ Ids must begin with a lowercase letter.</source>
     <name>ItemsView</name>
     <message>
         <source>Remove Module</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort modul</translation>
     </message>
     <message>
         <source>Expand All</source>
@@ -4351,19 +4352,19 @@ Ids must begin with a lowercase letter.</source>
     </message>
     <message>
         <source>Hide Category</source>
-        <translation type="unfinished"></translation>
+        <translation>Dölj kategori</translation>
     </message>
     <message>
         <source>Show Module Hidden Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa dolda modulkategorier</translation>
     </message>
     <message>
         <source>Show All Hidden Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa alla dolda kategorier</translation>
     </message>
     <message>
         <source>Add Module: </source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till modul: </translation>
     </message>
     <message>
         <source>Edit Component</source>
@@ -4371,7 +4372,7 @@ Ids must begin with a lowercase letter.</source>
     </message>
     <message>
         <source>Add a module.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till en modul.</translation>
     </message>
 </context>
 <context>
@@ -4729,7 +4730,7 @@ a highlight component.</source>
     <name>LoaderSpecifics</name>
     <message>
         <source>Loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Inläsare</translation>
     </message>
     <message>
         <source>Active</source>
@@ -4749,7 +4750,7 @@ a highlight component.</source>
     </message>
     <message>
         <source>Source component</source>
-        <translation type="unfinished"></translation>
+        <translation>Källkomponent</translation>
     </message>
     <message>
         <source>Component to instantiate.</source>
@@ -4757,7 +4758,7 @@ a highlight component.</source>
     </message>
     <message>
         <source>Asynchronous</source>
-        <translation type="unfinished"></translation>
+        <translation>Asynkron</translation>
     </message>
     <message>
         <source>Whether the component will be instantiated asynchronously.</source>
@@ -5063,7 +5064,7 @@ a highlight component.</source>
     </message>
     <message>
         <source>Margins</source>
-        <translation type="unfinished"></translation>
+        <translation>Marginaler</translation>
     </message>
     <message>
         <source>The margins around the item.</source>
@@ -5082,15 +5083,15 @@ a highlight component.</source>
     </message>
     <message>
         <source>&lt;b&gt;Material Browser&lt;/b&gt; is not supported in Qt5 projects.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Materialbläddrare&lt;/b&gt; stöds inte i Qt5-projekt.</translation>
     </message>
     <message>
         <source>To use &lt;b&gt;Material Browser&lt;/b&gt;, first add the QtQuick3D module in the &lt;b&gt;Components&lt;/b&gt; view.</source>
-        <translation type="unfinished"></translation>
+        <translation>För att använda &lt;b&gt;Materialbläddrare&lt;/b&gt;, lägg först till QtQuick3D-modulen i &lt;b&gt;Komponenter&lt;/b&gt;-vyn.</translation>
     </message>
     <message>
         <source>&lt;b&gt;Material Browser&lt;/b&gt; is disabled inside a non-visual component.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Materialbläddrare&lt;/b&gt; är inaktiverad inuti en icke-visuell komponent.</translation>
     </message>
     <message>
         <source>Materials</source>
@@ -5102,7 +5103,7 @@ a highlight component.</source>
     </message>
     <message>
         <source>There are no materials in this project.&lt;br&gt;Select &apos;&lt;b&gt;+&lt;/b&gt;&apos; to create one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det finns inga material i detta projekt.&lt;br&gt;Välj &lt;b&gt;+&lt;/b&gt;&apos; för att skapa ett.</translation>
     </message>
     <message>
         <source>Textures</source>
@@ -5110,7 +5111,7 @@ a highlight component.</source>
     </message>
     <message>
         <source>There are no textures in this project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det finns inga texturer i detta projekt.</translation>
     </message>
 </context>
 <context>
@@ -5164,27 +5165,27 @@ a highlight component.</source>
     <name>MaterialEditorPreview</name>
     <message>
         <source>Select preview environment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj förhandsvisningsmiljö.</translation>
     </message>
     <message>
         <source>Select preview model.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj förhandsvisningsmodell.</translation>
     </message>
     <message>
         <source>Cone</source>
-        <translation type="unfinished"></translation>
+        <translation>Kon</translation>
     </message>
     <message>
         <source>Cube</source>
-        <translation type="unfinished"></translation>
+        <translation>Kub</translation>
     </message>
     <message>
         <source>Cylinder</source>
-        <translation type="unfinished"></translation>
+        <translation>Cylinder</translation>
     </message>
     <message>
         <source>Sphere</source>
-        <translation type="unfinished"></translation>
+        <translation>Sfär</translation>
     </message>
     <message>
         <source>Basic</source>
@@ -5196,11 +5197,11 @@ a highlight component.</source>
     </message>
     <message>
         <source>Studio</source>
-        <translation type="unfinished"></translation>
+        <translation>Studio</translation>
     </message>
     <message>
         <source>Landscape</source>
-        <translation type="unfinished"></translation>
+        <translation>Landskap</translation>
     </message>
 </context>
 <context>
@@ -5241,7 +5242,7 @@ a highlight component.</source>
     <name>MediaPlayerSection</name>
     <message>
         <source>Media Player</source>
-        <translation type="unfinished"></translation>
+        <translation>Mediaspelare</translation>
     </message>
     <message>
         <source>Source</source>
@@ -5249,27 +5250,27 @@ a highlight component.</source>
     </message>
     <message>
         <source>Adds an image from the local file system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägger till en bild från lokala filsystemet.</translation>
     </message>
     <message>
         <source>Playback rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppspelningsfrekvens</translation>
     </message>
     <message>
         <source>Audio output</source>
-        <translation type="unfinished"></translation>
+        <translation>Ljudutgång</translation>
     </message>
     <message>
         <source>Target audio output.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mål för ljudutdata.</translation>
     </message>
     <message>
         <source>Video output</source>
-        <translation type="unfinished"></translation>
+        <translation>Videoutgång</translation>
     </message>
     <message>
         <source>Target video output.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mål för videoutgång.</translation>
     </message>
 </context>
 <context>
@@ -5457,7 +5458,7 @@ Fel:
     <name>MoveToolAction</name>
     <message>
         <source>Activate Move Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivera flyttverktyg</translation>
     </message>
 </context>
 <context>
@@ -5716,27 +5717,27 @@ Fel:
     <name>PageIndicatorSpecifics</name>
     <message>
         <source>Page Indicator</source>
-        <translation type="unfinished"></translation>
+        <translation>Sidindikator</translation>
     </message>
     <message>
         <source>Count</source>
-        <translation type="unfinished"></translation>
+        <translation>Antal</translation>
     </message>
     <message>
         <source>Sets the number of pages.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anger antalet sidor.</translation>
     </message>
     <message>
         <source>Sets the current page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anger aktuell sida.</translation>
     </message>
     <message>
         <source>Toggles if the user can interact with the page indicator.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar om användaren kan interagera med sidindikatorn.</translation>
     </message>
     <message>
         <source>Current</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuell</translation>
     </message>
     <message>
         <source>Interactive</source>
@@ -6075,7 +6076,7 @@ a highlight component.</source>
     <name>ProgressBarSpecifics</name>
     <message>
         <source>Progress Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Förloppsmätare</translation>
     </message>
     <message>
         <source>Value</source>
@@ -6269,7 +6270,7 @@ operation is in progress.</source>
     <name>QKeychain::ReadPasswordJobPrivate</name>
     <message>
         <source>D-Bus is not running</source>
-        <translation type="unfinished"></translation>
+        <translation>D-Bus körs inte</translation>
     </message>
     <message>
         <source>Unknown error</source>
@@ -6308,7 +6309,7 @@ operation is in progress.</source>
     <name>QKeychain::WritePasswordJobPrivate</name>
     <message>
         <source>D-Bus is not running</source>
-        <translation type="unfinished"></translation>
+        <translation>D-Bus körs inte</translation>
     </message>
     <message>
         <source>Unknown error</source>
@@ -6542,14 +6543,14 @@ Do you want to edit this effect?</source>
     </message>
     <message>
         <source>Delete this annotation?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort denna anteckning?</translation>
     </message>
 </context>
 <context>
     <name>QmlDesigner::AnnotationEditorDialog</name>
     <message>
         <source>Annotation Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Anteckningsredigerare</translation>
     </message>
 </context>
 <context>
@@ -6765,19 +6766,19 @@ Exporting assets: %2</source>
     <name>QmlDesigner::AssetExporterPlugin</name>
     <message>
         <source>Asset Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillgångsexport</translation>
     </message>
     <message>
         <source>Issues with exporting assets.</source>
-        <translation type="unfinished"></translation>
+        <translation>Problem med exportering av tillgångar.</translation>
     </message>
     <message>
         <source>Export Components</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportera komponenter</translation>
     </message>
     <message>
         <source>Export components in the current project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportera komponenter i det aktuella projektet.</translation>
     </message>
 </context>
 <context>
@@ -6910,11 +6911,11 @@ Exporting assets: %2</source>
     </message>
     <message>
         <source>Meta+Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta+Space</translation>
     </message>
     <message>
         <source>Ctrl+Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Space</translation>
     </message>
 </context>
 <context>
@@ -7062,7 +7063,7 @@ Exporting assets: %2</source>
     <name>QmlDesigner::ContentLibraryView</name>
     <message>
         <source>Content Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Innehållsbibliotek</translation>
     </message>
     <message>
         <source>Texture Exists</source>
@@ -7127,7 +7128,7 @@ Exporting assets: %2</source>
     <name>QmlDesigner::CurveEditorToolBar</name>
     <message>
         <source>Step</source>
-        <translation type="unfinished"></translation>
+        <translation>Steg</translation>
     </message>
     <message>
         <source>Spline</source>
@@ -7163,7 +7164,7 @@ Exporting assets: %2</source>
     </message>
     <message>
         <source>Not supported for MCUs</source>
-        <translation type="unfinished"></translation>
+        <translation>Stöds inte för MCUer</translation>
     </message>
 </context>
 <context>
@@ -7608,15 +7609,15 @@ Exporting assets: %2</source>
     <name>QmlDesigner::FormEditorView</name>
     <message>
         <source>2D</source>
-        <translation type="unfinished"></translation>
+        <translation>2D</translation>
     </message>
     <message>
         <source>2D view</source>
-        <translation type="unfinished"></translation>
+        <translation>2D-vy</translation>
     </message>
     <message>
         <source>%1 is not supported as the root element by the 2D view.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 stöds inte som rotelementet av 2D-vyn.</translation>
     </message>
 </context>
 <context>
@@ -7780,11 +7781,11 @@ Please check the output pane for more information.</source>
     <name>QmlDesigner::GlobalAnnotationEditor</name>
     <message>
         <source>Global Annotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Global anteckning</translation>
     </message>
     <message>
         <source>Delete this annotation?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort denna anteckning?</translation>
     </message>
 </context>
 <context>
@@ -8067,21 +8068,21 @@ Please check the output pane for more information.</source>
     <name>QmlDesigner::Internal::DebugView</name>
     <message>
         <source>Debug view is enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Felsökningsvy är aktiverad</translation>
     </message>
     <message>
         <source>::nodeReparented:</source>
         <translatorcomment>by looking at the rest of the code, there are some other log calls with strings not marked translatable. So, I guess this one should not be translated.</translatorcomment>
-        <translation type="unfinished"></translation>
+        <translation>::nodeReparented:</translation>
     </message>
     <message>
         <source>::nodeIdChanged:</source>
         <translatorcomment>Same comment as for ::nodeReparented:</translatorcomment>
-        <translation type="unfinished"></translation>
+        <translation>::nodeIdChanged:</translation>
     </message>
     <message>
         <source>Debug View</source>
-        <translation type="unfinished"></translation>
+        <translation>Felsökningsvy</translation>
     </message>
 </context>
 <context>
@@ -8130,7 +8131,7 @@ Please check the output pane for more information.</source>
     </message>
     <message>
         <source>Invalid type %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig typ %1</translation>
     </message>
     <message>
         <source>Unknown property for Type %1</source>
@@ -8535,11 +8536,11 @@ Please check the output pane for more information.</source>
     <name>QmlDesigner::MaterialEditorContextObject</name>
     <message>
         <source>&lt;b&gt;Incompatible properties:&lt;/b&gt;&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Inkompatibla egenskaper:&lt;/b&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>Change Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra typ</translation>
     </message>
     <message>
         <source>Changing the type from %1 to %2 can&apos;t be done without removing incompatible properties.&lt;br&gt;&lt;br&gt;%3</source>
@@ -8756,15 +8757,15 @@ Locked components cannot be modified or selected.</source>
     <name>QmlDesigner::PropertyEditorContextObject</name>
     <message>
         <source>Invalid Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig typ</translation>
     </message>
     <message>
         <source>%1 is an invalid type.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 är en ogiltig typ.</translation>
     </message>
     <message>
         <source>Invalid QML source</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig QML-källa</translation>
     </message>
 </context>
 <context>
@@ -9073,20 +9074,20 @@ Locked components cannot be modified or selected.</source>
     <name>QmlDesigner::SplineEditor</name>
     <message>
         <source>Delete Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort punkt</translation>
     </message>
     <message>
         <source>Smooth Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Mjuk punkt</translation>
     </message>
     <message>
         <source>Corner Point</source>
         <translatorcomment>Opposite of Smooth operation</translatorcomment>
-        <translation type="unfinished"></translation>
+        <translation>Hörnpunkt</translation>
     </message>
     <message>
         <source>Add Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till punkt</translation>
     </message>
     <message>
         <source>Reset Zoom</source>
@@ -9169,7 +9170,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>StatesEditorWidget: %1 cannot be created.%2</source>
-        <translation type="unfinished"></translation>
+        <translation>StatesEditorWidget: %1 kan inte skapas.%2</translation>
     </message>
 </context>
 <context>
@@ -9257,7 +9258,7 @@ Locked components cannot be modified or selected.</source>
     <name>QmlDesigner::SwitchLanguageComboboxAction</name>
     <message>
         <source>Switch the language used by preview.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar språket som används för förhandsvisning.</translation>
     </message>
     <message>
         <source>Default</source>
@@ -9504,7 +9505,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Remove Property</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort egenskap</translation>
     </message>
 </context>
 <context>
@@ -9717,7 +9718,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Transitions</source>
-        <translation type="unfinished"></translation>
+        <translation>Övergångar</translation>
     </message>
     <message>
         <source>Transitions view</source>
@@ -9748,7 +9749,7 @@ Locked components cannot be modified or selected.</source>
     <name>QmlDesigner::TransitionForm</name>
     <message>
         <source>Invalid ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltigt id</translation>
     </message>
     <message>
         <source>%1 already exists.</source>
@@ -9793,19 +9794,19 @@ Locked components cannot be modified or selected.</source>
     <name>QmlDesignerAddResources</name>
     <message>
         <source>Image Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildfiler</translation>
     </message>
     <message>
         <source>Font Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Typsnittsfiler</translation>
     </message>
     <message>
         <source>Sound Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Ljudfiler</translation>
     </message>
     <message>
         <source>Video Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Videofiler</translation>
     </message>
     <message>
         <source>Shader Files</source>
@@ -9813,11 +9814,11 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>3D Assets</source>
-        <translation type="unfinished"></translation>
+        <translation>3D-tillgångar</translation>
     </message>
     <message>
         <source>Qt 3D Studio Presentations</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt 3D Studio-presentationer</translation>
     </message>
     <message>
         <source>Effect Composer Files</source>
@@ -13795,7 +13796,7 @@ Warning: this is an experimental feature and might lead to failing to execute th
     <message>
         <source>Autogen</source>
         <comment>Display name for AutotoolsProjectManager::AutogenStep id.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Autogen</translation>
     </message>
     <message>
         <source>Configuration unchanged, skipping autoreconf step.</source>
@@ -13804,7 +13805,7 @@ Warning: this is an experimental feature and might lead to failing to execute th
     <message>
         <source>Autoreconf</source>
         <comment>Display name for AutotoolsProjectManager::AutoreconfStep id.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Autoreconf</translation>
     </message>
     <message>
         <source>Autotools Manager</source>
@@ -18394,7 +18395,7 @@ Oui :)</translatorcomment>
     </message>
     <message>
         <source>CSMes:</source>
-        <translation type="unfinished"></translation>
+        <translation>CSMes:</translation>
     </message>
 </context>
 <context>
@@ -18585,15 +18586,15 @@ Oui :)</translatorcomment>
     <name>QtC::CompilationDatabaseProjectManager</name>
     <message>
         <source>Change Root Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra rotkatalog</translation>
     </message>
     <message>
         <source>Scan &quot;%1&quot; project tree</source>
-        <translation type="unfinished"></translation>
+        <translation>Sök igenom &quot;%1&quot;-projektträd</translation>
     </message>
     <message>
         <source>Parse &quot;%1&quot; project</source>
-        <translation type="unfinished"></translation>
+        <translation>Tolka &quot;%1&quot;-projektet</translation>
     </message>
 </context>
 <context>
@@ -47990,11 +47991,11 @@ Please build the qmldump application on the Qt version options page.</source>
     </message>
     <message>
         <source>Locates QML functions in any open project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hittar QML-funktioner i något öppet projekt.</translation>
     </message>
     <message>
         <source>Code Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Kodstil</translation>
     </message>
     <message>
         <source>&amp;QML/JS</source>
@@ -48002,12 +48003,12 @@ Please build the qmldump application on the Qt version options page.</source>
     </message>
     <message>
         <source>Reset Code Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Nollställ kodmodell</translation>
     </message>
     <message>
         <source>Global</source>
         <comment>Settings</comment>
-        <translation type="unfinished"></translation>
+        <translation>Global</translation>
     </message>
     <message>
         <source>Qt</source>
@@ -48015,7 +48016,7 @@ Please build the qmldump application on the Qt version options page.</source>
     </message>
     <message>
         <source>Qt Quick</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt Quick</translation>
     </message>
     <message>
         <source>Other</source>
@@ -48038,7 +48039,7 @@ Please build the qmldump application on the Qt version options page.</source>
     </message>
     <message>
         <source>Preview File</source>
-        <translation type="unfinished"></translation>
+        <translation>Förhandsvisa fil</translation>
     </message>
     <message>
         <source>QML Preview Not Running</source>
@@ -60483,7 +60484,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     <name>RadioButtonSpecifics</name>
     <message>
         <source>Radio Button</source>
-        <translation type="unfinished"></translation>
+        <translation>Radioknapp</translation>
     </message>
     <message>
         <source>Text</source>
@@ -60507,7 +60508,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Focus on press</source>
-        <translation type="unfinished"></translation>
+        <translation>Fokus vid tryck</translation>
     </message>
 </context>
 <context>
@@ -60599,11 +60600,11 @@ defined in step size.</source>
     </message>
     <message>
         <source>Fill color</source>
-        <translation type="unfinished"></translation>
+        <translation>Fyllnadsfärg</translation>
     </message>
     <message>
         <source>Sets the color for the background.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anger färgen för bakgrunden.</translation>
     </message>
     <message>
         <source>Border color</source>
@@ -60638,7 +60639,7 @@ defined in step size.</source>
     </message>
     <message>
         <source>Folder name cannot be empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mappnamnet får inte vara tomt.</translation>
     </message>
     <message>
         <source>Could not rename folder. Make sure no folder with the same name exists.</source>
@@ -60684,7 +60685,7 @@ defined in step size.</source>
     <name>ResetEdit3DColorsAction</name>
     <message>
         <source>Reset Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Nollställ färger</translation>
     </message>
     <message>
         <source>Reset the background color and the color of the grid lines of the 3D view to the default values.</source>
@@ -60932,7 +60933,7 @@ This is used for calculating the total implicit size.</source>
     <name>SelectGridColorAction</name>
     <message>
         <source>Select Grid Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj rutnätsfärg</translation>
     </message>
     <message>
         <source>Select a color for the grid lines of the 3D view.</source>
@@ -61869,7 +61870,7 @@ it reaches the start or end.</source>
     <name>TabBarSpecifics</name>
     <message>
         <source>Tab Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Flikrad</translation>
     </message>
     <message>
         <source>Position</source>
@@ -61937,7 +61938,7 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>Tab position</source>
-        <translation type="unfinished"></translation>
+        <translation>Flikposition</translation>
     </message>
     <message>
         <source>Determines the position of the tabs.</source>
@@ -62372,7 +62373,7 @@ This is used for calculating the total implicit size.</source>
     <name>TextSection</name>
     <message>
         <source>Text Area</source>
-        <translation type="unfinished"></translation>
+        <translation>Textyta</translation>
     </message>
     <message>
         <source>Placeholder text</source>
@@ -62410,7 +62411,7 @@ This is used for calculating the total implicit size.</source>
     <name>TextureBrowserContextMenu</name>
     <message>
         <source>Apply to selected model</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillämpa på markerad modell</translation>
     </message>
     <message>
         <source>Apply to selected material</source>
@@ -62430,7 +62431,7 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>Create New Texture</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa ny textur</translation>
     </message>
 </context>
 <context>
@@ -62514,7 +62515,7 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>Interval</source>
-        <translation type="unfinished"></translation>
+        <translation>Intervall</translation>
     </message>
     <message>
         <source>Sets the interval between triggers, in milliseconds.</source>
@@ -62549,7 +62550,7 @@ This is used for calculating the total implicit size.</source>
     <name>ToolBarSpecifics</name>
     <message>
         <source>Tool Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Verktygsrad</translation>
     </message>
     <message>
         <source>Position</source>
@@ -62557,7 +62558,7 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>Position of the toolbar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Position för verktygsraden.</translation>
     </message>
     <message>
         <source>Font</source>
@@ -62568,7 +62569,7 @@ This is used for calculating the total implicit size.</source>
     <name>ToolSeparatorSpecifics</name>
     <message>
         <source>Tool Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Verktygsavgränsare</translation>
     </message>
     <message>
         <source>Orientation</source>
@@ -62576,7 +62577,7 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>Sets the orientation of the separator.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anger orienteringen för avgränsaren.</translation>
     </message>
 </context>
 <context>
