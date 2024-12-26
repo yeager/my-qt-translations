@@ -4,7 +4,6 @@
 <context>
     <name>AboutDialog</name>
     <message>
-        <location filename="../../qttools/src/assistant/assistant/aboutdialog.cpp" line="+105"/>
         <source>&amp;Close</source>
         <translation>S&amp;täng</translation>
     </message>
@@ -12,17 +11,14 @@
 <context>
     <name>AboutLabel</name>
     <message>
-        <location line="-15"/>
         <source>Warning</source>
         <translation>Varning</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Unable to launch external application.</source>
         <translation>Kunde inte starta externt program.</translation>
     </message>
     <message>
-        <location line="+0"/>
         <source>OK</source>
         <translation>Ok</translation>
     </message>
@@ -30,12 +26,10 @@
 <context>
     <name>Assistant</name>
     <message>
-        <location filename="../../qttools/src/assistant/assistant/main.cpp" line="+153"/>
         <source>Error registering documentation file &apos;%1&apos;: %2</source>
         <translation>Fel vid registrering av dokumentationsfilen &apos;%1&apos;: %2</translation>
     </message>
     <message>
-        <location line="+56"/>
         <source>Could not register documentation file
 %1
 
@@ -48,12 +42,10 @@ Anledning:
 %2</translation>
     </message>
     <message>
-        <location line="+6"/>
         <source>Documentation successfully registered.</source>
         <translation>Dokumentationen registrerades.</translation>
     </message>
     <message>
-        <location line="+12"/>
         <source>Could not unregister documentation file
 %1
 
@@ -66,23 +58,18 @@ Anledning:
 %2</translation>
     </message>
     <message>
-        <location line="+8"/>
         <source>Documentation successfully unregistered.</source>
         <translation>Dokumentationen avregistrerades.</translation>
     </message>
     <message>
-        <location line="+53"/>
-        <location line="+18"/>
         <source>Error reading collection file &apos;%1&apos;: %2.</source>
         <translation>Fel vid läsning av samlingsfilen &apos;%1&apos;: %2.</translation>
     </message>
     <message>
-        <location line="-7"/>
         <source>Error creating collection file &apos;%1&apos;: %2.</source>
         <translation>Fel vid skapandet av samlingsfilen &apos;%1&apos;: %2.</translation>
     </message>
     <message>
-        <location line="+55"/>
         <source>Cannot load sqlite database driver!</source>
         <translation>Kan inte läsa in sqlite-databasdrivrutin!</translation>
     </message>
@@ -110,7 +97,6 @@ Anledning:
         <translation>Ny mapp</translation>
     </message>
     <message>
-        <location filename="../../qttools/src/assistant/assistant/bookmarkdialog.cpp" line="+212"/>
         <source>Rename Folder</source>
         <translation>Byt namn på mapp</translation>
     </message>
@@ -118,12 +104,10 @@ Anledning:
 <context>
     <name>BookmarkItem</name>
     <message>
-        <location filename="../../qttools/src/assistant/assistant/bookmarkitem.cpp" line="+139"/>
         <source>New Folder</source>
         <translation>Ny mapp</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Untitled</source>
         <translation>Namnlös</translation>
     </message>
@@ -131,62 +115,50 @@ Anledning:
 <context>
     <name>BookmarkManager</name>
     <message>
-        <location filename="../../qttools/src/assistant/assistant/bookmarkmanager.cpp" line="+149"/>
         <source>Untitled</source>
         <translation>Namnlös</translation>
     </message>
     <message>
-        <location line="+76"/>
         <source>Remove</source>
         <translation>Ta bort</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>You are going to delete a Folder, this will also&lt;br&gt;remove it&apos;s content. Are you sure to continue?</source>
         <translation>Du är på väg att ta bort en mapp. Detta kommer även&lt;br&gt;att ta bort dess innehåll. Vill du fortsätta?</translation>
     </message>
     <message>
-        <location line="+157"/>
         <source>Manage Bookmarks...</source>
         <translation>Hantera bokmärken...</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Add Bookmark...</source>
         <translation>Lägg till bokmärke...</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Ctrl+D</source>
         <translation>Ctrl+D</translation>
     </message>
     <message>
-        <location line="+113"/>
         <source>Delete Folder</source>
         <translation>Ta bort mapp</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Rename Folder</source>
         <translation>Byt namn på mapp</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Show Bookmark</source>
         <translation>Visa bokmärke</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Show Bookmark in New Tab</source>
         <translation>Visa bokmärke i ny flik</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Delete Bookmark</source>
         <translation>Ta bort bokmärke</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Rename Bookmark</source>
         <translation>Byt namn på bokmärke</translation>
     </message>
@@ -202,7 +174,6 @@ Anledning:
         <translation>Sök:</translation>
     </message>
     <message>
-        <location filename="../../qttools/src/assistant/assistant/bookmarkmanagerwidget.cpp" line="+250"/>
         <source>Remove</source>
         <translation>Ta bort</translation>
     </message>
@@ -211,78 +182,62 @@ Anledning:
         <translation>Importera och säkerhetskopiera</translation>
     </message>
     <message>
-        <location filename="../../qttools/src/assistant/assistant/bookmarkmanagerwidget.cpp" line="-30"/>
         <source>OK</source>
         <translation>Ok</translation>
     </message>
     <message>
-        <location filename="../../qttools/src/assistant/assistant/bookmarkmanagerwidget.cpp" line="-148"/>
         <source>Import...</source>
         <translation>Importera...</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Export...</source>
         <translation>Exportera...</translation>
     </message>
     <message>
-        <location line="+117"/>
         <source>Open File</source>
         <translation>Öppna fil</translation>
     </message>
     <message>
-        <location line="+1"/>
-        <location line="+16"/>
         <source>Files (*.xbel)</source>
         <translation>Filer (*.xbel)</translation>
     </message>
     <message>
-        <location line="-1"/>
         <source>Save File</source>
         <translation>Spara fil</translation>
     </message>
     <message>
-        <location line="+12"/>
         <source>Qt Assistant</source>
         <translation>Qt Assistant</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Unable to save bookmarks.</source>
         <translation>Kunde inte spara bokmärken.</translation>
     </message>
     <message>
-        <location line="+30"/>
         <source>You are goingto delete a Folder, this will also&lt;br&gt; remove it&apos;s content. Are you sure to continue?</source>
         <translation>Du är på väg att ta bort en mapp. Detta kommer även&lt;br&gt; att ta bort dess innehåll. Vill du fortsätta?</translation>
     </message>
     <message>
-        <location line="+28"/>
         <source>Delete Folder</source>
         <translation>Ta bort mapp</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Rename Folder</source>
         <translation>Byt namn på mapp</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Show Bookmark</source>
         <translation>Visa bokmärke</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Show Bookmark in New Tab</source>
         <translation>Visa bokmärke i ny flik</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Delete Bookmark</source>
         <translation>Ta bort bokmärke</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Rename Bookmark</source>
         <translation>Byt namn på bokmärke</translation>
     </message>
@@ -290,22 +245,18 @@ Anledning:
 <context>
     <name>BookmarkModel</name>
     <message>
-        <location filename="../../qttools/src/assistant/assistant/bookmarkmodel.cpp" line="+77"/>
         <source>Name</source>
         <translation>Namn</translation>
     </message>
     <message>
-        <location line="+0"/>
         <source>Address</source>
         <translation>Adress</translation>
     </message>
     <message>
-        <location line="+10"/>
         <source>Bookmarks Toolbar</source>
         <translation>Verktygsrad för bokmärken</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>Bookmarks Menu</source>
         <translation>Bokmärkesmeny</translation>
     </message>
@@ -332,7 +283,6 @@ Anledning:
 <context>
     <name>CentralWidget</name>
     <message>
-        <location filename="../../qttools/src/assistant/assistant/centralwidget.cpp" line="+402"/>
         <source>Print Document</source>
         <translation>Skriv ut dokument</translation>
     </message>
@@ -340,7 +290,6 @@ Anledning:
 <context>
     <name>CmdLineParser</name>
     <message>
-        <location filename="../../qttools/src/assistant/assistant/cmdlineparser.cpp" line="+38"/>
         <source>Usage: assistant [Options]
 
 -collectionFile file       Uses the specified collection
@@ -405,62 +354,50 @@ Anledning:
 </translation>
     </message>
     <message>
-        <location line="+87"/>
         <source>Unknown option: %1</source>
         <translation>Okänt alternativ: %1</translation>
     </message>
     <message>
-        <location line="+33"/>
         <source>The collection file &apos;%1&apos; does not exist.</source>
         <translation>Samlingsfilen &quot;%1&quot; finns inte.</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Missing collection file.</source>
         <translation>Saknar samlingfil.</translation>
     </message>
     <message>
-        <location line="+13"/>
         <source>Invalid URL &apos;%1&apos;.</source>
         <translation>Ogiltig URL &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Missing URL.</source>
         <translation>Saknar URL.</translation>
     </message>
     <message>
-        <location line="+36"/>
         <source>Unknown widget: %1</source>
         <translation>Okänd widget: %1</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Missing widget.</source>
         <translation>Saknar widget.</translation>
     </message>
     <message>
-        <location line="+23"/>
         <source>The Qt help file &apos;%1&apos; does not exist.</source>
         <translation>Qt-hjälpfilen &apos;%1&apos; finns inte.</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>Missing help file.</source>
         <translation>Saknar hjälpfil.</translation>
     </message>
     <message>
-        <location line="+10"/>
         <source>Missing filter argument.</source>
         <translation>Saknar filterargument.</translation>
     </message>
     <message>
-        <location line="+20"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Notice</source>
         <translation>Observera</translation>
     </message>
@@ -468,12 +405,10 @@ Anledning:
 <context>
     <name>ContentWindow</name>
     <message>
-        <location filename="../../qttools/src/assistant/assistant/contentwindow.cpp" line="+163"/>
         <source>Open Link</source>
         <translation>Öppna länk</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Open Link in New Tab</source>
         <translation>Öppna länk i ny flik</translation>
     </message>
@@ -481,22 +416,18 @@ Anledning:
 <context>
     <name>FindWidget</name>
     <message>
-        <location filename="../../qttools/src/assistant/assistant/findwidget.cpp" line="+71"/>
         <source>Previous</source>
         <translation>Föregående</translation>
     </message>
     <message>
-        <location line="+6"/>
         <source>Next</source>
         <translation>Nästa</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>Case Sensitive</source>
         <translation>Skiftlägeskänslig</translation>
     </message>
     <message>
-        <location line="+9"/>
         <source>&lt;img src=&quot;:/qt-project.org/assistant/images/wrap.png&quot;&gt;&amp;nbsp;Search wrapped</source>
         <translation>&lt;img src=&quot;:/qt-project.org/assistant/images/wrap.png&quot;&gt;&amp;nbsp;Sökning började om</translation>
     </message>
@@ -504,27 +435,22 @@ Anledning:
 <context>
     <name>FontPanel</name>
     <message>
-        <location filename="../../qttools/src/shared/fontpanel/fontpanel.cpp" line="+61"/>
         <source>Font</source>
         <translation>Typsnitt</translation>
     </message>
     <message>
-        <location line="+12"/>
         <source>&amp;Writing system</source>
         <translation>S&amp;krivsystem</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>&amp;Family</source>
         <translation>&amp;Familj</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>&amp;Style</source>
         <translation>&amp;Stil</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>&amp;Point size</source>
         <translation>&amp;Punktstorlek</translation>
     </message>
@@ -532,52 +458,42 @@ Anledning:
 <context>
     <name>GlobalActions</name>
     <message>
-        <location filename="../../qttools/src/assistant/assistant/globalactions.cpp" line="+63"/>
         <source>&amp;Back</source>
         <translation>&amp;Bakåt</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>&amp;Forward</source>
         <translation>&amp;Framåt</translation>
     </message>
     <message>
-        <location line="+10"/>
         <source>&amp;Home</source>
         <translation>&amp;Hem</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>ALT+Home</source>
         <translation>ALT+Home</translation>
     </message>
     <message>
-        <location line="+9"/>
         <source>Zoom &amp;in</source>
         <translation>Zooma &amp;in</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>Zoom &amp;out</source>
         <translation>Zooma &amp;ut</translation>
     </message>
     <message>
-        <location line="+12"/>
         <source>&amp;Copy selected Text</source>
         <translation>&amp;Kopiera markerad text</translation>
     </message>
     <message>
-        <location line="+10"/>
         <source>&amp;Print...</source>
         <translation>Skriv &amp;ut...</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>&amp;Find in Text...</source>
         <translation>Sök i t&amp;ext...</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>&amp;Find</source>
         <translation>&amp;Sök</translation>
     </message>
@@ -604,24 +520,14 @@ Anledning:
         <source>Remove</source>
         <translation>Ta bort</translation>
     </message>
-    <message>
-        <source>Add Documentation</source>
-        <translation type="vanished">Lägg till dokumentation</translation>
-    </message>
-    <message>
-        <source>Qt Compressed Help Files (*.qch)</source>
-        <translation type="vanished">Qt-komprimerade hjälpfiler (*.qch)</translation>
-    </message>
 </context>
 <context>
     <name>HelpDocSettingsWidgetPrivate</name>
     <message>
-        <location filename="../../qttools/src/assistant/assistant/helpdocsettingswidget.cpp" line="+72"/>
         <source>Add Documentation</source>
         <translation>Lägg till dokumentation</translation>
     </message>
     <message>
-        <location line="+0"/>
         <source>Qt Compressed Help Files (*.qch)</source>
         <translation>Qt-komprimerade hjälpfiler (*.qch)</translation>
     </message>
@@ -629,107 +535,65 @@ Anledning:
 <context>
     <name>HelpViewer</name>
     <message>
-        <location filename="../../qttools/src/assistant/assistant/helpbrowsersupport.cpp" line="+59"/>
         <source>Error 404...</source>
         <translation>Fel 404...</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>The page could not be found</source>
         <translation>Sidan kunde inte hittas</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>Please make sure that you have all documentation sets installed.</source>
         <translation>Försäkra dig om att du har alla dokumentationsuppsättningar installerade.</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>Error loading: %1</source>
         <translation>Fel vid inläsning: %1</translation>
     </message>
     <message>
-        <location filename="../../qttools/src/assistant/assistant/helpviewer.cpp" line="+49"/>
         <source>&lt;title&gt;about:blank&lt;/title&gt;</source>
         <translation>&lt;title&gt;about:blank&lt;/title&gt;</translation>
     </message>
     <message>
-        <location line="+6"/>
         <source>&lt;title&gt;Error 404...&lt;/title&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;h1&gt;The page could not be found.&lt;/h1&gt;&lt;br&gt;&lt;h3&gt;&apos;%1&apos;&lt;/h3&gt;&lt;/div&gt;</source>
         <translation>&lt;title&gt;Fel 404...&lt;/title&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;h1&gt;Sidan kunde inte hittas.&lt;/h1&gt;&lt;br&gt;&lt;h3&gt;&apos;%1&apos;&lt;/h3&gt;&lt;/div&gt;</translation>
     </message>
     <message>
-        <location filename="../../qttools/src/assistant/assistant/helpviewer_qtb.cpp" line="+355"/>
         <source>Open Link</source>
         <translation>Öppna länk</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Open Link in New Tab	Ctrl+LMB</source>
         <translation>Öppna länk i ny flik	Ctrl+LMB</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>Copy &amp;Link Location</source>
         <translation>Kopiera &amp;länkplats</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>Copy</source>
         <translation>Kopiera</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Reload</source>
         <translation>Uppdatera</translation>
     </message>
     <message>
-        <location filename="../../qttools/src/assistant/assistant/helpviewer_qwv.cpp" line="+158"/>
         <source>Open Link in New Page</source>
         <translation>Öppna länk i ny sida</translation>
     </message>
 </context>
 <context>
-    <name>HelpViewerImpl</name>
-    <message>
-        <source>Open Link</source>
-        <translation type="vanished">Öppna länk</translation>
-    </message>
-    <message>
-        <source>Open Link in New Tab	Ctrl+LMB</source>
-        <translation type="vanished">Öppna länk i ny flik	Ctrl+LMB</translation>
-    </message>
-    <message>
-        <source>Copy &amp;Link Location</source>
-        <translation type="vanished">Kopiera &amp;länkplats</translation>
-    </message>
-    <message>
-        <source>Copy</source>
-        <translation type="vanished">Kopiera</translation>
-    </message>
-    <message>
-        <source>Reload</source>
-        <translation type="vanished">Uppdatera</translation>
-    </message>
-    <message>
-        <source>Open Link in New Page</source>
-        <translation type="vanished">Öppna länk i ny sida</translation>
-    </message>
-</context>
-<context>
     <name>IndexWindow</name>
     <message>
-        <location filename="../../qttools/src/assistant/assistant/indexwindow.cpp" line="+59"/>
         <source>&amp;Look for:</source>
         <translation>&amp;Leta efter:</translation>
     </message>
     <message>
-        <location line="+77"/>
         <source>Open Link</source>
         <translation>Öppna länk</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Open Link in New Tab</source>
         <translation>Öppna länk i ny flik</translation>
     </message>
@@ -737,283 +601,218 @@ Anledning:
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../../qttools/src/assistant/assistant/mainwindow.cpp" line="+122"/>
-        <location line="+468"/>
         <source>Index</source>
         <translation>Index</translation>
     </message>
     <message>
-        <location line="-462"/>
-        <location line="+460"/>
         <source>Contents</source>
         <translation>Innehåll</translation>
     </message>
     <message>
-        <location line="-452"/>
-        <location line="+458"/>
         <source>Search</source>
         <translation>Sök</translation>
     </message>
     <message>
-        <location line="-453"/>
-        <location line="+451"/>
         <source>Bookmarks</source>
         <translation>Bokmärken</translation>
     </message>
     <message>
-        <location line="-445"/>
-        <location line="+449"/>
         <source>Open Pages</source>
         <translation>Öppna sidor</translation>
     </message>
     <message>
-        <location line="-427"/>
-        <location line="+746"/>
-        <location line="+281"/>
         <source>Qt Assistant</source>
         <translation>Qt Assistant</translation>
     </message>
     <message>
-        <location line="-996"/>
         <source>Bookmark Toolbar</source>
         <translation>Verktygsrad för bokmärke</translation>
     </message>
     <message>
-        <location line="+262"/>
         <source>Looking for Qt Documentation...</source>
         <translation>Letar efter Qt-dokumentation...</translation>
     </message>
     <message>
-        <location line="+57"/>
         <source>&amp;File</source>
         <translation>&amp;Arkiv</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>New &amp;Tab</source>
         <translation>Ny &amp;flik</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>&amp;Close Tab</source>
         <translation>S&amp;täng flik</translation>
     </message>
     <message>
-        <location line="+11"/>
         <source>Page Set&amp;up...</source>
         <translation>Sid&amp;konfiguration...</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Print Preview...</source>
         <translation>Skriv ut förhandsvisning...</translation>
     </message>
     <message>
-        <location line="+10"/>
         <source>E&amp;xit</source>
         <translation>A&amp;vsluta</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>CTRL+Q</source>
         <translation>CTRL+Q</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>&amp;Quit</source>
         <translation>A&amp;vsluta</translation>
     </message>
     <message>
-        <location line="+6"/>
         <source>&amp;Edit</source>
         <translation>R&amp;edigera</translation>
     </message>
     <message>
-        <location line="+6"/>
         <source>Find &amp;Next</source>
         <translation>Sök &amp;nästa</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>Find &amp;Previous</source>
         <translation>Sök &amp;föregående</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>Preferences...</source>
         <translation>Inställningar...</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>&amp;View</source>
         <translation>&amp;Visa</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>Normal &amp;Size</source>
         <translation>Normal &amp;storlek</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>Ctrl+0</source>
         <translation>Ctrl+0</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>ALT+C</source>
         <translation>ALT+C</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>ALT+I</source>
         <translation>ALT+I</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>ALT+O</source>
         <translation>ALT+O</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>ALT+S</source>
         <translation>ALT+S</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>ALT+P</source>
         <translation>ALT+P</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>&amp;Go</source>
         <translation>&amp;Gå</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>Sync with Table of Contents</source>
         <translation>Synk med innehållsförteckning</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Sync</source>
         <translation>Synk</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>Next Page</source>
         <translation>Nästa sida</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Ctrl+Alt+Right</source>
         <translation>Ctrl+Alt+höger</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Previous Page</source>
         <translation>Föregående sida</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Ctrl+Alt+Left</source>
         <translation>Ctrl+Alt+vänster</translation>
     </message>
     <message>
-        <location line="+17"/>
         <source>&amp;Bookmarks</source>
         <translation>&amp;Bokmärken</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>&amp;Help</source>
         <translation>&amp;Hjälp</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>About...</source>
         <translation>Om...</translation>
     </message>
     <message>
-        <location line="+9"/>
         <source>Navigation Toolbar</source>
         <translation>Verktygsrad för navigation</translation>
     </message>
     <message>
-        <location line="+18"/>
         <source>&amp;Window</source>
         <translation>&amp;Fönster</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Zoom</source>
         <translation>Zoom</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Minimize</source>
         <translation>Minimera</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Ctrl+M</source>
         <translation>Ctrl+M</translation>
     </message>
     <message>
-        <location line="+49"/>
         <source>Toolbars</source>
         <translation>Verktygsrader</translation>
     </message>
     <message>
-        <location line="+16"/>
         <source>Filter Toolbar</source>
         <translation>Verktygsrad för filter</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Filtered by:</source>
         <translation>Filtrerad efter:</translation>
     </message>
     <message>
-        <location line="+26"/>
         <source>Address Toolbar</source>
         <translation>Verktygsrad för adress</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>Address:</source>
         <translation>Adress:</translation>
     </message>
     <message>
-        <location line="+94"/>
         <source>Could not find the associated content item.</source>
         <translation>Kunde inte hitta associerad innehållspost.</translation>
     </message>
     <message>
-        <location line="+49"/>
         <source>&lt;center&gt;&lt;h3&gt;%1&lt;/h3&gt;&lt;p&gt;Version %2&lt;/p&gt;&lt;p&gt;Browser: %3&lt;/p&gt;&lt;/center&gt;&lt;p&gt;Copyright (C) %4 The Qt Company Ltd.&lt;/p&gt;</source>
         <translation>&lt;center&gt;&lt;h3&gt;%1&lt;/h3&gt;&lt;p&gt;Version %2&lt;/p&gt;&lt;p&gt;Bläddrare: %3&lt;/p&gt;&lt;/center&gt;&lt;p&gt;Copyright (C) %4 The Qt Company Ltd.&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>&lt;center&gt;&lt;h3&gt;%1&lt;/h3&gt;&lt;p&gt;Version %2&lt;/p&gt;&lt;p&gt;Browser: %3&lt;/p&gt;&lt;/center&gt;&lt;p&gt;Copyright (C) The Qt Company Ltd. and other contributors.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;center&gt;&lt;h3&gt;%1&lt;/h3&gt;&lt;p&gt;Version %2&lt;/p&gt;&lt;p&gt;Bläddrare: %3&lt;/p&gt;&lt;/center&gt;&lt;p&gt;Copyright (C) The Qt Company Ltd. och andra bidragsgivare.&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <location line="+11"/>
         <source>About %1</source>
         <translation>Om %1</translation>
     </message>
     <message>
-        <location line="+139"/>
         <source>Unfiltered</source>
         <translation>Ofiltrerat</translation>
     </message>
     <message>
-        <location line="+37"/>
         <source>Updating search index</source>
         <translation>Uppdaterar sökindex</translation>
     </message>
     <message>
-        <location line="+100"/>
         <source>Could not register file &apos;%1&apos;: %2</source>
         <translation>Kunde inte registrera filen &apos;%1&apos;: %2</translation>
     </message>
@@ -1021,12 +820,10 @@ Anledning:
 <context>
     <name>OpenPagesWidget</name>
     <message>
-        <location filename="../../qttools/src/assistant/assistant/openpageswidget.cpp" line="+148"/>
         <source>Close %1</source>
         <translation>Stäng %1</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Close All Except %1</source>
         <translation>Stäng alla förutom %1</translation>
     </message>
@@ -1034,7 +831,6 @@ Anledning:
 <context>
     <name>PreferencesDialog</name>
     <message>
-        <location filename="../../qttools/src/assistant/assistant/preferencesdialog.cpp" line="+175"/>
         <source>Use custom settings</source>
         <translation>Använd anpassade inställningar</translation>
     </message>
@@ -1117,12 +913,10 @@ Anledning:
 <context>
     <name>RemoteControl</name>
     <message>
-        <location filename="../../qttools/src/assistant/assistant/remotecontrol.cpp" line="+82"/>
         <source>Debugging Remote Control</source>
         <translation>Felsökning av fjärrkontroll</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Received Command: %1 %2</source>
         <translation>Tog emot kommando: %1 %2</translation>
     </message>
@@ -1130,22 +924,18 @@ Anledning:
 <context>
     <name>SearchWidget</name>
     <message>
-        <location filename="../../qttools/src/assistant/assistant/searchwidget.cpp" line="+189"/>
         <source>&amp;Copy</source>
         <translation>&amp;Kopiera</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>Copy &amp;Link Location</source>
         <translation>Kopiera &amp;länkplats</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>Open Link in New Tab</source>
         <translation>Öppna länk i ny flik</translation>
     </message>
     <message>
-        <location line="+8"/>
         <source>Select All</source>
         <translation>Markera allt</translation>
     </message>
@@ -1153,27 +943,22 @@ Anledning:
 <context>
     <name>TabBar</name>
     <message>
-        <location filename="../../qttools/src/assistant/assistant/centralwidget.cpp" line="-275"/>
         <source>(Untitled)</source>
         <translation>(Namnlös)</translation>
     </message>
     <message>
-        <location line="+24"/>
         <source>New &amp;Tab</source>
         <translation>Ny &amp;flik</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>&amp;Close Tab</source>
         <translation>S&amp;täng flik</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Close Other Tabs</source>
         <translation>Stäng andra flikar</translation>
     </message>
     <message>
-        <location line="+6"/>
         <source>Add Bookmark for this Page...</source>
         <translation>Lägg till bokmärke för denna sida...</translation>
     </message>
@@ -1197,12 +982,10 @@ Anledning:
         <translation>S&amp;täng</translation>
     </message>
     <message>
-        <location filename="../../qttools/src/assistant/assistant/topicchooser.cpp" line="+51"/>
         <source>Filter</source>
         <translation>Filter</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Choose a topic for &lt;b&gt;%1&lt;/b&gt;:</source>
         <translation>Välj ett ämne för &lt;b&gt;%1&lt;/b&gt;:</translation>
     </message>
