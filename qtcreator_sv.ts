@@ -24703,7 +24703,7 @@ Do you want to display them anyway?</source>
     </message>
     <message>
         <source>Load JSON File</source>
-        <translation type="unfinished"></translation>
+        <translation>Läs in JSON-fil</translation>
     </message>
     <message>
         <source>Restrict to Threads</source>
@@ -53363,7 +53363,7 @@ Failed to open file &quot;%1&quot;.</source>
     </message>
     <message>
         <source>Locates bookmarks. Filter by file name, by the text on the line of the bookmark, or by the bookmark&apos;s note text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hittar bokmärken. Filtrera efter filnamn, efter texten på raden för bokmärket eller efter bokmärkets anteckningstext.</translation>
     </message>
     <message>
         <source>Bookmark</source>
@@ -53395,7 +53395,7 @@ Failed to open file &quot;%1&quot;.</source>
     </message>
     <message>
         <source>Are you sure you want to remove all bookmarks from all files in the current session?</source>
-        <translation type="unfinished"></translation>
+        <translation>Är du säker på att du vill ta bort alla bokmärken från alla filer i aktuella sessionen?</translation>
     </message>
     <message>
         <source>Edit Bookmark</source>
@@ -53487,7 +53487,7 @@ Failed to open file &quot;%1&quot;.</source>
     </message>
     <message>
         <source>Note text:</source>
-        <translation type="unfinished"></translation>
+        <translation>Anteckningstext:</translation>
     </message>
     <message>
         <source>Autocomplete common &amp;prefix</source>
@@ -53495,7 +53495,7 @@ Failed to open file &quot;%1&quot;.</source>
     </message>
     <message>
         <source>&amp;Case-sensitivity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ski&amp;ftlägeskänslighet:</translation>
     </message>
     <message>
         <source>Full</source>
@@ -53503,7 +53503,7 @@ Failed to open file &quot;%1&quot;.</source>
     </message>
     <message>
         <source>First Letter</source>
-        <translation type="unfinished"></translation>
+        <translation>Första bokstav</translation>
     </message>
     <message>
         <source>Timeout in ms:</source>
@@ -53715,7 +53715,7 @@ A value less than 100% can result in overlapping and misaligned graphics.</sourc
     </message>
     <message>
         <source>Color Scheme for Theme &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Färgschema för temat &quot;%1&quot;</translation>
     </message>
     <message>
         <source>%1 (copy)</source>
@@ -53727,7 +53727,7 @@ A value less than 100% can result in overlapping and misaligned graphics.</sourc
     </message>
     <message>
         <source>Are you sure you want to delete this color scheme permanently?</source>
-        <translation type="unfinished"></translation>
+        <translation>Är du säker på att du vill ta bort detta färgschema permanent?</translation>
     </message>
     <message>
         <source>Import Color Scheme</source>
@@ -53747,11 +53747,11 @@ A value less than 100% can result in overlapping and misaligned graphics.</sourc
     </message>
     <message>
         <source>Color Scheme Changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Färgschemat ändrat</translation>
     </message>
     <message>
         <source>The color scheme &quot;%1&quot; was modified, do you want to save the changes?</source>
-        <translation type="unfinished"></translation>
+        <translation>Färgschemat &quot;%1&quot; ändrades. Vill du spara ändringarna?</translation>
     </message>
     <message>
         <source>Discard</source>
@@ -53818,7 +53818,7 @@ A value less than 100% can result in overlapping and misaligned graphics.</sourc
     </message>
     <message>
         <source>Line in Current Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Rad i aktuellt dokument</translation>
     </message>
     <message>
         <source>Ctrl+Space</source>
@@ -54087,7 +54087,7 @@ A value less than 100% can result in overlapping and misaligned graphics.</sourc
     </message>
     <message>
         <source>Join Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Sammanfoga rader</translation>
     </message>
     <message>
         <source>Delete Line from Cursor On</source>
@@ -54107,7 +54107,7 @@ A value less than 100% can result in overlapping and misaligned graphics.</sourc
     </message>
     <message>
         <source>Insert Line Above Current Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Infoga rad ovanför aktuell rad</translation>
     </message>
     <message>
         <source>Ctrl+Shift+Return</source>
@@ -54115,7 +54115,7 @@ A value less than 100% can result in overlapping and misaligned graphics.</sourc
     </message>
     <message>
         <source>Insert Line Below Current Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Infoga rad nedanför aktuell rad</translation>
     </message>
     <message>
         <source>Ctrl+Return</source>
@@ -54151,7 +54151,7 @@ A value less than 100% can result in overlapping and misaligned graphics.</sourc
     </message>
     <message>
         <source>Rename Symbol Under Cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>Byt namn på symbol under markör</translation>
     </message>
     <message>
         <source>Ctrl+Shift+R</source>
@@ -54159,7 +54159,7 @@ A value less than 100% can result in overlapping and misaligned graphics.</sourc
     </message>
     <message>
         <source>Jump to File Under Cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoppa till filen under markör</translation>
     </message>
     <message>
         <source>Jump to File Under Cursor in Next Split</source>
@@ -54251,11 +54251,11 @@ A value less than 100% can result in overlapping and misaligned graphics.</sourc
     </message>
     <message>
         <source>&amp;Duplicate Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Duplicera markering</translation>
     </message>
     <message>
         <source>&amp;Duplicate Selection and Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Duplicera markering och kommentera</translation>
     </message>
     <message>
         <source>Uppercase Selection</source>
@@ -54279,7 +54279,7 @@ A value less than 100% can result in overlapping and misaligned graphics.</sourc
     </message>
     <message>
         <source>Meta+U</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta+U</translation>
     </message>
     <message>
         <source>Go to Previous Word (Camel Case)</source>
@@ -54303,15 +54303,15 @@ A value less than 100% can result in overlapping and misaligned graphics.</sourc
     </message>
     <message>
         <source>Select Word Under Cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>Markera ord under markör</translation>
     </message>
     <message>
         <source>Go to Document Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå till dokumentets början</translation>
     </message>
     <message>
         <source>Go to Document End</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå till dokumentets slut</translation>
     </message>
     <message>
         <source>Paste from Clipboard History</source>
@@ -54670,7 +54670,7 @@ Used to mark containing function of the symbol usage.</source>
     </message>
     <message>
         <source>Global variables.</source>
-        <translation type="unfinished"></translation>
+        <translation>Globala variabler.</translation>
     </message>
     <message>
         <source>Enumeration</source>
@@ -54682,7 +54682,7 @@ Used to mark containing function of the symbol usage.</source>
     </message>
     <message>
         <source>Declaration</source>
-        <translation type="unfinished"></translation>
+        <translation>Deklaration</translation>
     </message>
     <message>
         <source>Style adjustments to declarations.</source>
@@ -54698,7 +54698,7 @@ Used to mark containing function of the symbol usage.</source>
     </message>
     <message>
         <source>Virtual Function</source>
-        <translation type="unfinished"></translation>
+        <translation>Virtuell funktion</translation>
     </message>
     <message>
         <source>Name of function declared as virtual.</source>
@@ -54984,7 +54984,7 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>Doxygen tags.</source>
-        <translation type="unfinished"></translation>
+        <translation>Doxygen-taggar.</translation>
     </message>
     <message>
         <source>Location in the files where the difference is (in diff editor).</source>
@@ -55116,7 +55116,7 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>Disabled Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Inaktiverad kod</translation>
     </message>
     <message>
         <source>Code disabled by preprocessor directives.</source>
@@ -55246,7 +55246,7 @@ Will not be applied to whitespace in comments and strings.</source>
     <message>
         <source>Not a color scheme file.</source>
         <translatorcomment>Pas sur ?</translatorcomment>
-        <translation type="unfinished"></translation>
+        <translation>Inte en färgschemafil.</translation>
     </message>
     <message>
         <source>Text Editor</source>
@@ -55262,7 +55262,7 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>Reload Definitions</source>
-        <translation type="unfinished"></translation>
+        <translation>Läs om definitioner</translation>
     </message>
     <message>
         <source>Reload externally modified definition files.</source>
@@ -55282,7 +55282,7 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>Download finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Hämtningen är färdig</translation>
     </message>
     <message>
         <source>Generic Highlighter</source>
@@ -55314,7 +55314,7 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>Cursor position: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Markörposition: %1</translation>
     </message>
     <message>
         <source>(Sel: %1)</source>
@@ -55334,11 +55334,11 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>Selection length:</source>
-        <translation type="unfinished"></translation>
+        <translation>Markeringslängd:</translation>
     </message>
     <message>
         <source>Position in document:</source>
-        <translation type="unfinished"></translation>
+        <translation>Position i dokument:</translation>
     </message>
     <message>
         <source>Anchor:</source>
@@ -55346,15 +55346,15 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>Unix Line Endings (LF)</source>
-        <translation type="unfinished"></translation>
+        <translation>Unix radslut (LF)</translation>
     </message>
     <message>
         <source>Windows Line Endings (CRLF)</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows radslut (CRLF)</translation>
     </message>
     <message>
         <source>Other annotations</source>
-        <translation type="unfinished"></translation>
+        <translation>Övriga anteckningar</translation>
     </message>
     <message>
         <source>Print Document</source>
@@ -55374,7 +55374,7 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>&lt;b&gt;Error:&lt;/b&gt; Could not decode &quot;%1&quot; with &quot;%2&quot;-encoding. Editing not possible.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Fel:&lt;/b&gt; Kunde inte avkoda &quot;%1&quot; med &quot;%2&quot;-enkodning. Redigering inte möjlig.</translation>
     </message>
     <message>
         <source>Select Encoding</source>
@@ -55426,7 +55426,7 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>Could not find definition.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte hitta definition.</translation>
     </message>
     <message>
         <source>The text is too large to be displayed (%1 MB).</source>
@@ -55454,7 +55454,7 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>Snippets</source>
-        <translation type="unfinished"></translation>
+        <translation>Kodsnuttar</translation>
     </message>
     <message>
         <source>Error While Saving Snippet Collection</source>
@@ -55462,7 +55462,7 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>No snippet selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen kodsnutt vald.</translation>
     </message>
     <message>
         <source>%1 of %2</source>
@@ -55474,11 +55474,11 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>Custom settings:</source>
-        <translation type="unfinished"></translation>
+        <translation>Anpassade inställningar:</translation>
     </message>
     <message>
         <source>Copy Code Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera kodstil</translation>
     </message>
     <message>
         <source>Code style name:</source>
@@ -55490,7 +55490,7 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>Delete Code Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort kodstil</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this code style permanently?</source>
@@ -55498,7 +55498,7 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>Import Code Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Importera kodstil</translation>
     </message>
     <message>
         <source>Code styles (*.xml);;All files (*)</source>
@@ -55510,7 +55510,7 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>Export Code Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportera kodstil</translation>
     </message>
     <message>
         <source>%1 [proxy: %2]</source>
@@ -55522,7 +55522,7 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>%1 [customizable]</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 [anpassningsbar]</translation>
     </message>
     <message>
         <source>Edit preview contents to see how the current settings are applied to custom code snippets. Changes in the preview do not affect the current settings.</source>
@@ -55607,7 +55607,7 @@ Specifies how backspace interacts with indentation.
     </message>
     <message>
         <source>At Line Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Vid radstart</translation>
     </message>
     <message>
         <source>After Whitespace</source>
@@ -55884,7 +55884,7 @@ francis : en effet, une erreur de ma part --&gt; validé.</translatorcomment>
     </message>
     <message>
         <source>Next to editor content</source>
-        <translation type="unfinished"></translation>
+        <translation>Bredvid redigerarinnehåll</translation>
     </message>
     <message>
         <source>Next to right margin</source>
@@ -55936,7 +55936,7 @@ francis : en effet, une erreur de ma part --&gt; validé.</translatorcomment>
     </message>
     <message>
         <source>Display file encoding</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa filenkodning</translation>
     </message>
     <message>
         <source>Syntax Highlight Definition Files</source>
@@ -55944,7 +55944,7 @@ francis : en effet, une erreur de ma part --&gt; validé.</translatorcomment>
     </message>
     <message>
         <source>Ignored file patterns:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorerade filmönster:</translation>
     </message>
     <message>
         <source>Add</source>
@@ -56032,7 +56032,7 @@ Influences the indentation of continuation lines.
     </message>
     <message>
         <source>With Spaces</source>
-        <translation type="unfinished"></translation>
+        <translation>Med blanksteg</translation>
     </message>
     <message>
         <source>With Regular Indent</source>
@@ -56224,7 +56224,7 @@ Influences the indentation of continuation lines.
     </message>
     <message>
         <source>Cannot create temporary file &quot;%1&quot;: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte skapa temporärfilen &quot;%1&quot;: %2.</translation>
     </message>
     <message>
         <source>Cannot read file &quot;%1&quot;: %2.</source>
@@ -56236,23 +56236,23 @@ Influences the indentation of continuation lines.
     </message>
     <message>
         <source>Failed to format: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att formatera: %1.</translation>
     </message>
     <message>
         <source>Error in text formatting: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel i textformatering: %1</translation>
     </message>
     <message>
         <source>Could not format file %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte formatera filen %1.</translation>
     </message>
     <message>
         <source>File %1 was closed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen %1 var stängd.</translation>
     </message>
     <message>
         <source>File was modified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen var ändrad.</translation>
     </message>
     <message>
         <source>Highlighter updates: done</source>
@@ -56296,7 +56296,7 @@ Influences the indentation of continuation lines.
     </message>
     <message>
         <source>Show Diagnostic Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa diagnostikinställningar</translation>
     </message>
     <message>
         <source>Show Preview</source>
