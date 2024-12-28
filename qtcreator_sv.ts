@@ -9869,7 +9869,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Change Slot</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra slot</translation>
     </message>
     <message>
         <source> to </source>
@@ -13198,7 +13198,7 @@ See Google Test documentation for further information on GTest filters.</source>
     </message>
     <message>
         <source>Log signals and slots</source>
-        <translation>Logga signaler och platser</translation>
+        <translation>Logga signaler och slots</translation>
     </message>
     <message>
         <source>Log every signal emission and resulting slot invocations.</source>
@@ -13591,7 +13591,7 @@ This might cause trouble during execution.
     </message>
     <message>
         <source>Executable:</source>
-        <translation type="unfinished"></translation>
+        <translation>Körbar fil:</translation>
     </message>
     <message>
         <source>Arguments:</source>
@@ -20674,7 +20674,7 @@ provided they were unmodified before the refactoring.</source>
     <message>
         <source>Executable:</source>
         <comment>adjective</comment>
-        <translation>Körbar:</translation>
+        <translation>Körbar fil:</translation>
     </message>
     <message>
         <source>Symbolic link:</source>
@@ -21171,7 +21171,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     <message>
         <source>Executable:</source>
         <comment>noun</comment>
-        <translation type="unfinished"></translation>
+        <translation>Körbar fil:</translation>
     </message>
     <message>
         <source>Base environment:</source>
@@ -22625,15 +22625,15 @@ Double-click to edit item.</source>
     <name>QtC::CppEditor</name>
     <message>
         <source>&lt;Select Symbol&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Välj symbol&gt;</translation>
     </message>
     <message>
         <source>&lt;No Symbols&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Inga symboler&gt;</translation>
     </message>
     <message>
         <source>%1: No such file or directory</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Ingen sådan fil eller katalog</translation>
     </message>
     <message>
         <source>%1: Could not get file contents</source>
@@ -22641,7 +22641,7 @@ Double-click to edit item.</source>
     </message>
     <message>
         <source>Code Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Kodstil</translation>
     </message>
     <message>
         <source>File Naming</source>
@@ -22653,7 +22653,7 @@ Double-click to edit item.</source>
     </message>
     <message>
         <source>Enable indexing</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivera indexering</translation>
     </message>
     <message>
         <source>Indexing should almost always be kept enabled, as disabling it will severely limit the capabilities of the code model.</source>
@@ -22693,7 +22693,7 @@ Double-click to edit item.</source>
     </message>
     <message>
         <source>Code Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Kodmodell</translation>
     </message>
     <message>
         <source>C++</source>
@@ -22763,7 +22763,7 @@ The built-in code model will handle highlighting, completion and so on.</source>
     </message>
     <message>
         <source>Ignore files greater than</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorera filer större än</translation>
     </message>
     <message>
         <source>Completion results:</source>
@@ -22775,7 +22775,7 @@ The built-in code model will handle highlighting, completion and so on.</source>
     </message>
     <message>
         <source>Path to executable:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökväg till körbar fil:</translation>
     </message>
     <message>
         <source>Background indexing:</source>
@@ -22881,7 +22881,7 @@ managed by the same clangd process, add them here.</source>
     </message>
     <message>
         <source>&amp;C++</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;C++</translation>
     </message>
     <message>
         <source>Switch Header/Source</source>
@@ -22893,11 +22893,11 @@ managed by the same clangd process, add them here.</source>
     </message>
     <message>
         <source>Meta+E, F4</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta+E, F4</translation>
     </message>
     <message>
         <source>Ctrl+E, F4</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+E, F4</translation>
     </message>
     <message>
         <source>Reads</source>
@@ -22929,7 +22929,8 @@ managed by the same clangd process, add them here.</source>
     <message>
         <source>Files:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Filer:
+%1</translation>
     </message>
     <message>
         <source>C++ Macro Usages:</source>
@@ -22994,7 +22995,7 @@ managed by the same clangd process, add them here.</source>
     </message>
     <message>
         <source>Mark as Translatable</source>
-        <translation type="unfinished"></translation>
+        <translation>Markera som översättningsbar</translation>
     </message>
     <message>
         <source>Convert to Objective-C String Literal</source>
@@ -23158,7 +23159,7 @@ managed by the same clangd process, add them here.</source>
     </message>
     <message>
         <source>Function name</source>
-        <translation type="unfinished"></translation>
+        <translation>Funktionsnamn</translation>
     </message>
     <message>
         <source>Access</source>
@@ -23226,11 +23227,11 @@ managed by the same clangd process, add them here.</source>
     </message>
     <message>
         <source>Parameter Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameternamn</translation>
     </message>
     <message>
         <source>Default Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Standardvärde</translation>
     </message>
     <message>
         <source>Base Class Constructors</source>
@@ -23303,7 +23304,7 @@ Use drag and drop to change the order of the parameters.</source>
     </message>
     <message>
         <source>Open in Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna i redigerare</translation>
     </message>
     <message>
         <source>Evaluating Type Hierarchy</source>
@@ -23361,11 +23362,11 @@ Flags: %3</source>
     </message>
     <message>
         <source>≥</source>
-        <translation type="unfinished"></translation>
+        <translation>≥</translation>
     </message>
     <message>
         <source>lines</source>
-        <translation type="unfinished"></translation>
+        <translation>rader</translation>
     </message>
     <message>
         <source>See tool tip for more information</source>
@@ -23784,7 +23785,7 @@ if (a &amp;&amp;
     </message>
     <message>
         <source>GNU</source>
-        <translation type="unfinished"></translation>
+        <translation>GNU</translation>
     </message>
     <message>
         <source>&amp;Suffix:</source>
@@ -23928,7 +23929,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Too many arguments</source>
-        <translation type="unfinished"></translation>
+        <translation>För många argument</translation>
     </message>
     <message>
         <source>Shift+F2</source>
@@ -23948,11 +23949,11 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Meta+E, Shift+F2</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta+E, Shift+F2</translation>
     </message>
     <message>
         <source>Ctrl+E, Shift+F2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+E, Shift+F2</translation>
     </message>
     <message>
         <source>Fold All Comment Blocks</source>
@@ -24192,7 +24193,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Copy...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera...</translation>
     </message>
     <message>
         <source>Rename...</source>
@@ -24452,7 +24453,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Could not create &quot;%1&quot;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte skapa &quot;%1&quot;: %2</translation>
     </message>
 </context>
 <context>
@@ -27737,7 +27738,7 @@ Do you want to retry?</source>
     </message>
     <message>
         <source>Executable:</source>
-        <translation type="unfinished"></translation>
+        <translation>Körbar fil:</translation>
     </message>
     <message>
         <source>Arguments:</source>
@@ -29471,7 +29472,7 @@ Stepping into the module or setting breakpoints by file and line is expected to 
     </message>
     <message>
         <source>Edit Signals/Slots</source>
-        <translation>Redigera signaler/platser</translation>
+        <translation>Redigera signaler/slots</translation>
     </message>
     <message>
         <source>Edit Buddies</source>
@@ -29499,7 +29500,7 @@ Stepping into the module or setting breakpoints by file and line is expected to 
     </message>
     <message>
         <source>Signals and Slots Editor</source>
-        <translation>Redigerare för signaler och platser</translation>
+        <translation>Redigerare för signaler och slots</translation>
     </message>
     <message>
         <source>Ctrl+G</source>
@@ -29536,7 +29537,7 @@ Stepping into the module or setting breakpoints by file and line is expected to 
     <message>
         <source>Signals &amp;&amp; Slots Editor</source>
         <translatorcomment>&amp;&amp; ? typo in original ?</translatorcomment>
-        <translation>Redigerare för signaler och platser</translation>
+        <translation>Redigerare för signaler och slots</translation>
     </message>
     <message>
         <source>Preview in</source>
@@ -29566,7 +29567,7 @@ Please verify the #include-directives.</source>
     <message>
         <source>Error finding/adding a slot.</source>
         <translatorcomment>Erreur lors de la recherche/de l&apos;ajout d&apos;un slot. ?</translatorcomment>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid sökning/lägga till en slot.</translation>
     </message>
     <message>
         <source>No documents matching &quot;%1&quot; could be found.
@@ -34278,7 +34279,7 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Körbar fil</translation>
     </message>
     <message>
         <source>Haskell</source>
@@ -36031,7 +36032,7 @@ Example: *.cpp%1*.h</source>
     </message>
     <message>
         <source>Executable:</source>
-        <translation type="unfinished"></translation>
+        <translation>Körbar fil:</translation>
     </message>
     <message>
         <source>Arguments:</source>
@@ -44769,7 +44770,7 @@ What should %1 do now?</source>
     </message>
     <message>
         <source>Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Körbar fil</translation>
     </message>
     <message>
         <source>Enter the path to the executable</source>
@@ -44777,7 +44778,7 @@ What should %1 do now?</source>
     </message>
     <message>
         <source>Executable:</source>
-        <translation type="unfinished"></translation>
+        <translation>Körbar fil:</translation>
     </message>
     <message>
         <source>Alternate executable on device:</source>
@@ -45245,7 +45246,7 @@ These files are preserved.</source>
     </message>
     <message>
         <source>Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Körbar fil</translation>
     </message>
     <message>
         <source>Executable is empty.</source>
