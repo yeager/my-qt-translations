@@ -42767,7 +42767,7 @@ fails because Clang does not understand the target architecture.</source>
     </message>
     <message>
         <source>Not all compilers are set up correctly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inte alla kompilatorer är konfigurerade korrekt.</translation>
     </message>
     <message>
         <source>This toolchain is invalid.</source>
@@ -42829,15 +42829,15 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Re-detect</source>
-        <translation type="unfinished"></translation>
+        <translation>Identifiera igen</translation>
     </message>
     <message>
         <source>Auto-detection Settings...</source>
-        <translation type="unfinished"></translation>
+        <translation>Inställningar för automatisk identifering...</translation>
     </message>
     <message>
         <source>Duplicate Compilers Detected</source>
-        <translation type="unfinished"></translation>
+        <translation>Dubbletter av kompilatorer upptäcktes</translation>
     </message>
     <message>
         <source>Compilers</source>
@@ -42877,11 +42877,11 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Show &amp;App Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa &amp;programutdata</translation>
     </message>
     <message>
         <source>Show the output that generated this issue in Application Output.</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa utdata som genererade detta problem i Programutdata.</translation>
     </message>
     <message>
         <source>A</source>
@@ -42889,7 +42889,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Re-run this run-configuration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör om denna körkonfiguration.</translation>
     </message>
     <message>
         <source>Stop running program.</source>
@@ -42898,7 +42898,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     <message>
         <source>application-output-%1.txt</source>
         <extracomment>file name suggested for saving application output, %1 = run configuration display name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>application-output-%1.txt</translation>
     </message>
     <message>
         <source>Word-wrap output</source>
@@ -42915,7 +42915,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Clear old output on a new run</source>
-        <translation type="unfinished"></translation>
+        <translation>Töm gammalt utdata vid ny körning</translation>
     </message>
     <message>
         <source>Always</source>
@@ -42927,19 +42927,19 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>On First Output Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Endast vid första utdata</translation>
     </message>
     <message>
         <source>Limit output to %1 characters</source>
-        <translation type="unfinished"></translation>
+        <translation>Begränsa utdata till %1 tecken</translation>
     </message>
     <message>
         <source>Open Application Output when running:</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna Programutdata vid körning:</translation>
     </message>
     <message>
         <source>Open Application Output when debugging:</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna Programutdata vid felsökning:</translation>
     </message>
     <message>
         <source>Application Output</source>
@@ -43047,7 +43047,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Auto-detected:</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatiskt identifierade:</translation>
     </message>
     <message>
         <source>Current state:</source>
@@ -43071,7 +43071,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>&amp;Start Wizard to Add Device...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Starta guide för att lägga till enhet...</translation>
     </message>
     <message>
         <source>Add %1</source>
@@ -43132,11 +43132,11 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Remote Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjärrfel</translation>
     </message>
     <message>
         <source>Process ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Process-id</translation>
     </message>
     <message>
         <source>Command Line</source>
@@ -43144,7 +43144,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Fetching process list. This might take a while.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hämtar processlista. Detta kan ta en stund.</translation>
     </message>
     <message>
         <source>Devices</source>
@@ -43156,11 +43156,11 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>A device with this name already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>En enhet med detta namn finns redan.</translation>
     </message>
     <message>
         <source>Opening a terminal is not supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna en terminal stöds inte.</translation>
     </message>
     <message>
         <source>Device</source>
@@ -43184,15 +43184,15 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>localSource() not implemented for this device type.</source>
-        <translation type="unfinished"></translation>
+        <translation>localSource() är inte implementerat för denna enhetstypen.</translation>
     </message>
     <message>
         <source>No device for given path: &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen enhet för angiven sökväg: &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Device for path &quot;%1&quot; does not support killing processes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enheten för sökvägen &quot;%1&quot; saknar stöd för att döda processer.</translation>
     </message>
     <message>
         <source>Unnamed</source>
@@ -43200,7 +43200,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>%1 needs a compiler set up to build. Configure a compiler in the kit options.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 behöver en konfigurerad kompilator för att byggas. Konfigurera en kompilator i kit-alternativen.</translation>
     </message>
     <message>
         <source>Error:</source>
@@ -43352,7 +43352,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>No compiler set in kit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen kompilator inställd i kit.</translation>
     </message>
     <message>
         <source>Unknown device type</source>
@@ -43420,7 +43420,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Reset to Device Default Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Nollställ till enhetens standardikon</translation>
     </message>
     <message>
         <source>Display name is not unique.</source>
@@ -43461,7 +43461,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Choose which settings to display for this kit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj vilka inställningar att visa för detta kit.</translation>
     </message>
     <message>
         <source>Default Settings Filter...</source>
@@ -43560,11 +43560,11 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Show in Application Output when running</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa i Programutdata vid körning</translation>
     </message>
     <message>
         <source>Custom Output Parsers</source>
-        <translation type="unfinished"></translation>
+        <translation>Anpassade utdatatolkare</translation>
     </message>
     <message>
         <source>Parse standard output during build</source>
@@ -43588,11 +43588,11 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Variables in the build configuration&apos;s environment</source>
-        <translation type="unfinished"></translation>
+        <translation>Variabler i byggkonfigurationens miljö</translation>
     </message>
     <message>
         <source>Tooltip in target selector:</source>
-        <translation type="unfinished"></translation>
+        <translation>Verktygstips i målväljaren:</translation>
     </message>
     <message>
         <source>Appears as a tooltip when hovering the build configuration</source>
@@ -43608,7 +43608,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>The project was not parsed successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Projektet tolkades inte korrekt.</translation>
     </message>
     <message>
         <source>Main file of the project</source>
@@ -43620,11 +43620,11 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Name of the project&apos;s active build configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Namnet på projektets aktiva byggkonfiguration</translation>
     </message>
     <message>
         <source>Name of the project&apos;s active build system</source>
-        <translation type="unfinished"></translation>
+        <translation>Namnet på projektets aktiva byggsystem</translation>
     </message>
     <message>
         <source>Type of current build</source>
@@ -43632,7 +43632,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Type of the project&apos;s active build configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ av projektets aktiva byggkonfiguration</translation>
     </message>
     <message>
         <source>No build device is set for the kit &quot;%1&quot;.</source>
@@ -43640,15 +43640,15 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>You can try mounting the folder in your device settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du kan prova att montera mappen i dina enhetsinställningar.</translation>
     </message>
     <message>
         <source>The build device &quot;%1&quot; cannot reach the project directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Byggenheten &quot;%1&quot; kan inte nå projektkatalogen.</translation>
     </message>
     <message>
         <source>The build device &quot;%1&quot; cannot reach the build directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Byggenheten &quot;%1&quot; kan inte nå byggkatalogen.</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -43657,7 +43657,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Remove task from the task list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort uppgift från uppgiftslistan.</translation>
     </message>
     <message>
         <source>Custom Parser</source>
@@ -43714,7 +43714,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Pattern does not match the message.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mönstret matchar inte meddelandet.</translation>
     </message>
     <message>
         <source>File name:</source>
@@ -43750,11 +43750,11 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Device test finished successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enhetstestet lyckades.</translation>
     </message>
     <message>
         <source>Device test failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enhetstest misslyckades.</translation>
     </message>
     <message>
         <source>ICC</source>
@@ -59849,7 +59849,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Or:&lt;ul&gt;&lt;li&gt;type &lt;code&gt;c&amp;lt;space&amp;gt;&amp;lt;pattern&amp;gt;&lt;/code&gt; to jump to a class definition&lt;/li&gt;&lt;li&gt;type &lt;code&gt;f&amp;lt;space&amp;gt;&amp;lt;pattern&amp;gt;&lt;/code&gt; to open a file from the file system&lt;/li&gt;&lt;li&gt;click on the magnifier icon for a complete list of possible options&lt;/li&gt;&lt;/ul&gt;</source>
-        <translation>Eller:&lt;ul&gt;&lt;li&gt;skriv &lt;code&gt;c&amp;lt;blanksteg&amp;gt;&amp;lt;mönster&amp;gt;&lt;/code&gt; för att hoppa till en klassdefinition&lt;/li&gt;&lt;li&gt;skriv &lt;code&gt;f&amp;lt;blanksteg&amp;gt;&amp;lt;mönster&amp;gt;&lt;/code&gt; för att öppna en fil från filsystemet&lt;/li&gt;&lt;li&gt;klicka på förstorningsikonen fören komplett lista över möjliga alternativ&lt;/li&gt;&lt;/ul&gt;</translation>
+        <translation>Eller:&lt;ul&gt;&lt;li&gt;skriv &lt;code&gt;c&amp;lt;blanksteg&amp;gt;&amp;lt;mönster&amp;gt;&lt;/code&gt; för att hoppa till en klassdefinition&lt;/li&gt;&lt;li&gt;skriv &lt;code&gt;f&amp;lt;blanksteg&amp;gt;&amp;lt;mönster&amp;gt;&lt;/code&gt; för att öppna en fil från filsystemet&lt;/li&gt;&lt;li&gt;klicka på förstorningsikonen för en komplett lista över möjliga alternativ&lt;/li&gt;&lt;/ul&gt;</translation>
     </message>
     <message>
         <source>Output</source>
