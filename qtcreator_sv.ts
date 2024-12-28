@@ -18446,7 +18446,7 @@ Oui :)</translatorcomment>
     </message>
     <message>
         <source>Empty snippet received for &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tom kodsnutt togs emot för &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Refresh</source>
@@ -18474,7 +18474,7 @@ Oui :)</translatorcomment>
     </message>
     <message>
         <source>%1 does not appear to be a paster file.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 verkar inte vara en inklistringsfil.</translation>
     </message>
     <message>
         <source>Error in %1 at %2: %3</source>
@@ -18514,7 +18514,7 @@ Oui :)</translatorcomment>
     </message>
     <message>
         <source>The fileshare-based paster protocol allows for sharing code snippets using simple files on a shared network drive. Files are never deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fildelningsbaserat inklistringsprotokoll tillåter att kodsnuttar delas genom enkla filer på en delad nätverksenhet. Filer tas aldrig bort.</translation>
     </message>
     <message>
         <source>&amp;Path:</source>
@@ -18522,7 +18522,7 @@ Oui :)</translatorcomment>
     </message>
     <message>
         <source>&amp;Display:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Visning:</translation>
     </message>
     <message>
         <source>entries</source>
@@ -18538,7 +18538,7 @@ Oui :)</translatorcomment>
     </message>
     <message>
         <source>Send to Codepaster</source>
-        <translation type="unfinished"></translation>
+        <translation>Skicka till Kodinklistrare</translation>
     </message>
     <message>
         <source>&amp;Username:</source>
@@ -18562,7 +18562,7 @@ Oui :)</translatorcomment>
     </message>
     <message>
         <source>&amp;Expires after:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Går ut efter:</translation>
     </message>
     <message>
         <source>Copy-paste URL to clipboard</source>
@@ -18751,7 +18751,7 @@ Oui :)</translatorcomment>
     </message>
     <message>
         <source>Enter location of conanfile.txt or conanfile.py.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange platsen för conanfile.txt eller conanfile.py.</translation>
     </message>
     <message>
         <source>Additional arguments:</source>
@@ -18759,7 +18759,7 @@ Oui :)</translatorcomment>
     </message>
     <message>
         <source>Run conan install</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör conan install</translation>
     </message>
 </context>
 <context>
@@ -26393,11 +26393,11 @@ markers in the source code editor.</source>
     </message>
     <message>
         <source>A file named &quot;%1&quot; already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>En fil med namnet &quot;%1&quot; finns redan.</translation>
     </message>
     <message>
         <source>The folder &quot;%1&quot; could not be created.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mappen &quot;%1&quot; kunde inte skapas.</translation>
     </message>
     <message>
         <source>Insert Symbol Server...</source>
@@ -26429,7 +26429,7 @@ markers in the source code editor.</source>
     </message>
     <message>
         <source>Python Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Python-fel</translation>
     </message>
     <message>
         <source>Pdb I/O Error</source>
@@ -27758,7 +27758,7 @@ Do you want to retry?</source>
     </message>
     <message>
         <source>Start Remote Engine</source>
-        <translation type="unfinished"></translation>
+        <translation>Starta fjärrmotor</translation>
     </message>
     <message>
         <source>&amp;Host:</source>
@@ -27811,37 +27811,37 @@ Do you want to retry?</source>
     <message>
         <source>Enable %1 debugger.</source>
         <extracomment>%1 is C++, QML, or Python</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Aktivera %1-felsökare.</translation>
     </message>
     <message>
         <source>Disable %1 debugger.</source>
         <extracomment>%1 is C++, QML, or Python</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Inaktivera %1-felsökare.</translation>
     </message>
     <message>
         <source>Try to determine need for %1 debugger.</source>
         <extracomment>%1 is C++, QML, or Python</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Försök att bestämma behov av %1-felsökare.</translation>
     </message>
     <message>
         <source>No additional startup commands.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga ytterligare uppstartskommandon.</translation>
     </message>
     <message>
         <source>Use additional startup commands.</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd ytterligare uppstartskommandon.</translation>
     </message>
     <message>
         <source>C++ debugger:</source>
-        <translation type="unfinished"></translation>
+        <translation>C++-felsökare:</translation>
     </message>
     <message>
         <source>QML debugger:</source>
-        <translation type="unfinished"></translation>
+        <translation>QML-felsökare:</translation>
     </message>
     <message>
         <source>Python debugger:</source>
-        <translation type="unfinished"></translation>
+        <translation>Python-felsökare:</translation>
     </message>
     <message>
         <source>Enable Debugging of Subprocesses</source>
@@ -27869,7 +27869,7 @@ Do you want to retry?</source>
     </message>
     <message>
         <source>Can only evaluate during a debug session.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan endast evaluera under en felsökningssession.</translation>
     </message>
     <message>
         <source>Delete All Breakpoints</source>
@@ -31787,7 +31787,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Include Tags</source>
-        <translation type="unfinished"></translation>
+        <translation>Inkludera taggar</translation>
     </message>
     <message numerus="yes">
         <source>Include branches and tags that have not been active for %n days.</source>
@@ -31810,7 +31810,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>&amp;Fetch</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Hämta</translation>
     </message>
     <message>
         <source>Remove &amp;Stale Branches</source>
@@ -31822,11 +31822,11 @@ Reason: %3</source>
     </message>
     <message>
         <source>Rem&amp;ove...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta &amp;bort...</translation>
     </message>
     <message>
         <source>Re&amp;name...</source>
-        <translation type="unfinished"></translation>
+        <translation>Byt &amp;namn...</translation>
     </message>
     <message>
         <source>Reflo&amp;g</source>
@@ -31882,7 +31882,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Delete Tag</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort tagg</translation>
     </message>
     <message>
         <source>Git Reset</source>
@@ -31906,11 +31906,11 @@ Reason: %3</source>
     </message>
     <message>
         <source>&amp;Add...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Lägg till...</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ta bort</translation>
     </message>
     <message>
         <source>&amp;Diff</source>
@@ -31926,7 +31926,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Browse &amp;History...</source>
-        <translation type="unfinished"></translation>
+        <translation>Bläddra &amp;historik...</translation>
     </message>
     <message>
         <source>&amp;Show</source>
@@ -31978,7 +31978,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Working directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbetskatalog:</translation>
     </message>
     <message>
         <source>Change:</source>
@@ -31994,7 +31994,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Invalid revision</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig revision</translation>
     </message>
     <message>
         <source>Stash Description</source>
@@ -32177,7 +32177,7 @@ Would you like to create the branch &quot;%1&quot; on the remote and set it as u
     </message>
     <message>
         <source>&amp;Discard</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Förkasta</translation>
     </message>
     <message>
         <source>Discard (reset) local changes and execute %1.</source>
@@ -32189,7 +32189,7 @@ Would you like to create the branch &quot;%1&quot; on the remote and set it as u
     </message>
     <message>
         <source>Cancel %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Avbryt %1.</translation>
     </message>
     <message>
         <source>Commit</source>
@@ -32245,7 +32245,7 @@ Would you like to create the branch &quot;%1&quot; on the remote and set it as u
     </message>
     <message>
         <source>Follow</source>
-        <translation type="unfinished"></translation>
+        <translation>Följ</translation>
     </message>
     <message>
         <source>Show log also for previous names of the file.</source>
@@ -32312,7 +32312,7 @@ Would you like to create the branch &quot;%1&quot; on the remote and set it as u
     </message>
     <message>
         <source>Overwrite?</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv över?</translation>
     </message>
     <message>
         <source>An item named &quot;%1&quot; already exists at this location. Do you want to overwrite it?</source>
@@ -32442,7 +32442,7 @@ Commit now?</source>
     </message>
     <message>
         <source>&amp;Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Hoppa över</translation>
     </message>
     <message>
         <source>Uncommitted Changes Found</source>
@@ -32531,23 +32531,23 @@ Commit now?</source>
     </message>
     <message>
         <source>&amp;Git</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Git</translation>
     </message>
     <message>
         <source>Alt+G,Alt+D</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+G,Alt+D</translation>
     </message>
     <message>
         <source>Alt+G,Alt+L</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+G,Alt+L</translation>
     </message>
     <message>
         <source>Alt+G,Alt+B</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+G,Alt+B</translation>
     </message>
     <message>
         <source>Alt+G,Alt+U</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+G,Alt+U</translation>
     </message>
     <message>
         <source>Stage File for Commit</source>
@@ -32563,7 +32563,7 @@ Commit now?</source>
     </message>
     <message>
         <source>Alt+G,Alt+A</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+G,Alt+A</translation>
     </message>
     <message>
         <source>Unstage File from Commit</source>
@@ -32593,7 +32593,7 @@ Commit now?</source>
     </message>
     <message>
         <source>Alt+G,Alt+K</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+G,Alt+K</translation>
     </message>
     <message>
         <source>Stash</source>
@@ -32605,7 +32605,7 @@ Commit now?</source>
     </message>
     <message>
         <source>Apply &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillämpa &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Create Repository...</source>
@@ -32617,7 +32617,7 @@ Commit now?</source>
     </message>
     <message>
         <source>Alt+G,Alt+Shift+D</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+G,Alt+Shift+D</translation>
     </message>
     <message>
         <source>Restores changes saved to the stash list using &quot;Stash&quot;.</source>
@@ -32625,11 +32625,11 @@ Commit now?</source>
     </message>
     <message>
         <source>Alt+G,Alt+C</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+G,Alt+C</translation>
     </message>
     <message>
         <source>Update Submodules</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdatera undermoduler</translation>
     </message>
     <message>
         <source>Continue Cherry Pick</source>
@@ -32670,15 +32670,15 @@ Commit now?</source>
     </message>
     <message>
         <source>Meta+G,Meta+B</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta+G,Meta+B</translation>
     </message>
     <message>
         <source>Meta+G,Meta+D</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta+G,Meta+D</translation>
     </message>
     <message>
         <source>&amp;Copy &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kopiera &quot;%1&quot;</translation>
     </message>
     <message>
         <source>&amp;Describe Change %1</source>
@@ -32710,7 +32710,7 @@ Commit now?</source>
     </message>
     <message>
         <source>Meta+G,Meta+L</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta+G,Meta+L</translation>
     </message>
     <message>
         <source>Blame Current File</source>
@@ -32734,27 +32734,27 @@ Commit now?</source>
     </message>
     <message>
         <source>Meta+G,Meta+I</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta+G,Meta+I</translation>
     </message>
     <message>
         <source>Alt+G,Alt+I</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+G,Alt+I</translation>
     </message>
     <message>
         <source>Meta+G,Meta+A</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta+G,Meta+A</translation>
     </message>
     <message>
         <source>Meta+G,Meta+U</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta+G,Meta+U</translation>
     </message>
     <message>
         <source>Meta+G,Meta+Shift+D</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta+G,Meta+Shift+D</translation>
     </message>
     <message>
         <source>Meta+G,Meta+K</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta+G,Meta+K</translation>
     </message>
     <message>
         <source>&amp;Local Repository</source>
@@ -32842,7 +32842,7 @@ Commit now?</source>
     </message>
     <message>
         <source>Meta+G,Meta+C</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta+G,Meta+C</translation>
     </message>
     <message>
         <source>Log Current Selection</source>
@@ -32857,11 +32857,11 @@ Commit now?</source>
     </message>
     <message>
         <source>Meta+G,Meta+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta+G,Meta+S</translation>
     </message>
     <message>
         <source>Alt+G,Alt+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+G,Alt+S</translation>
     </message>
     <message>
         <source>Current &amp;Project Directory</source>
@@ -32899,7 +32899,7 @@ Commit now?</source>
     </message>
     <message>
         <source>&amp;Subversion</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Subversion</translation>
     </message>
     <message>
         <source>DCommit</source>
@@ -32915,7 +32915,7 @@ Commit now?</source>
     </message>
     <message>
         <source>Gitk</source>
-        <translation type="unfinished"></translation>
+        <translation>Gitk</translation>
     </message>
     <message>
         <source>Gitk Current File</source>
@@ -33048,11 +33048,11 @@ Commit now?</source>
     </message>
     <message>
         <source>Git</source>
-        <translation type="unfinished"></translation>
+        <translation>Git</translation>
     </message>
     <message>
         <source>Git Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Git-inställningar</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
@@ -33147,11 +33147,11 @@ instead of its installation directory when run outside git bash.</source>
     </message>
     <message>
         <source>&lt;No repository&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;inget förråd&gt;</translation>
     </message>
     <message>
         <source>Repository: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Förråd: %1</translation>
     </message>
     <message>
         <source>Do you want to delete all stashes?</source>
@@ -33166,11 +33166,11 @@ instead of its installation directory when run outside git bash.</source>
     </message>
     <message>
         <source>Delete &amp;All...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort &amp;alla...</translation>
     </message>
     <message>
         <source>&amp;Delete...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ta bort...</translation>
     </message>
     <message>
         <source>R&amp;estore...</source>
@@ -33276,7 +33276,7 @@ You can choose between stashing the changes or discarding them.</source>
     </message>
     <message>
         <source>Patience</source>
-        <translation type="unfinished"></translation>
+        <translation>Tålamod</translation>
     </message>
     <message>
         <source>Ignore whitespace only changes.</source>
@@ -33312,7 +33312,7 @@ You can choose between stashing the changes or discarding them.</source>
     </message>
     <message>
         <source>Add Tag</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till tagg</translation>
     </message>
     <message>
         <source>Tag name:</source>
@@ -33385,11 +33385,11 @@ You can choose between stashing the changes or discarding them.</source>
     </message>
     <message>
         <source>modified</source>
-        <translation type="unfinished"></translation>
+        <translation>ändrades</translation>
     </message>
     <message>
         <source>added</source>
-        <translation type="unfinished"></translation>
+        <translation>lades till</translation>
     </message>
     <message>
         <source>deleted</source>
@@ -33397,11 +33397,11 @@ You can choose between stashing the changes or discarding them.</source>
     </message>
     <message>
         <source>renamed</source>
-        <translation type="unfinished"></translation>
+        <translation>bytte namn</translation>
     </message>
     <message>
         <source>copied</source>
-        <translation type="unfinished"></translation>
+        <translation>kopierades</translation>
     </message>
     <message>
         <source>typechange</source>
@@ -33409,23 +33409,23 @@ You can choose between stashing the changes or discarding them.</source>
     </message>
     <message>
         <source> by both</source>
-        <translation type="unfinished"></translation>
+        <translation> av båda</translation>
     </message>
     <message>
         <source> by us</source>
-        <translation type="unfinished"></translation>
+        <translation> av oss</translation>
     </message>
     <message>
         <source> by them</source>
-        <translation type="unfinished"></translation>
+        <translation> av dem</translation>
     </message>
     <message>
         <source>Show difference.</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa skillnad.</translation>
     </message>
     <message>
         <source>Graph</source>
-        <translation type="unfinished"></translation>
+        <translation>Graf</translation>
     </message>
     <message>
         <source>Show textual graph log.</source>
@@ -33433,7 +33433,7 @@ You can choose between stashing the changes or discarding them.</source>
     </message>
     <message>
         <source>Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändringar</translation>
     </message>
     <message>
         <source>Change #, hash, tr:id, owner:email or reviewer:email</source>
@@ -33470,7 +33470,7 @@ You can choose between stashing the changes or discarding them.</source>
     </message>
     <message>
         <source>Fetching &quot;%1&quot;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Hämtar &quot;%1&quot;...</translation>
     </message>
     <message>
         <source>The gerrit process has not responded within %1 s.
@@ -33508,23 +33508,23 @@ Would you like to terminate it?</source>
     </message>
     <message>
         <source>URL</source>
-        <translation type="unfinished"></translation>
+        <translation>URL</translation>
     </message>
     <message>
         <source>Depends on</source>
-        <translation type="unfinished"></translation>
+        <translation>Beroende av</translation>
     </message>
     <message>
         <source>Needed by</source>
-        <translation type="unfinished"></translation>
+        <translation>Behövs av</translation>
     </message>
     <message>
         <source>Parse error: &quot;%1&quot; -&gt; %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Tolkningsfel: &quot;%1&quot; -&gt; %2</translation>
     </message>
     <message>
         <source>Parse error: &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Tolkningsfel: &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Gerrit</source>
@@ -33548,19 +33548,19 @@ Would you like to terminate it?</source>
     </message>
     <message>
         <source>Keep Running</source>
-        <translation type="unfinished"></translation>
+        <translation>Fortsätt kör</translation>
     </message>
     <message>
         <source>HTTPS</source>
-        <translation type="unfinished"></translation>
+        <translation>HTTPS</translation>
     </message>
     <message>
         <source>&amp;Host:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Värd:</translation>
     </message>
     <message>
         <source>Authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>Autentisering</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Gerrit server with HTTP was detected, but you need to set up credentials for it.&lt;/p&gt;&lt;p&gt;To get your password, &lt;a href=&quot;LINK_PLACEHOLDER&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#007af4;&quot;&gt;click here&lt;/span&gt;&lt;/a&gt; (sign in if needed). Click Generate Password if the password is blank, and copy the user name and password to this form.&lt;/p&gt;&lt;p&gt;Choose Anonymous if you do not want authentication for this server. In this case, changes that require authentication (like draft changes or private projects) will not be displayed.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -33568,36 +33568,36 @@ Would you like to terminate it?</source>
     </message>
     <message>
         <source>Server:</source>
-        <translation type="unfinished"></translation>
+        <translation>Server:</translation>
     </message>
     <message>
         <source>&amp;User:</source>
-        <translation type="unfinished"></translation>
+        <translation>A&amp;nvändare:</translation>
     </message>
     <message>
         <source>&amp;Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Lösenord:</translation>
     </message>
     <message>
         <source>Anonymous</source>
-        <translation type="unfinished"></translation>
+        <translation>Anonym</translation>
     </message>
     <message>
         <source>&amp;ssh:</source>
         <translatorcomment>Espace avant le : (protocole ?) ?</translatorcomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ssh:</translation>
     </message>
     <message>
         <source>cur&amp;l:</source>
-        <translation type="unfinished"></translation>
+        <translation>cur&amp;l:</translation>
     </message>
     <message>
         <source>SSH &amp;Port:</source>
-        <translation type="unfinished"></translation>
+        <translation>SSH-&amp;port:</translation>
     </message>
     <message>
         <source>P&amp;rotocol:</source>
-        <translation type="unfinished"></translation>
+        <translation>P&amp;rotokoll:</translation>
     </message>
     <message>
         <source>Determines the protocol used to form a URL in case
@@ -33607,7 +33607,7 @@ Would you like to terminate it?</source>
     </message>
     <message>
         <source>Gerrit...</source>
-        <translation type="unfinished"></translation>
+        <translation>Gerrit...</translation>
     </message>
     <message>
         <source>Push to Gerrit...</source>
@@ -33670,11 +33670,11 @@ were not verified among remotes in %3. Select different folder?</source>
     </message>
     <message>
         <source>Invalid author</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig upphovsperson</translation>
     </message>
     <message>
         <source>Invalid email</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig e-post</translation>
     </message>
     <message>
         <source>Unresolved merge conflicts</source>
@@ -33694,7 +33694,7 @@ were not verified among remotes in %3. Select different folder?</source>
     </message>
     <message>
         <source>Undo Changes to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ångra ändringar till %1</translation>
     </message>
     <message>
         <source>Local Changes Found. Choose Action:</source>
@@ -33702,7 +33702,7 @@ were not verified among remotes in %3. Select different folder?</source>
     </message>
     <message>
         <source>Discard Local Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Förkasta lokala ändringar</translation>
     </message>
     <message>
         <source>Checkout branch &quot;%1&quot;</source>
@@ -33710,7 +33710,7 @@ were not verified among remotes in %3. Select different folder?</source>
     </message>
     <message>
         <source>Move Local Changes to &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Flytta lokala ändringar till &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Pop Stash of &quot;%1&quot;</source>
@@ -33764,7 +33764,7 @@ Partial names can be used if they are unambiguous.</source>
     </message>
     <message>
         <source>To:</source>
-        <translation type="unfinished"></translation>
+        <translation>Till:</translation>
     </message>
     <message>
         <source>Commits:</source>
@@ -33794,7 +33794,7 @@ Partially checked - Do not change current state.</source>
     </message>
     <message>
         <source>Supported on Gerrit 2.15 and later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stöds på Gerrit 2.15 eller senare.</translation>
     </message>
     <message>
         <source>Checked - The change is a draft.
@@ -33815,11 +33815,11 @@ Unchecked - The change is not a draft.</source>
     </message>
     <message>
         <source>Reset to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nollställ till:</translation>
     </message>
     <message>
         <source>Select change:</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj ändring:</translation>
     </message>
     <message>
         <source>Reset type:</source>
@@ -33827,11 +33827,11 @@ Unchecked - The change is not a draft.</source>
     </message>
     <message>
         <source>Mixed</source>
-        <translation type="unfinished"></translation>
+        <translation>Blandad</translation>
     </message>
     <message>
         <source>Hard</source>
-        <translation type="unfinished"></translation>
+        <translation>Hård</translation>
     </message>
     <message>
         <source>Hash</source>
@@ -33840,7 +33840,7 @@ Unchecked - The change is not a draft.</source>
     </message>
     <message>
         <source>Soft</source>
-        <translation type="unfinished"></translation>
+        <translation>Mjuk</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -33848,7 +33848,7 @@ Unchecked - The change is not a draft.</source>
     </message>
     <message>
         <source>Submodule</source>
-        <translation type="unfinished"></translation>
+        <translation>Undermodul</translation>
     </message>
     <message>
         <source>Deleted</source>
@@ -33856,7 +33856,7 @@ Unchecked - The change is not a draft.</source>
     </message>
     <message>
         <source>Symbolic link</source>
-        <translation type="unfinished"></translation>
+        <translation>Symbolisk länk</translation>
     </message>
     <message>
         <source>Modified</source>
@@ -33864,7 +33864,7 @@ Unchecked - The change is not a draft.</source>
     </message>
     <message>
         <source>Created</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapad</translation>
     </message>
     <message>
         <source>Submodule commit %1</source>
@@ -33872,7 +33872,7 @@ Unchecked - The change is not a draft.</source>
     </message>
     <message>
         <source>Symbolic link -&gt; %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Symbolisk länk -&gt; %1</translation>
     </message>
     <message>
         <source>Merge Conflict</source>
@@ -33902,27 +33902,27 @@ Remote: %4</source>
     </message>
     <message>
         <source>&amp;Created</source>
-        <translation type="unfinished"></translation>
+        <translation>Ska&amp;pad</translation>
     </message>
     <message>
         <source>&amp;Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Ä&amp;ndrad</translation>
     </message>
     <message>
         <source>&amp;Deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Borttagen</translation>
     </message>
     <message>
         <source>Unchanged File</source>
-        <translation type="unfinished"></translation>
+        <translation>Oförändrad fil</translation>
     </message>
     <message>
         <source>Was the merge successful?</source>
-        <translation type="unfinished"></translation>
+        <translation>Lyckades sammanslagningen?</translation>
     </message>
     <message>
         <source>Continue Merging</source>
-        <translation type="unfinished"></translation>
+        <translation>Fortsätt slå samman</translation>
     </message>
     <message>
         <source>Continue merging other unresolved paths?</source>
@@ -33930,7 +33930,7 @@ Remote: %4</source>
     </message>
     <message>
         <source>Refresh Remote Servers</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdatera fjärrservrar</translation>
     </message>
     <message>
         <source>Fallback</source>
@@ -33966,7 +33966,8 @@ Leave empty to search through the file system.</source>
     <message>
         <source>Ref: %1
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ref: %1
+%2</translation>
     </message>
     <message>
         <source>Refreshing Commit Data</source>
@@ -34454,7 +34455,7 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Activate Help Bookmarks View</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivera Hjälpbokmärken-vyn</translation>
     </message>
     <message>
         <source>Alt+Meta+M</source>
@@ -34462,7 +34463,7 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Activate Help Search View</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivera Hjälpsökning-vyn</translation>
     </message>
     <message>
         <source>Meta+/</source>
@@ -34486,7 +34487,7 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Activate Open Help Pages View</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivera Öppna hjälpsidor-vyn</translation>
     </message>
     <message>
         <source>Meta+O</source>
@@ -36779,7 +36780,7 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>MCU Device</source>
-        <translation type="unfinished"></translation>
+        <translation>MCU-enhet</translation>
     </message>
     <message>
         <source>Qt for MCUs Demos</source>
@@ -36799,11 +36800,11 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Qt for MCUs</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt för MCUer</translation>
     </message>
     <message>
         <source>New version of Qt for MCUs detected. Upgrade existing kits?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny version av Qt för MCUer hittades. Uppgradera befintliga kit?</translation>
     </message>
     <message>
         <source>Errors while creating Qt for MCUs kits</source>
@@ -36823,23 +36824,23 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Requirements</source>
-        <translation type="unfinished"></translation>
+        <translation>Krav</translation>
     </message>
     <message>
         <source>Automatically create kits for all available targets on start</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa automatiskt kit för alla tillgängliga mål vid start</translation>
     </message>
     <message>
         <source>Create a Kit</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa ett kit</translation>
     </message>
     <message>
         <source>Create Kit</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa kit</translation>
     </message>
     <message>
         <source>Update Kit</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdatera kit</translation>
     </message>
     <message>
         <source>No valid kit descriptions found at %1.</source>
@@ -39029,7 +39030,7 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>This would create a circular dependency.</source>
-        <translation type="unfinished"></translation>
+        <translation>Detta skulle skapa ett cirkulärt beroende.</translation>
     </message>
     <message>
         <source>Synchronize configuration</source>
@@ -39045,7 +39046,7 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>Make arguments:</source>
-        <translation type="unfinished"></translation>
+        <translation>Make-argument:</translation>
     </message>
     <message>
         <source>Parallel jobs:</source>
@@ -39069,7 +39070,7 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>Make:</source>
-        <translation type="unfinished"></translation>
+        <translation>Make:</translation>
     </message>
     <message>
         <source>Make</source>
@@ -39081,19 +39082,19 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>&lt;b&gt;Make:&lt;/b&gt; %1</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Make:&lt;/b&gt; %1</translation>
     </message>
     <message>
         <source>&lt;b&gt;Make:&lt;/b&gt; No build configuration.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Make:&lt;/b&gt; Ingen byggkonfiguration.</translation>
     </message>
     <message>
         <source>&lt;b&gt;Make:&lt;/b&gt; %1 not found in the environment.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Make:&lt;/b&gt; %1 hittades inte i miljön.</translation>
     </message>
     <message>
         <source>Overriding &lt;code&gt;MAKEFLAGS&lt;/code&gt; environment variable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Åsidosätter miljövariabeln &lt;code&gt;MAKEFLAGS&lt;/code&gt;.</translation>
     </message>
     <message>
         <source>&lt;code&gt;MAKEFLAGS&lt;/code&gt; specifies a conflicting job count.</source>
@@ -39138,9 +39139,9 @@ You might find further explanations in the Application Output view.</source>
     <message numerus="yes">
         <source>Finished %1 of %n steps</source>
         <translatorcomment>lorsqu&apos;il n&apos;y a qu&apos;une étape 1/1 n&apos;est pas franchement utile... -&gt; et comme ça ?</translatorcomment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Färdigställde %1 av %n steg</numerusform>
+            <numerusform>Färdigställde %1 av %n steg</numerusform>
         </translation>
     </message>
     <message>
@@ -39184,7 +39185,7 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>Issues found when running tests.</source>
-        <translation type="unfinished"></translation>
+        <translation>Problem hittades vid körning av tester.</translation>
     </message>
     <message>
         <source>The kit %1 has configuration issues which might be the root cause for this problem.</source>
@@ -41192,7 +41193,7 @@ Preselects a desktop Qt for building the application if available.</source>
     </message>
     <message>
         <source>Define Python Interpreter</source>
-        <translation type="unfinished"></translation>
+        <translation>Definiera Python-tolk</translation>
     </message>
     <message>
         <source>Creates a Qt for Python application that includes a Qt Widgets Designer-based widget (ui file). Requires .ui to Python conversion.</source>
@@ -41808,7 +41809,7 @@ Preselects a desktop Qt for building the application if available.</source>
     </message>
     <message>
         <source>You can choose Qt classes only if you select a Qt for Python module.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du kan välja Qt-klasser endast om du har valt en Qt för Python-modul.</translation>
     </message>
     <message>
         <source>Import QtCore</source>
@@ -41868,7 +41869,7 @@ Preselects a desktop Qt for building the application if available.</source>
     </message>
     <message>
         <source>Python Class</source>
-        <translation type="unfinished"></translation>
+        <translation>Python-klass</translation>
     </message>
     <message>
         <source>Customize header row</source>
@@ -41880,15 +41881,15 @@ Preselects a desktop Qt for building the application if available.</source>
     </message>
     <message>
         <source>Rows and columns can be added</source>
-        <translation type="unfinished"></translation>
+        <translation>Rader och kolumner kan läggas till</translation>
     </message>
     <message>
         <source>Rows and columns can be removed</source>
-        <translation type="unfinished"></translation>
+        <translation>Rader och kolumner kan tas bort</translation>
     </message>
     <message>
         <source>Fetch data dynamically</source>
-        <translation type="unfinished"></translation>
+        <translation>Hämta data dynamiskt</translation>
     </message>
     <message>
         <source>Define Item Model Class</source>
@@ -41912,19 +41913,19 @@ Preselects a desktop Qt for building the application if available.</source>
     </message>
     <message>
         <source>Include QObject</source>
-        <translation type="unfinished"></translation>
+        <translation>Inkludera QObject</translation>
     </message>
     <message>
         <source>Include QWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>Inkludera QWidget</translation>
     </message>
     <message>
         <source>Include QMainWindow</source>
-        <translation type="unfinished"></translation>
+        <translation>Inkludera QMainWindow</translation>
     </message>
     <message>
         <source>Include QSharedData</source>
-        <translation type="unfinished"></translation>
+        <translation>Inkludera QSharedData</translation>
     </message>
     <message>
         <source>Add Q_OBJECT</source>
@@ -41972,11 +41973,11 @@ Preselects a desktop Qt for building the application if available.</source>
     </message>
     <message>
         <source>Define Code snippet</source>
-        <translation type="unfinished"></translation>
+        <translation>Definiera kodsnutt</translation>
     </message>
     <message>
         <source>Code snippet</source>
-        <translation type="unfinished"></translation>
+        <translation>Kodsnutt</translation>
     </message>
     <message>
         <source>Creates an empty Python script file using UTF-8 charset.</source>
@@ -41984,7 +41985,7 @@ Preselects a desktop Qt for building the application if available.</source>
     </message>
     <message>
         <source>Python File</source>
-        <translation type="unfinished"></translation>
+        <translation>Python-fil</translation>
     </message>
     <message>
         <source>Creates a scratch model using a temporary file.</source>
@@ -42008,7 +42009,7 @@ Preselects a desktop Qt for building the application if available.</source>
     </message>
     <message>
         <source>&quot;%{JS: Util.toNativeSeparators(value(&apos;TargetPath&apos;))}&quot; exists in the filesystem.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%{JS: Util.toNativeSeparators(value(&apos;TargetPath&apos;))}&quot; finns i filsystemet.</translation>
     </message>
     <message>
         <source>Model Name and Location</source>
@@ -42048,11 +42049,11 @@ Preselects a desktop Qt for building the application if available.</source>
     </message>
     <message>
         <source>Creates a Qt Resource file (.qrc).</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapar en Qt-resursfil (.qrc).</translation>
     </message>
     <message>
         <source>Qt Resource File</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt-resursfil</translation>
     </message>
     <message>
         <source>Creates an empty Nim script file using UTF-8 charset.</source>
@@ -42064,7 +42065,7 @@ Preselects a desktop Qt for building the application if available.</source>
     </message>
     <message>
         <source>Nim Script File</source>
-        <translation type="unfinished"></translation>
+        <translation>Nim-skriptfil</translation>
     </message>
     <message>
         <source>Creates an empty Nim file using UTF-8 charset.</source>
@@ -42072,11 +42073,11 @@ Preselects a desktop Qt for building the application if available.</source>
     </message>
     <message>
         <source>Nim File</source>
-        <translation type="unfinished"></translation>
+        <translation>Nim-fil</translation>
     </message>
     <message>
         <source>Creates an empty file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapar en tom fil.</translation>
     </message>
     <message>
         <source>Empty File</source>
@@ -42084,11 +42085,11 @@ Preselects a desktop Qt for building the application if available.</source>
     </message>
     <message>
         <source>Choose a Form Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en formulärmall</translation>
     </message>
     <message>
         <source>Form Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulärmall</translation>
     </message>
     <message>
         <source>Creates a Qt Widgets Designer form that you can add to a Qt Widget Project. This is useful if you already have an existing class for the UI business logic.</source>
@@ -42124,11 +42125,11 @@ Preselects a desktop Qt for building the application if available.</source>
     </message>
     <message>
         <source>Creates a JavaScript file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapar en JavaScript-fil.</translation>
     </message>
     <message>
         <source>JS File</source>
-        <translation type="unfinished"></translation>
+        <translation>JS-fil</translation>
     </message>
     <message>
         <source>Creates a vertex shader in the Desktop OpenGL Shading Language (GLSL). Vertex shaders transform the positions, normals and texture coordinates of triangles, points and lines rendered with OpenGL.</source>
@@ -42176,7 +42177,7 @@ Preselects a desktop Qt for building the application if available.</source>
     </message>
     <message>
         <source>Java File</source>
-        <translation type="unfinished"></translation>
+        <translation>Java-fil</translation>
     </message>
     <message>
         <source>Creates a QML file with boilerplate code, starting with &quot;import QtQuick&quot;.</source>
@@ -42366,7 +42367,7 @@ The name of the build configuration created by default for a generic project.</e
     </message>
     <message>
         <source>No kit defined in this project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga kit definierade i detta projekt.</translation>
     </message>
     <message>
         <source>Project Name</source>
@@ -42374,11 +42375,11 @@ The name of the build configuration created by default for a generic project.</e
     </message>
     <message>
         <source>Kit is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kit är inte giltigt.</translation>
     </message>
     <message>
         <source>Incompatible Kit</source>
-        <translation type="unfinished"></translation>
+        <translation>Inkompatibelt kit</translation>
     </message>
     <message>
         <source>Kit %1 is incompatible with kit %2.</source>
@@ -42402,7 +42403,7 @@ The name of the build configuration created by default for a generic project.</e
     </message>
     <message>
         <source>Could not find any qml_*.qm file at &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte hitta någon qml_*.qm-fil i &quot;%1&quot;</translation>
     </message>
     <message>
         <source>%1: Name.</source>
@@ -42502,11 +42503,11 @@ The name of the build configuration created by default for a generic project.</e
     </message>
     <message>
         <source>Enable Kit for Project &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivera kit för projektet &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Enable Kit for All Projects</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivera kit för alla projekt</translation>
     </message>
     <message>
         <source>Disable Kit for Project &quot;%1&quot;</source>
@@ -42518,7 +42519,7 @@ The name of the build configuration created by default for a generic project.</e
     </message>
     <message>
         <source>Disable Kit &quot;%1&quot; in This Project?</source>
-        <translation type="unfinished"></translation>
+        <translation>Inaktivera kit &quot;%1&quot; i detta projekt?</translation>
     </message>
     <message>
         <source>The kit &lt;b&gt;%1&lt;/b&gt; is currently being built.</source>
@@ -42530,11 +42531,11 @@ The name of the build configuration created by default for a generic project.</e
     </message>
     <message>
         <source>Disable Kit for All Projects</source>
-        <translation type="unfinished"></translation>
+        <translation>Inaktivera kit för alla projekt</translation>
     </message>
     <message>
         <source>Copy Steps From Another Kit...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera steg från annat kit...</translation>
     </message>
     <message>
         <source>The process crashed.</source>
@@ -42567,11 +42568,11 @@ The name of the build configuration created by default for a generic project.</e
     </message>
     <message>
         <source>Remove Item</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort objekt</translation>
     </message>
     <message>
         <source>Removing Step failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Borttagning av steg misslyckades</translation>
     </message>
     <message>
         <source>Cannot remove build step while building</source>
@@ -42579,7 +42580,7 @@ The name of the build configuration created by default for a generic project.</e
     </message>
     <message>
         <source>No Build Steps</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga byggsteg</translation>
     </message>
     <message>
         <source>error:</source>
@@ -42610,7 +42611,7 @@ Display name of the deploy build step list. Used as part of the labels in the pr
     </message>
     <message>
         <source>Application Still Running</source>
-        <translation type="unfinished"></translation>
+        <translation>Programmet kör fortfarande</translation>
     </message>
     <message>
         <source>PID %1</source>
@@ -42638,7 +42639,7 @@ Display name of the deploy build step list. Used as part of the labels in the pr
     </message>
     <message>
         <source>&amp;Annotate</source>
-        <translation type="unfinished"></translation>
+        <translation>A&amp;nteckna</translation>
     </message>
     <message>
         <source>Annotate using version control system.</source>
@@ -42666,7 +42667,7 @@ Display name of the deploy build step list. Used as part of the labels in the pr
     </message>
     <message>
         <source>My Tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>Mina uppgifter</translation>
     </message>
     <message>
         <source>Start Wizard</source>
@@ -42802,7 +42803,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Filter candidates by name</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrera kandidater efter namn</translation>
     </message>
     <message>
         <source>Create</source>
@@ -42830,7 +42831,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Compilers</source>
-        <translation type="unfinished"></translation>
+        <translation>Kompilatorer</translation>
     </message>
     <message>
         <source>Clone</source>
@@ -43221,7 +43222,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Compiler</source>
-        <translation type="unfinished"></translation>
+        <translation>Kompilator</translation>
     </message>
     <message>
         <source>Compilers produce code for different ABIs: %1</source>
@@ -43265,7 +43266,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Private key file</source>
-        <translation type="unfinished"></translation>
+        <translation>Privat nyckelfil</translation>
     </message>
     <message>
         <source>Device name</source>
@@ -43277,15 +43278,15 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Build device</source>
-        <translation type="unfinished"></translation>
+        <translation>Byggenhet</translation>
     </message>
     <message>
         <source>The device used to build applications on.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enheten som används för att bygga program på.</translation>
     </message>
     <message>
         <source>No build device set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen byggenhet inställd.</translation>
     </message>
     <message>
         <source>Build host address</source>
@@ -43401,7 +43402,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Kit icon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kit-ikon.</translation>
     </message>
     <message>
         <source>Select Icon...</source>
@@ -43413,7 +43414,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Display name is not unique.</source>
-        <translation type="unfinished"></translation>
+        <translation>Visningsnamnet är inte unikt.</translation>
     </message>
     <message>
         <source>Default for %1</source>
@@ -43446,7 +43447,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Settings Filter...</source>
-        <translation type="unfinished"></translation>
+        <translation>Inställningsfilter...</translation>
     </message>
     <message>
         <source>Choose which settings to display for this kit.</source>
@@ -43454,7 +43455,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Default Settings Filter...</source>
-        <translation type="unfinished"></translation>
+        <translation>Filter för standardinställningar...</translation>
     </message>
     <message>
         <source>Choose which kit settings to display by default.</source>
@@ -43529,7 +43530,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Set Up Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurera enhet</translation>
     </message>
     <message>
         <source>There is no device set up for this kit. Do you want to add a device?</source>
@@ -43815,7 +43816,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Imported Kit</source>
-        <translation type="unfinished"></translation>
+        <translation>Importerat kit</translation>
     </message>
     <message>
         <source>No suitable kits found.</source>
@@ -44094,7 +44095,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Missing transfer implementation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Saknar överföringsimplementation.</translation>
     </message>
     <message>
         <source>sftp</source>
@@ -44118,7 +44119,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Connection sharing timeout:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidsgräns överstigen för anslutningsdelning:</translation>
     </message>
     <message>
         <source>Path to ssh executable:</source>
@@ -44170,7 +44171,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Field is not an object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fältet är inte ett objekt.</translation>
     </message>
     <message>
         <source>Field has no name.</source>
@@ -44178,7 +44179,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Field &quot;%1&quot; has no type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fältet &quot;%1&quot; har ingen typ.</translation>
     </message>
     <message>
         <source>Field &quot;%1&quot; has unsupported type &quot;%2&quot;.</source>
@@ -44465,7 +44466,7 @@ to project &quot;%2&quot;.</source>
     </message>
     <message>
         <source>key not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>nyckeln hittades inte.</translation>
     </message>
     <message>
         <source>Expected an object or a list.</source>
@@ -45150,7 +45151,7 @@ These files are preserved.</source>
     </message>
     <message>
         <source> Virtual Environment</source>
-        <translation type="unfinished"></translation>
+        <translation> Virtuell miljö</translation>
     </message>
     <message>
         <source>REPL</source>
@@ -45158,7 +45159,7 @@ These files are preserved.</source>
     </message>
     <message>
         <source>Open interactive Python.</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna interaktiv Python.</translation>
     </message>
     <message>
         <source>REPL Import File</source>
@@ -45186,7 +45187,7 @@ These files are preserved.</source>
     </message>
     <message>
         <source>Create Virtual Environment</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa virtuell miljö</translation>
     </message>
     <message>
         <source>Manage Python Interpreters</source>
@@ -45206,7 +45207,7 @@ These files are preserved.</source>
     </message>
     <message>
         <source>Always Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdatera alltid</translation>
     </message>
     <message>
         <source>Update</source>
@@ -45270,15 +45271,15 @@ These files are preserved.</source>
     </message>
     <message>
         <source>&amp;Make Default</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Gör till standard</translation>
     </message>
     <message>
         <source>&amp;Generate Kit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Generera kit</translation>
     </message>
     <message>
         <source>&amp;Clean Up</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rensa upp</translation>
     </message>
     <message>
         <source>Remove all Python interpreters without a valid executable.</source>
@@ -45286,7 +45287,7 @@ These files are preserved.</source>
     </message>
     <message>
         <source>Interpreters</source>
-        <translation type="unfinished"></translation>
+        <translation>Tolkar</translation>
     </message>
     <message>
         <source>Python</source>
@@ -45306,7 +45307,7 @@ These files are preserved.</source>
     </message>
     <message>
         <source>Python interpreter:</source>
-        <translation type="unfinished"></translation>
+        <translation>Python-tolk:</translation>
     </message>
     <message>
         <source>New Python Virtual Environment Directory</source>
@@ -45330,7 +45331,7 @@ These files are preserved.</source>
     </message>
     <message>
         <source>Searching Python binaries...</source>
-        <translation type="unfinished"></translation>
+        <translation>Söker efter Python-binärer...</translation>
     </message>
     <message>
         <source>Found &quot;%1&quot; (%2)</source>
@@ -45378,11 +45379,11 @@ These files are preserved.</source>
     </message>
     <message>
         <source>Python &quot;%1&quot; not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Python &quot;%1&quot; hittades inte.</translation>
     </message>
     <message>
         <source>Python &quot;%1&quot; is not executable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Python &quot;%1&quot; är inte körbar.</translation>
     </message>
     <message>
         <source>Python &quot;%1&quot; does not contain a usable pip. pip is needed to install Python packages from the Python Package Index, like PySide and the Python language server. To use any of that functionality ensure that pip is installed for that Python.</source>
@@ -49246,7 +49247,7 @@ Qt Design Studio kräver en .qmlproject-baserat projekt för att öppna .ui.qml-
     </message>
     <message>
         <source>Compiler:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kompilator:</translation>
     </message>
     <message>
         <source>Architectures:</source>
