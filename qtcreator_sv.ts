@@ -145,7 +145,7 @@
     </message>
     <message>
         <source>Toggles if the component is enabled to receive mouse and keyboard input.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar om komponenten är aktiverad för att ta emot mus- och tangentbordsinmatning.</translation>
     </message>
     <message>
         <source>Smooth</source>
@@ -153,7 +153,7 @@
     </message>
     <message>
         <source>Toggles if the smoothing is performed using linear interpolation method. Keeping it unchecked would follow non-smooth method using nearest neighbor. It is mostly applicable on image based items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar om mjukheten genomförs med linjär interpolationsmetod. Hålla den avmarkerad skulle följa metoden för icke-mjuk med närmsta granne. Det är oftast aktuellt på bildbaserade objekt.</translation>
     </message>
     <message>
         <source>Antialiasing</source>
@@ -161,7 +161,7 @@
     </message>
     <message>
         <source>Refines the edges of the image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förfinar kanterna på bilden.</translation>
     </message>
     <message>
         <source>Focus</source>
@@ -169,7 +169,7 @@
     </message>
     <message>
         <source>Sets focus on the component within the enclosing focus scope.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in fokus på komponenten inom det omslutande fokusintervallet.</translation>
     </message>
     <message>
         <source>Focus on tab</source>
@@ -177,7 +177,7 @@
     </message>
     <message>
         <source>Adds the component to the tab focus chain.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägger till komponenten till flikfokuskedjan.</translation>
     </message>
     <message>
         <source>Baseline offset</source>
@@ -185,7 +185,7 @@
     </message>
     <message>
         <source>Sets the position of the component&apos;s baseline in local coordinates.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in positionen för komponentens standardvärde i lokala koordinater.</translation>
     </message>
 </context>
 <context>
@@ -329,7 +329,7 @@
     </message>
     <message>
         <source>The source file for the sound to be played.</source>
-        <translation type="unfinished"></translation>
+        <translation>Källfilen för ljudet som ska spelas upp.</translation>
     </message>
     <message>
         <source>Volume</source>
@@ -342,7 +342,7 @@ Values between 0 and 1 will attenuate the sound, while values above 1 provide an
     </message>
     <message>
         <source>Loops</source>
-        <translation type="unfinished"></translation>
+        <translation>Slingor</translation>
     </message>
     <message>
         <source>Sets how often the sound is played before the player stops.
@@ -351,11 +351,11 @@ Bind to AmbientSound.Infinite to loop the current sound forever.</source>
     </message>
     <message>
         <source>Auto Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Spela upp automatiskt</translation>
     </message>
     <message>
         <source>Sets whether the sound should automatically start playing when a source gets specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in huruvida ljudet ska börja spelas upp automatiskt när en källa blir angiven.</translation>
     </message>
 </context>
 <context>
@@ -1141,11 +1141,11 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Sets the source image for the border.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in källbilden för ramen.</translation>
     </message>
     <message>
         <source>Sets the dimension of the border image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in dimensionen för rambilden.</translation>
     </message>
     <message>
         <source>W</source>
@@ -1221,7 +1221,7 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Toggles if the image should be inverted horizontally.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar om bilden ska inverteras horisontellt.</translation>
     </message>
     <message>
         <source>Toggles if the image is saved to the cache memory.</source>
@@ -1241,7 +1241,7 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Border Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Rambild</translation>
     </message>
     <message>
         <source>Source size</source>
@@ -1260,22 +1260,22 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Community Edition</source>
-        <translation type="unfinished"></translation>
+        <translation>Community Edition</translation>
     </message>
     <message>
         <source>Enterprise Edition</source>
-        <translation type="unfinished"></translation>
+        <translation>Enterprise Edition</translation>
     </message>
     <message>
         <source>Professional Edition</source>
-        <translation type="unfinished"></translation>
+        <translation>Professional Edition</translation>
     </message>
 </context>
 <context>
     <name>BusyIndicatorSpecifics</name>
     <message>
         <source>Busy Indicator</source>
-        <translation type="unfinished"></translation>
+        <translation>Upptagenindikator</translation>
     </message>
     <message>
         <source>Running</source>
@@ -1283,7 +1283,7 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Toggles if the busy indicator indicates activity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar om upptagenindikatorn indikerar aktivitet.</translation>
     </message>
     <message>
         <source>Live</source>
@@ -1430,7 +1430,7 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>The speed camera moves when controlled by keyboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hastigheten som kameran rörs sig vid styrning med tangentbord.</translation>
     </message>
     <message>
         <source>Multiplier</source>
@@ -1732,7 +1732,7 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Defines the direction of the gradient.</source>
-        <translation type="unfinished"></translation>
+        <translation>Definierar riktningen för gradienten.</translation>
     </message>
     <message>
         <source>Defines the start point for color interpolation.</source>
@@ -1782,11 +1782,11 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Column spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolumnavstånd</translation>
     </message>
     <message>
         <source>Sets the space between the items in pixels in the &lt;b&gt;Column Layout&lt;/b&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in avståndet mellan objekten i pixlar i &lt;b&gt;Kolumnlayout&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Layout direction</source>
@@ -1794,15 +1794,15 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Sets the direction of the item flow in the &lt;b&gt;Column Layout&lt;/b&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in riktningen för objektflödet i &lt;b&gt;Kolumnlayout&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Uniform cell sizes</source>
-        <translation type="unfinished"></translation>
+        <translation>Enhetliga cellstorlekar</translation>
     </message>
     <message>
         <source>Toggles all cells to have a uniform size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar alla celler till att ha en enhetlig storlek.</translation>
     </message>
 </context>
 <context>
@@ -1813,11 +1813,11 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Avstånd</translation>
     </message>
     <message>
         <source>Sets the spacing between column items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in avståndet mellan kolumnobjekt.</translation>
     </message>
 </context>
 <context>
@@ -6209,11 +6209,11 @@ operation is in progress.</source>
     <name>QDockWidget</name>
     <message>
         <source>Float</source>
-        <translation type="unfinished"></translation>
+        <translation>Flytande</translation>
     </message>
     <message>
         <source>Undocks and re-attaches the dock widget</source>
-        <translation type="unfinished"></translation>
+        <translation>Avdockar och återfäster dockwidgeten</translation>
     </message>
     <message>
         <source>Close</source>
@@ -6221,7 +6221,7 @@ operation is in progress.</source>
     </message>
     <message>
         <source>Closes the dock widget</source>
-        <translation type="unfinished"></translation>
+        <translation>Stänger dockwidgeten</translation>
     </message>
 </context>
 <context>
@@ -48087,7 +48087,7 @@ Please build the qmldump application on the Qt version options page.</source>
     </message>
     <message>
         <source>Allocations</source>
-        <translation type="unfinished"></translation>
+        <translation>Allokeringar</translation>
     </message>
     <message>
         <source>Memory</source>
@@ -48095,7 +48095,7 @@ Please build the qmldump application on the Qt version options page.</source>
     </message>
     <message>
         <source>Various Events</source>
-        <translation type="unfinished"></translation>
+        <translation>Olika händelser</translation>
     </message>
     <message>
         <source>others</source>
@@ -48111,7 +48111,7 @@ Please build the qmldump application on the Qt version options page.</source>
     </message>
     <message>
         <source>Load QML Trace</source>
-        <translation type="unfinished"></translation>
+        <translation>Läs in QML-spårning</translation>
     </message>
     <message>
         <source>QML Profiler (Attach to Waiting Application)</source>
@@ -48119,7 +48119,7 @@ Please build the qmldump application on the Qt version options page.</source>
     </message>
     <message>
         <source>Save QML Trace</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara QML-spårning</translation>
     </message>
     <message>
         <source>Application finished before loading profiled data.
@@ -48132,7 +48132,7 @@ Please use the stop button instead.</source>
     </message>
     <message>
         <source>Hide or show event categories.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dölj eller visa händelsekategorier.</translation>
     </message>
     <message>
         <source>Disable Profiling</source>
@@ -48173,15 +48173,15 @@ Do you want to retry and wait %2 s?</source>
     </message>
     <message>
         <source>QML traces (*%1 *%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>QML-spårningar (*%1 *%2)</translation>
     </message>
     <message>
         <source>Saving Trace Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Sparar spårdata</translation>
     </message>
     <message>
         <source>Loading Trace Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Läser in spårdata</translation>
     </message>
     <message>
         <source>You are about to discard the profiling data, including unsaved notes. Do you want to continue?</source>
@@ -48202,7 +48202,7 @@ Do you want to save the data first?</source>
     </message>
     <message>
         <source>Scene Graph</source>
-        <translation type="unfinished"></translation>
+        <translation>Scengraf</translation>
     </message>
     <message>
         <source>Painting</source>
@@ -48210,11 +48210,11 @@ Do you want to save the data first?</source>
     </message>
     <message>
         <source>Compiling</source>
-        <translation type="unfinished"></translation>
+        <translation>Kompilerar</translation>
     </message>
     <message>
         <source>Creating</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapar</translation>
     </message>
     <message>
         <source>Handling Signal</source>
@@ -48222,15 +48222,15 @@ Do you want to save the data first?</source>
     </message>
     <message>
         <source>Input Events</source>
-        <translation type="unfinished"></translation>
+        <translation>Inmatningshändelser</translation>
     </message>
     <message>
         <source>Debug Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Felsökningsmeddelanden</translation>
     </message>
     <message>
         <source>Quick3D</source>
-        <translation type="unfinished"></translation>
+        <translation>Quick3D</translation>
     </message>
     <message>
         <source>Failed to replay QML events from stash file.</source>
@@ -48242,7 +48242,7 @@ Do you want to save the data first?</source>
     </message>
     <message>
         <source>Cannot open temporary trace file to store events.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte öppna temporär spårningsfil för att lagra händelser.</translation>
     </message>
     <message>
         <source>Failed to reset temporary trace file.</source>
@@ -48290,11 +48290,11 @@ Do you want to save the data first?</source>
     </message>
     <message>
         <source>Memory Allocated</source>
-        <translation type="unfinished"></translation>
+        <translation>Minne allokerat</translation>
     </message>
     <message>
         <source>Memory Freed</source>
-        <translation type="unfinished"></translation>
+        <translation>Minne frigjort</translation>
     </message>
     <message>
         <source>Total</source>
@@ -48363,7 +48363,7 @@ Do you want to save the data first?</source>
     </message>
     <message>
         <source>Longest Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Längsta tid</translation>
     </message>
     <message>
         <source>Main program</source>
@@ -48371,15 +48371,15 @@ Do you want to save the data first?</source>
     </message>
     <message>
         <source>+%1 in recursive calls</source>
-        <translation type="unfinished"></translation>
+        <translation>+%1 i rekursiva anrop</translation>
     </message>
     <message>
         <source>Shortest Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Kortaste tid</translation>
     </message>
     <message>
         <source>called recursively</source>
-        <translation type="unfinished"></translation>
+        <translation>anropad rekursivt</translation>
     </message>
     <message>
         <source>Details</source>
@@ -48497,7 +48497,7 @@ Do you want to save the data first?</source>
     </message>
     <message>
         <source>Context</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontext</translation>
     </message>
     <message>
         <source>Error while parsing trace data file: %1</source>
@@ -48525,7 +48525,7 @@ Do you want to save the data first?</source>
     </message>
     <message>
         <source>Error writing trace file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid skrivning av spårningsfil.</translation>
     </message>
     <message>
         <source>Could not re-read events from temporary trace file: %1
@@ -48534,7 +48534,7 @@ Saving failed.</source>
     </message>
     <message>
         <source>Compile</source>
-        <translation type="unfinished"></translation>
+        <translation>Kompilera</translation>
     </message>
     <message>
         <source>Debug Message</source>
@@ -48799,7 +48799,7 @@ the program.</source>
     </message>
     <message>
         <source>Event Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Händelsedata</translation>
     </message>
     <message>
         <source>Mesh Memory consumption</source>
@@ -48851,7 +48851,7 @@ the program.</source>
     </message>
     <message>
         <source>Instances</source>
-        <translation type="unfinished"></translation>
+        <translation>Instanser</translation>
     </message>
     <message>
         <source>Render Thread Details</source>
@@ -48875,7 +48875,7 @@ the program.</source>
     </message>
     <message>
         <source>Render</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendera</translation>
     </message>
     <message>
         <source>Swap</source>
@@ -49472,19 +49472,19 @@ Are you sure you want to continue?</source>
     <message>
         <source>The qmake command &quot;%1&quot; was not found or is not executable.</source>
         <extracomment>%1: Path to qmake executable</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>qmake-kommandot &quot;%1&quot; hittades inte eller är inte körbart.</translation>
     </message>
     <message>
         <source>No qmake path set</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen qmake-sökväg inställd</translation>
     </message>
     <message>
         <source>qmake does not exist or is not executable</source>
-        <translation type="unfinished"></translation>
+        <translation>qmake finns inte eller är inte körbar</translation>
     </message>
     <message>
         <source>Qt version has no name</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt-versionen har inget namn</translation>
     </message>
     <message>
         <source>&lt;unknown&gt;</source>
@@ -49497,11 +49497,11 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>Qt version is not properly installed, please run make install</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt-versionen är inte korrekt installerad. Kör make install</translation>
     </message>
     <message>
         <source>Could not determine the path to the binaries of the Qt installation, maybe the qmake path is wrong?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte fastställa sökvägen till binärerna för Qt-installationen. Kanske är sökvägen till qmake fel?</translation>
     </message>
     <message>
         <source>The default mkspec symlink is broken.</source>
@@ -49518,7 +49518,7 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>No QML utility installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inget QML-verktyg installerat.</translation>
     </message>
     <message>
         <source>Desktop</source>
@@ -49556,11 +49556,11 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source> (on %1)</source>
-        <translation type="unfinished"></translation>
+        <translation> (på %1)</translation>
     </message>
     <message>
         <source>Device type is not supported by Qt version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enhetstypen stöds inte av Qt-versionen.</translation>
     </message>
     <message>
         <source>The compiler &quot;%1&quot; (%2) cannot produce code for the Qt version &quot;%3&quot; (%4).</source>
@@ -49572,7 +49572,7 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>The kit has a Qt version, but no C++ compiler.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kitet har en Qt-version men ingen C++-kompilator.</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -49580,7 +49580,7 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>Invalid Qt version</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig Qt-version</translation>
     </message>
     <message>
         <source>ABI:</source>
@@ -49608,7 +49608,7 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>The version string of the current Qt version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Versionssträngen för aktuell Qt-version.</translation>
     </message>
     <message>
         <source>The type of the current Qt version.</source>
@@ -49620,7 +49620,7 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>The installation prefix of the current Qt version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Installationsprefixet för aktuell Qt-version.</translation>
     </message>
     <message>
         <source>The installation location of the current Qt version&apos;s data.</source>
@@ -49680,19 +49680,19 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>The current Qt version&apos;s default mkspecs (Qt 4).</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuella Qt-versionens standard-mkspecs (Qt 4).</translation>
     </message>
     <message>
         <source>The current Qt version&apos;s default mkspec (Qt 5; host system).</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuella Qt-versionens standard-mkspec (Qt 5; värdsystem).</translation>
     </message>
     <message>
         <source>The current Qt version&apos;s default mkspec (Qt 5; target system).</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuella Qt-versionens standard-mkspec (Qt 5; målsystem).</translation>
     </message>
     <message>
         <source>The current Qt&apos;s qmake version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuella versionen för Qt:s qmake.</translation>
     </message>
     <message>
         <source>Timeout running &quot;%1&quot;.</source>
@@ -49704,7 +49704,7 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>&quot;%1&quot; produced no output: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; producerade inget utdata: %2.</translation>
     </message>
     <message>
         <source>qmake &quot;%1&quot; is not an executable.</source>
@@ -49728,7 +49728,7 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>This Qt Version does not contain Qt Quick Compiler.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denna Qt-version innehåller inte Qt Quick-kompilator.</translation>
     </message>
     <message>
         <source>No factory found for qmake: &quot;%1&quot;</source>
@@ -49752,7 +49752,7 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>Location of qmake</source>
-        <translation type="unfinished"></translation>
+        <translation>Plats för qmake</translation>
     </message>
     <message>
         <source>Link with Qt...</source>
@@ -49768,11 +49768,11 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>Register documentation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Registrera dokumentation:</translation>
     </message>
     <message>
         <source>qmake Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökväg för qmake</translation>
     </message>
     <message>
         <source>Highest Version Only</source>
@@ -49784,7 +49784,7 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>Display Name is not unique.</source>
-        <translation type="unfinished"></translation>
+        <translation>Visningsnamnet är inte unikt.</translation>
     </message>
     <message>
         <source>No compiler can produce code for this Qt version. Please define one or more compilers for: %1</source>
@@ -49804,15 +49804,15 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>Select a qmake Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en körbar fil för qmake</translation>
     </message>
     <message>
         <source>Qt Version Already Known</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt-versionen är redan känd</translation>
     </message>
     <message>
         <source>Qmake Not Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Qmake är inte körbar</translation>
     </message>
     <message>
         <source>The qmake executable %1 could not be added: %2</source>
@@ -49824,11 +49824,11 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>%1&apos;s resource directory is not writable.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1&apos;s resurskatalog är inte skrivbar.</translation>
     </message>
     <message>
         <source>%1 is currently linked to &quot;%2&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 är för närvarande länkad till &quot;%2&quot;.</translation>
     </message>
     <message>
         <source>Qt installation information was not found in &quot;%1&quot;. Choose a directory that contains one of the files %2</source>
@@ -49836,19 +49836,19 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>Choose Qt Installation</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj Qt-installation</translation>
     </message>
     <message>
         <source>The change will take effect after restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändringen tar effekt efter omstart.</translation>
     </message>
     <message>
         <source>Qt installation path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökväg för Qt-installation:</translation>
     </message>
     <message>
         <source>Choose the Qt installation directory, or a directory that contains &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj Qt-installationskatalogen eller en katalog som innehåller &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Link with Qt</source>
@@ -49864,19 +49864,19 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>Error Linking With Qt</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid länkning med Qt</translation>
     </message>
     <message>
         <source>Could not write to &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte skriva till &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>The Qt version selected must match the device type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt-versionen som väljs måste matcha enhetstypen.</translation>
     </message>
     <message>
         <source>Remove Invalid Qt Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort ogiltiga Qt-versioner</translation>
     </message>
     <message>
         <source>Not all possible target environments can be supported due to missing compilers.</source>
@@ -49884,11 +49884,11 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>This Qt version was already registered as &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denna Qt-version var redan registrerad som &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Incompatible Qt Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Inkompatibla Qt-versioner</translation>
     </message>
     <message>
         <source>Examples</source>
@@ -49908,7 +49908,7 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>Copy Project to writable Location?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera projektet till skrivbar plats?</translation>
     </message>
     <message>
         <source>&lt;p&gt;The project you are about to open is located in the write-protected location:&lt;/p&gt;&lt;blockquote&gt;%1&lt;/blockquote&gt;&lt;p&gt;Please select a writable location below and click &quot;Copy Project and Open&quot; to open a modifiable copy of the project or click &quot;Keep Project and Open&quot; to open the project in location.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Note:&lt;/b&gt; You will not be able to alter or compile your project in the current location.&lt;/p&gt;</source>
@@ -49916,19 +49916,19 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>&amp;Location:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Plats:</translation>
     </message>
     <message>
         <source>&amp;Copy Project and Open</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kopiera projekt och öppna</translation>
     </message>
     <message>
         <source>&amp;Keep Project and Open</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Behåll projekt och öppna</translation>
     </message>
     <message>
         <source>Cannot Use Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte använda platsen</translation>
     </message>
     <message>
         <source>The specified location already exists. Please specify a valid location.</source>
@@ -49936,7 +49936,7 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>Cannot Copy Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte kopiera projektet</translation>
     </message>
     <message>
         <source>The Qt library to use for all projects using this kit.&lt;br&gt;A Qt version is required for qmake-based projects and optional when using other build systems.</source>
@@ -49944,7 +49944,7 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>Name of Qt Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Namn på Qt-version</translation>
     </message>
     <message>
         <source>unknown</source>
@@ -49952,11 +49952,11 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>Path to the qmake executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökväg till körbar qmake-fil</translation>
     </message>
     <message>
         <source>Qt version</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt-version</translation>
     </message>
     <message>
         <source>None</source>
@@ -49964,12 +49964,12 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>Qt Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt-versioner</translation>
     </message>
     <message>
         <source>Boot2Qt</source>
         <comment>Qt version is used for Boot2Qt development</comment>
-        <translation type="unfinished"></translation>
+        <translation>Boot2Qt</translation>
     </message>
     <message>
         <source>Aggregation as a pointer member</source>
@@ -49985,7 +49985,7 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>Support for changing languages at runtime</source>
-        <translation type="unfinished"></translation>
+        <translation>Stöd för ändring av språk vid körtid</translation>
     </message>
     <message>
         <source>Use Qt module name in #include-directive</source>
@@ -50001,7 +50001,7 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>Code Generation</source>
-        <translation type="unfinished"></translation>
+        <translation>Kodgenerering</translation>
     </message>
     <message>
         <source>Qt Class Generation</source>
@@ -50024,7 +50024,7 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>QML debugging and profiling:</source>
-        <translation type="unfinished"></translation>
+        <translation>QML-felsökning och profilering:</translation>
     </message>
     <message>
         <source>Might make your application vulnerable.&lt;br/&gt;Only use in a safe environment.</source>
@@ -50032,11 +50032,11 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>Qt Quick Compiler:</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt Quick-kompilator:</translation>
     </message>
     <message>
         <source>Disables QML debugging. QML profiling will still work.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inaktiverar QML-felsökning. QML-profilering fungerar fortfarande.</translation>
     </message>
     <message>
         <source>Link with a Qt installation to automatically register Qt versions and kits? To do this later, select Edit &gt; Preferences &gt; Kits &gt; Qt Versions &gt; Link with Qt.</source>
@@ -50068,7 +50068,7 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>Select a language for which a corresponding translation (.ts) file will be generated for you.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj ett språk för vilket en motsvarande översättningsfil (.ts) kommer att genereras åt dig.</translation>
     </message>
     <message>
         <source>If you plan to provide translations for your project&apos;s user interface via the Qt Linguist tool, select a language here. A corresponding translation (.ts) file will be generated for you.</source>
@@ -50076,7 +50076,7 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>&lt;none&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;ingen&gt;</translation>
     </message>
     <message>
         <source>Language:</source>
