@@ -5,6 +5,8 @@ Just a collection of my Swedish Qt translations
 
 - Qt 6.8.1
 
+- Qt 6.9 (beta - in progress)
+
 - Qt Installer Framework 4.8.1
 
 
@@ -19,6 +21,8 @@ Bara en samling av mina svenska översättningar för Qt
 - Qt 5.15.16
 
 - Qt 6.8.1
+
+- Qt 6.9 (beta - arbete pågår)
 
 - Qt Installer Framework 4.8.1
 
