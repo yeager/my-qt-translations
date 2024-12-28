@@ -631,23 +631,23 @@ Bind to AmbientSound.Infinite to loop the current sound forever.</source>
     </message>
     <message>
         <source>Whether the animation is running and/or paused.</source>
-        <translation type="unfinished"></translation>
+        <translation>Huruvida animeringen körs och/eller pausad.</translation>
     </message>
     <message>
         <source>Loops</source>
-        <translation type="unfinished"></translation>
+        <translation>Slingor</translation>
     </message>
     <message>
         <source>Number of times the animation should play.</source>
-        <translation type="unfinished"></translation>
+        <translation>Antal gånger som animeringen ska spelas upp.</translation>
     </message>
     <message>
         <source>Duration</source>
-        <translation type="unfinished"></translation>
+        <translation>Längd</translation>
     </message>
     <message>
         <source>Duration of the animation in milliseconds.</source>
-        <translation type="unfinished"></translation>
+        <translation>Längd för animeringen i millsekunder.</translation>
     </message>
     <message>
         <source>Run to end</source>
@@ -655,15 +655,15 @@ Bind to AmbientSound.Infinite to loop the current sound forever.</source>
     </message>
     <message>
         <source>Runs the animation to completion when it is stopped.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör animeringen till slutet när den är stoppad.</translation>
     </message>
     <message>
         <source>Easing curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezierkurva</translation>
     </message>
     <message>
         <source>Defines a custom easing curve.</source>
-        <translation type="unfinished"></translation>
+        <translation>Definierar en anpassad bezierkurva.</translation>
     </message>
 </context>
 <context>
@@ -778,7 +778,7 @@ Bind to AmbientSound.Infinite to loop the current sound forever.</source>
     </message>
     <message>
         <source>Edit in Effect Composer</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera i Effektkompositör</translation>
     </message>
     <message>
         <source>Add Light Probe</source>
@@ -913,7 +913,7 @@ A positive value will increase reverb for higher frequencies and dampen lower fr
     </message>
     <message>
         <source>Ceiling Material</source>
-        <translation type="unfinished"></translation>
+        <translation>Takmaterial</translation>
     </message>
     <message>
         <source>Sets the material to use for the ceiling (positive y) side of the room.</source>
@@ -1302,7 +1302,7 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Toggles if the button is flat or highlighted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar om knappen är platt eller framhävd.</translation>
     </message>
     <message>
         <source>Flat</source>
@@ -1310,7 +1310,7 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Highlight</source>
-        <translation type="unfinished"></translation>
+        <translation>Framhäv</translation>
     </message>
 </context>
 <context>
@@ -2277,7 +2277,7 @@ Detta går inte att ångra.</translation>
     </message>
     <message>
         <source>Import bundle</source>
-        <translation type="unfinished"></translation>
+        <translation>Importera bundle</translation>
     </message>
 </context>
 <context>
@@ -2549,7 +2549,7 @@ Detta går inte att ångra.</translation>
     </message>
     <message>
         <source>The document which contains the list model contains errors. So we cannot edit it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokumentet som innehåller listmodellen innehåller fel. Så vi kan inte redigera det.</translation>
     </message>
     <message>
         <source>Document Cannot Be Written</source>
@@ -2557,7 +2557,7 @@ Detta går inte att ångra.</translation>
     </message>
     <message>
         <source>An error occurred during a write attemp.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ett fel inträffade under ett skrivförsök.</translation>
     </message>
 </context>
 <context>
@@ -2816,11 +2816,11 @@ defined in &lt;b&gt;Step size&lt;/b&gt;.</source>
     </message>
     <message>
         <source>Open Shader in Code Editor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna shader i Kodredigerare.</translation>
     </message>
     <message>
         <source>Add an effect node to start</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till en effektmod för att börja</translation>
     </message>
     <message>
         <source>Effect Composer is disabled on MCU projects</source>
