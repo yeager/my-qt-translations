@@ -10272,100 +10272,100 @@ Locked components cannot be modified or selected.</source>
     <name>QmlParser</name>
     <message>
         <source>Unclosed string at end of line</source>
-        <translation type="unfinished"></translation>
+        <translation>Oavslutad string på radslut</translation>
     </message>
     <message>
         <source>Illegal unicode escape sequence</source>
         <translatorcomment>trad illegal ?</translatorcomment>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig unicode-avbrottssekvens</translation>
     </message>
     <message>
         <source>Illegal syntax for exponential number</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig syntax för exponentiellt tal</translation>
     </message>
     <message>
         <source>Unterminated regular expression literal</source>
-        <translation type="unfinished"></translation>
+        <translation>Oavslutad reguljärt uttryck för strängkonstant</translation>
     </message>
     <message>
         <source>Invalid regular expression flag &apos;%0&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig reguljär uttrycksflagga &apos;%0&apos;</translation>
     </message>
     <message>
         <source>Unexpected token &apos;.&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Oväntat token &apos;.&apos;</translation>
     </message>
     <message>
         <source>Stray newline in string literal</source>
-        <translation type="unfinished"></translation>
+        <translation>Sporadisk nyrad i strängkonstant</translation>
     </message>
     <message>
         <source>End of file reached at escape sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>Filslut nåddes vid avbrottssekvens</translation>
     </message>
     <message>
         <source>Illegal hexadecimal escape sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig hexadecimal avbrottssekvens</translation>
     </message>
     <message>
         <source>Octal escape sequences are not allowed</source>
-        <translation type="unfinished"></translation>
+        <translation>Oktala avbrottssekvenser tillåts inte</translation>
     </message>
     <message>
         <source>At least one octal digit is required after &apos;0%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Minst en oktal siffra krävs efter &apos;0%1&apos;</translation>
     </message>
     <message>
         <source>At least one binary digit is required after &apos;0%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Minst en binärsiffra krävs efter &apos;0%1&apos;</translation>
     </message>
     <message>
         <source>Decimal numbers can&apos;t start with &apos;0&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Decimaltal kan inte börja med &apos;0&apos;</translation>
     </message>
     <message>
         <source>Imported file must be a script</source>
-        <translation type="unfinished"></translation>
+        <translation>Importerad fil måste vara ett skript</translation>
     </message>
     <message>
         <source>Invalid module URI</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig modul-URI</translation>
     </message>
     <message>
         <source>Incomplete version number (dot but no minor)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ofärdigt versionsnummer (punkt men ingen minor)</translation>
     </message>
     <message>
         <source>File import requires a qualifier</source>
-        <translation type="unfinished"></translation>
+        <translation>Filimport kräver en qualifier</translation>
     </message>
     <message>
         <source>Module import requires a qualifier</source>
-        <translation type="unfinished"></translation>
+        <translation>Modulimport kräver en qualifier</translation>
     </message>
     <message>
         <source>Invalid import qualifier</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig importqualifier</translation>
     </message>
     <message>
         <source>At least one hexadecimal digit is required after &apos;0%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Minst en hexadecimal siffra krävs efter &apos;0%1&apos;</translation>
     </message>
     <message>
         <source>Unterminated regular expression backslash sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>Oavslutat reguljärt uttryckt med omvänd snedstreckssekvens</translation>
     </message>
     <message>
         <source>Unterminated regular expression class</source>
-        <translation type="unfinished"></translation>
+        <translation>Oavslutad reguljär uttrycksklass</translation>
     </message>
     <message>
         <source>Unexpected token `%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Oväntad token `%1&apos;</translation>
     </message>
     <message>
         <source>Expected token `%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Förväntade token `%1&apos;</translation>
     </message>
     <message>
         <source>Syntax error</source>
@@ -50095,26 +50095,29 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>The device&apos;s SSH port number:</source>
-        <translation type="unfinished"></translation>
+        <translation>Enhetens SSH-portnummer:</translation>
     </message>
     <message>
         <source>The username to log into the device:</source>
-        <translation type="unfinished"></translation>
+        <translation>Användarnamnet att logga in med på enheten:</translation>
     </message>
     <message>
         <source>We recommend that you log into your device using public key authentication.
 If your device is already set up for this, you do not have to do anything here.
 Otherwise, please deploy the public key for the private key with which to connect in the future.
 If you do not have a private key yet, you can also create one here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vi rekommenderar att du loggar in på din enhet med publik nyckelautentisering.
+Om din enhet redan är konfigurerad för detta så behöver du inte göra någonting här.
+Om inte, så distribuera den publika nyckeln för den privata nyckeln med vilken ska anslutas
+med i framtiden. Om du inte har en privat nyckel ännu så kan du skapa en här.</translation>
     </message>
     <message>
         <source>Choose a Private Key File</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en privat nyckelfil</translation>
     </message>
     <message>
         <source>Create New Key Pair</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa nytt nyckelpar</translation>
     </message>
     <message>
         <source>Summary</source>
@@ -50123,31 +50126,32 @@ If you do not have a private key yet, you can also create one here.</source>
     <message>
         <source>The new device configuration will now be created.
 In addition, device connectivity will be tested.</source>
-        <translation type="unfinished"></translation>
+        <translation>Den nya enhetskonfigurationen kommer nu skapas.
+I tillägg kommer enhetsanslutningen att testas.</translation>
     </message>
     <message>
         <source>Key Deployment</source>
-        <translation type="unfinished"></translation>
+        <translation>Nyckeldistribution</translation>
     </message>
     <message>
         <source>Public key error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Publik nyckelfel: %1</translation>
     </message>
     <message>
         <source>Installing package failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Installation av paket misslyckades.</translation>
     </message>
     <message>
         <source>Starting remote command &quot;%1&quot;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Startar fjärrkommandot &quot;%1&quot;...</translation>
     </message>
     <message>
         <source>Remote process failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjärrprocessen misslyckades: %1</translation>
     </message>
     <message>
         <source>Choose Public Key File</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj publik nyckelfil</translation>
     </message>
     <message>
         <source>Public Key Files (*.pub);;All Files (*)</source>
@@ -50155,87 +50159,87 @@ In addition, device connectivity will be tested.</source>
     </message>
     <message>
         <source>Deploying...</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuerar...</translation>
     </message>
     <message>
         <source>Key deployment failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nyckeldistribuering misslyckades.</translation>
     </message>
     <message>
         <source>Deployment finished successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribueringen lyckades.</translation>
     </message>
     <message>
         <source>Executable on host:</source>
-        <translation type="unfinished"></translation>
+        <translation>Körbar fil på värden:</translation>
     </message>
     <message>
         <source>Executable on device:</source>
-        <translation type="unfinished"></translation>
+        <translation>Körbar fil på enhet:</translation>
     </message>
     <message>
         <source>Remote path not set</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjärrsökvägen inte inställd</translation>
     </message>
     <message>
         <source>Ignore missing files</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorera saknade filer</translation>
     </message>
     <message>
         <source>Tarball creation not possible.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapandet av tarboll inte möjlig.</translation>
     </message>
     <message>
         <source>Create tarball:</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa tarboll:</translation>
     </message>
     <message>
         <source>No deployment action necessary. Skipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen distributionsåtgärd nödvändig. Hoppas över.</translation>
     </message>
     <message>
         <source>No device configuration set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen enhetskonfiguration inställd.</translation>
     </message>
     <message>
         <source>Cannot deploy: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte distribuera: %1</translation>
     </message>
     <message>
         <source>Deploy step failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Distributionssteg misslyckades.</translation>
     </message>
     <message>
         <source>Deploy step finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>Distributionssteg färdigställt.</translation>
     </message>
     <message>
         <source>Uploading package to device...</source>
-        <translation type="unfinished"></translation>
+        <translation>Skickar upp paket till enhet...</translation>
     </message>
     <message>
         <source>Successfully uploaded package file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Paketfilen skickades upp.</translation>
     </message>
     <message>
         <source>Installing package to device...</source>
-        <translation type="unfinished"></translation>
+        <translation>Installerar paket på enheten...</translation>
     </message>
     <message>
         <source>Successfully installed package file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Paketfilen installerades.</translation>
     </message>
     <message>
         <source>Failed to start &quot;stat&quot;: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att starta &quot;stat&quot;: %1</translation>
     </message>
     <message>
         <source>&quot;stat&quot; crashed.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;stat&quot; kraschade.</translation>
     </message>
     <message>
         <source>&quot;stat&quot; failed with exit code %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;stat&quot; misslyckades med avslutskod %1: %2</translation>
     </message>
     <message>
         <source>Failed to retrieve remote timestamp for file &quot;%1&quot;. Incremental deployment will not work. Error message was: %2</source>
@@ -50247,22 +50251,22 @@ In addition, device connectivity will be tested.</source>
     </message>
     <message>
         <source>No files need to be uploaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga filer behöver skickas upp.</translation>
     </message>
     <message numerus="yes">
         <source>%n file(s) need to be uploaded.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n fil behöver skickas upp.</numerusform>
+            <numerusform>%n filer behöver skickas upp.</numerusform>
         </translation>
     </message>
     <message>
         <source>Local file &quot;%1&quot; does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokala filen &quot;%1&quot; finns inte.</translation>
     </message>
     <message>
         <source>All files successfully deployed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alla filer har distribuerats.</translation>
     </message>
     <message>
         <source>Incremental deployment</source>
@@ -50274,44 +50278,45 @@ In addition, device connectivity will be tested.</source>
     </message>
     <message>
         <source>Upload files via SFTP</source>
-        <translation type="unfinished"></translation>
+        <translation>Skicka upp filer via SFTP</translation>
     </message>
     <message>
         <source>Cannot establish SSH connection: ssh binary &quot;%1&quot; does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte etablera SSH-anslutning: ssh-binären &quot;%1&quot; finns inte.</translation>
     </message>
     <message>
         <source>Cannot establish SSH connection: Failed to create temporary directory for control socket: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte etablera SSH-anslutning: Misslyckades med att skapa temporärkatalog för kontrolluttag: %1</translation>
     </message>
     <message>
         <source>Cannot establish SSH connection.
 Control process failed to start.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte etablera SSH-anslutning.
+Kontrollprocessen misslyckades att starta.</translation>
     </message>
     <message>
         <source>SSH connection failure.</source>
-        <translation type="unfinished"></translation>
+        <translation>SSH-anslutningsfel.</translation>
     </message>
     <message>
         <source>SSH connection failure:</source>
-        <translation type="unfinished"></translation>
+        <translation>SSH-anslutningsfel:</translation>
     </message>
     <message>
         <source>The process crashed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Processen kraschade.</translation>
     </message>
     <message>
         <source>Remote Linux</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjärr-Linux</translation>
     </message>
     <message>
         <source>Remote Linux Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjärr-Linux-enhet</translation>
     </message>
     <message>
         <source>Device is disconnected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enheten är frånkopplad.</translation>
     </message>
     <message>
         <source>Can&apos;t send control signal to the %1 device. The device might have been disconnected.</source>
@@ -50319,11 +50324,11 @@ Control process failed to start.</source>
     </message>
     <message>
         <source>Deploy Public Key...</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuera publik nyckel...</translation>
     </message>
     <message>
         <source>Open Remote Shell</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna fjärrskal</translation>
     </message>
     <message>
         <source>Error</source>
@@ -50335,7 +50340,7 @@ Control process failed to start.</source>
     </message>
     <message>
         <source>Device &quot;%1&quot; is currently marked as disconnected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enheten &quot;%1&quot; är för närvarande markerad som frånkopplad.</translation>
     </message>
     <message>
         <source>The device was not available when trying to connect previously.&lt;br&gt;No further connection attempts will be made until the device is manually reset by running a successful connection test via the &lt;a href=&quot;dummy&quot;&gt;settings page&lt;/a&gt;.</source>
@@ -50343,7 +50348,7 @@ Control process failed to start.</source>
     </message>
     <message>
         <source>&quot;%1&quot; failed to start: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; misslyckades med att starta: %2</translation>
     </message>
     <message>
         <source>&quot;%1&quot; crashed.</source>
@@ -50351,7 +50356,7 @@ Control process failed to start.</source>
     </message>
     <message>
         <source>&quot;sftp&quot; binary &quot;%1&quot; does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;sftp&quot;-binären &quot;%1&quot; finns inte.</translation>
     </message>
     <message>
         <source>Created directory: &quot;%1&quot;.
@@ -50368,15 +50373,15 @@ Control process failed to start.</source>
     </message>
     <message>
         <source>Failed to deploy files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att distribuera filer.</translation>
     </message>
     <message>
         <source>Device is considered unconnected. Re-run device test to reset state.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enheten anses vara icke-ansluten. Kör enhetstestet igen för att nollställa tillståndet.</translation>
     </message>
     <message>
         <source>Deploy Public Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuera publik nyckel</translation>
     </message>
     <message>
         <source>Close</source>
@@ -50384,19 +50389,19 @@ Control process failed to start.</source>
     </message>
     <message>
         <source>Checking kernel version...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrollerar kernelversionen...</translation>
     </message>
     <message>
         <source>uname failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>uname misslyckades: %1</translation>
     </message>
     <message>
         <source>uname failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>uname misslyckades.</translation>
     </message>
     <message>
         <source>Error gathering ports: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid insamling av portar: %1</translation>
     </message>
     <message>
         <source>All specified ports are available.</source>
@@ -50404,7 +50409,7 @@ Control process failed to start.</source>
     </message>
     <message>
         <source>Sending echo to device...</source>
-        <translation type="unfinished"></translation>
+        <translation>Skickar echo till enheten...</translation>
     </message>
     <message>
         <source>Device replied to echo with unexpected contents: &quot;%1&quot;</source>
@@ -50412,41 +50417,43 @@ Control process failed to start.</source>
     </message>
     <message>
         <source>Device replied to echo with expected contents.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enheten svarade på echo med förväntat innehåll.</translation>
     </message>
     <message>
         <source>echo failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>echo misslyckades: %1</translation>
     </message>
     <message>
         <source>echo failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>echo misslyckades.</translation>
     </message>
     <message>
         <source>The following specified ports are currently in use: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Följande angivna portar används för närvarande: %1</translation>
     </message>
     <message>
         <source>Some tools will not work out of the box.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Några verktyg kommer inte fungera på direkten.
+</translation>
     </message>
     <message>
         <source>Checking whether &quot;%1&quot; works...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrollerar att &quot;%1&quot; fungerar...</translation>
     </message>
     <message>
         <source>&quot;%1&quot; is functional.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; är funktionell.
+</translation>
     </message>
     <message>
         <source>Failed to start &quot;%1&quot;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att starta &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <source>&quot;%1&quot; failed with exit code %2: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; misslyckades med avslutskod %2: %3</translation>
     </message>
     <message>
         <source>&quot;%1&quot; will be used for deployment, because &quot;%2&quot; and &quot;%3&quot; are not available.</source>
@@ -50466,7 +50473,7 @@ Control process failed to start.</source>
     </message>
     <message>
         <source>An error occurred while checking for %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>En fel inträffade vid sökning efter %1.</translation>
     </message>
     <message>
         <source>%1 not found.</source>
@@ -50474,15 +50481,15 @@ Control process failed to start.</source>
     </message>
     <message>
         <source>Checking if required commands are available...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrollerar om nödvändiga kommandon är tillgängliga...</translation>
     </message>
     <message>
         <source>Connecting to device...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ansluter till enheten...</translation>
     </message>
     <message>
         <source>Connected. Now doing extended checks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ansluten. Genomför utökade kontroller.</translation>
     </message>
     <message>
         <source>Basic connectivity test failed, device is considered unusable.</source>
@@ -50490,83 +50497,83 @@ Control process failed to start.</source>
     </message>
     <message>
         <source>Checking if specified ports are available...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrollerar om angivna portar är tillgängliga...</translation>
     </message>
     <message>
         <source>Run custom remote command</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör anpassat fjärrkommando</translation>
     </message>
     <message>
         <source>No command line given.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen kommandorad angiven.</translation>
     </message>
     <message>
         <source>Remote process finished with exit code %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjärrprocessen färdigställdes med avslutskod %1.</translation>
     </message>
     <message>
         <source>Remote command finished successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjärrkommandot färdigställdes.</translation>
     </message>
     <message>
         <source>Deploy to Remote Linux Host</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuera till Linux-fjärrvärd</translation>
     </message>
     <message>
         <source>Packaging finished successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Paketeringen färdigställdes.</translation>
     </message>
     <message>
         <source>Packaging failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Paketeringen misslyckades.</translation>
     </message>
     <message>
         <source>Creating tarball...</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapar tarboll...</translation>
     </message>
     <message>
         <source>Package modified files only</source>
-        <translation type="unfinished"></translation>
+        <translation>Paketera endast ändrade filer</translation>
     </message>
     <message>
         <source>Tarball up to date, skipping packaging.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tarbollen redan uppdaterad, hoppar över paketering.</translation>
     </message>
     <message>
         <source>Error: tar file %1 cannot be opened (%2).</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel: tar-filen %1 kan inte öppnas (%2).</translation>
     </message>
     <message>
         <source>No remote path specified for file &quot;%1&quot;, skipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen fjärrsökväg angiven för filen &quot;%1&quot;, hoppar över.</translation>
     </message>
     <message>
         <source>Error writing tar file &quot;%1&quot;: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid skrivning av tar-filen &quot;%1&quot;: %2.</translation>
     </message>
     <message>
         <source>Cannot add file &quot;%1&quot; to tar-archive: path too long.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte lägga till filen &quot;%1&quot; till tar-arkivet: sökvägen är för lång.</translation>
     </message>
     <message>
         <source>Error writing tar file &quot;%1&quot;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid skrivning av tar-filen &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <source>Error reading file &quot;%1&quot;: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid läsning av filen &quot;%1&quot;: %2.</translation>
     </message>
     <message>
         <source>Adding file &quot;%1&quot; to tarball...</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägger till filen &quot;%1&quot; till tarboll...</translation>
     </message>
     <message>
         <source>Create tarball</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa tarboll</translation>
     </message>
     <message>
         <source>No tarball creation step found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inget steg för skapande av tarboll hittades.</translation>
     </message>
     <message>
         <source>Deploy tarball via SFTP upload</source>
@@ -50574,15 +50581,15 @@ Control process failed to start.</source>
     </message>
     <message>
         <source>Authentication type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Autentiseringstyp:</translation>
     </message>
     <message>
         <source>&amp;Host name:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Värdnamn:</translation>
     </message>
     <message>
         <source>IP or host name of the device</source>
-        <translation type="unfinished"></translation>
+        <translation>IP eller värdnamn på enheten</translation>
     </message>
     <message>
         <source>Default</source>
@@ -50590,27 +50597,27 @@ Control process failed to start.</source>
     </message>
     <message>
         <source>Specific &amp;key</source>
-        <translation type="unfinished"></translation>
+        <translation>Specifik &amp;nyckel</translation>
     </message>
     <message>
         <source>&amp;Check host key</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrollera vä&amp;rdnyckel</translation>
     </message>
     <message>
         <source>You can enter lists and ranges like this: &apos;1024,1026-1028,1030&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du kan ange listor och intervall så här: &apos;1024,1026-1028,1030&apos;.</translation>
     </message>
     <message>
         <source>Source %1 and %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Källa %1 och %2</translation>
     </message>
     <message>
         <source>Direct</source>
-        <translation type="unfinished"></translation>
+        <translation>Direkt</translation>
     </message>
     <message>
         <source>&amp;SSH port:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;SSH-port:</translation>
     </message>
     <message>
         <source>Use SSH port forwarding for debugging</source>
@@ -50624,7 +50631,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Free ports:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lediga portar:</translation>
     </message>
     <message>
         <source>QML runtime executable:</source>
@@ -50640,15 +50647,15 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>&amp;Username:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Användarnamn:</translation>
     </message>
     <message>
         <source>Private key file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Privat nyckelfil:</translation>
     </message>
     <message>
         <source>Access via:</source>
-        <translation type="unfinished"></translation>
+        <translation>Åtkomst via:</translation>
     </message>
     <message>
         <source>Physical Device</source>
@@ -50660,7 +50667,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>You will need at least one port.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du kommer att behöva minst en port.</translation>
     </message>
     <message>
         <source>Create New...</source>
@@ -50684,55 +50691,55 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>The name to identify this configuration:</source>
-        <translation type="unfinished"></translation>
+        <translation>Namnet för att identifiera denna konfiguration:</translation>
     </message>
     <message>
         <source>The device&apos;s host name or IP address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Enhetens värdnamn eller IP-adress:</translation>
     </message>
     <message>
         <source>Cannot Open Terminal</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte öppna terminal</translation>
     </message>
     <message>
         <source>Cannot open remote terminal: Current kit has no device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte öppna fjärrterminal: Aktuellt kit har ingen enhet.</translation>
     </message>
     <message>
         <source>Clean Environment</source>
-        <translation type="unfinished"></translation>
+        <translation>Ren miljö</translation>
     </message>
     <message>
         <source>System Environment</source>
-        <translation type="unfinished"></translation>
+        <translation>Systemmiljö</translation>
     </message>
     <message>
         <source>Fetch Device Environment</source>
-        <translation type="unfinished"></translation>
+        <translation>Hämta enhetsmiljö</translation>
     </message>
     <message>
         <source>Exit code is %1. stderr:</source>
-        <translation type="unfinished"></translation>
+        <translation>Avslutskod är %1. stderr:</translation>
     </message>
     <message>
         <source>New Remote Linux Device Configuration Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfiguration av ny Linux-fjärrenhet</translation>
     </message>
     <message>
         <source>Trying to kill &quot;%1&quot; on remote device...</source>
-        <translation type="unfinished"></translation>
+        <translation>Försöker att döda &quot;%1&quot; på fjärrenheten...</translation>
     </message>
     <message>
         <source>Remote application killed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjärrprogrammet dödades.</translation>
     </message>
     <message>
         <source>Failed to kill remote application. Assuming it was not running.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att döda fjärrprogram. Antar att den inte körde.</translation>
     </message>
     <message>
         <source>Kill current application instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Döda aktuell programinstans</translation>
     </message>
     <message>
         <source>Command:</source>
@@ -50748,23 +50755,23 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Full command line:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fullständig kommandorad:</translation>
     </message>
     <message>
         <source>Custom command line:</source>
-        <translation type="unfinished"></translation>
+        <translation>Anpassad kommandorad:</translation>
     </message>
     <message>
         <source>Use custom command line instead:</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd anpassad kommandorad istället:</translation>
     </message>
     <message>
         <source>Install into temporary host directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Installera till temporärkatalog på värden</translation>
     </message>
     <message>
         <source>You must provide an install root.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du måste tillhandahålla en installationsrot.</translation>
     </message>
     <message>
         <source>The install root &quot;%1&quot; could not be cleaned.</source>
@@ -50792,7 +50799,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Custom Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Anpassad körbar fil</translation>
     </message>
     <message>
         <source>Run &quot;%1&quot;</source>
@@ -50804,23 +50811,23 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Flags for rsync:</source>
-        <translation type="unfinished"></translation>
+        <translation>Flaggor för rsync:</translation>
     </message>
     <message>
         <source>Transfer method:</source>
-        <translation type="unfinished"></translation>
+        <translation>Överföringsmetod:</translation>
     </message>
     <message>
         <source>Use sftp if available. Otherwise use default transfer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd sftp om möjligt. Annars använd standardöverföring.</translation>
     </message>
     <message>
         <source>Use default transfer. This might be slow.</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd standardöverföring. Detta kan vara långsamt.</translation>
     </message>
     <message>
         <source>Unknown error occurred while trying to create remote directories.</source>
-        <translation type="unfinished"></translation>
+        <translation>Okänt fel inträffade vid försök att skapa fjärrkataloger.</translation>
     </message>
     <message>
         <source>Transfer method was downgraded from &quot;%1&quot; to &quot;%2&quot;. If this is unexpected, please re-test device &quot;%3&quot;.</source>
@@ -50829,7 +50836,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>%1 failed to start: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 misslyckades med att starta: %2</translation>
     </message>
     <message>
         <source>%1 crashed.</source>
@@ -50837,27 +50844,27 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>%1 failed with exit code %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 misslyckades med avslutskod %2.</translation>
     </message>
     <message>
         <source>Deploy files</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuera filer</translation>
     </message>
     <message>
         <source>Ignore missing files:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorera saknade filer:</translation>
     </message>
     <message>
         <source>Use rsync or sftp if available, but prefer rsync. Otherwise use default transfer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd rsync eller sftp om möjligt men föredra rsync. Använd annars standardöverföring.</translation>
     </message>
     <message>
         <source>rsync is only supported for transfers between different devices.</source>
-        <translation type="unfinished"></translation>
+        <translation>rsync stöds endast för överföringar mellan olika enheter.</translation>
     </message>
     <message>
         <source>SSH Key Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Nyckelkonfiguration för SSH</translation>
     </message>
     <message>
         <source>&amp;RSA</source>
@@ -50869,7 +50876,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>&amp;Generate And Save Key Pair</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Generera och spara nyckelpar</translation>
     </message>
     <message>
         <source>Options</source>
@@ -50877,35 +50884,35 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Key algorithm:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nyckelalgoritm:</translation>
     </message>
     <message>
         <source>Key &amp;size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nyckel&amp;storlek:</translation>
     </message>
     <message>
         <source>Public key file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Publik nyckelfil:</translation>
     </message>
     <message>
         <source>The ssh-keygen tool was not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verktyget ssh-keygen hittades inte.</translation>
     </message>
     <message>
         <source>Refusing to overwrite existing private key file &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vägrar att skriva över befintliga privata nyckelfilen &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>The ssh-keygen tool at &quot;%1&quot; failed: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Verktyget ssh-keygen på &quot;%1&quot; misslyckades: %2</translation>
     </message>
     <message>
         <source>Choose Private Key File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj filnamn för privat nyckel</translation>
     </message>
     <message>
         <source>Key Generation Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Nyckelgenerering misslyckades</translation>
     </message>
 </context>
 <context>
