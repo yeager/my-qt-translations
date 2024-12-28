@@ -362,7 +362,7 @@ Bind to AmbientSound.Infinite to loop the current sound forever.</source>
     <name>AnchorButtons</name>
     <message>
         <source>Anchors can only be applied to child items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ankare kan endast tillämpas på barnobjekt.</translation>
     </message>
     <message>
         <source>Anchors can only be applied to the base state.</source>
@@ -2877,7 +2877,7 @@ defined in &lt;b&gt;Step size&lt;/b&gt;.</source>
     <name>EffectComposer::EffectComposerView</name>
     <message>
         <source>Effect Composer [beta]</source>
-        <translation type="unfinished"></translation>
+        <translation>Effektkompositör [beta]</translation>
     </message>
 </context>
 <context>
@@ -2885,7 +2885,7 @@ defined in &lt;b&gt;Step size&lt;/b&gt;.</source>
     <message>
         <source>Effect Composer</source>
         <comment>Title of effect composer widget</comment>
-        <translation type="unfinished"></translation>
+        <translation>Effektkompositör</translation>
     </message>
 </context>
 <context>
@@ -2984,7 +2984,7 @@ defined in &lt;b&gt;Step size&lt;/b&gt;.</source>
     <name>EffectNode</name>
     <message>
         <source>Existing effect has conflicting properties, this effect cannot be added.</source>
-        <translation type="unfinished"></translation>
+        <translation>Befintlig effekt har egenskaper i konflikt. Denna effekt kan inte läggas till.</translation>
     </message>
 </context>
 <context>
@@ -3244,7 +3244,7 @@ The foreground component should be transparent, and the background component sho
     <name>FitToViewAction</name>
     <message>
         <source>Fit Selected Object to View</source>
-        <translation type="unfinished"></translation>
+        <translation>Anpassa markerat objekt till vy</translation>
     </message>
 </context>
 <context>
@@ -4291,15 +4291,15 @@ Ids must begin with a lowercase letter.</source>
     <name>ItemDelegateSection</name>
     <message>
         <source>Item Delegate</source>
-        <translation type="unfinished"></translation>
+        <translation>Objektdelegat</translation>
     </message>
     <message>
         <source>Highlight</source>
-        <translation type="unfinished"></translation>
+        <translation>Framhäv</translation>
     </message>
     <message>
         <source>Toggles if the delegate is highlighted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar om delegaten är framhävd.</translation>
     </message>
 </context>
 <context>
@@ -5835,21 +5835,21 @@ the total implicit size.</source>
     <name>ParticleViewModeAction</name>
     <message>
         <source>Toggle particle animation On/Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Växla partikelanimering på/av</translation>
     </message>
 </context>
 <context>
     <name>ParticlesPlayAction</name>
     <message>
         <source>Play Particles</source>
-        <translation type="unfinished"></translation>
+        <translation>Spela upp partiklar</translation>
     </message>
 </context>
 <context>
     <name>ParticlesRestartAction</name>
     <message>
         <source>Restart Particles</source>
-        <translation type="unfinished"></translation>
+        <translation>Starta om partiklar</translation>
     </message>
 </context>
 <context>
@@ -6240,7 +6240,7 @@ operation is in progress.</source>
     <message>
         <source>Access to keychain denied</source>
         <translatorcomment>keychain ?</translatorcomment>
-        <translation type="unfinished"></translation>
+        <translation>Åtkomst till nyckelkedja nekades</translation>
     </message>
 </context>
 <context>
@@ -6476,7 +6476,7 @@ Do you want to edit this effect?</source>
     <name>QmlDesigner::AbstractEditorDialog</name>
     <message>
         <source>Untitled Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Namnlös redigerare</translation>
     </message>
 </context>
 <context>
@@ -7034,7 +7034,7 @@ Exporting assets: %2</source>
     <name>QmlDesigner::ConnectionModelStatementDelegate</name>
     <message>
         <source>Base State</source>
-        <translation type="unfinished"></translation>
+        <translation>Grundtillstånd</translation>
     </message>
 </context>
 <context>
@@ -7067,7 +7067,7 @@ Exporting assets: %2</source>
     </message>
     <message>
         <source>Texture Exists</source>
-        <translation type="unfinished"></translation>
+        <translation>Texturen finns</translation>
     </message>
     <message>
         <source>A texture with the same name &apos;%1&apos; already exists in the Content Library, are you sure you want to overwrite it?</source>
@@ -7083,7 +7083,7 @@ Exporting assets: %2</source>
     </message>
     <message>
         <source>Component Exists</source>
-        <translation type="unfinished"></translation>
+        <translation>Komponenten finns</translation>
     </message>
     <message>
         <source>A component with the same name &apos;%1&apos; already exists in the Content Library, are you sure you want to overwrite it?</source>
@@ -7121,7 +7121,7 @@ Exporting assets: %2</source>
     <name>QmlDesigner::CurveEditor</name>
     <message>
         <source>This file does not contain a timeline. &lt;br&gt;&lt;br&gt;To create an animation, add a timeline by clicking the + button in the &quot;Timeline&quot; view.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denna fil innehåller inte en tidslinje. &lt;br&gt;&lt;br&gt;För att skapa en animering, lägg till en tidslinje genom att klicka på +-knappen i &quot;Tidslinje&quot;-vyn.</translation>
     </message>
 </context>
 <context>
@@ -8116,7 +8116,7 @@ Please check the output pane for more information.</source>
     <name>QmlDesigner::Internal::MetaInfoPrivate</name>
     <message>
         <source>Invalid meta info</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig metainfo</translation>
     </message>
 </context>
 <context>
@@ -9099,15 +9099,15 @@ Locked components cannot be modified or selected.</source>
     <message>
         <source>base state</source>
         <comment>Implicit default state</comment>
-        <translation type="unfinished"></translation>
+        <translation>grundtillstånd</translation>
     </message>
     <message>
         <source>Invalid state name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltigt tillståndsnamn</translation>
     </message>
     <message>
         <source>Name already used in another state</source>
-        <translation type="unfinished"></translation>
+        <translation>Namnet används redan i ett annat tillstånd</translation>
     </message>
     <message>
         <source>Default</source>
@@ -9115,7 +9115,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Invalid ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltigt id</translation>
     </message>
     <message>
         <source>%1 already exists.</source>
@@ -9123,7 +9123,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>The empty string as a name is reserved for the base state.</source>
-        <translation type="unfinished"></translation>
+        <translation>Den tomma strängen som ett namn är reserverat för grundtillståndet.</translation>
     </message>
 </context>
 <context>
@@ -9371,7 +9371,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Runs the animation automatically when the base state is active.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör animeringen automatiskt när grundtillståndet är aktivt.</translation>
     </message>
     <message>
         <source>Running in base state</source>
@@ -9411,7 +9411,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Base State</source>
-        <translation type="unfinished"></translation>
+        <translation>Grundtillstånd</translation>
     </message>
 </context>
 <context>
@@ -18299,11 +18299,11 @@ Oui :)</translatorcomment>
     <name>QtC::CmdBridge</name>
     <message>
         <source>Command failed with exit code %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommandot misslyckades med avslutskod %1: %2</translation>
     </message>
     <message>
         <source>Error starting cmdbridge: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid start av cmdbridge: %1</translation>
     </message>
     <message>
         <source>Remote root path is empty</source>
@@ -18319,11 +18319,11 @@ Oui :)</translatorcomment>
     </message>
     <message>
         <source>Error reading file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid läsning av filen: %1</translation>
     </message>
     <message>
         <source>Error writing file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid skrivning av filen: %1</translation>
     </message>
     <message>
         <source>File does not exist</source>
@@ -18331,27 +18331,27 @@ Oui :)</translatorcomment>
     </message>
     <message>
         <source>Error removing file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid borttagning av filen: %1</translation>
     </message>
     <message>
         <source>Error copying file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid kopiering av filen: %1</translation>
     </message>
     <message>
         <source>Error renaming file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid namnbyte av filen: %1</translation>
     </message>
     <message>
         <source>Error killing process: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel när processen skulle dödas: %1</translation>
     </message>
     <message>
         <source>Error creating temporary file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid skapandet av temporärfilen: %1</translation>
     </message>
     <message>
         <source>Failed starting bridge process</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades att starta bryggprocess</translation>
     </message>
     <message>
         <source>Failed starting bridge process: %1</source>
@@ -18359,11 +18359,11 @@ Oui :)</translatorcomment>
     </message>
     <message>
         <source>Bridge process not running</source>
-        <translation type="unfinished"></translation>
+        <translation>Bryggprocessen är inte igång</translation>
     </message>
     <message>
         <source>FollowSymlinks is not supported</source>
-        <translation type="unfinished"></translation>
+        <translation>FollowSymlinks stöds inte</translation>
     </message>
     <message>
         <source>Kickoff signal is not supported</source>
@@ -19413,7 +19413,7 @@ Fortsätta?</translation>
     </message>
     <message>
         <source>Override cursors for views</source>
-        <translation type="unfinished"></translation>
+        <translation>Åsidosätt markörer för vyer</translation>
     </message>
     <message>
         <source>Provide cursors for resizing views.
@@ -19615,7 +19615,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>The file system case sensitivity change will take effect after restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skiftlägeskänslighet för filsystemet kommer att ta effekt efter omstart.</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -19641,7 +19641,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>File system case sensitivity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Skiftlägeskänslighet för filsystemet:</translation>
     </message>
     <message>
         <source>Influences how file names are matched to decide if they are the same.</source>
@@ -20209,7 +20209,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Filter output...</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrera utdata...</translation>
     </message>
     <message>
         <source>Maximize</source>
@@ -20401,7 +20401,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished"></translation>
+        <translation>S&amp;kiftlägeskänslig</translation>
     </message>
     <message>
         <source>Sco&amp;pe:</source>
@@ -20927,7 +20927,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>QMLJS Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>QMLJS-redigerare</translation>
     </message>
     <message>
         <source>Qt Widgets Designer</source>
@@ -28924,7 +28924,7 @@ Stepping into the module or setting breakpoints by file and line is expected to 
     </message>
     <message>
         <source>Use alternating row colors in debug views</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd växlande radfärger i felsökningsvyer</translation>
     </message>
     <message>
         <source>Debugger font size follows main editor</source>
@@ -31313,7 +31313,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>All Items</source>
-        <translation type="unfinished"></translation>
+        <translation>Alla objekt</translation>
     </message>
     <message>
         <source>File Commits</source>
@@ -32241,7 +32241,7 @@ Would you like to create the branch &quot;%1&quot; on the remote and set it as u
     </message>
     <message>
         <source>Use colors in log.</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd färger i logg.</translation>
     </message>
     <message>
         <source>Follow</source>
@@ -34370,7 +34370,7 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Unfiltered</source>
-        <translation type="unfinished"></translation>
+        <translation>Ofiltrerad</translation>
     </message>
     <message>
         <source>Help Index</source>
@@ -34406,19 +34406,19 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Show Context Help Side-by-Side if Possible</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa kontexthjälp sida-vid-sida om möjligt</translation>
     </message>
     <message>
         <source>Always Show Context Help Side-by-Side</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa alltid kontexthjälp sida-vid-sida</translation>
     </message>
     <message>
         <source>Always Show Context Help in Help Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa alltid kontexthjälp i hjälpläget</translation>
     </message>
     <message>
         <source>Always Show Context Help in External Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa alltid kontexthjälp i externt fönster</translation>
     </message>
     <message>
         <source>Open in Help Mode</source>
@@ -34438,7 +34438,7 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Open Online Documentation...</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna dokumentation på nätet...</translation>
     </message>
     <message>
         <source>Open in Edit Mode</source>
@@ -34546,7 +34546,7 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Open Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna sidor</translation>
     </message>
     <message>
         <source>Technical Support...</source>
@@ -34570,7 +34570,7 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Use the following to provide more detailed information about your system to bug reports:</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd följande för att tillhandahålla mer detaljerad information om ditt system till felrapporter:</translation>
     </message>
     <message>
         <source>Copy to Clipboard</source>
@@ -34645,7 +34645,7 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Note: The above setting takes effect only if the HTML file does not use a style sheet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Observera: Ovanstående inställning tar effekt endast om HTML-filen inte använder en stilmall.</translation>
     </message>
     <message>
         <source>Zoom:</source>
@@ -34665,39 +34665,39 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Always Show in Help Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa alltid i hjälpläge</translation>
     </message>
     <message>
         <source>Always Show in External Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa alltid i externt fönster</translation>
     </message>
     <message>
         <source>On context help:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vid kontexthjälp:</translation>
     </message>
     <message>
         <source>Enable scroll wheel zooming</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivera zoom med rullningshjul</translation>
     </message>
     <message>
         <source>Switches to editor context after last help page is closed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar till redigerarkontext efter att sista hjälpsidan har stängts.</translation>
     </message>
     <message>
         <source>Viewer backend:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bakände för visare:</translation>
     </message>
     <message>
         <source>Change takes effect after reloading help pages.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändringen tar effekt efter att hjälpsidorna lästs om.</translation>
     </message>
     <message>
         <source>Show Side-by-Side if Possible</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa sida-vid-sida om möjligt</translation>
     </message>
     <message>
         <source>Always Show Side-by-Side</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa alltid sida-vid-sida</translation>
     </message>
     <message>
         <source>On help start:</source>
@@ -34705,7 +34705,7 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Show My Home Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa Min hemsida</translation>
     </message>
     <message>
         <source>Show a Blank Page</source>
@@ -34713,7 +34713,7 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Show My Tabs from Last Session</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa mina flikar från senaste session</translation>
     </message>
     <message>
         <source>Reset to default.</source>
@@ -34721,7 +34721,7 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Home page:</source>
-        <translation type="unfinished"></translation>
+        <translation>Hemsida:</translation>
     </message>
     <message>
         <source>Use &amp;Current Page</source>
@@ -34741,7 +34741,7 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Return to editor on closing the last page</source>
-        <translation type="unfinished"></translation>
+        <translation>Återgå till redigeraren vid stängning av sista sidan</translation>
     </message>
     <message>
         <source>Import Bookmarks...</source>
@@ -34753,7 +34753,7 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>The file is not an XBEL version 1.0 file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen är inte en XBEL-fil med version 1.0.</translation>
     </message>
     <message>
         <source>Unknown title</source>
@@ -34781,7 +34781,7 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>&lt;p&gt;Check that you have the corresponding documentation set installed.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Kontrollera att du har motsvarande dokumentationsuppsättning installerad.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Error loading: %1</source>
@@ -34861,7 +34861,7 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Deleting a folder also removes its content.&lt;br&gt;Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Borttagning av en mapp tar även bort dess innehåll.&lt;br&gt;Vill du fortsätta?</translation>
     </message>
 </context>
 <context>
@@ -51363,7 +51363,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Colors from SCXML Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Färger från SCXML-dokument</translation>
     </message>
     <message>
         <source>Pick Color</source>
@@ -51555,7 +51555,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Reason</source>
-        <translation type="unfinished"></translation>
+        <translation>Anledning</translation>
     </message>
     <message>
         <source>Description</source>
@@ -60949,7 +60949,7 @@ This is used for calculating the total implicit size.</source>
     <name>SelectionModeToggleAction</name>
     <message>
         <source>Toggle Group/Single Selection Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Växla markeringsläge för grupp/enstaka</translation>
     </message>
 </context>
 <context>
@@ -61012,11 +61012,11 @@ This is used for calculating the total implicit size.</source>
     <name>ShowSelectionBoxAction</name>
     <message>
         <source>Show Selection Boxes</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa markeringsrutor</translation>
     </message>
     <message>
         <source>Toggle the visibility of selection boxes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växla synligheten för markeringsrutor.</translation>
     </message>
 </context>
 <context>
@@ -62242,43 +62242,43 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>Selection color</source>
-        <translation type="unfinished"></translation>
+        <translation>Markeringsfärg</translation>
     </message>
     <message>
         <source>Sets the background color of selected text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in bakgrundsfärgen för markerad text.</translation>
     </message>
     <message>
         <source>Selected text color</source>
-        <translation type="unfinished"></translation>
+        <translation>Färg för markerad text</translation>
     </message>
     <message>
         <source>Sets the color of selected text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in färgen för markerad text.</translation>
     </message>
     <message>
         <source>Selection mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Markeringsläge</translation>
     </message>
     <message>
         <source>Sets the way text is selected with the mouse.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in sättet som text markeras med musen.</translation>
     </message>
     <message>
         <source>Input mask</source>
-        <translation type="unfinished"></translation>
+        <translation>Inmatningsmask</translation>
     </message>
     <message>
         <source>Sets the allowed characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in tillåtna tecken.</translation>
     </message>
     <message>
         <source>Echo mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekoläge</translation>
     </message>
     <message>
         <source>Sets the visibility mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in synlighetsläget.</translation>
     </message>
     <message>
         <source>Password character</source>
@@ -62286,72 +62286,72 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>Sets which character to display when passwords are entered.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in vilket tecken att visa när lösenord matas in.</translation>
     </message>
     <message>
         <source>Tab stop distance</source>
         <translatorcomment>https://fr.wikipedia.org/wiki/Taquet_de_tabulation</translatorcomment>
-        <translation type="unfinished"></translation>
+        <translation>Tabulatorstoppavstånd</translation>
     </message>
     <message>
         <source>Default distance between tab stops in device units.</source>
-        <translation type="unfinished"></translation>
+        <translation>Standardavstånd mellan tabulatorstopp i enheter.</translation>
     </message>
     <message>
         <source>Text margin</source>
-        <translation type="unfinished"></translation>
+        <translation>Textmarginal</translation>
     </message>
     <message>
         <source>Margin around the text in the Text Edit in pixels.</source>
-        <translation type="unfinished"></translation>
+        <translation>Marginal runt texten i Textredigering i pixlar.</translation>
     </message>
     <message>
         <source>Maximum length</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximal längd</translation>
     </message>
     <message>
         <source>Sets the maximum length of the text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in maximal längd för texten.</translation>
     </message>
     <message>
         <source>Focus on press</source>
-        <translation type="unfinished"></translation>
+        <translation>Fokus vid tryck</translation>
     </message>
     <message>
         <source>Toggles if the text is focused on mouse click.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar om texten är fokuserad vid musklick.</translation>
     </message>
     <message>
         <source>Toggles if the text scrolls when it exceeds its boundary.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar om texten rullar när den överstiger sin gräns.</translation>
     </message>
     <message>
         <source>Overwrite mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Överskrivningsläge</translation>
     </message>
     <message>
         <source>Toggles if overwriting text is allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar om överskrivning av text tillåts.</translation>
     </message>
     <message>
         <source>Persistent selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestående markering</translation>
     </message>
     <message>
         <source>Toggles if the text should remain selected after moving the focus elsewhere.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar om texten ska kvarstå som markerad efter fokus har flyttats någon annanstans.</translation>
     </message>
     <message>
         <source>Select by mouse</source>
-        <translation type="unfinished"></translation>
+        <translation>Markera med mus</translation>
     </message>
     <message>
         <source>Toggles if the text can be selected with the mouse.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar om texten kan markeras med musen.</translation>
     </message>
     <message>
         <source>Select by keyboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Markera med tangentbord</translation>
     </message>
     <message>
         <source>Read only</source>
@@ -62359,19 +62359,19 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>Toggles if the text allows edits.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar om texten tillåter redigeringar.</translation>
     </message>
     <message>
         <source>Cursor visible</source>
-        <translation type="unfinished"></translation>
+        <translation>Synlig markör</translation>
     </message>
     <message>
         <source>Toggles if the cursor is visible.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar om markören är synlig.</translation>
     </message>
     <message>
         <source>Auto scroll</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisk rullning</translation>
     </message>
 </context>
 <context>
@@ -62505,7 +62505,7 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>Edit Easing Curve...</source>
-        <translation type="unfinished"></translation>
+        <translation>Rediera bezierkurva...</translation>
     </message>
     <message>
         <source>Edit Keyframe...</source>
@@ -62811,7 +62811,7 @@ Are you sure you want to remove it?</source>
     <name>VisibilityTogglesAction</name>
     <message>
         <source>Visibility Toggles</source>
-        <translation type="unfinished"></translation>
+        <translation>Synlighetsväxlingar</translation>
     </message>
 </context>
 <context>
