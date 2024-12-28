@@ -15247,7 +15247,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>No documentation file specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen dokumentationsfil angiven.</translation>
     </message>
     <message>
         <source>Cannot open documentation file &quot;%1&quot;.</source>
@@ -15325,7 +15325,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <source>Format &amp;Selected Text</source>
         <extracomment>Menu entry</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Formatera &amp;markerad text</translation>
     </message>
     <message>
         <source>&amp;Format at Cursor</source>
@@ -15340,7 +15340,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <source>&amp;Disable Formatting for Selected Text</source>
         <extracomment>Menu entry</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Inaktivera formatering för markerad text</translation>
     </message>
     <message>
         <source>%1 Command</source>
@@ -15612,7 +15612,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <name>QtC::CMakeProjectManager</name>
     <message>
         <source>Current executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuell körbar fil</translation>
     </message>
     <message>
         <source>Build the executable used in the active run configuration. Currently: %1</source>
@@ -15624,7 +15624,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>CMake arguments:</source>
-        <translation type="unfinished"></translation>
+        <translation>Argument för CMake:</translation>
     </message>
     <message>
         <source>Tool arguments:</source>
@@ -15688,7 +15688,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Current Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuell konfiguration</translation>
     </message>
     <message>
         <source>Kit Configuration</source>
@@ -15708,7 +15708,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Add a new configuration value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till ett nytt konfigrationsvärde.</translation>
     </message>
     <message>
         <source>&amp;Boolean</source>
@@ -15760,7 +15760,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Batch Edit...</source>
-        <translation type="unfinished"></translation>
+        <translation>Massredigering...</translation>
     </message>
     <message>
         <source>Set or reset multiple values in the CMake configuration.</source>
@@ -15824,7 +15824,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Force to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tvinga till %1</translation>
     </message>
     <message>
         <source>Help</source>
@@ -16245,7 +16245,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Automatic Formatting on File Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisk formatering vid filsparning</translation>
     </message>
     <message>
         <source>Install</source>
@@ -34705,7 +34705,7 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Show My Home Page</source>
-        <translation>Visa Min hemsida</translation>
+        <translation>Visa min hemsida</translation>
     </message>
     <message>
         <source>Show a Blank Page</source>
@@ -36791,11 +36791,11 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Replace Existing Kits</source>
-        <translation type="unfinished"></translation>
+        <translation>Ersätt befintliga kit</translation>
     </message>
     <message>
         <source>Create New Kits</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa nya kit</translation>
     </message>
     <message>
         <source>Qt for MCUs</source>
@@ -36875,7 +36875,7 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Fix</source>
-        <translation type="unfinished"></translation>
+        <translation>Rätta till</translation>
     </message>
     <message>
         <source>Help</source>
@@ -36916,11 +36916,11 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>MCU</source>
-        <translation type="unfinished"></translation>
+        <translation>MCU</translation>
     </message>
     <message>
         <source>Qt for MCUs: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt för MCUer: %1</translation>
     </message>
     <message>
         <source>Create Kits for Qt for MCUs? To do it later, select Edit &gt; Preferences &gt; Devices &gt; MCU.</source>
@@ -36928,7 +36928,7 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Create Kits for Qt for MCUs</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa kit för Qt för MCUer</translation>
     </message>
     <message>
         <source>Read about Using QtMCUs in the Qt Design Studio</source>
@@ -36936,15 +36936,15 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Go to the Documentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå till dokumentationen</translation>
     </message>
     <message>
         <source>Create new kits</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa nya kit</translation>
     </message>
     <message>
         <source>Replace existing kits</source>
-        <translation type="unfinished"></translation>
+        <translation>Ersätt befintliga kit</translation>
     </message>
     <message>
         <source>Proceed</source>
@@ -39213,11 +39213,11 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>Running steps for project %1...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör steg för projektet %1...</translation>
     </message>
     <message>
         <source>Skipping disabled step %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoppar över inaktiverat steg %1.</translation>
     </message>
     <message>
         <source>Edit...</source>
@@ -39435,7 +39435,7 @@ Title of a the cloned RunConfiguration window, text of the window</extracomment>
     <message>
         <source>Restore Global</source>
         <translatorcomment>?</translatorcomment>
-        <translation type="unfinished"></translation>
+        <translation>Återställ global</translation>
     </message>
     <message>
         <source>Display Settings</source>
@@ -39488,7 +39488,7 @@ Title of a the cloned RunConfiguration window, text of the window</extracomment>
     <message>
         <source>Custom Process Step</source>
         <extracomment>Default ProcessStep display name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Anpassat processteg</translation>
     </message>
     <message>
         <source>Command:</source>
@@ -39617,7 +39617,7 @@ Title of a the cloned RunConfiguration window, text of the window</extracomment>
     </message>
     <message>
         <source>Variables in the run environment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Variabler i körmiljön.</translation>
     </message>
     <message>
         <source>The run configuration&apos;s working directory.</source>
@@ -40399,7 +40399,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Removing File Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Borttagning av fil misslyckades</translation>
     </message>
     <message>
         <source>Deleting File Failed</source>
@@ -40469,7 +40469,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Remove projects from Session</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort projekt från session</translation>
     </message>
     <message>
         <source>Loading Session</source>
@@ -40555,7 +40555,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Close source files along with project</source>
-        <translation type="unfinished"></translation>
+        <translation>Stäng källfiler tillsammans med projektet</translation>
     </message>
     <message>
         <source>Save all files before build</source>
@@ -40647,7 +40647,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Closing Projects</source>
-        <translation>Stänger projekt</translation>
+        <translation>Stängning av projekt</translation>
     </message>
     <message>
         <source>Build before deploying:</source>
@@ -42490,7 +42490,7 @@ The name of the build configuration created by default for a generic project.</e
     </message>
     <message>
         <source>Hide Inactive Kits</source>
-        <translation type="unfinished"></translation>
+        <translation>Dölj inaktiva kit</translation>
     </message>
     <message>
         <source>Kit is unsuited for project</source>
@@ -43438,7 +43438,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Kits</source>
-        <translation type="unfinished"></translation>
+        <translation>Kit</translation>
     </message>
     <message>
         <source>Make Default</source>
@@ -47819,7 +47819,7 @@ Please build the qmldump application on the Qt version options page.</source>
     </message>
     <message>
         <source>Automatic Formatting on File Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisk formatering vid filsparning</translation>
     </message>
     <message>
         <source>Qt Quick Toolbars</source>
@@ -56627,7 +56627,7 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>The maintenance tool at &quot;%1&quot; is not an executable. Check your installation.</source>
-        <translation>Underhållsverktyget på &quot;%1&quot; ör inte en körbar fil. Kontrollera din installation.</translation>
+        <translation>Underhållsverktyget på &quot;%1&quot; är inte en körbar fil. Kontrollera din installation.</translation>
     </message>
     <message>
         <source>Qt Maintenance Tool</source>
@@ -62127,7 +62127,7 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>Sets the formatting method of the text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in formateringsmetoden för texten.</translation>
     </message>
     <message>
         <source>Render type</source>
