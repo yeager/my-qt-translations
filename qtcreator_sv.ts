@@ -59760,7 +59760,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Online Community</source>
-        <translation type="unfinished"></translation>
+        <translation>Nätgemenskap</translation>
     </message>
     <message>
         <source>Blogs</source>
@@ -59805,7 +59805,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>&lt;p style=&quot;margin-top: 30px&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td style=&quot;padding-right: 20px&quot;&gt;Welcome:&lt;/td&gt;&lt;td&gt;Open examples, tutorials, and recent sessions and projects.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Edit:&lt;/td&gt;&lt;td&gt;Work with code and navigate your project.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Design:&lt;/td&gt;&lt;td&gt;Visually edit Widget-based user interfaces, state charts and UML models.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Debug:&lt;/td&gt;&lt;td&gt;Analyze your application with a debugger or other analyzers.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Projects:&lt;/td&gt;&lt;td&gt;Manage project settings.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Help:&lt;/td&gt;&lt;td&gt;Browse the help database.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p style=&quot;margin-top: 30px&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td style=&quot;padding-right: 20px&quot;&gt;Välkommen:&lt;/td&gt;&lt;td&gt;Öppna exempel, handledningar och tidigare sessioner och projekt.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Redigera:&lt;/td&gt;&lt;td&gt;Arbeta med kod och navigera i ditt projekt.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Design:&lt;/td&gt;&lt;td&gt;Visuell redigering av widgetbaserade användargränssnitt, tillståndsdiagram och UML-modeller.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Felsök:&lt;/td&gt;&lt;td&gt;Analysera ditt program med en felsökare eller andra analysverktyg.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Projekt:&lt;/td&gt;&lt;td&gt;Hantera projektinställningar.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Hjälp:&lt;/td&gt;&lt;td&gt;Bläddra i hjälpdatabasen.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Kit Selector</source>
@@ -59841,7 +59841,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Locator</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökrutan</translation>
     </message>
     <message>
         <source>Type here to open a file from any open project.</source>
@@ -59849,7 +59849,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Or:&lt;ul&gt;&lt;li&gt;type &lt;code&gt;c&amp;lt;space&amp;gt;&amp;lt;pattern&amp;gt;&lt;/code&gt; to jump to a class definition&lt;/li&gt;&lt;li&gt;type &lt;code&gt;f&amp;lt;space&amp;gt;&amp;lt;pattern&amp;gt;&lt;/code&gt; to open a file from the file system&lt;/li&gt;&lt;li&gt;click on the magnifier icon for a complete list of possible options&lt;/li&gt;&lt;/ul&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Eller:&lt;ul&gt;&lt;li&gt;skriv &lt;code&gt;c&amp;lt;blanksteg&amp;gt;&amp;lt;mönster&amp;gt;&lt;/code&gt; för att hoppa till en klassdefinition&lt;/li&gt;&lt;li&gt;skriv &lt;code&gt;f&amp;lt;blanksteg&amp;gt;&amp;lt;mönster&amp;gt;&lt;/code&gt; för att öppna en fil från filsystemet&lt;/li&gt;&lt;li&gt;klicka på förstorningsikonen fören komplett lista över möjliga alternativ&lt;/li&gt;&lt;/ul&gt;</translation>
     </message>
     <message>
         <source>Output</source>
@@ -59857,7 +59857,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Find compile and application output here, as well as a list of configuration and build issues, and the panel for global searches.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hitta utdata från kompilatorer och program här, såväl som en lista över konfiguration- och byggproblem samt panelen för globala sökningar.</translation>
     </message>
     <message>
         <source>Progress Indicator</source>
@@ -59869,11 +59869,11 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Escape to Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Återgå till redigeraren</translation>
     </message>
     <message>
         <source>Pressing the Escape key brings you back to the editor. Press it multiple times to also hide context help and output, giving the editor more space.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tryck på Escape-tangenten för att återgå till redigeraren. Tryck på den flera gånger döljer även kontexthjälp och utdata, vilket ger redigeraren mer utrymme.</translation>
     </message>
     <message>
         <source>The End</source>
@@ -59881,7 +59881,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>You have now completed the UI tour. To learn more about the highlighted controls, see &lt;a style=&quot;color: #41CD52&quot; href=&quot;qthelp://org.qt-project.qtcreator/doc/creator-quick-tour.html&quot;&gt;User Interface&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du har nu genomfört rundturen för gränssnittet. För att lära dig mer om nämnda kontroller, se &lt;a style=&quot;color: #41CD52&quot; href=&quot;qthelp://org.qt-project.qtcreator/doc/creator-quick-tour.html&quot;&gt;Användargränssnitt&lt;/a&gt;.</translation>
     </message>
     <message>
         <source>UI Introduction %1/%2 &gt;</source>
