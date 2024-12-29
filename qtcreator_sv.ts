@@ -39189,7 +39189,7 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>The build device failed to prepare for the build of %1 (%2).</source>
-        <translation type="unfinished"></translation>
+        <translation>Byggenheten misslyckades med att förbereda för byggnation av %1 (%2).</translation>
     </message>
     <message>
         <source>Compile</source>
@@ -39423,7 +39423,7 @@ Title of a the cloned RunConfiguration window, text of the window</extracomment>
     <message>
         <source>compile-output.txt</source>
         <extracomment>file name suggested for saving compile output</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>compile-output.txt</translation>
     </message>
     <message>
         <source>Show Compile &amp;Output</source>
@@ -39635,11 +39635,11 @@ Title of a the cloned RunConfiguration window, text of the window</extracomment>
     </message>
     <message>
         <source>A version control system repository could not be created in &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ett förråd för versionskontrollsystemet kunde inte skapas i &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Failed to add &quot;%1&quot; to the version control system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att lägga till &quot;%1&quot; till versionskontrollsystemet.</translation>
     </message>
     <message>
         <source>Files to be added:</source>
@@ -39659,15 +39659,15 @@ Title of a the cloned RunConfiguration window, text of the window</extracomment>
     </message>
     <message>
         <source>The run configuration&apos;s working directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Körkonfigurationens arbetskatalog.</translation>
     </message>
     <message>
         <source>The run configuration&apos;s name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Körkonfigurationens namn.</translation>
     </message>
     <message>
         <source>The run configuration&apos;s executable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Körkonfigurationens körbara fil.</translation>
     </message>
     <message>
         <source>No build system active</source>
@@ -39701,7 +39701,7 @@ Title of a the cloned RunConfiguration window, text of the window</extracomment>
     </message>
     <message>
         <source>Do you really want to delete the run configuration &lt;b&gt;%1&lt;/b&gt;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vill du verkligen ta bort körkonfigurationen &lt;b&gt;%1&lt;/b&gt;?</translation>
     </message>
     <message>
         <source>Remove Run Configurations?</source>
@@ -39709,11 +39709,11 @@ Title of a the cloned RunConfiguration window, text of the window</extracomment>
     </message>
     <message>
         <source>Do you really want to delete all run configurations?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vill du verkligen ta bort alla körkonfigurationer?</translation>
     </message>
     <message>
         <source>New name for run configuration &lt;b&gt;%1&lt;/b&gt;:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nytt namn för körkonfigurationen &lt;b&gt;%1&lt;/b&gt;:</translation>
     </message>
     <message>
         <source>Cancel Build &amp;&amp; Remove Deploy Configuration</source>
@@ -40048,11 +40048,11 @@ Do you want to ignore them?</source>
     </message>
     <message>
         <source>Rebuild Project for All Configurations</source>
-        <translation type="unfinished"></translation>
+        <translation>Bygg om projektet för alla konfigurationer</translation>
     </message>
     <message>
         <source>Clean Project for All Configurations</source>
-        <translation type="unfinished"></translation>
+        <translation>Rensa projektet för alla konfigurationer</translation>
     </message>
     <message>
         <source>Meta+Backspace</source>
@@ -40148,7 +40148,7 @@ Do you want to ignore them?</source>
     </message>
     <message>
         <source>Currently building the active project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bygger för närvarande det aktiva projektet.</translation>
     </message>
     <message>
         <source>The project %1 is not configured.</source>
@@ -40185,12 +40185,12 @@ Do you want to ignore them?</source>
     <message>
         <source>Active build environment of the active project.</source>
         <translatorcomment>les messages similaires précédent n&apos;ont pas de point final. Ce message apparait dans une boite déroulante.</translatorcomment>
-        <translation type="unfinished"></translation>
+        <translation>Aktiv byggmiljö för det aktiva projektet.</translation>
     </message>
     <message>
         <source>Active run environment of the active project.</source>
         <translatorcomment>les messages similaires précédent n&apos;ont pas de point final. Ce message apparait dans une boite déroulante.</translatorcomment>
-        <translation type="unfinished"></translation>
+        <translation>Aktiv körmiljö för det aktiva projektet.</translation>
     </message>
     <message>
         <source>Sanitizer</source>
@@ -40370,11 +40370,11 @@ Please try again.</source>
     </message>
     <message>
         <source>Runs a run configuration of the active project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör en körkonfiguration för det aktiva projektet.</translation>
     </message>
     <message>
         <source>Debug Run Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Felsök körkonfiguration</translation>
     </message>
     <message>
         <source>Starts debugging a run configuration of the active project.</source>
@@ -40391,7 +40391,8 @@ Please try again.</source>
     <message>
         <source>Switched run configuration to
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlade körkonfiguration till
+%1</translation>
     </message>
     <message>
         <source>Custom Executable</source>
@@ -40499,7 +40500,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Could not restore the following project files:&lt;br&gt;&lt;b&gt;%1&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte återställa följande projektfiler:&lt;br&gt;&lt;b&gt;%1&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Keep projects in Session</source>
@@ -40617,7 +40618,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Start build processes with low priority</source>
-        <translation type="unfinished"></translation>
+        <translation>Starta byggprocesser med låg prioritet</translation>
     </message>
     <message>
         <source>Warn against build directories with spaces or non-ASCII characters</source>
@@ -40693,7 +40694,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Stop applications before building:</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoppa program innan byggnation:</translation>
     </message>
     <message>
         <source>Default for &quot;Run in terminal&quot;:</source>
@@ -40709,7 +40710,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Always ask before stopping applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Fråga alltid före program stoppas</translation>
     </message>
     <message>
         <source>Merge stderr and stdout</source>
@@ -40773,7 +40774,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Cannot retrieve debugging output.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte hämta felsökningsutdata.</translation>
     </message>
     <message>
         <source>Cannot run: No command given.</source>
@@ -40781,7 +40782,7 @@ Please try again.</source>
     </message>
     <message>
         <source>The process was ended forcefully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Processen avslutades med tvång.</translation>
     </message>
     <message>
         <source>Environment:</source>
@@ -40789,7 +40790,7 @@ Please try again.</source>
     </message>
     <message>
         <source>An unknown error in the process occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ett okänt fel i processen inträffade.</translation>
     </message>
     <message>
         <source>Either the invoked program &quot;%1&quot; is missing, or you may have insufficient permissions to invoke the program.</source>
@@ -41006,7 +41007,7 @@ Display name of the clean build step list. Used as part of the labels in the pro
     </message>
     <message>
         <source>This wizard creates a C++ library project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denna guide skapar ett C++-biblioteksprojekt.</translation>
     </message>
     <message>
         <source>qmake</source>
@@ -41150,7 +41151,7 @@ Display name of the clean build step list. Used as part of the labels in the pro
     </message>
     <message>
         <source>Minimum required Qt version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Minsta nödvändiga Qt-version:</translation>
     </message>
     <message>
         <source>MyItem</source>
@@ -41158,11 +41159,11 @@ Display name of the clean build step list. Used as part of the labels in the pro
     </message>
     <message>
         <source>com.mycompany.qmlcomponents</source>
-        <translation type="unfinished"></translation>
+        <translation>com.mittbolag.qmlcomponents</translation>
     </message>
     <message>
         <source>Create example project</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa exempelprojekt</translation>
     </message>
     <message>
         <source>Custom Parameters</source>
@@ -41204,11 +41205,11 @@ You should not mix multiple test frameworks in a project.</source>
     </message>
     <message>
         <source>Creates a source file that you can add to an existing test project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapar en källfil som du kan lägga till ett befintligt testprojekt.</translation>
     </message>
     <message>
         <source>Test Case</source>
-        <translation type="unfinished"></translation>
+        <translation>Testfall</translation>
     </message>
     <message>
         <source>Creates a markdown file.</source>
@@ -41222,7 +41223,9 @@ You should not mix multiple test frameworks in a project.</source>
         <source>Creates a project containing a single main.cpp file with a stub implementation and no graphical UI.
 
 Preselects a desktop Qt for building the application if available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapar ett projekt som innehåller en enda main.cpp-fil med en stubbimplementation och utan grafiskt gränssnitt.
+
+Förväljer en skrivbordsbaserad Qt för byggnation av programmet om tillgängligt.</translation>
     </message>
     <message>
         <source>PySide 2</source>
@@ -41234,7 +41237,7 @@ Preselects a desktop Qt for building the application if available.</source>
     </message>
     <message>
         <source>Creates a Qt for Python application that includes a Qt Widgets Designer-based widget (ui file). Requires .ui to Python conversion.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapar ett Qt för Python-program som inkluderar en Qt Widgets Designer-baserad widget (gränssnittsfil). Kräver .ui till Python-konvertering.</translation>
     </message>
     <message>
         <source>Creates a Qt Quick UI project for previewing and prototyping designs.
@@ -41244,7 +41247,7 @@ To develop a full application, create a Qt Quick Application project instead.</s
     </message>
     <message>
         <source>Creates a C++ library. You can create:&lt;ul&gt;&lt;li&gt;a shared C++ library for use with &lt;tt&gt;QPluginLoader&lt;/tt&gt; and runtime (Plugins)&lt;/li&gt;&lt;li&gt;a shared or static C++ library for use with another project at linktime&lt;/li&gt;&lt;/ul&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapar ett C++-bibliotek. Du kan skapa:&lt;ul&gt;&lt;li&gt;ett delat C++-bibliotek för användning med &lt;tt&gt;QPluginLoader&lt;/tt&gt; och körtid (Insticksmoduler)&lt;/li&gt;&lt;li&gt;ett delat eller statiskt C++-bibliotek för användning med andra projekt vid länktid&lt;/li&gt;&lt;/ul&gt;</translation>
     </message>
     <message>
         <source>0.1.0</source>
@@ -41336,7 +41339,7 @@ To develop a full application, create a Qt Quick Application project instead.</s
     </message>
     <message>
         <source>Creates a Nim application with Nimble.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapar ett Nim-program med Nimble.</translation>
     </message>
     <message>
         <source>Nimble Application</source>
@@ -41344,7 +41347,7 @@ To develop a full application, create a Qt Quick Application project instead.</s
     </message>
     <message>
         <source>Creates a simple C++ application with no dependencies.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapar ett enkelt C++-program utan några beroenden.</translation>
     </message>
     <message>
         <source>Plain C++ Application</source>
@@ -41376,7 +41379,7 @@ To develop a full application, create a Qt Quick Application project instead.</s
     </message>
     <message>
         <source>&quot;%{JS: Util.toNativeSeparators(&apos;%{TargetPath}&apos;)}&quot; exists in the filesystem.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%{JS: Util.toNativeSeparators(&apos;%{TargetPath}&apos;)}&quot; finns i filsystemet.</translation>
     </message>
     <message>
         <source>Recursive</source>
@@ -41420,7 +41423,7 @@ To develop a full application, create a Qt Quick Application project instead.</s
     </message>
     <message>
         <source>Clones a Git repository and tries to load the contained project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klonar ett Git-förråd och försöker att läsa in dess innehållande projekt.</translation>
     </message>
     <message>
         <source>Git Clone</source>
@@ -42570,7 +42573,7 @@ The name of the build configuration created by default for a generic project.</e
     </message>
     <message>
         <source>Do you want to cancel the build process and remove the kit anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vill du avbryta byggprocessen och ta bort kitet ändå?</translation>
     </message>
     <message>
         <source>Disable Kit for All Projects</source>
@@ -42686,7 +42689,7 @@ Display name of the deploy build step list. Used as part of the labels in the pr
     </message>
     <message>
         <source>Annotate using version control system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anteckna med versionskontrollsystem.</translation>
     </message>
     <message>
         <source>Ignoring invalid task (no text).</source>
@@ -42726,7 +42729,7 @@ Display name of the deploy build step list. Used as part of the labels in the pr
     </message>
     <message>
         <source>Override for code model</source>
-        <translation type="unfinished"></translation>
+        <translation>Åsidosätt för kodmodell</translation>
     </message>
     <message>
         <source>Enable in the rare case that the code model
