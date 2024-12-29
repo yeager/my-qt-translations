@@ -42538,7 +42538,7 @@ The name of the build configuration created by default for a generic project.</e
     </message>
     <message>
         <source>Kit is unsuited for project</source>
-        <translation type="unfinished"></translation>
+        <translation>Kitet är inte lämpligt för projektet</translation>
     </message>
     <message>
         <source>Click to activate</source>
@@ -42558,7 +42558,7 @@ The name of the build configuration created by default for a generic project.</e
     </message>
     <message>
         <source>Cancel Build and Disable Kit in This Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Avbryt byggnation och inaktivera kitet i detta projekt</translation>
     </message>
     <message>
         <source>Disable Kit &quot;%1&quot; in This Project?</source>
@@ -42640,12 +42640,12 @@ The name of the build configuration created by default for a generic project.</e
         <extracomment>Displayed name for a deploy step
 ----------
 Display name of the deploy build step list. Used as part of the labels in the project window.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Distribuera</translation>
     </message>
     <message>
         <source>Deploy locally</source>
         <extracomment>Default DeployConfiguration display name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Distribuera lokalt</translation>
     </message>
     <message>
         <source>Deploy Configuration</source>
@@ -42714,7 +42714,7 @@ Display name of the deploy build step list. Used as part of the labels in the pr
     </message>
     <message>
         <source>Start Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>Starta guide</translation>
     </message>
     <message>
         <source>GCC</source>
@@ -43617,7 +43617,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Name of the build configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Namn på byggkonfigurationen</translation>
     </message>
     <message>
         <source>Variables in the build configuration&apos;s environment</source>
