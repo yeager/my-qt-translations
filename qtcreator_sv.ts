@@ -227,7 +227,7 @@
     </message>
     <message>
         <source>Distribute objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuera objekt</translation>
     </message>
     <message>
         <source>Distribute left edges.</source>
@@ -283,7 +283,7 @@
     </message>
     <message>
         <source>Pixel spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Pixelavstånd</translation>
     </message>
     <message>
         <source>Align to</source>
@@ -366,35 +366,35 @@ Bind to AmbientSound.Infinite to loop the current sound forever.</source>
     </message>
     <message>
         <source>Anchors can only be applied to the base state.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ankare kan endast tillämpas till grundtillståndet.</translation>
     </message>
     <message>
         <source>Anchor component to the top.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förankra komponent överst.</translation>
     </message>
     <message>
         <source>Anchor component to the bottom.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förankra komponent nederst.</translation>
     </message>
     <message>
         <source>Anchor component to the left.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förankra komponent till vänster.</translation>
     </message>
     <message>
         <source>Anchor component to the right.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förankra komponent till höger.</translation>
     </message>
     <message>
         <source>Fill parent component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fyll föräldrakomponent.</translation>
     </message>
     <message>
         <source>Anchor component vertically.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förankra komponent vertikalt.</translation>
     </message>
     <message>
         <source>Anchor component horizontally.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förankra komponent horisontellt.</translation>
     </message>
 </context>
 <context>
@@ -409,27 +409,27 @@ Bind to AmbientSound.Infinite to loop the current sound forever.</source>
     </message>
     <message>
         <source>Anchor to the top of the target.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förankra överst av målet.</translation>
     </message>
     <message>
         <source>Anchor to the left of the target.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förankra till vänster av målet.</translation>
     </message>
     <message>
         <source>Anchor to the vertical center of the target.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förankra till vertikalt centrum av målet.</translation>
     </message>
     <message>
         <source>Anchor to the horizontal center of the target.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förankra till horisontellt centrum av målet.</translation>
     </message>
     <message>
         <source>Anchor to the bottom of the target.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förankra nederst av målet.</translation>
     </message>
     <message>
         <source>Anchor to the right of the target.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förankra till höger av målet.</translation>
     </message>
 </context>
 <context>
@@ -1455,7 +1455,7 @@ It should be a relative path.</source>
     <name>CameraToggleAction</name>
     <message>
         <source>Toggle Perspective/Orthographic Camera Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Växla kameraläge perspektiv/ortografisk</translation>
     </message>
 </context>
 <context>
@@ -3658,7 +3658,7 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>This property is defined by an anchor or a layout.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denna egenskap definieras av ett ankare eller en layout.</translation>
     </message>
     <message>
         <source>Position</source>
@@ -3847,7 +3847,7 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Sets the number of columns in the grid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in antalet kolumner i rutnätet.</translation>
     </message>
     <message>
         <source>Rows</source>
@@ -3855,11 +3855,11 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Sets the number of rows in the grid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in antalet rader i rutnätet.</translation>
     </message>
     <message>
         <source>Sets the space between grid items. The same space is applied for both rows and columns.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in utrymmet mellan rutnätsobjekt. Samma utrymme tillämpas för både rader och kolumner.</translation>
     </message>
     <message>
         <source>Flow</source>
@@ -3867,7 +3867,7 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Sets in which direction items in the grid are placed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in vilken riktning som objekten i rutnätet placeras.</translation>
     </message>
     <message>
         <source>Layout direction</source>
@@ -3875,19 +3875,19 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Alignment H</source>
-        <translation type="unfinished"></translation>
+        <translation>Justering H</translation>
     </message>
     <message>
         <source>Sets the horizontal alignment of items in the grid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in horisontell justering av objekt i rutnätet.</translation>
     </message>
     <message>
         <source>Alignment V</source>
-        <translation type="unfinished"></translation>
+        <translation>Justering V</translation>
     </message>
     <message>
         <source>Sets the vertical alignment of items in the grid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in vertikal justering av objekt i rutnätet.</translation>
     </message>
     <message>
         <source>Spacing</source>
@@ -5765,7 +5765,7 @@ Fel:
     </message>
     <message>
         <source>Sets the title of the page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in titeln för sidan.</translation>
     </message>
     <message>
         <source>Sets the size of the page. This is used to
@@ -6495,7 +6495,7 @@ Do you want to edit this effect?</source>
     <name>QmlDesigner::AddNewBackendDialog</name>
     <message>
         <source>Add New C++ Backend</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till ny C++-bakände</translation>
     </message>
     <message>
         <source>Type</source>
@@ -6503,26 +6503,26 @@ Do you want to edit this effect?</source>
     </message>
     <message>
         <source>Define object locally</source>
-        <translation type="unfinished"></translation>
+        <translation>Definiera objekt lokalt</translation>
     </message>
     <message>
         <source>Required import</source>
-        <translation type="unfinished"></translation>
+        <translation>Nödvändig import</translation>
     </message>
     <message>
         <source>Choose a type that is registered using qmlRegisterType or qmlRegisterSingletonType. The type will be available as a property in the current .qml file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en typ som är registrerad med qmlRegisterType eller qmlRegisterSingletonType. Typen kommer att vara tillgänglig som en egenskap i aktuella .qml-filen.</translation>
     </message>
 </context>
 <context>
     <name>QmlDesigner::AlignDistribute</name>
     <message>
         <source>Cannot Distribute Perfectly</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte distribuera perfekt</translation>
     </message>
     <message>
         <source>These objects cannot be distributed to equal pixel values. Do you want to distribute to the nearest possible values?</source>
-        <translation type="unfinished"></translation>
+        <translation>Dessa objekt kan inte distribueras till lika pixelvärden. Vill du distribuera till närmaste möjliga värden?</translation>
     </message>
 </context>
 <context>
@@ -6844,12 +6844,13 @@ Exporting assets: %2</source>
     <name>QmlDesigner::AssignEventDialog</name>
     <message>
         <source>Nonexistent events discovered</source>
-        <translation type="unfinished"></translation>
+        <translation>Icke-existerande händelser upptäcktes</translation>
     </message>
     <message>
         <source>The Node references the following nonexistent events:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Node refererar till följande icke-existerande händelser:
+</translation>
     </message>
 </context>
 <context>
@@ -8728,11 +8729,11 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Split Segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Dela segment</translation>
     </message>
     <message>
         <source>Make Curve Segment Straight</source>
-        <translation type="unfinished"></translation>
+        <translation>Gör kurvsegment raka</translation>
     </message>
     <message>
         <source>Remove Edit Point</source>
@@ -8784,19 +8785,19 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Invalid ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltigt id</translation>
     </message>
     <message>
         <source>Cannot Export Property as Alias</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte exportera egenskap som alias</translation>
     </message>
     <message>
         <source>Property %1 does already exist for root component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Egenskapen %1 finns redan för rotkomponenten.</translation>
     </message>
     <message>
         <source>Property Editor view</source>
-        <translation type="unfinished"></translation>
+        <translation>Egenskapsredigerare-vy</translation>
     </message>
     <message>
         <source>%1 already exists.</source>
@@ -8804,7 +8805,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Invalid QML source</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig QML-källa</translation>
     </message>
 </context>
 <context>
@@ -8838,14 +8839,14 @@ Locked components cannot be modified or selected.</source>
     <name>QmlDesigner::QmlModelNodeProxy</name>
     <message>
         <source>multiselection</source>
-        <translation type="unfinished"></translation>
+        <translation>flerval</translation>
     </message>
 </context>
 <context>
     <name>QmlDesigner::QmlPreviewWidgetPlugin</name>
     <message>
         <source>Show Live Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa live-förhandsvisning</translation>
     </message>
 </context>
 <context>
@@ -9308,11 +9309,11 @@ Locked components cannot be modified or selected.</source>
     <name>QmlDesigner::TextureEditorView</name>
     <message>
         <source>Cannot Export Property as Alias</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte exportera egenskap som alias</translation>
     </message>
     <message>
         <source>Property %1 does already exist for root component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Egenskapen %1 finns redan för rotkomponenten.</translation>
     </message>
     <message>
         <source>Texture Editor</source>
@@ -9320,7 +9321,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Texture Editor view</source>
-        <translation type="unfinished"></translation>
+        <translation>Texturredigerare-vy</translation>
     </message>
 </context>
 <context>
@@ -9861,7 +9862,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Change State</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra tillstånd</translation>
     </message>
     <message>
         <source>Change State Group</source>
@@ -10049,7 +10050,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Update 3D Asset</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdatera 3D-tillgång</translation>
     </message>
     <message>
         <source>Reverse</source>
@@ -14127,7 +14128,7 @@ a matches issues where the value contains the letter &apos;a&apos;
     </message>
     <message>
         <source>Custom Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Anpassad körbar fil</translation>
     </message>
     <message>
         <source>The remote executable must be set in order to run a custom remote run configuration.</source>
@@ -14159,7 +14160,7 @@ a matches issues where the value contains the letter &apos;a&apos;
     </message>
     <message>
         <source>Not recognized</source>
-        <translation type="unfinished"></translation>
+        <translation>Känns inte igen</translation>
     </message>
     <message>
         <source>GDB</source>
@@ -14189,7 +14190,7 @@ a matches issues where the value contains the letter &apos;a&apos;
     </message>
     <message>
         <source>Engine</source>
-        <translation type="unfinished"></translation>
+        <translation>Motor</translation>
     </message>
     <message>
         <source>Duplicate Providers Detected</source>
@@ -14221,7 +14222,7 @@ a matches issues where the value contains the letter &apos;a&apos;
     </message>
     <message>
         <source>EBlink</source>
-        <translation type="unfinished"></translation>
+        <translation>EBlink</translation>
     </message>
     <message>
         <source>Host:</source>
@@ -14229,11 +14230,11 @@ a matches issues where the value contains the letter &apos;a&apos;
     </message>
     <message>
         <source>Executable file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Körbar fil:</translation>
     </message>
     <message>
         <source>Script file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriptfil:</translation>
     </message>
     <message>
         <source>Specify the verbosity level (0 to 7).</source>
@@ -14253,7 +14254,7 @@ a matches issues where the value contains the letter &apos;a&apos;
     </message>
     <message>
         <source>Interface type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gränssnittstyp.</translation>
     </message>
     <message>
         <source>Type:</source>
@@ -18390,11 +18391,11 @@ Oui :)</translatorcomment>
     <name>QtC::Coco</name>
     <message>
         <source>Select a Squish Coco CoverageBrowser Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en körbar fil för Squish Coco CoverageBrowser</translation>
     </message>
     <message>
         <source>CoverageBrowser:</source>
-        <translation type="unfinished"></translation>
+        <translation>CoverageBrowser:</translation>
     </message>
     <message>
         <source>Coco instrumentation files (*.csmes)</source>
@@ -18402,7 +18403,7 @@ Oui :)</translatorcomment>
     </message>
     <message>
         <source>Select a Squish Coco Instrumentation File</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en Squish Coco-instrumentationsfil</translation>
     </message>
     <message>
         <source>CSMes:</source>
@@ -19562,7 +19563,7 @@ If the system cursors for resizing views are not displayed properly, you can use
     </message>
     <message>
         <source>Reload All Unchanged Editors</source>
-        <translation type="unfinished"></translation>
+        <translation>Läs om alla oförändrade redigerare</translation>
     </message>
     <message>
         <source>Ignore Modifications</source>
@@ -20277,7 +20278,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Plugin Errors of %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Insticksmodulfel för %1</translation>
     </message>
     <message>
         <source>Processes</source>
@@ -20649,7 +20650,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Indentation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Indragning:</translation>
     </message>
     <message>
         <source>Owner:</source>
@@ -22669,7 +22670,7 @@ Double-click to edit item.</source>
     </message>
     <message>
         <source>File Naming</source>
-        <translation type="unfinished"></translation>
+        <translation>Filnamngivning</translation>
     </message>
     <message>
         <source>Interpret ambiguous headers as C headers</source>
@@ -22803,7 +22804,7 @@ The built-in code model will handle highlighting, completion and so on.</source>
     </message>
     <message>
         <source>Background indexing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bakgrundsindexering:</translation>
     </message>
     <message>
         <source>Per-project index location:</source>
@@ -23023,23 +23024,23 @@ managed by the same clangd process, add them here.</source>
     </message>
     <message>
         <source>Convert to Objective-C String Literal</source>
-        <translation type="unfinished"></translation>
+        <translation>Konvertera till Objective-C String Literal</translation>
     </message>
     <message>
         <source>Convert to Hexadecimal</source>
-        <translation type="unfinished"></translation>
+        <translation>Konvertera till hexadecimal</translation>
     </message>
     <message>
         <source>Convert to Octal</source>
-        <translation type="unfinished"></translation>
+        <translation>Konvertera till oktal</translation>
     </message>
     <message>
         <source>Convert to Decimal</source>
-        <translation type="unfinished"></translation>
+        <translation>Konvertera till decimal</translation>
     </message>
     <message>
         <source>Convert to Binary</source>
-        <translation type="unfinished"></translation>
+        <translation>Konvertera till binär</translation>
     </message>
     <message>
         <source>Add Local Declaration</source>
@@ -24564,7 +24565,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Binary:</source>
-        <translation type="unfinished"></translation>
+        <translation>Binär:</translation>
     </message>
     <message>
         <source>Checks:</source>
@@ -24572,7 +24573,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Custom arguments:</source>
-        <translation type="unfinished"></translation>
+        <translation>Anpassade argument:</translation>
     </message>
     <message>
         <source>Ignored file patterns:</source>
@@ -24580,7 +24581,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Cppcheck</source>
-        <translation type="unfinished"></translation>
+        <translation>Cppcheck</translation>
     </message>
     <message>
         <source>Go to previous diagnostic.</source>
@@ -24596,11 +24597,11 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Cppcheck...</source>
-        <translation type="unfinished"></translation>
+        <translation>Cppcheck...</translation>
     </message>
     <message>
         <source>Cppcheck started: &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cppcheck startade: &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Cppcheck finished.</source>
@@ -30876,15 +30877,15 @@ Reason: %3</source>
     </message>
     <message>
         <source>&quot;%1&quot; %2 %3L, %4C written</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; %2 %3L, %4C skrevs</translation>
     </message>
     <message>
         <source>&quot;%1&quot; %2L, %3C</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; %2L, %3C</translation>
     </message>
     <message>
         <source>Not implemented in FakeVim.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inte implementerat i FakeVim.</translation>
     </message>
     <message>
         <source>Mark &quot;%1&quot; not set.</source>
@@ -30900,11 +30901,11 @@ Reason: %3</source>
     </message>
     <message>
         <source>Unknown option:</source>
-        <translation type="unfinished"></translation>
+        <translation>Okänt alternativ:</translation>
     </message>
     <message>
         <source>Invalid argument:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig argument:</translation>
     </message>
     <message>
         <source>Trailing characters:</source>
@@ -30916,22 +30917,22 @@ Reason: %3</source>
     </message>
     <message numerus="yes">
         <source>%n lines moved.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n rad flyttad.</numerusform>
+            <numerusform>%n rader flyttade.</numerusform>
         </translation>
     </message>
     <message>
         <source>File &quot;%1&quot; exists (add ! to override)</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen &quot;%1&quot; finns (lägg till ! för att åsidosätta)</translation>
     </message>
     <message>
         <source>Cannot open file &quot;%1&quot; for writing</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte öppna filen &quot;%1&quot; för skrivning</translation>
     </message>
     <message>
         <source>&quot;%1&quot; %2 %3L, %4C written.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; %2 %3L, %4C skrevs.</translation>
     </message>
     <message>
         <source>Cannot open file &quot;%1&quot; for reading</source>
@@ -30939,9 +30940,9 @@ Reason: %3</source>
     </message>
     <message numerus="yes">
         <source>%n lines filtered.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n rad filtrerad.</numerusform>
+            <numerusform>%n rader filtrerade.</numerusform>
         </translation>
     </message>
     <message>
@@ -30962,9 +30963,9 @@ Reason: %3</source>
     </message>
     <message numerus="yes">
         <source>%n lines indented.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n rad indragen.</numerusform>
+            <numerusform>%n rader indragna.</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -30992,11 +30993,11 @@ Reason: %3</source>
     </message>
     <message>
         <source>Cannot open file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte öppna filen %1</translation>
     </message>
     <message>
         <source>Pattern not found: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Mönstret hittades inte: %1</translation>
     </message>
     <message>
         <source>Invalid regular expression: %1</source>
@@ -31004,7 +31005,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Unknown option: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Okänt alternativ: %1</translation>
     </message>
     <message>
         <source>Argument must be positive: %1=%2</source>
@@ -31016,11 +31017,11 @@ Reason: %3</source>
     </message>
     <message>
         <source>FakeVim</source>
-        <translation type="unfinished"></translation>
+        <translation>FakeVim</translation>
     </message>
     <message>
         <source>Default: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Standard: %1</translation>
     </message>
     <message>
         <source>Use FakeVim</source>
@@ -31028,15 +31029,15 @@ Reason: %3</source>
     </message>
     <message>
         <source>Vim Behavior</source>
-        <translation type="unfinished"></translation>
+        <translation>Vim-beteende</translation>
     </message>
     <message>
         <source>Automatic indentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisk indragning</translation>
     </message>
     <message>
         <source>Start of line</source>
-        <translation type="unfinished"></translation>
+        <translation>Radbörjan</translation>
     </message>
     <message>
         <source>Pass control keys</source>
@@ -31044,7 +31045,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Smart indentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Smart indragning</translation>
     </message>
     <message>
         <source>Use search dialog</source>
@@ -31088,7 +31089,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Blinking cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>Blinkande markör</translation>
     </message>
     <message>
         <source>Use system encoding for :source</source>
@@ -31187,7 +31188,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Recursive mapping</source>
-        <translation type="unfinished"></translation>
+        <translation>Rekursiv mappning</translation>
     </message>
     <message>
         <source> [New] </source>
@@ -31219,7 +31220,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Invalid regular expression.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltigt reguljärt uttryck.</translation>
     </message>
     <message>
         <source>Meta+Shift+Y,Meta+Shift+Y</source>
@@ -35844,7 +35845,7 @@ Expiration date: %3</source>
     </message>
     <message>
         <source>Call Hierarchy</source>
-        <translation type="unfinished"></translation>
+        <translation>Anropshierarki</translation>
     </message>
     <message>
         <source>Reloads the call hierarchy for the symbol under cursor position.</source>
@@ -35863,7 +35864,7 @@ Expiration date: %3</source>
     <message>
         <source>initialize requested</source>
         <extracomment>language client state</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>initiering begärd</translation>
     </message>
     <message>
         <source>failed to initialize</source>
@@ -35891,7 +35892,7 @@ Expiration date: %3</source>
     </message>
     <message>
         <source>Initialization error: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Initieringsfel: %1.</translation>
     </message>
     <message>
         <source>error</source>
@@ -35901,7 +35902,8 @@ Expiration date: %3</source>
     <message>
         <source>Invalid parameter in &quot;%1&quot;:
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig parameter i &quot;%1&quot;:
+%2</translation>
     </message>
     <message>
         <source>Initialize result is invalid.</source>
@@ -36013,7 +36015,7 @@ Expiration date: %3</source>
     </message>
     <message>
         <source>Start Server per Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Starta server per projekt</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -36058,7 +36060,7 @@ Example: *.cpp%1*.h</source>
     </message>
     <message>
         <source>Select MIME Types</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj MIME-typer</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -36078,7 +36080,7 @@ Example: *.cpp%1*.h</source>
     </message>
     <message>
         <source>Workspace Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurera arbetsyta</translation>
     </message>
     <message>
         <source>Additional JSON configuration sent to all running language servers for this project.
@@ -36112,7 +36114,7 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>%1 is not reachable anymore.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 är inte nåbar längre.</translation>
     </message>
     <message>
         <source>Start typing to see replacements.</source>
@@ -36136,7 +36138,7 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Install npm Package</source>
-        <translation type="unfinished"></translation>
+        <translation>Installera npm-paket</translation>
     </message>
     <message>
         <source>Running &quot;%1&quot; to install %2.</source>
@@ -36220,7 +36222,7 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>No client selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen klient vald</translation>
     </message>
     <message>
         <source>Language Client Inspector</source>
@@ -36259,15 +36261,15 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Expected an integer in &quot;%1&quot;, but got &quot;%2&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förväntade ett heltal i &quot;%1&quot;, men fick &quot;%2&quot;.</translation>
     </message>
     <message>
         <source>Could not parse JSON message: &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte tolka JSON-meddelande: &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Expected a JSON object, but got a JSON &quot;%1&quot; value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förväntade ett JSON-objekt, men fick ett JSON &quot;%1&quot;-värde.</translation>
     </message>
     <message>
         <source>No parameters in &quot;%1&quot;.</source>
@@ -36588,23 +36590,23 @@ See the documentation of the specific language server for valid settings.</sourc
     <name>QtC::McuSupport</name>
     <message>
         <source>MCU Dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>MCU-beroenden</translation>
     </message>
     <message>
         <source>Paths to 3rd party dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökvägar till tredjepartsberoenden</translation>
     </message>
     <message>
         <source>The MCU dependencies setting value is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inställningsvärdet för MCU-beroenden är ogiltigt.</translation>
     </message>
     <message>
         <source>CMake variable %1 not defined.</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake-variabeln %1 är inte definierad.</translation>
     </message>
     <message>
         <source>CMake variable %1: path %2 does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake-variabeln %1: sökvägen %2 finns inte.</translation>
     </message>
     <message>
         <source>Warning for target %1: invalid toolchain path (%2). Update the toolchain in Edit &gt; Preferences &gt; Kits.</source>
@@ -36620,23 +36622,23 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Kit for %1 created.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kit för %1 skapades.</translation>
     </message>
     <message>
         <source>Error registering Kit for %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid registrering av kit för %1.</translation>
     </message>
     <message>
         <source>Path %1 exists, but does not contain %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökvägen %1 finns men innehåller inte %2.</translation>
     </message>
     <message>
         <source>Path %1 does not exist. Add the path in Edit &gt; Preferences &gt; Devices &gt; MCU.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökvägen %1 finns inte. Lägg till sökvägen i Redigera &gt; Inställningar &gt; Enheter &gt; MCU.</translation>
     </message>
     <message>
         <source>Missing %1. Add the path in Edit &gt; Preferences &gt; Devices &gt; MCU.</source>
-        <translation type="unfinished"></translation>
+        <translation>Saknar %1. Lägg till sökvägen i Redigera &gt; Inställningar &gt; Enheter &gt; MCU.</translation>
     </message>
     <message>
         <source>No CMake tool was detected. Add a CMake tool in Edit &gt; Preferences &gt; Kits &gt; CMake.</source>
@@ -36648,83 +36650,83 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Path %1 exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökvägen %1 finns.</translation>
     </message>
     <message>
         <source>Path %1 exists. Version %2 was found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökvägen %1 finns. Version %2 hittades.</translation>
     </message>
     <message>
         <source>Path %1 is valid, %2 was found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökvägen %1 är giltig, %2 hittades.</translation>
     </message>
     <message>
         <source>but only version %1 is supported</source>
-        <translation type="unfinished"></translation>
+        <translation>men endast version %1 stöds</translation>
     </message>
     <message>
         <source>but only versions %1 are supported</source>
-        <translation type="unfinished"></translation>
+        <translation>men endast versionerna %1 stöds</translation>
     </message>
     <message>
         <source>Path %1 is valid, %2 was found, %3.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökvägen %1 är giltig, %2 hittades, %3.</translation>
     </message>
     <message>
         <source>Path %1 does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökvägen %1 finns inte.</translation>
     </message>
     <message>
         <source>Path is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökvägen är tom.</translation>
     </message>
     <message>
         <source>Path is empty, %1 not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökvägen är tom, %1 hittades inte.</translation>
     </message>
     <message>
         <source>Path %1 exists, but version %2 could not be detected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökvägen %1 finns men version %2 kunde inte upptäckas.</translation>
     </message>
     <message>
         <source>Download from &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Hämta från &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Board SDK for MIMXRT1050-EVK</source>
-        <translation type="unfinished"></translation>
+        <translation>Board SDK för MIMXRT1050-EVK</translation>
     </message>
     <message>
         <source>Board SDK MIMXRT1060-EVK</source>
-        <translation type="unfinished"></translation>
+        <translation>Board SDK MIMXRT1060-EVK</translation>
     </message>
     <message>
         <source>Board SDK for MIMXRT1060-EVK</source>
-        <translation type="unfinished"></translation>
+        <translation>Board SDK för MIMXRT1060-EVK</translation>
     </message>
     <message>
         <source>Board SDK for MIMXRT1064-EVK</source>
-        <translation type="unfinished"></translation>
+        <translation>Board SDK för MIMXRT1064-EVK</translation>
     </message>
     <message>
         <source>Board SDK for MIMXRT1170-EVK</source>
-        <translation type="unfinished"></translation>
+        <translation>Board SDK för MIMXRT1170-EVK</translation>
     </message>
     <message>
         <source>Board SDK for STM32F469I-Discovery</source>
-        <translation type="unfinished"></translation>
+        <translation>Board SDK för STM32F469I-Discovery</translation>
     </message>
     <message>
         <source>Board SDK for STM32F769I-Discovery</source>
-        <translation type="unfinished"></translation>
+        <translation>Board SDK för STM32F769I-Discovery</translation>
     </message>
     <message>
         <source>Board SDK for STM32H750B-Discovery</source>
-        <translation type="unfinished"></translation>
+        <translation>Board SDK för STM32H750B-Discovery</translation>
     </message>
     <message>
         <source>Board SDK</source>
-        <translation type="unfinished"></translation>
+        <translation>Board SDK</translation>
     </message>
     <message>
         <source>Flexible Software Package for Renesas RA MCU Family</source>
@@ -36757,7 +36759,7 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>STM32CubeProgrammer</source>
-        <translation type="unfinished"></translation>
+        <translation>STM32CubeProgrammer</translation>
     </message>
     <message>
         <source>Green Hills Compiler for ARM</source>
@@ -36765,7 +36767,7 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>IAR ARM Compiler</source>
-        <translation type="unfinished"></translation>
+        <translation>IAR ARM-kompilator</translation>
     </message>
     <message>
         <source>Green Hills Compiler</source>
@@ -36785,27 +36787,27 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>FreeRTOS SDK for MIMXRT1050-EVK</source>
-        <translation type="unfinished"></translation>
+        <translation>FreeRTOS SDK för MIMXRT1050-EVK</translation>
     </message>
     <message>
         <source>FreeRTOS SDK for MIMXRT1064-EVK</source>
-        <translation type="unfinished"></translation>
+        <translation>FreeRTOS SDK för MIMXRT1064-EVK</translation>
     </message>
     <message>
         <source>FreeRTOS SDK for MIMXRT1170-EVK</source>
-        <translation type="unfinished"></translation>
+        <translation>FreeRTOS SDK för MIMXRT1170-EVK</translation>
     </message>
     <message>
         <source>FreeRTOS SDK for EK-RA6M3G</source>
-        <translation type="unfinished"></translation>
+        <translation>FreeRTOS SDK för EK-RA6M3G</translation>
     </message>
     <message>
         <source>FreeRTOS SDK for STM32F769I-Discovery</source>
-        <translation type="unfinished"></translation>
+        <translation>FreeRTOS SDK för STM32F769I-Discovery</translation>
     </message>
     <message>
         <source>Path to project for Renesas e2 Studio</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökväg till projekt för Renesas e2 Studio</translation>
     </message>
     <message>
         <source>Arm GDB at %1</source>
@@ -36849,11 +36851,11 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Qt for MCUs SDK</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt for MCUer SDK</translation>
     </message>
     <message>
         <source>Targets supported by the %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Mål som stöds av %1</translation>
     </message>
     <message>
         <source>Requirements</source>
@@ -36901,7 +36903,7 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Cannot apply changes in Devices &gt; MCU.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte tillämpa ändringar i Enheter &gt; MCU.</translation>
     </message>
     <message>
         <source>Qt for MCUs Kit Creation</source>
@@ -36941,7 +36943,7 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>No target selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inget mål valt.</translation>
     </message>
     <message>
         <source>Invalid paths present for target
@@ -37033,7 +37035,7 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Unsupported version &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Version &quot;%1&quot; stöds inte.</translation>
     </message>
     <message>
         <source>Skipped %1. %2 Qt for MCUs version &gt;= %3 required.</source>
@@ -45823,7 +45825,7 @@ The affected files are:
     </message>
     <message>
         <source>Boot to Qt device %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Boot to Qt-enhet %1</translation>
     </message>
     <message>
         <source>Device detection error: %1</source>
@@ -45843,7 +45845,7 @@ The affected files are:
     </message>
     <message>
         <source>Unexpected QLocalSocket error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Oväntat QLocalSocket-fel: %1</translation>
     </message>
     <message>
         <source>Could not connect to QDB host server even after trying to start it.</source>
@@ -45871,15 +45873,15 @@ The affected files are:
     </message>
     <message>
         <source>Starting command &quot;%1&quot; on device &quot;%2&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Startar kommandot &quot;%1&quot; på enheten &quot;%2&quot;.</translation>
     </message>
     <message>
         <source>Command failed on device &quot;%1&quot;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommandot misslyckades på enheten &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <source>Command failed on device &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommandot misslyckades på enheten &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Commands on device &quot;%1&quot; finished successfully.</source>
@@ -45895,7 +45897,7 @@ The affected files are:
     </message>
     <message>
         <source>Boot to Qt Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Boot to Qt-enhet</translation>
     </message>
     <message>
         <source>Reboot Device</source>
@@ -45915,11 +45917,11 @@ The affected files are:
     </message>
     <message>
         <source>A short, free-text description</source>
-        <translation type="unfinished"></translation>
+        <translation>En kort fritextbeskrivning</translation>
     </message>
     <message>
         <source>Host name or IP address</source>
-        <translation type="unfinished"></translation>
+        <translation>Värdnamn eller IP-adress</translation>
     </message>
     <message>
         <source>Device name:</source>
@@ -45943,7 +45945,7 @@ The affected files are:
     </message>
     <message>
         <source>Remote process failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjärrprocess misslyckades: %1</translation>
     </message>
     <message>
         <source>Set this application to start by default</source>
@@ -45955,7 +45957,7 @@ The affected files are:
     </message>
     <message>
         <source>Change default application</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra standardprogram</translation>
     </message>
     <message>
         <source>Flash wizard &quot;%1&quot; failed to start.</source>
@@ -45980,15 +45982,15 @@ The affected files are:
     </message>
     <message>
         <source>Executable on device:</source>
-        <translation type="unfinished"></translation>
+        <translation>Körbar fil på enhet:</translation>
     </message>
     <message>
         <source>Run on Boot to Qt Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör på Boot to Qt-enhet</translation>
     </message>
     <message>
         <source>Remote path not set</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjärrsökvägen inte inställd</translation>
     </message>
     <message>
         <source>Executable on host:</source>
@@ -46004,7 +46006,7 @@ The affected files are:
     </message>
     <message>
         <source>Stopped the running application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoppade körande programmet.</translation>
     </message>
     <message>
         <source>Could not check and possibly stop running application.</source>
@@ -46020,7 +46022,7 @@ The affected files are:
     </message>
     <message>
         <source>Boot to Qt: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Boot to Qt: %1</translation>
     </message>
 </context>
 <context>
@@ -46035,7 +46037,7 @@ The affected files are:
     </message>
     <message>
         <source>Unable to create server socket: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte skapa serveruttag: %1</translation>
     </message>
     <message>
         <source>Could not load kits in a reasonable amount of time.</source>
@@ -46303,7 +46305,7 @@ The affected files are:
     </message>
     <message>
         <source>Create s&amp;keleton</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa s&amp;kelett</translation>
     </message>
     <message>
         <source>Include pro&amp;ject</source>
@@ -49235,7 +49237,7 @@ Qt Design Studio kräver en .qmlproject-baserat projekt för att öppna .ui.qml-
     </message>
     <message>
         <source>Attach to remote QNX application...</source>
-        <translation type="unfinished"></translation>
+        <translation>Fäst till QNX-fjärrprogram...</translation>
     </message>
     <message>
         <source>New QNX Device Configuration Setup</source>
@@ -49264,7 +49266,7 @@ Qt Design Studio kräver en .qmlproject-baserat projekt för att öppna .ui.qml-
     </message>
     <message>
         <source>Configuration Information:</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurationsinformation:</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -49330,7 +49332,7 @@ Qt Design Studio kräver en .qmlproject-baserat projekt för att öppna .ui.qml-
     </message>
     <message>
         <source>Cannot Set Up QNX Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte ställa in QNX-konfiguration</translation>
     </message>
     <message>
         <source>Debugger for %1 (%2)</source>
@@ -49387,15 +49389,15 @@ Qt Design Studio kräver en .qmlproject-baserat projekt för att öppna .ui.qml-
     </message>
     <message>
         <source>Local executable:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokal körbar fil:</translation>
     </message>
     <message>
         <source>Remote QNX process %1</source>
-        <translation type="unfinished"></translation>
+        <translation>QNX-fjärrprocess %1</translation>
     </message>
     <message>
         <source>Checking existence of &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrollerar om &quot;%1&quot; finns</translation>
     </message>
     <message>
         <source>The remote directory &quot;%1&quot; already exists.
@@ -49429,7 +49431,7 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>No device configuration set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen enhetskonfiguration inställd.</translation>
     </message>
     <message>
         <source>No deployment action necessary. Skipping.</source>
@@ -49441,7 +49443,7 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>Please input a remote directory to deploy to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange en fjärrkatalog att distribuera till.</translation>
     </message>
     <message>
         <source>Deploy Qt to QNX Device</source>
@@ -49477,7 +49479,7 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>An error occurred while checking that files can be created in %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ett fel inträffade vid kontroll att filer kan skapas i %1.</translation>
     </message>
     <message>
         <source>Files cannot be created in %1.</source>
@@ -51389,7 +51391,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Are you sure you want to delete color theme %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>Är du säker på att du vill ta bort färgtemat %1?</translation>
     </message>
     <message>
         <source>Modify Color Themes...</source>
@@ -51433,7 +51435,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>State Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillståndsfärg</translation>
     </message>
     <message>
         <source>Font Color</source>
@@ -51521,7 +51523,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>yyyy/MM/dd hh:mm:ss</source>
-        <translation type="unfinished"></translation>
+        <translation>yyyy/MM/dd hh:mm:ss</translation>
     </message>
     <message>
         <source>File</source>
@@ -51648,11 +51650,11 @@ Description:	%4</source>
     </message>
     <message>
         <source>Fit to View</source>
-        <translation type="unfinished"></translation>
+        <translation>Anpassa till vy</translation>
     </message>
     <message>
         <source>Fit to View (F11)</source>
-        <translation type="unfinished"></translation>
+        <translation>Anpassa till vy (F11)</translation>
     </message>
     <message>
         <source>Panning</source>
@@ -51869,7 +51871,7 @@ Description:	%4</source>
     </message>
     <message>
         <source>Unexpected element.</source>
-        <translation type="unfinished"></translation>
+        <translation>Oväntat element.</translation>
     </message>
     <message>
         <source>Not well formed.</source>
@@ -51906,7 +51908,7 @@ Row: %4, Column: %5
     </message>
     <message>
         <source>Cannot save XML to the file %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte spara XML till filen %1.</translation>
     </message>
     <message>
         <source>Add Tag</source>
@@ -51918,7 +51920,7 @@ Row: %4, Column: %5
     </message>
     <message>
         <source>Error in reading XML </source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid läsning av XML </translation>
     </message>
     <message>
         <source>New Tag</source>
@@ -51986,7 +51988,7 @@ Row: %4, Column: %5
     </message>
     <message>
         <source>Remove Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort punkt</translation>
     </message>
     <message>
         <source>Transition</source>
@@ -52173,7 +52175,7 @@ Row: %4, Column: %5
     </message>
     <message>
         <source>Symbolic Names</source>
-        <translation type="unfinished"></translation>
+        <translation>Symboliska namn</translation>
     </message>
     <message>
         <source>Cut</source>
@@ -52193,7 +52195,7 @@ Row: %4, Column: %5
     </message>
     <message>
         <source>Copy Real Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera riktigt namn</translation>
     </message>
     <message>
         <source>Properties:</source>
@@ -52285,7 +52287,7 @@ Row: %4, Column: %5
     </message>
     <message>
         <source>Recording Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Inspelningsinställningar</translation>
     </message>
     <message>
         <source>Suite Already Open</source>
@@ -53219,7 +53221,7 @@ Failed to open file &quot;%1&quot;.</source>
     </message>
     <message>
         <source>Unknown color scheme format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Okänt färgschemaformat.</translation>
     </message>
     <message>
         <source>Use internal terminal</source>
@@ -53255,23 +53257,23 @@ Failed to open file &quot;%1&quot;.</source>
     </message>
     <message>
         <source>Shell path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Skalsökväg:</translation>
     </message>
     <message>
         <source>The shell executable to be started.</source>
-        <translation type="unfinished"></translation>
+        <translation>Körbara skalfilen som ska startas.</translation>
     </message>
     <message>
         <source>Shell arguments:</source>
-        <translation type="unfinished"></translation>
+        <translation>Skalargument:</translation>
     </message>
     <message>
         <source>The arguments to be passed to the shell.</source>
-        <translation type="unfinished"></translation>
+        <translation>Argumenten som ska skickas till skalet.</translation>
     </message>
     <message>
         <source>Send escape key to terminal</source>
-        <translation type="unfinished"></translation>
+        <translation>Skicka escape-tangent till terminal</translation>
     </message>
     <message>
         <source>Sends the escape key to the terminal when pressed instead of closing the terminal.</source>
@@ -53295,11 +53297,11 @@ Failed to open file &quot;%1&quot;.</source>
     </message>
     <message>
         <source>Enable mouse tracking</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivera musspårning</translation>
     </message>
     <message>
         <source>Enables mouse tracking in the terminal.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiverar musspårning i terminalen.</translation>
     </message>
     <message>
         <source>Load Theme...</source>
@@ -53347,7 +53349,7 @@ Failed to open file &quot;%1&quot;.</source>
     </message>
     <message>
         <source>Default Shell</source>
-        <translation type="unfinished"></translation>
+        <translation>Standardskal</translation>
     </message>
     <message>
         <source>Connecting...</source>
@@ -53355,15 +53357,15 @@ Failed to open file &quot;%1&quot;.</source>
     </message>
     <message>
         <source>Failed to start shell: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att starta skal: %1</translation>
     </message>
     <message>
         <source>&quot;%1&quot; is not executable.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; är inte körbar.</translation>
     </message>
     <message>
         <source>Terminal process exited with code %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Terminalprocessen avslutades med kod %1.</translation>
     </message>
     <message>
         <source>Process exited with code: %1.</source>
@@ -60827,7 +60829,7 @@ defined in step size.</source>
     </message>
     <message>
         <source>Sets the spacing between items in the row.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in avståndet mellan objekt i raden.</translation>
     </message>
     <message>
         <source>Layout direction</source>
@@ -60835,7 +60837,7 @@ defined in step size.</source>
     </message>
     <message>
         <source>Sets in which direction items in the row are placed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in vilken riktning som objekt i raden placeras.</translation>
     </message>
     <message>
         <source>Spacing</source>
@@ -60988,7 +60990,7 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>Select a color for the grid lines of the 3D view.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en färg för rutnätslinjer i 3D-vyn.</translation>
     </message>
 </context>
 <context>
@@ -61542,11 +61544,11 @@ it reaches the start or end.</source>
     </message>
     <message>
         <source>Alignment H</source>
-        <translation type="unfinished"></translation>
+        <translation>Justering H</translation>
     </message>
     <message>
         <source>Alignment V</source>
-        <translation type="unfinished"></translation>
+        <translation>Justering V</translation>
     </message>
     <message>
         <source>Format</source>
