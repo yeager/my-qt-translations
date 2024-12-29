@@ -23833,7 +23833,7 @@ These paths are used in addition to current directory on Switch Header/Source.</
     </message>
     <message>
         <source>Header file</source>
-        <translation type="unfinished"></translation>
+        <translation>Header-fil</translation>
     </message>
     <message>
         <source>Use &quot;#pragma once&quot; instead</source>
@@ -39196,7 +39196,7 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>Issues parsed from the compile output.</source>
-        <translation type="unfinished"></translation>
+        <translation>Problem tolkade från kompilatorns utdata.</translation>
     </message>
     <message>
         <source>Build System</source>
@@ -39438,7 +39438,7 @@ Title of a the cloned RunConfiguration window, text of the window</extracomment>
     </message>
     <message>
         <source>Open Compile Output when building</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna kompilatorutdata vid byggnation</translation>
     </message>
     <message>
         <source>Discards compile output that continuously comes in faster than it can be handled.</source>
@@ -40892,7 +40892,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Build System Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Utdata från byggsystem</translation>
     </message>
     <message>
         <source>Import Directory</source>
@@ -40972,7 +40972,7 @@ Display name of the clean build step list. Used as part of the labels in the pro
     </message>
     <message>
         <source>This wizard creates an empty .pro file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denna guide skapar en tom .pro-fil.</translation>
     </message>
     <message>
         <source>Project Location</source>
@@ -40980,7 +40980,7 @@ Display name of the clean build step list. Used as part of the labels in the pro
     </message>
     <message>
         <source>Creates a qmake-based project without any files. This allows you to create an application without any default classes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapar ett qmake-baserat projekt utan några filer. Detta låter dig skapa ett program utan några standardklasser.</translation>
     </message>
     <message>
         <source>Empty qmake Project</source>
@@ -41036,7 +41036,7 @@ Display name of the clean build step list. Used as part of the labels in the pro
     </message>
     <message>
         <source>Specify basic information about the classes for which you want to generate skeleton source code files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange grundläggande information om klasserna för vilka du vill generera skelettfiler för källkoden.</translation>
     </message>
     <message>
         <source>Shared Library</source>
@@ -43205,7 +43205,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Unknown</source>
-        <translation>Okänd</translation>
+        <translation>Okänt</translation>
     </message>
     <message>
         <source>localSource() not implemented for this device type.</source>
@@ -43277,11 +43277,11 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Run device type</source>
-        <translation type="unfinished"></translation>
+        <translation>Körenhetstyp</translation>
     </message>
     <message>
         <source>Run device</source>
-        <translation type="unfinished"></translation>
+        <translation>Körenhet</translation>
     </message>
     <message>
         <source>Device is incompatible with this kit.</source>
@@ -44154,7 +44154,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Connection sharing timeout:</source>
-        <translation>Tidsgräns överstigen för anslutningsdelning:</translation>
+        <translation>Tidsgräns för anslutningsdelning:</translation>
     </message>
     <message>
         <source>Path to ssh executable:</source>
@@ -44709,7 +44709,7 @@ Please close all running instances of your application before starting a build.<
     </message>
     <message>
         <source>Choose Drop Action</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj släppåtgärd</translation>
     </message>
     <message>
         <source>You just dragged some files from one project node to another.
@@ -44798,7 +44798,7 @@ What should %1 do now?</source>
     </message>
     <message>
         <source>Command line arguments:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommandoradsargument:</translation>
     </message>
     <message>
         <source>Toggle multi-line mode.</source>
@@ -44810,7 +44810,7 @@ What should %1 do now?</source>
     </message>
     <message>
         <source>Enter the path to the executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange sökvägen till körbara filen</translation>
     </message>
     <message>
         <source>Executable:</source>
@@ -44923,7 +44923,7 @@ These files are preserved.</source>
     </message>
     <message>
         <source>File Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Filval</translation>
     </message>
     <message>
         <source>Import as qmake or CMake Project (Limited Functionality)</source>
@@ -45040,7 +45040,7 @@ These files are preserved.</source>
     </message>
     <message>
         <source>You will need at least one port for QML debugging.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du behöver minst en port för QML-felsökning.</translation>
     </message>
     <message>
         <source>Machine type:</source>
@@ -46746,7 +46746,7 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>Could not write project file %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte skriva projektfilen %1.</translation>
     </message>
     <message>
         <source>File Error</source>
@@ -46822,7 +46822,7 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>Required Qt features not present.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nödvändiga Qt-funktioner finns inte.</translation>
     </message>
     <message>
         <source>Qt version does not target the expected platform.</source>
@@ -46830,7 +46830,7 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>Qt version does not provide all features.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt-versionen tillhandahåller inte alla funktioner.</translation>
     </message>
     <message>
         <source>This wizard generates a Qt Subdirs project. Add subprojects to it later on by using the other wizards.</source>
@@ -49778,7 +49778,7 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>Do you want to remove all invalid Qt Versions?&lt;br&gt;&lt;ul&gt;&lt;li&gt;%1&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;will be removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vill du ta bort alla ogiltiga Qt-versioner?&lt;br&gt;&lt;ul&gt;&lt;li&gt;%1&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;kommer att tas bort.</translation>
     </message>
     <message>
         <source>Qt version %1 for %2</source>
@@ -50066,7 +50066,7 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>Might make your application vulnerable.&lt;br/&gt;Only use in a safe environment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan göra ditt program sårbart.&lt;br/&gt;Använd endast i en säker miljö.</translation>
     </message>
     <message>
         <source>Qt Quick Compiler:</source>
@@ -50110,7 +50110,7 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>If you plan to provide translations for your project&apos;s user interface via the Qt Linguist tool, select a language here. A corresponding translation (.ts) file will be generated for you.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj ett språk här om du planerar att tillhandahålla översättningar för ditt projekts användargränssnitt via Qt Linguist-verktyget. En motsvarande översättningsfil (.ts) kommer att genereras åt dig.</translation>
     </message>
     <message>
         <source>&lt;none&gt;</source>
