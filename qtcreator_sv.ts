@@ -19446,7 +19446,7 @@ If the system cursors for resizing views are not displayed properly, you can use
     </message>
     <message>
         <source>The following environment variables are set and can influence the UI scaling behavior of %1:</source>
-        <translation type="unfinished"></translation>
+        <translation>Följande miljövariabler är inställda och kan influera beteendet för gränssnittsskalning för %1:</translation>
     </message>
     <message>
         <source>Environment influences UI scaling behavior.</source>
@@ -19530,7 +19530,7 @@ If the system cursors for resizing views are not displayed properly, you can use
     </message>
     <message>
         <source>Clear Local Crash Reports</source>
-        <translation type="unfinished"></translation>
+        <translation>Töm lokala kraschrapporter</translation>
     </message>
     <message>
         <source>Auto-save files after refactoring</source>
@@ -20115,7 +20115,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Filter categories by regular expression</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrera kategorier efter reguljärt uttryck</translation>
     </message>
     <message>
         <source>Invalid regular expression: %1</source>
@@ -20167,7 +20167,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Failed to open file &quot;%1&quot; for writing logs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att öppna filen &quot;%1&quot; för skrivning av loggar.</translation>
     </message>
     <message>
         <source>Save Enabled Categories As...</source>
@@ -20175,11 +20175,11 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Failed to open preset file &quot;%1&quot; for reading.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att öppna förvalsfilen &quot;%1&quot; för läsning.</translation>
     </message>
     <message>
         <source>Failed to write preset file &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att skriva förvalsfilen &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Load Enabled Categories From</source>
@@ -20187,15 +20187,15 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Failed to read preset file &quot;%1&quot;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att läsa förvalsfilen &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <source>Unexpected preset file format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Oväntat format för förvalsfilen.</translation>
     </message>
     <message>
         <source>Show Non-matching Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa icke-matchande rader</translation>
     </message>
     <message>
         <source>Show {} &amp;preceding lines</source>
@@ -20265,7 +20265,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Plugin changes will take effect after restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>Insticksmoduländringar tar effekt efter omstart.</translation>
     </message>
     <message>
         <source>Plugin Errors of %1</source>
@@ -20349,7 +20349,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Key sequence will not work in editor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nyckelsekvens kommer inte fungera i redigerare.</translation>
     </message>
     <message>
         <source>Key sequence:</source>
@@ -20365,7 +20365,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Enter key sequence as text</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange nyckelsekvens som text</translation>
     </message>
     <message>
         <source>Key sequence has potential conflicts. &lt;a href=&quot;#conflicts&quot;&gt;Show.&lt;/a&gt;</source>
@@ -20377,7 +20377,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Import Keyboard Mapping Scheme</source>
-        <translation type="unfinished"></translation>
+        <translation>Importera mappningsschema för tangentbord</translation>
     </message>
     <message>
         <source>Keyboard Mapping Scheme (*.kms)</source>
@@ -20385,7 +20385,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Export Keyboard Mapping Scheme</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportera mappningsschema för tangentbord</translation>
     </message>
     <message>
         <source>Switch to &lt;b&gt;%1&lt;/b&gt; mode</source>
@@ -20574,7 +20574,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Locator</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökrutan</translation>
     </message>
     <message>
         <source>File System</source>
@@ -20787,15 +20787,15 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>Qt Project Bugs</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt Project-fel</translation>
     </message>
     <message>
         <source>Triggers a web search with the selected search engine.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utlöser en webbsökning med markerade sökmotorn.</translation>
     </message>
     <message>
         <source>Triggers a search in the Qt bug tracker.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utlöser en sökning i Qt-felhanteraren.</translation>
     </message>
     <message>
         <source>Ctrl+K</source>
@@ -20819,7 +20819,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>Open as Centered Popup</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna som centrerad popupruta</translation>
     </message>
     <message>
         <source>Type to locate</source>
@@ -21138,7 +21138,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>Revert tool to default.</source>
-        <translation type="unfinished"></translation>
+        <translation>Återställ verktyg till standard.</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
@@ -21406,7 +21406,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>%1 repository was detected but %1 is not configured.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-förråd upptäcktes men %1 är inte konfigurerat.</translation>
     </message>
     <message>
         <source>Version Control</source>
@@ -21428,13 +21428,17 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
         <source>Add the file
 %1
 to version control (%2)?</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till filen
+%1
+till versionskontroll (%2)?</translation>
     </message>
     <message>
         <source>Add the files
 %1
 to version control (%2)?</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till filerna
+%1
+till versionskontroll (%2)?</translation>
     </message>
     <message>
         <source>Adding to Version Control Failed</source>
@@ -21445,16 +21449,21 @@ to version control (%2)?</source>
 %2
 ... and %n more.</source>
         <extracomment>%1 = name of VCS system, %2 = lines with file paths</extracomment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Kunde inte lägga till följande filer till versionskontroll (%1)
+%2
+... och ytterligare %n styck.</numerusform>
+            <numerusform>Kunde inte lägga till följande filer till versionskontroll (%1)
+%2
+... och ytterligare %n stycken.</numerusform>
         </translation>
     </message>
     <message>
         <source>Could not add the following files to version control (%1)
 %2</source>
         <extracomment>%1 = name of VCS system, %2 = lines with file paths</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte lägga till följande filer till versionskontroll (%1)
+%2</translation>
     </message>
     <message>
         <source>Tags:</source>
@@ -21632,9 +21641,9 @@ Vill du skriva över dem?</translation>
     </message>
     <message numerus="yes">
         <source>The search resulted in more than %n items, do you still want to continue?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Sökningen resulterade i fler än %n objekt. Vill du verkligen fortsätta?</numerusform>
+            <numerusform>Sökningen resulterade i fler än %n objekt. Vill du verkligen fortsätta?</numerusform>
         </translation>
     </message>
     <message>
@@ -21847,11 +21856,11 @@ Vill du döda det?</translation>
     </message>
     <message>
         <source>Files Without Write Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Filer utan skrivrättigheter</translation>
     </message>
     <message>
         <source>The following files have no write permissions. Do you want to change the permissions?</source>
-        <translation type="unfinished"></translation>
+        <translation>Följande filer har inga skrivrättigheter. Vill du ändra rättigheterna?</translation>
     </message>
     <message>
         <source>Open with VCS</source>
@@ -21895,7 +21904,7 @@ Vill du döda det?</translation>
     </message>
     <message>
         <source>Cannot Set Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte ställa in rättigheter</translation>
     </message>
     <message>
         <source>Cannot Save File</source>
@@ -21908,11 +21917,12 @@ Vill du döda det?</translation>
     <message>
         <source>Cannot open file %1 from version control system.
 No version control system found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte öppna filen %1 från versionskontrollsystemet.
+Inget versionskontrollsystem hittades.</translation>
     </message>
     <message>
         <source>Cannot set permissions for %1 to writable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte ställa in rättigheter för %1 till skrivbar.</translation>
     </message>
     <message>
         <source>Cannot save file %1</source>
@@ -21924,7 +21934,7 @@ No version control system found.</source>
     </message>
     <message>
         <source>Could Not Change Permissions on Some Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte ändra rättigheter på några filer</translation>
     </message>
     <message>
         <source>The following files are not checked out yet.
@@ -22060,7 +22070,7 @@ Do you want to check them out now?</source>
     </message>
     <message>
         <source>The directory last visited in a file dialog.</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalogen senast besökt i en fildialogruta.</translation>
     </message>
     <message>
         <source>Is %1 running on Windows?</source>
@@ -22088,7 +22098,7 @@ Do you want to check them out now?</source>
     </message>
     <message>
         <source>The path to the running %1 itself.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökvägen till själva körande %1.</translation>
     </message>
     <message>
         <source>The directory where %1 finds its pre-installed resources.</source>
@@ -22096,7 +22106,7 @@ Do you want to check them out now?</source>
     </message>
     <message>
         <source>The directory where %1 puts custom user data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalogen där %1 lägger anpassad användardata.</translation>
     </message>
     <message>
         <source>The current date (QDate formatstring).</source>
@@ -22223,7 +22233,7 @@ You will likely experience further problems using this instance of %3.</source>
     </message>
     <message>
         <source>Could not find executable for &quot;%1&quot; (expanded &quot;%2&quot;)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte hitta körbar fil för &quot;%1&quot; (expanderat &quot;%2&quot;)</translation>
     </message>
     <message>
         <source>Starting external tool &quot;%1&quot;</source>
@@ -22294,7 +22304,7 @@ You will likely experience further problems using this instance of %3.</source>
     </message>
     <message>
         <source>The evaluation was interrupted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Evalueringen avbröts.</translation>
     </message>
     <message>
         <source>Engine reinitialized properly.</source>
@@ -22416,11 +22426,11 @@ Double-click to edit item.</source>
     </message>
     <message>
         <source>There is no patch-command configured in the general &quot;Environment&quot; settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det finns inget patch-kommando konfigurerat i allmänna inställningar i &quot;Miljö&quot;.</translation>
     </message>
     <message>
         <source>The patch-command configured in the general &quot;Environment&quot; settings does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Patch-kommandot som konfigurerats i allmänna inställningarna för &quot;Miljö&quot; finns inte.</translation>
     </message>
     <message>
         <source>Running in &quot;%1&quot;: %2 %3.</source>
@@ -22448,7 +22458,7 @@ Double-click to edit item.</source>
     </message>
     <message>
         <source>Choose source location. This can be a plugin library file or a zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj källplats. Detta kan vara en insticksmodulbiblioteksfil eller en zip-fil.</translation>
     </message>
     <message>
         <source>File does not exist.</source>
@@ -22464,7 +22474,7 @@ Double-click to edit item.</source>
     </message>
     <message>
         <source>Plugin failed to resolve dependencies:</source>
-        <translation type="unfinished"></translation>
+        <translation>Insticksmodulen misslyckades med att lösa beroenden:</translation>
     </message>
     <message>
         <source>Check Archive</source>
@@ -22516,7 +22526,7 @@ Double-click to edit item.</source>
     </message>
     <message>
         <source>The plugin will be available to all compatible %1 installations, but only for the current user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Insticksmodulen kommer vara tillgänglig för alla kompatibla %1-installationer men endast för aktuella användaren.</translation>
     </message>
     <message>
         <source>%1 installation</source>
@@ -22524,7 +22534,7 @@ Double-click to edit item.</source>
     </message>
     <message>
         <source>The plugin will be available only to this %1 installation, but for all users that can access it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Insticksmodulen kommer vara tillgänglig endast för denna %1-installation men för alla användare som kan komma åt den.</translation>
     </message>
     <message>
         <source>Summary</source>
@@ -22588,19 +22598,19 @@ Double-click to edit item.</source>
     </message>
     <message>
         <source>Haskell Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Haskell-redigerare</translation>
     </message>
     <message>
         <source>Model Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Modellredigerare</translation>
     </message>
     <message>
         <source>Nim Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Nim-redigerare</translation>
     </message>
     <message>
         <source>Binding Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Bindningsredigerare</translation>
     </message>
     <message>
         <source>Qt Quick Designer</source>
@@ -22608,7 +22618,7 @@ Double-click to edit item.</source>
     </message>
     <message>
         <source>SCXML Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>SCXML-redigerare</translation>
     </message>
     <message>
         <source>Switches to an open document.</source>
