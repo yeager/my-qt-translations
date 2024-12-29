@@ -5590,7 +5590,7 @@ Fel:
     </message>
     <message>
         <source>Sets the local visibility of the node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in lokal synlighet för noden.</translation>
     </message>
     <message>
         <source>Visible</source>
@@ -5614,7 +5614,7 @@ Fel:
     </message>
     <message>
         <source>Sets the translation of the node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in översättningen för noden.</translation>
     </message>
     <message>
         <source>Rotation</source>
@@ -5630,7 +5630,7 @@ Fel:
     </message>
     <message>
         <source>Sets the scale of the node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in skalan för noden.</translation>
     </message>
     <message>
         <source>Pivot</source>
@@ -31996,15 +31996,15 @@ Reason: %3</source>
     </message>
     <message>
         <source>Error: Unknown reference</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel: Okänd referens</translation>
     </message>
     <message>
         <source>Error: Bad working directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel: Felaktig arbetskatalog.</translation>
     </message>
     <message>
         <source>Error: Could not start Git.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel: Kunde inte starta Git.</translation>
     </message>
     <message>
         <source>Fetching commit data...</source>
@@ -32024,7 +32024,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Waiting for data...</source>
-        <translation type="unfinished"></translation>
+        <translation>Väntar på data...</translation>
     </message>
     <message>
         <source>Invalid revision</source>
@@ -32040,11 +32040,11 @@ Reason: %3</source>
     </message>
     <message>
         <source>Cannot determine the repository for &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte bestämma förrådet för &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Cannot parse the file output.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte tolka filutdata.</translation>
     </message>
     <message>
         <source>Git Diff &quot;%1&quot;</source>
@@ -32064,7 +32064,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Cannot describe &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte beskriva &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Git Show &quot;%1&quot;</source>
@@ -32090,7 +32090,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Cannot run &quot;%1&quot; in &quot;%2&quot;: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte köra &quot;%1&quot; i &quot;%2&quot;: %3</translation>
     </message>
     <message>
         <source>REBASING</source>
@@ -32110,7 +32110,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Cannot describe revision &quot;%1&quot; in &quot;%2&quot;: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte beskriva revision &quot;%1&quot; i &quot;%2&quot;: %3</translation>
     </message>
     <message>
         <source>Cannot resolve stash message &quot;%1&quot; in &quot;%2&quot;.</source>
@@ -32123,11 +32123,11 @@ Reason: %3</source>
     </message>
     <message>
         <source>Submodules Found</source>
-        <translation type="unfinished"></translation>
+        <translation>Undermoduler hittades</translation>
     </message>
     <message>
         <source>Would you like to update submodules?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vill du uppdatera undermodulerna?</translation>
     </message>
     <message>
         <source>Continue Rebase</source>
@@ -32173,11 +32173,12 @@ Commit now?</source>
     <message>
         <source>Conflicts detected with files:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Konflikter upptäcktes med filer:
+%1</translation>
     </message>
     <message>
         <source>Conflicts detected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Konflikter upptäcktes.</translation>
     </message>
     <message>
         <source>Only graphical merge tools are supported. Please configure merge.tool.</source>
@@ -32235,7 +32236,7 @@ Would you like to create the branch &quot;%1&quot; on the remote and set it as u
     </message>
     <message>
         <source>&lt;None&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Ingen&gt;</translation>
     </message>
     <message>
         <source>No Move Detection</source>
@@ -32283,15 +32284,15 @@ Would you like to create the branch &quot;%1&quot; on the remote and set it as u
     </message>
     <message>
         <source>Show log also for previous names of the file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa logg även för tidigare namn för filen.</translation>
     </message>
     <message>
         <source>Show Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa datum</translation>
     </message>
     <message>
         <source>Show date instead of sequence.</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa datum istället för sekvens.</translation>
     </message>
     <message>
         <source>Stage Chunk</source>
@@ -32366,7 +32367,7 @@ Would you like to create the branch &quot;%1&quot; on the remote and set it as u
     </message>
     <message>
         <source>All changes in working directory will be discarded. Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Alla ändringar i arbetskatalogen kommer att förkastas. Är du säker?</translation>
     </message>
     <message>
         <source>Nothing to recover</source>
@@ -32424,7 +32425,7 @@ Commit now?</source>
     </message>
     <message>
         <source>&amp;Log for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Log för %1</translation>
     </message>
     <message>
         <source>Sh&amp;ow file &quot;%1&quot; on revision %2</source>
@@ -32468,7 +32469,7 @@ Commit now?</source>
     </message>
     <message>
         <source>Conflicts Detected</source>
-        <translation type="unfinished"></translation>
+        <translation>Konflikter upptäcktes</translation>
     </message>
     <message>
         <source>Run &amp;Merge Tool</source>
@@ -32484,7 +32485,7 @@ Commit now?</source>
     </message>
     <message>
         <source>What would you like to do with local changes in:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vad vill du göra med lokala ändringar i:</translation>
     </message>
     <message>
         <source>Stash local changes and pop when %1 finishes.</source>
@@ -32509,23 +32510,23 @@ Commit now?</source>
     </message>
     <message>
         <source>Cannot launch &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte starta &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>No changes found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga ändringar hittades.</translation>
     </message>
     <message numerus="yes">
         <source>and %n more</source>
         <extracomment>Displayed after the untranslated message &quot;Branches: branch1, branch2 &apos;and %n more&apos;&quot;</extracomment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>och %n till</numerusform>
+            <numerusform>och %n till</numerusform>
         </translation>
     </message>
     <message>
         <source>The repository &quot;%1&quot; is not initialized.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förrådet &quot;%1&quot; är inte initierat.</translation>
     </message>
     <message>
         <source>Cannot retrieve last commit data of repository &quot;%1&quot;.</source>
@@ -32541,7 +32542,7 @@ Commit now?</source>
     </message>
     <message>
         <source>The file is not modified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen är inte ändrad.</translation>
     </message>
     <message>
         <source>Git SVN Log</source>
@@ -32589,7 +32590,7 @@ Commit now?</source>
     </message>
     <message>
         <source>Current &amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuell &amp;fil</translation>
     </message>
     <message>
         <source>Stage &quot;%1&quot; for Commit</source>
@@ -32635,7 +32636,7 @@ Commit now?</source>
     </message>
     <message>
         <source>Saves the current state of your work.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sparar det aktuella tillståndet för ditt arbete.</translation>
     </message>
     <message>
         <source>Apply &quot;%1&quot;</source>
@@ -32647,7 +32648,7 @@ Commit now?</source>
     </message>
     <message>
         <source>Saves the current state of your work and resets the repository.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sparar det aktuella tillståndet för ditt arbete och nollställer förrådet.</translation>
     </message>
     <message>
         <source>Alt+G,Alt+Shift+D</source>
@@ -32684,7 +32685,7 @@ Commit now?</source>
     </message>
     <message>
         <source>&amp;Remote Repository</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Fjärrförråd</translation>
     </message>
     <message>
         <source>Branches...</source>
@@ -32692,7 +32693,7 @@ Commit now?</source>
     </message>
     <message>
         <source>The repository is clean.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förrådet är rent.</translation>
     </message>
     <message>
         <source>Patches (*.patch *.diff)</source>
@@ -32716,7 +32717,7 @@ Commit now?</source>
     </message>
     <message>
         <source>&amp;Describe Change %1</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Beskriv ändring %1</translation>
     </message>
     <message>
         <source>Triggers a Git version control operation.</source>
@@ -32730,17 +32731,17 @@ Commit now?</source>
     <message>
         <source>Diff of &quot;%1&quot;</source>
         <comment>Avoid translating &quot;Diff&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diff för &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Log Current File</source>
         <comment>Avoid translating &quot;Log&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Log aktuell fil</translation>
     </message>
     <message>
         <source>Log of &quot;%1&quot;</source>
         <comment>Avoid translating &quot;Log&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Log för &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Meta+G,Meta+L</source>
@@ -32749,12 +32750,12 @@ Commit now?</source>
     <message>
         <source>Blame Current File</source>
         <comment>Avoid translating &quot;Blame&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Blame aktuell fil</translation>
     </message>
     <message>
         <source>Blame for &quot;%1&quot;</source>
         <comment>Avoid translating &quot;Blame&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Blame för &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Instant Blame Current Line</source>
@@ -32792,7 +32793,7 @@ Commit now?</source>
     </message>
     <message>
         <source>&amp;Local Repository</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Lokalt förråd</translation>
     </message>
     <message>
         <source>Amend Last Commit...</source>
@@ -32839,7 +32840,7 @@ Commit now?</source>
     </message>
     <message>
         <source>Archive...</source>
-        <translation type="unfinished"></translation>
+        <translation>Arkiv...</translation>
     </message>
     <message>
         <source>Unable to Retrieve File List</source>
@@ -32855,11 +32856,11 @@ Commit now?</source>
     </message>
     <message>
         <source>Apply from Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillämpa från redigerare</translation>
     </message>
     <message>
         <source>Apply from File...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillämpa från fil...</translation>
     </message>
     <message>
         <source>Stash Unstaged Files</source>
@@ -32899,7 +32900,7 @@ Commit now?</source>
     </message>
     <message>
         <source>Current &amp;Project Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuell &amp;projektkatalog</translation>
     </message>
     <message>
         <source>Diff Project Directory</source>
@@ -53603,7 +53604,7 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     </message>
     <message>
         <source>Insert &amp;space after function name</source>
-        <translation type="unfinished"></translation>
+        <translation>Infoga &amp;blanksteg efter funktionsnamn</translation>
     </message>
     <message>
         <source>Surround text selection with quotes</source>
@@ -53615,7 +53616,7 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     </message>
     <message>
         <source>Animate automatically inserted text</source>
-        <translation type="unfinished"></translation>
+        <translation>Animera automatiskt infogad text</translation>
     </message>
     <message>
         <source>Show a visual hint when for example a brace or a quote is automatically inserted by the editor.</source>
@@ -53623,7 +53624,7 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     </message>
     <message>
         <source>Highlight automatically inserted text</source>
-        <translation type="unfinished"></translation>
+        <translation>Framhäv automatiskt infogad text</translation>
     </message>
     <message>
         <source>Skip automatically inserted character when typing</source>
@@ -53635,7 +53636,7 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     </message>
     <message>
         <source>Remove automatically inserted text on backspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort automatiskt infogad text med backsteg</translation>
     </message>
     <message>
         <source>Remove the automatically inserted character if the trigger is deleted by backspace after the completion.</source>
@@ -53659,7 +53660,7 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     </message>
     <message>
         <source>Generate brief description</source>
-        <translation type="unfinished"></translation>
+        <translation>Generera kort beskrivning</translation>
     </message>
     <message>
         <source>Generates a &lt;i&gt;brief&lt;/i&gt; command with an initial description for the corresponding declaration.</source>
@@ -53921,7 +53922,7 @@ A value less than 100% can result in overlapping and misaligned graphics.</sourc
     </message>
     <message>
         <source>Selected text within the current document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Markerad text inom aktuellt dokument.</translation>
     </message>
     <message>
         <source>Line number of the text cursor position in current document (starts with 1).</source>
@@ -55010,7 +55011,7 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>PLACEHOLDER</source>
-        <translation type="unfinished"></translation>
+        <translation>PLATSHÅLLARE</translation>
     </message>
     <message>
         <source>Implicitly Covered Code</source>
@@ -55234,7 +55235,7 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>&lt;p align=&apos;center&apos;&gt;&lt;b&gt;Builtin color schemes need to be &lt;a href=&quot;copy&quot;&gt;copied&lt;/a&gt;&lt;br/&gt; before they can be changed&lt;/b&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p align=&apos;center&apos;&gt;&lt;b&gt;Inbyggda färgscheman behöver &lt;a href=&quot;copy&quot;&gt;kopieras&lt;/a&gt;&lt;br/&gt; innan de kan ändras&lt;/b&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Foreground:</source>
@@ -55250,7 +55251,7 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>Relative Foreground</source>
-        <translation type="unfinished"></translation>
+        <translation>Relativ förgrund</translation>
     </message>
     <message>
         <source>Saturation:</source>
@@ -55262,7 +55263,7 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>Relative Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Relativ bakgrund</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -55356,7 +55357,7 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>Synchronize with Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Synkronisera med redigerare</translation>
     </message>
     <message>
         <source>Filter tree</source>
@@ -55364,11 +55365,11 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Översikt</translation>
     </message>
     <message>
         <source>Cursors: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Markörer: %2</translation>
     </message>
     <message>
         <source>Cursor position: %1</source>
@@ -55380,7 +55381,7 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>Cursors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Markörer:</translation>
     </message>
     <message>
         <source>Line:</source>
@@ -55488,7 +55489,7 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>The text is too large to be displayed (%1 MB).</source>
-        <translation type="unfinished"></translation>
+        <translation>Texten är för stor för att visas (%1 MB).</translation>
     </message>
     <message>
         <source>Error</source>
@@ -55600,7 +55601,10 @@ Filter: %2
 Excluding: %3
 %4</source>
         <extracomment>the last arg is filled by BaseFileFind::runNewSearch</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Sökväg: %1
+Filter: %2
+Exkluderar: %3
+%4</translation>
     </message>
     <message>
         <source>Search engine:</source>
@@ -55620,7 +55624,7 @@ Excluding: %3
     </message>
     <message>
         <source>Enable automatic &amp;indentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivera automatisk &amp;indragning</translation>
     </message>
     <message>
         <source>Backspace indentation:</source>
@@ -55871,7 +55875,7 @@ Specifies how backspace interacts with indentation.
     </message>
     <message>
         <source>Highlight current &amp;line</source>
-        <translation type="unfinished"></translation>
+        <translation>Framhäv aktuell &amp;rad</translation>
     </message>
     <message>
         <source>Display &amp;folding markers</source>
@@ -55879,7 +55883,7 @@ Specifies how backspace interacts with indentation.
     </message>
     <message>
         <source>Highlight &amp;blocks</source>
-        <translation type="unfinished"></translation>
+        <translation>Framhäv &amp;block</translation>
     </message>
     <message>
         <source>Mark &amp;text changes</source>
@@ -55891,7 +55895,7 @@ Specifies how backspace interacts with indentation.
     </message>
     <message>
         <source>&amp;Animate matching parentheses</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Animera matchande paranteser</translation>
     </message>
     <message>
         <source>&lt;i&gt;Set &lt;a href=&quot;font zoom&quot;&gt;font line spacing&lt;/a&gt; to 100% to enable text wrapping option.&lt;/i&gt;</source>
@@ -55903,7 +55907,7 @@ Specifies how backspace interacts with indentation.
     </message>
     <message>
         <source>Use context-specific margin</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd kontextspecifik marginal</translation>
     </message>
     <message>
         <source>If available, use a different margin. For example, the ColumnLimit from the ClangFormat plugin.</source>
@@ -55986,7 +55990,7 @@ francis : en effet, une erreur de ma part --&gt; validé.</translatorcomment>
     </message>
     <message>
         <source>&amp;Highlight matching parentheses</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Framhäv matchande paranteser</translation>
     </message>
     <message>
         <source>Always open links in another split</source>
@@ -56026,31 +56030,31 @@ francis : en effet, une erreur de ma part --&gt; validé.</translatorcomment>
     </message>
     <message>
         <source>Tabs And Indentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabulatorer och indragning</translation>
     </message>
     <message>
         <source>Tab policy:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabulatorpolicy:</translation>
     </message>
     <message>
         <source>Spaces Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Endast blanksteg</translation>
     </message>
     <message>
         <source>Tabs Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Endast tabulatorer</translation>
     </message>
     <message>
         <source>Mixed</source>
-        <translation type="unfinished"></translation>
+        <translation>Blandat</translation>
     </message>
     <message>
         <source>Ta&amp;b size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta&amp;bulatorstorlek:</translation>
     </message>
     <message>
         <source>&amp;Indent size:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Indragsstorlek:</translation>
     </message>
     <message>
         <source>Align continuation lines:</source>
@@ -56165,7 +56169,7 @@ Influences the indentation of continuation lines.
     <message>
         <source>namespace</source>
         <comment>group:&apos;C++&apos; trigger:&apos;using&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>namnrymd</translation>
     </message>
     <message>
         <source>template</source>
@@ -56175,7 +56179,7 @@ Influences the indentation of continuation lines.
     <message>
         <source>with targets</source>
         <comment>group:&apos;QML&apos; trigger:&apos;NumberAnimation&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>med mål</translation>
     </message>
     <message>
         <source>QuickTest Test Case</source>
