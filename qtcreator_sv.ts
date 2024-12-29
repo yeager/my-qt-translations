@@ -52593,7 +52593,7 @@ Refusing to record test case &quot;%2&quot;.</source>
     </message>
     <message>
         <source>License path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Licenssökväg:</translation>
     </message>
     <message>
         <source>Local Server</source>
@@ -52601,7 +52601,7 @@ Refusing to record test case &quot;%2&quot;.</source>
     </message>
     <message>
         <source>Server host:</source>
-        <translation type="unfinished"></translation>
+        <translation>Servervärd:</translation>
     </message>
     <message>
         <source>Server Port</source>
@@ -52649,7 +52649,7 @@ Refusing to record test case &quot;%2&quot;.</source>
     </message>
     <message>
         <source>Animate mouse cursor:</source>
-        <translation type="unfinished"></translation>
+        <translation>Animera muspekaren:</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -52689,11 +52689,11 @@ Refusing to record test case &quot;%2&quot;.</source>
     </message>
     <message>
         <source>Select Application to test</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj program att testa</translation>
     </message>
     <message>
         <source>Select Application Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj programsökväg</translation>
     </message>
     <message>
         <source>Squish Server Settings</source>
@@ -52706,7 +52706,7 @@ Squish server finished with process error %1.</source>
     </message>
     <message>
         <source>Run Test Suite</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör testsvit</translation>
     </message>
     <message>
         <source>Object Map</source>
@@ -52714,11 +52714,11 @@ Squish server finished with process error %1.</source>
     </message>
     <message>
         <source>Run Test Case</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör testfall</translation>
     </message>
     <message>
         <source>Shared Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Delade mappar</translation>
     </message>
     <message>
         <source>%1 (none)</source>
