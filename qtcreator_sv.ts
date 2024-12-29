@@ -7729,7 +7729,7 @@ Exporting assets: %2</source>
     </message>
     <message>
         <source>Generate Deployable Package...</source>
-        <translation type="unfinished"></translation>
+        <translation>Generera distribuerbart paket...</translation>
     </message>
     <message>
         <source>Save Project as Resource</source>
@@ -7737,7 +7737,7 @@ Exporting assets: %2</source>
     </message>
     <message>
         <source>Generating deployable package. Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Genererar distribuerbart paket. Vänta...</translation>
     </message>
     <message>
         <source>Failed to generate deployable package!</source>
@@ -11338,7 +11338,7 @@ The minimum API level required by the kit is %1.</source>
     </message>
     <message>
         <source>Uninstall the existing app before deployment</source>
-        <translation type="unfinished"></translation>
+        <translation>Avinstallera befintligt program innan distribution</translation>
     </message>
     <message>
         <source>No Android architecture (ABI) is set by the project.</source>
@@ -11370,7 +11370,7 @@ The minimum API level required by the kit is %1.</source>
     </message>
     <message>
         <source>The deployment device &quot;%1&quot; is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Distributionsenheten &quot;%1&quot; är ogiltig.</translation>
     </message>
     <message>
         <source>The deployment device &quot;%1&quot; does not support the architectures used by the kit.
@@ -11471,7 +11471,7 @@ The kit supports &quot;%2&quot;, but the device uses &quot;%3&quot;.</source>
     </message>
     <message>
         <source>Deployment failed with the following errors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribution misslyckades med följande fel:</translation>
     </message>
     <message>
         <source>Android package (*.apk)</source>
@@ -13282,7 +13282,7 @@ See Google Test documentation for further information on GTest filters.</source>
     </message>
     <message>
         <source>Run Without Deployment</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör utan distribution</translation>
     </message>
     <message>
         <source>Debug This Test</source>
@@ -13290,7 +13290,7 @@ See Google Test documentation for further information on GTest filters.</source>
     </message>
     <message>
         <source>Debug Without Deployment</source>
-        <translation type="unfinished"></translation>
+        <translation>Felsök utan distribution</translation>
     </message>
     <message>
         <source>Select All</source>
@@ -13447,7 +13447,7 @@ See Google Test documentation for further information on GTest filters.</source>
     </message>
     <message>
         <source>Run This Test Without Deployment</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör detta test utan distribution</translation>
     </message>
     <message>
         <source>Debug This Test Without Deployment</source>
@@ -21774,7 +21774,7 @@ Vill du skriva över dem?</translation>
     </message>
     <message>
         <source>An item named &quot;%1&quot; already exists at this location. Do you want to overwrite it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ett objekt med namnet &quot;%1&quot; finns redan på denna plats. Vill du skriva över det?</translation>
     </message>
     <message>
         <source>Save File As</source>
@@ -27216,7 +27216,7 @@ You may be asked to share the contents of this log when reporting bugs related t
     </message>
     <message>
         <source>Start Debugging Without Deployment</source>
-        <translation type="unfinished"></translation>
+        <translation>Starta felsökning utan distribution</translation>
     </message>
     <message>
         <source>Start and Debug External Application...</source>
@@ -35314,15 +35314,15 @@ Vill du skriva över dem?</translation>
     </message>
     <message>
         <source>Reset Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>Nollställ till standard</translation>
     </message>
     <message>
         <source>Extra arguments:</source>
-        <translation type="unfinished"></translation>
+        <translation>Extra argument:</translation>
     </message>
     <message>
         <source>xcodebuild</source>
-        <translation type="unfinished"></translation>
+        <translation>xcodebuild</translation>
     </message>
     <message>
         <source>Command:</source>
@@ -35338,15 +35338,15 @@ Vill du skriva över dem?</translation>
     </message>
     <message>
         <source>iOS Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfiguration för iOS</translation>
     </message>
     <message>
         <source>Ask about devices not in developer mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Fråga om enheter som inte är i utvecklarläget</translation>
     </message>
     <message>
         <source>Configure available simulator devices in &lt;a href=&quot;%1&quot;&gt;Xcode&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurera tillgängliga simulatorenheter i &lt;a href=&quot;%1&quot;&gt;Xcode&lt;/a&gt;.</translation>
     </message>
     <message>
         <source>Devices</source>
@@ -35354,7 +35354,7 @@ Vill du skriva över dem?</translation>
     </message>
     <message>
         <source>Simulator</source>
-        <translation type="unfinished"></translation>
+        <translation>Simulator</translation>
     </message>
     <message>
         <source>iOS build</source>
@@ -35363,19 +35363,19 @@ Vill du skriva över dem?</translation>
     </message>
     <message>
         <source>Deploy on iOS</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuera på iOS</translation>
     </message>
     <message>
         <source>Deploy to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuera till %1</translation>
     </message>
     <message>
         <source>Error: no device available, deploy failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel: ingen enhet tillgänglig, distribution misslyckades.</translation>
     </message>
     <message>
         <source>Deployment failed. No iOS device found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribution misslyckades. Ingen iOS-enhet hittades.</translation>
     </message>
     <message>
         <source>Transferring application</source>
@@ -35387,11 +35387,11 @@ Vill du skriva över dem?</translation>
     </message>
     <message>
         <source>Deployment canceled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribution avbröts.</translation>
     </message>
     <message>
         <source>Failed to run devicectl: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att köra devicectl: %1.</translation>
     </message>
     <message>
         <source>devicectl returned unexpected output ... deployment might have failed.</source>
@@ -35403,11 +35403,11 @@ Vill du skriva över dem?</translation>
     </message>
     <message>
         <source>Deploy to iOS device</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuera till iOS-enhet</translation>
     </message>
     <message>
         <source>Deployment failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribution misslyckades.</translation>
     </message>
     <message>
         <source>iOS Device</source>
@@ -35420,7 +35420,7 @@ Vill du skriva över dem?</translation>
     <message>
         <source>Developer status</source>
         <extracomment>Whether the device is in developer mode.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Utvecklarstatus</translation>
     </message>
     <message>
         <source>Connected</source>
@@ -35440,19 +35440,19 @@ Vill du skriva över dem?</translation>
     </message>
     <message>
         <source>OS version</source>
-        <translation type="unfinished"></translation>
+        <translation>OS-version</translation>
     </message>
     <message>
         <source>Product type</source>
-        <translation type="unfinished"></translation>
+        <translation>Produkttyp</translation>
     </message>
     <message>
         <source>An iOS device in user mode has been detected.</source>
-        <translation type="unfinished"></translation>
+        <translation>En iOS-enhet i användarläget har upptäckts.</translation>
     </message>
     <message>
         <source>Do you want to see how to set it up for development?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vill du se hur den konfigureras för utveckling?</translation>
     </message>
     <message>
         <source>Device name:</source>
@@ -35460,19 +35460,19 @@ Vill du skriva över dem?</translation>
     </message>
     <message>
         <source>Identifier:</source>
-        <translation type="unfinished"></translation>
+        <translation>Identifierare:</translation>
     </message>
     <message>
         <source>Product type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Produkttyp:</translation>
     </message>
     <message>
         <source>OS Version:</source>
-        <translation type="unfinished"></translation>
+        <translation>OS-version:</translation>
     </message>
     <message>
         <source>CPU Architecture:</source>
-        <translation type="unfinished"></translation>
+        <translation>CPU-arkitektur:</translation>
     </message>
     <message>
         <source>Failed to detect the ABIs used by the Qt version.</source>
@@ -35493,35 +35493,35 @@ Vill du skriva över dem?</translation>
     </message>
     <message>
         <source>Kit has incorrect device type for running on iOS devices.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kitet har felaktig enhetstyp för körning på iOS-enheter.</translation>
     </message>
     <message>
         <source>No device chosen. Select %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen enhet vald. Välj %1.</translation>
     </message>
     <message>
         <source>No device chosen. Enable developer mode on a device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen enhet vald. Aktivera utvecklingsläget på en enhet.</translation>
     </message>
     <message>
         <source>No device available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen enhet tillgänglig.</translation>
     </message>
     <message>
         <source>To use this device you need to enable developer mode on it.</source>
-        <translation type="unfinished"></translation>
+        <translation>För att använda denna enhet så måste du aktivera utvecklingsläget på den.</translation>
     </message>
     <message>
         <source>%1 is not connected. Select %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 är inte ansluten. Välja %2?</translation>
     </message>
     <message>
         <source>%1 is not connected. Enable developer mode on a device?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 är inte ansluten. Aktivera utvecklingsläget på en enhet?</translation>
     </message>
     <message>
         <source>%1 is not connected.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 är inte ansluten.</translation>
     </message>
     <message>
         <source>Debugging and profiling is currently not supported for devices with iOS 17 and later.</source>
@@ -35533,23 +35533,23 @@ Vill du skriva över dem?</translation>
     </message>
     <message>
         <source>Starting remote process.</source>
-        <translation type="unfinished"></translation>
+        <translation>Startar fjärrprocess.</translation>
     </message>
     <message>
         <source>Could not find %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte hitta %1.</translation>
     </message>
     <message>
         <source>Running failed. No iOS device found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Körning misslyckades. Ingen iOS-enhet hittades.</translation>
     </message>
     <message>
         <source>Running canceled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Körning avbröts.</translation>
     </message>
     <message>
         <source>&quot;%1&quot; exited.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; avslutades.</translation>
     </message>
     <message>
         <source>Failed to determine bundle identifier.</source>
@@ -35557,7 +35557,7 @@ Vill du skriva över dem?</translation>
     </message>
     <message>
         <source>Running &quot;%1&quot; on %2...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör &quot;%1&quot; på %2...</translation>
     </message>
     <message>
         <source>Could not get necessary ports for the debugger connection.</source>
@@ -35574,15 +35574,15 @@ Vill du skriva över dem?</translation>
     </message>
     <message>
         <source>The device is locked, please unlock.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enheten är låst. Lås upp den.</translation>
     </message>
     <message>
         <source>Run ended.</source>
-        <translation type="unfinished"></translation>
+        <translation>Körning avslutad.</translation>
     </message>
     <message>
         <source>Run ended with error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Körning avslutad med fel.</translation>
     </message>
     <message>
         <source>Could not get necessary ports for the profiler connection.</source>
@@ -35590,7 +35590,7 @@ Vill du skriva över dem?</translation>
     </message>
     <message>
         <source>Application not running.</source>
-        <translation type="unfinished"></translation>
+        <translation>Programmet kör inte.</translation>
     </message>
     <message>
         <source>Could not find device specific debug symbols at %1. Debugging initialization will be slow until you open the Organizer window of Xcode with the device connected to have the symbols generated.</source>
@@ -35606,7 +35606,7 @@ Vill du skriva över dem?</translation>
     </message>
     <message>
         <source>Device type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Enhetstyp:</translation>
     </message>
     <message>
         <source>None</source>
@@ -35614,7 +35614,7 @@ Vill du skriva över dem?</translation>
     </message>
     <message>
         <source>iOS Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Inställningar för iOS</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -35622,15 +35622,15 @@ Vill du skriva över dem?</translation>
     </message>
     <message>
         <source>Automatically manage signing</source>
-        <translation type="unfinished"></translation>
+        <translation>Hantera signering automatiskt</translation>
     </message>
     <message>
         <source>Development team:</source>
-        <translation type="unfinished"></translation>
+        <translation>Utvecklingsteam:</translation>
     </message>
     <message>
         <source>Provisioning profile:</source>
-        <translation type="unfinished"></translation>
+        <translation>Provisioneringsprofil:</translation>
     </message>
     <message>
         <source>Default</source>
@@ -35638,11 +35638,11 @@ Vill du skriva över dem?</translation>
     </message>
     <message>
         <source>Development team is not selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utvecklingsteam har inte valts.</translation>
     </message>
     <message>
         <source>Provisioning profile is not selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Provisioneringsprofilen har inte valts.</translation>
     </message>
     <message>
         <source>Using default development team and provisioning profile.</source>
@@ -35650,11 +35650,11 @@ Vill du skriva över dem?</translation>
     </message>
     <message>
         <source>Development team: %1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Utvecklingsteam: %1 (%2)</translation>
     </message>
     <message>
         <source>Settings defined here override the QMake environment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inställningar definierade här åsidosätter QMake-miljön.</translation>
     </message>
     <message>
         <source>%1 not configured. Use Xcode and Apple developer account to configure the provisioning profiles and teams.</source>
@@ -35666,15 +35666,15 @@ Vill du skriva över dem?</translation>
     </message>
     <message>
         <source>Provisioning profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Provisioneringsprofiler</translation>
     </message>
     <message>
         <source>No provisioning profile found for the selected team.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen provisioneringsprofil hittades för valt team.</translation>
     </message>
     <message>
         <source>Provisioning profile expired. Expiration date: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Provisioneringsprofilen har gått ut. Utgångsdatum: %1</translation>
     </message>
     <message>
         <source>%1 Simulator</source>
@@ -35704,7 +35704,7 @@ Expiration date: %3</source>
     </message>
     <message>
         <source>Application install on simulator failed. Simulator not running.</source>
-        <translation type="unfinished"></translation>
+        <translation>Programinstallation på simulatorn misslyckades. Simulatorn är inte igång.</translation>
     </message>
     <message>
         <source>Application launch on simulator failed. Invalid bundle path %1</source>
@@ -35712,11 +35712,11 @@ Expiration date: %3</source>
     </message>
     <message>
         <source>Application launch on simulator failed. Simulator not running. %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Programstart på simulatorn misslyckades. Simulatorn är inte igång. %1</translation>
     </message>
     <message>
         <source>Application install on simulator failed. %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Programinstallation på simulatorn misslyckades. %1</translation>
     </message>
     <message>
         <source>Cannot capture console output from %1. Error redirecting output to %2.*</source>
@@ -35728,7 +35728,7 @@ Expiration date: %3</source>
     </message>
     <message>
         <source>Application launch on simulator failed. %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Programstart på simulatorn misslyckades. %1</translation>
     </message>
     <message>
         <source>Invalid simulator response. Device Id mismatch. Device Id = %1 Response Id = %2</source>
@@ -35736,23 +35736,23 @@ Expiration date: %3</source>
     </message>
     <message>
         <source>Failed to start process.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att starta process.</translation>
     </message>
     <message>
         <source>Process was canceled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Processen avbröts.</translation>
     </message>
     <message>
         <source>Process was forced to exit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Processen tvingades att avsluta.</translation>
     </message>
     <message>
         <source>Cannot find xcrun.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte hitta xcrun.</translation>
     </message>
     <message>
         <source>xcrun is not executable.</source>
-        <translation type="unfinished"></translation>
+        <translation>xcrun är inte körbar.</translation>
     </message>
     <message>
         <source>Invalid Empty UDID.</source>
@@ -35760,11 +35760,11 @@ Expiration date: %3</source>
     </message>
     <message>
         <source>Simulator device is not available. (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Simulatorenheten är inte tillgänglig. (%1)</translation>
     </message>
     <message>
         <source>Simulator start was canceled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Simulatorstarten avbröts.</translation>
     </message>
     <message>
         <source>Cannot start Simulator device. Previous instance taking too long to shut down. (%1)</source>
@@ -35800,11 +35800,11 @@ Expiration date: %3</source>
     </message>
     <message>
         <source>Failed to parse devicectl output: &quot;result&quot; is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att tolka utdata från devicectl: &quot;result&quot; saknas.</translation>
     </message>
     <message>
         <source>devicectl returned unexpected output ... running failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>devicectl returnerade oväntat utdata ... körning misslyckades.</translation>
     </message>
 </context>
 <context>
@@ -39205,7 +39205,7 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>Issues found when deploying applications to devices.</source>
-        <translation type="unfinished"></translation>
+        <translation>Problem upptäcktes vid distribution av program till enheter.</translation>
     </message>
     <message>
         <source>Issues found when running tests.</source>
@@ -39234,7 +39234,7 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>Error while building/deploying project %1 (kit: %2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid byggnation/distribution av projektet %1 (kit: %2)</translation>
     </message>
     <message>
         <source>Running steps for project %1...</source>
@@ -39706,11 +39706,11 @@ Title of a the cloned RunConfiguration window, text of the window</extracomment>
     </message>
     <message>
         <source>Cancel Build &amp;&amp; Remove Deploy Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Avbryt byggnation och ta bort distributionskonfiguration</translation>
     </message>
     <message>
         <source>Remove Deploy Configuration %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort distributionskonfigurationen %1?</translation>
     </message>
     <message>
         <source>The deploy configuration &lt;b&gt;%1&lt;/b&gt; is currently being built.</source>
@@ -45963,7 +45963,7 @@ The affected files are:
     </message>
     <message>
         <source>Deploy to Boot to Qt target</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuera till Boot to Qt-mål</translation>
     </message>
     <message>
         <source>Full command line:</source>
@@ -49222,7 +49222,7 @@ Qt Design Studio kräver en .qmlproject-baserat projekt för att öppna .ui.qml-
     <name>QtC::Qnx</name>
     <message>
         <source>Deploy to QNX Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuera till QNX-enhet</translation>
     </message>
     <message>
         <source>Attach to remote QNX application...</source>
@@ -49238,7 +49238,7 @@ Qt Design Studio kräver en .qmlproject-baserat projekt för att öppna .ui.qml-
     </message>
     <message>
         <source>Deploy Qt libraries...</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuera Qt-bibliotek...</translation>
     </message>
     <message>
         <source>QNX %1</source>
@@ -49247,11 +49247,11 @@ Qt Design Studio kräver en .qmlproject-baserat projekt för att öppna .ui.qml-
     </message>
     <message>
         <source>No SDP path was set up.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen SDP-sökväg har konfigurerats.</translation>
     </message>
     <message>
         <source>QNX</source>
-        <translation type="unfinished"></translation>
+        <translation>QNX</translation>
     </message>
     <message>
         <source>Configuration Information:</source>
@@ -49283,7 +49283,7 @@ Qt Design Studio kräver en .qmlproject-baserat projekt för att öppna .ui.qml-
     </message>
     <message>
         <source>Select QNX Environment File</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj QNX-miljöfil</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -49291,7 +49291,7 @@ Qt Design Studio kräver en .qmlproject-baserat projekt för att öppna .ui.qml-
     </message>
     <message>
         <source>Remove QNX Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort QNX-konfiguration</translation>
     </message>
     <message>
         <source>Add...</source>
@@ -49307,16 +49307,17 @@ Qt Design Studio kräver en .qmlproject-baserat projekt för att öppna .ui.qml-
     </message>
     <message>
         <source>Configuration already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurationen finns redan.</translation>
     </message>
     <message>
         <source>Configuration is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurationen är inte giltig.</translation>
     </message>
     <message>
         <source>Are you sure you want to remove:
  %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>Är du säker på att du vill ta bort:
+ %1?</translation>
     </message>
     <message>
         <source>Cannot Set Up QNX Configuration</source>
@@ -49324,15 +49325,15 @@ Qt Design Studio kräver en .qmlproject-baserat projekt för att öppna .ui.qml-
     </message>
     <message>
         <source>Debugger for %1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Felsökare för %1 (%2)</translation>
     </message>
     <message>
         <source>QCC for %1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>QCC för %1 (%2)</translation>
     </message>
     <message>
         <source>Kit for %1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kit för %1 (%2)</translation>
     </message>
     <message>
         <source>The following errors occurred while activating the QNX configuration:</source>
@@ -49340,15 +49341,15 @@ Qt Design Studio kräver en .qmlproject-baserat projekt för att öppna .ui.qml-
     </message>
     <message>
         <source>- No GCC compiler found.</source>
-        <translation type="unfinished"></translation>
+        <translation>- Ingen GCC-kompilator hittades.</translation>
     </message>
     <message>
         <source>- No targets found.</source>
-        <translation type="unfinished"></translation>
+        <translation>- Inga mål hittades.</translation>
     </message>
     <message>
         <source>Preparing remote side...</source>
-        <translation type="unfinished"></translation>
+        <translation>Förbereder fjärrsidan...</translation>
     </message>
     <message>
         <source>QCC</source>
@@ -49373,7 +49374,7 @@ Qt Design Studio kräver en .qmlproject-baserat projekt för att öppna .ui.qml-
     </message>
     <message>
         <source>Project source directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>Projektets källkatalog:</translation>
     </message>
     <message>
         <source>Local executable:</source>
@@ -49396,7 +49397,7 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>Connection failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Anslutning misslyckades: %1</translation>
     </message>
     <message>
         <source>Removing &quot;%1&quot;</source>
@@ -49408,14 +49409,14 @@ Are you sure you want to continue?</source>
     </message>
     <message numerus="yes">
         <source>%n file(s) need to be uploaded.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n fil behöver skickas upp.</numerusform>
+            <numerusform>%n filer behöver skickas upp.</numerusform>
         </translation>
     </message>
     <message>
         <source>Local file &quot;%1&quot; does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokala filen &quot;%1&quot; finns inte.</translation>
     </message>
     <message>
         <source>No device configuration set.</source>
@@ -49423,11 +49424,11 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>No deployment action necessary. Skipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen distributionsåtgärd nödvändig. Hoppar över.</translation>
     </message>
     <message>
         <source>All files successfully deployed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alla filer har distribuerats.</translation>
     </message>
     <message>
         <source>Please input a remote directory to deploy to.</source>
@@ -49435,11 +49436,11 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>Deploy Qt to QNX Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuera Qt till QNX-enhet</translation>
     </message>
     <message>
         <source>Deploy</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuera</translation>
     </message>
     <message>
         <source>Close</source>
@@ -49447,11 +49448,11 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>Qt library to deploy:</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt-bibliotek att distribuera:</translation>
     </message>
     <message>
         <source>Remote directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjärrkatalog:</translation>
     </message>
     <message>
         <source>Closing the dialog will stop the deployment. Are you sure you want to do this?</source>
@@ -49471,11 +49472,11 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>Files cannot be created in %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Filer kan inte skapas i %1.</translation>
     </message>
     <message>
         <source>Executable on device:</source>
-        <translation type="unfinished"></translation>
+        <translation>Körbar fil på enhet:</translation>
     </message>
     <message>
         <source>Remote path not set</source>
@@ -49483,7 +49484,7 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>Executable on host:</source>
-        <translation type="unfinished"></translation>
+        <translation>Körbar fil på värd:</translation>
     </message>
     <message>
         <source>Path to Qt libraries on device</source>
@@ -50223,7 +50224,7 @@ I tillägg kommer enhetsanslutningen att testas.</translation>
     </message>
     <message>
         <source>No deployment action necessary. Skipping.</source>
-        <translation>Ingen distributionsåtgärd nödvändig. Hoppas över.</translation>
+        <translation>Ingen distributionsåtgärd nödvändig. Hoppar över.</translation>
     </message>
     <message>
         <source>No device configuration set.</source>
@@ -50485,7 +50486,7 @@ Kontrollprocessen misslyckades att starta.</translation>
     </message>
     <message>
         <source>&quot;%1&quot; will be used for deployment, because &quot;%2&quot; and &quot;%3&quot; are not available.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; kommer att användas för distribution därför att &quot;%2&quot; och &quot;%3&quot; inte är tillgängliga.</translation>
     </message>
     <message>
         <source>Deployment to this device will not work out of the box.</source>
