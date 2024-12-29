@@ -181,7 +181,7 @@
     </message>
     <message>
         <source>Baseline offset</source>
-        <translation type="unfinished"></translation>
+        <translation>Standardpositionsjustering</translation>
     </message>
     <message>
         <source>Sets the position of the component&apos;s baseline in local coordinates.</source>
@@ -849,7 +849,7 @@ Values between 0 and 1 will attenuate the sound, while values above 1 provide an
     </message>
     <message>
         <source>Sets the dimensions of the room in 3D space.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in dimensionerna för rummet i 3D-rymd.</translation>
     </message>
     <message>
         <source>Reflection Gain</source>
@@ -19895,7 +19895,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>&lt;p&gt;Qt Creator developers can be reached at the Qt Creator mailing list:&lt;/p&gt;%1&lt;p&gt;or the #qt-creator channel on Libera.Chat IRC:&lt;/p&gt;%2&lt;p&gt;Our bug tracker is located at %3.&lt;/p&gt;&lt;p&gt;Please use %4 for bigger chunks of text.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Utvecklarna för Qt Creator kan nås via Qt Creators e-postlista:&lt;/p&gt;%1&lt;p&gt;eller irc-kanalen #qt-creator på Libera.Chat:&lt;/p&gt;%2&lt;p&gt;Vår felhanterare finns på %3.&lt;/p&gt;&lt;p&gt;Använd gärna %4 för större textdelningar.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Ctrl+L</source>
@@ -19919,15 +19919,15 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Could not find %1 executable in %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte hitta körbara filen %1 i %2</translation>
     </message>
     <message>
         <source>The Qt logo, axivion stopping software erosion logo, Qt Group logo, as well as Qt®, Axivion®, avixion stopping software erosion®, Boot to Qt®, Built with Qt®, Coco®, froglogic®, Qt Cloud Services®, Qt Developer Days®, Qt Embedded®, Qt Enterprise®, Qt Group®, Qt Mobile®, Qt Quick®, Qt Quick Compiler®, Squish® are registered trademarks of The Qt Company Ltd. or its subsidiaries.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt-logotypen, axivion stopping software erosion logo, Qt Group-logotypen, såväl som Qt®, Axivion®, avixion stopping software erosion®, Boot to Qt®, Built with Qt®, Coco®, froglogic®, Qt Cloud Services®, Qt Developer Days®, Qt Embedded®, Qt Enterprise®, Qt Group®, Qt Mobile®, Qt Quick®, Qt Quick Compiler®, Squish® är registererade varumärken för The Qt Company Ltd. eller dess dotterbolag.</translation>
     </message>
     <message>
         <source>%1 is free software, and you are welcome to redistribute it under &lt;a href=&quot;%2&quot;&gt;certain conditions&lt;/a&gt;. For some components, different conditions might apply though.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 är fri programvara och du är välkommen att distribuera den vidare under &lt;a href=&quot;%2&quot;&gt;särskilda villkor&lt;/a&gt;. För vissa komponenter så kan även andra villkor gälla.</translation>
     </message>
     <message>
         <source>Meta+0</source>
@@ -21224,11 +21224,11 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>Creates qm translation files that can be used by an application from the translator&apos;s ts files</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapar qm-översättningsfiler som kan användas av ett program från översättarens ts-filer</translation>
     </message>
     <message>
         <source>Release Translations (lrelease)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kompilera översättningar (lrelease)</translation>
     </message>
     <message>
         <source>Linguist</source>
@@ -21236,11 +21236,11 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>Synchronizes translator&apos;s ts files with the program code</source>
-        <translation type="unfinished"></translation>
+        <translation>Synkroniserar översättarens ts-filer med programkoden</translation>
     </message>
     <message>
         <source>Update Translations (lupdate)</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdatera översättningar (lupdate)</translation>
     </message>
     <message>
         <source>Opens the current file in Notepad</source>
@@ -21254,7 +21254,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>Runs the current QML file with QML utility.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör aktuella QML-filen med QML-verktyget.</translation>
     </message>
     <message>
         <source>QML utility</source>
@@ -21266,7 +21266,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>Runs the current QML file with qmlscene. This requires Qt 5.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör aktuella QML-filen med qmlscene. Detta kräver Qt 5.</translation>
     </message>
     <message>
         <source>Qt Quick 2 Preview (qmlscene)</source>
@@ -21414,7 +21414,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>Remove the following files from the version control system (%1)?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort följande filer från versionskontrollsystemet (%1)?</translation>
     </message>
     <message>
         <source>Note: This might remove the local file.</source>
@@ -21476,11 +21476,13 @@ to version control (%2)?</source>
         <source>The following files already exist in the folder
 %1.
 Would you like to overwrite them?</source>
-        <translation type="unfinished"></translation>
+        <translation>Följande filer finns redan i mappen
+%1.
+Vill du skriva över dem?</translation>
     </message>
     <message>
         <source>Launching a file browser failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Start av en filbläddrare misslyckades</translation>
     </message>
     <message>
         <source>Unable to start the file manager:
@@ -21498,7 +21500,9 @@ Would you like to overwrite them?</source>
         <source>&quot;%1&quot; returned the following error:
 
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; returnerade följande fel:
+
+%2</translation>
     </message>
     <message>
         <source>The command for file browser is not set.</source>
@@ -21506,7 +21510,7 @@ Would you like to overwrite them?</source>
     </message>
     <message>
         <source>Error while starting file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid start av filbläddrare.</translation>
     </message>
     <message>
         <source>Find in This Directory...</source>
@@ -21514,7 +21518,7 @@ Would you like to overwrite them?</source>
     </message>
     <message>
         <source>Show in File System View</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa i Filsystem-vyn</translation>
     </message>
     <message>
         <source>Show in Explorer</source>
@@ -21526,11 +21530,11 @@ Would you like to overwrite them?</source>
     </message>
     <message>
         <source>Show Containing Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa innehållande mapp</translation>
     </message>
     <message>
         <source>Open Command Prompt Here</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna kommandoprompt här</translation>
     </message>
     <message>
         <source>Open Terminal Here</source>
@@ -21539,7 +21543,7 @@ Would you like to overwrite them?</source>
     <message>
         <source>Open Command Prompt With</source>
         <comment>Opens a submenu for choosing an environment, such as &quot;Run Environment&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Öppna kommandoprompt med</translation>
     </message>
     <message>
         <source>Open Terminal With</source>
@@ -21600,7 +21604,7 @@ Would you like to overwrite them?</source>
     </message>
     <message>
         <source>Repeat the search with same parameters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Upprepa sökningen med samma parametrar.</translation>
     </message>
     <message>
         <source>&amp;Search Again</source>
@@ -21686,11 +21690,11 @@ Would you like to overwrite them?</source>
     </message>
     <message>
         <source>Reset all MIME type definitions to their defaults.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nollställ alla MIME-typdefinitioner till deras standardvärden.</translation>
     </message>
     <message>
         <source>Reset MIME Types</source>
-        <translation type="unfinished"></translation>
+        <translation>Nollställ MIME-typer</translation>
     </message>
     <message>
         <source>Reset the assigned handler for all MIME type definitions to the default.</source>
@@ -21698,7 +21702,7 @@ Would you like to overwrite them?</source>
     </message>
     <message>
         <source>Reset Handlers</source>
-        <translation type="unfinished"></translation>
+        <translation>Nollställ hanterare</translation>
     </message>
     <message>
         <source>Patterns:</source>
@@ -21722,7 +21726,7 @@ Would you like to overwrite them?</source>
     </message>
     <message>
         <source>Changes will take effect after restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändringar tar effekt efter omstart.</translation>
     </message>
     <message>
         <source>Locates files from a custom set of directories. Append &quot;+&lt;number&gt;&quot; or &quot;:&lt;number&gt;&quot; to jump to the given line number. Append another &quot;+&lt;number&gt;&quot; or &quot;:&lt;number&gt;&quot; to jump to the column number as well.</source>
@@ -21743,7 +21747,7 @@ Would you like to overwrite them?</source>
     </message>
     <message>
         <source>Error while saving file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid sparning av filen: %1</translation>
     </message>
     <message>
         <source>All Files (*.*)</source>
@@ -21790,7 +21794,8 @@ Would you like to overwrite them?</source>
     <message>
         <source>Previous command is still running (&quot;%1&quot;).
 Do you want to kill it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Föregående kommando körs fortfarande (&quot;%1&quot;).
+Vill du döda det?</translation>
     </message>
     <message>
         <source>Kill Previous Process?</source>
@@ -21798,7 +21803,7 @@ Do you want to kill it?</source>
     </message>
     <message>
         <source>Could not find executable for &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte hitta körbar fil för &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Starting command &quot;%1&quot;.</source>
@@ -21858,7 +21863,7 @@ Do you want to kill it?</source>
     </message>
     <message>
         <source>See details for a complete list of files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se detaljer för en komplett lista över filer.</translation>
     </message>
     <message>
         <source>Filename</source>
@@ -21934,12 +21939,12 @@ Do you want to check them out now?</source>
     <message>
         <source>Open Preferences dialog.</source>
         <comment>msgShowOptionsDialogToolTip (mac version)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Öppna Inställningar-dialogen.</translation>
     </message>
     <message>
         <source>Open Options dialog.</source>
         <comment>msgShowOptionsDialogToolTip (non-mac version)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Öppna Alternativ-dialogen.</translation>
     </message>
     <message>
         <source>Based on Qt %1 (%2, %3)</source>
@@ -21959,11 +21964,11 @@ Do you want to check them out now?</source>
     </message>
     <message>
         <source>Add the file to version control (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till filen till versionskontroll (%1)</translation>
     </message>
     <message>
         <source>Add the files to version control (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till filerna till versionskontroll (%1)</translation>
     </message>
     <message>
         <source>&lt;no document&gt;</source>
@@ -21975,11 +21980,11 @@ Do you want to check them out now?</source>
     </message>
     <message>
         <source>Java Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Java-redigerare</translation>
     </message>
     <message>
         <source>CMake Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake-redigerare</translation>
     </message>
     <message>
         <source>Compilation Database</source>
@@ -22003,7 +22008,7 @@ Do you want to check them out now?</source>
     </message>
     <message>
         <source>Terms and Conditions</source>
-        <translation type="unfinished"></translation>
+        <translation>Villkor</translation>
     </message>
     <message>
         <source>Accept</source>
@@ -22027,31 +22032,31 @@ Do you want to check them out now?</source>
     </message>
     <message>
         <source>The current date (ISO).</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuellt datum (ISO).</translation>
     </message>
     <message>
         <source>The current time (ISO).</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuell tid (ISO).</translation>
     </message>
     <message>
         <source>The current date (RFC2822).</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuellt datum (RFC2822).</translation>
     </message>
     <message>
         <source>The current time (RFC2822).</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuell tid (RFC2822).</translation>
     </message>
     <message>
         <source>The current date (Locale).</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuellt datum (Locale).</translation>
     </message>
     <message>
         <source>The current time (Locale).</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuell tid (Locale).</translation>
     </message>
     <message>
         <source>The configured default directory for projects.</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurerad standardkatalog för projekt.</translation>
     </message>
     <message>
         <source>The directory last visited in a file dialog.</source>
@@ -22095,11 +22100,11 @@ Do you want to check them out now?</source>
     </message>
     <message>
         <source>The current date (QDate formatstring).</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuellt datum (QDate formatstring).</translation>
     </message>
     <message>
         <source>The current time (QTime formatstring).</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuell tid (QTime formatstring).</translation>
     </message>
     <message>
         <source>Generate a new UUID.</source>
@@ -22115,7 +22120,7 @@ Do you want to check them out now?</source>
     </message>
     <message>
         <source>%1 &gt; %2 Preferences...</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 &gt; %2 inställningar...</translation>
     </message>
     <message>
         <source>Create Folder</source>
@@ -22123,12 +22128,13 @@ Do you want to check them out now?</source>
     </message>
     <message>
         <source>Settings File Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel i inställningsfilen</translation>
     </message>
     <message>
         <source>The settings file &quot;%1&quot; is not writable.
 You will not be able to store any %2 settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inställningsfilen &quot;%1&quot; är inte skrivbar.
+Du kommer inte kunna lagra några %2-inställningar.</translation>
     </message>
     <message>
         <source>The file is not readable.</source>
@@ -22173,7 +22179,7 @@ You will likely experience further problems using this instance of %3.</source>
     </message>
     <message>
         <source>%1 security policy</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 säkerhetspolicy</translation>
     </message>
     <message>
         <source>Text Encoding</source>
@@ -22181,15 +22187,15 @@ You will likely experience further problems using this instance of %3.</source>
     </message>
     <message>
         <source>The following encodings are likely to fit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Följande enkodningar passar antagligen:</translation>
     </message>
     <message>
         <source>Select encoding for &quot;%1&quot;.%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj enkodning för &quot;%1&quot;.%2</translation>
     </message>
     <message>
         <source>Reload with Encoding</source>
-        <translation type="unfinished"></translation>
+        <translation>Läs om med enkodning</translation>
     </message>
     <message>
         <source>Save with Encoding</source>
@@ -22225,11 +22231,11 @@ You will likely experience further problems using this instance of %3.</source>
     </message>
     <message>
         <source>&quot;%1&quot; finished</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; färdigställdes</translation>
     </message>
     <message>
         <source>&quot;%1&quot; finished with error</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; färdigställdes med fel</translation>
     </message>
     <message numerus="yes">
         <source>%n occurrences replaced.</source>
@@ -22256,7 +22262,7 @@ You will likely experience further problems using this instance of %3.</source>
     </message>
     <message>
         <source>Cannot convert result of &quot;%1&quot; to string.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte konvertera resultatet av &quot;%1&quot; till sträng.</translation>
     </message>
     <message>
         <source>Evaluate simple JavaScript statements.&lt;br&gt;Literal &apos;}&apos; characters must be escaped as &quot;\}&quot;, &apos;\&apos; characters must be escaped as &quot;\\&quot;, and &quot;%{&quot; must be escaped as &quot;%\{&quot;.</source>
@@ -22272,7 +22278,7 @@ You will likely experience further problems using this instance of %3.</source>
     </message>
     <message>
         <source>Evaluate JavaScript</source>
-        <translation type="unfinished"></translation>
+        <translation>Evaluera JavaScript</translation>
     </message>
     <message>
         <source>Evaluates arbitrary JavaScript expressions and copies the result.</source>
@@ -22300,7 +22306,7 @@ You will likely experience further problems using this instance of %3.</source>
     </message>
     <message>
         <source>Copy to clipboard: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera till urklipp: %1</translation>
     </message>
     <message>
         <source>Locator: Error occurred when running &quot;%1&quot;.</source>
@@ -22362,7 +22368,7 @@ Double-click to edit item.</source>
     <message>
         <source>output.txt</source>
         <extracomment>default file name suggested for saving text from output views</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>output.txt</translation>
     </message>
     <message>
         <source>Save Contents...</source>
@@ -22374,7 +22380,7 @@ Double-click to edit item.</source>
     </message>
     <message>
         <source>Failed to open editor for &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att öppna redigerare för &quot;%1&quot;.</translation>
     </message>
     <message numerus="yes">
         <source>Elided %n characters due to Application Output settings</source>
@@ -22406,7 +22412,7 @@ Double-click to edit item.</source>
     </message>
     <message>
         <source>Note: The file will be saved before this operation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Observera: Filen kommer att sparas innan denna åtgärd.</translation>
     </message>
     <message>
         <source>There is no patch-command configured in the general &quot;Environment&quot; settings.</source>
@@ -22426,7 +22432,7 @@ Double-click to edit item.</source>
     </message>
     <message>
         <source>A timeout occurred running &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>En tidgräns överstegs vid körning av &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>&quot;%1&quot; crashed.</source>
@@ -22434,7 +22440,7 @@ Double-click to edit item.</source>
     </message>
     <message>
         <source>&quot;%1&quot; failed (exit code %2).</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; misslyckades (avslutskod %2).</translation>
     </message>
     <message>
         <source>Source</source>
@@ -22454,7 +22460,7 @@ Double-click to edit item.</source>
     </message>
     <message>
         <source>More than one plugin found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fler än en insticksmodul hittades.</translation>
     </message>
     <message>
         <source>Plugin failed to resolve dependencies:</source>
@@ -22470,19 +22476,19 @@ Double-click to edit item.</source>
     </message>
     <message>
         <source>Load plugin immediately</source>
-        <translation type="unfinished"></translation>
+        <translation>Läs in insticksmodul omedelbart</translation>
     </message>
     <message>
         <source>%1 will be installed into %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 kommer att installera till %2.</translation>
     </message>
     <message>
         <source>Accept Terms and Conditions</source>
-        <translation type="unfinished"></translation>
+        <translation>Godkänn villkoren</translation>
     </message>
     <message>
         <source>I accept the terms and conditions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jag godkänner villkoren.</translation>
     </message>
     <message>
         <source>Canceled.</source>
@@ -22490,7 +22496,7 @@ Double-click to edit item.</source>
     </message>
     <message>
         <source>There was an error while unarchiving.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det uppstod ett fel vid uppackning.</translation>
     </message>
     <message>
         <source>Archive is OK.</source>
@@ -22506,7 +22512,7 @@ Double-click to edit item.</source>
     </message>
     <message>
         <source>User plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Användarinsticksmoduler</translation>
     </message>
     <message>
         <source>The plugin will be available to all compatible %1 installations, but only for the current user.</source>
@@ -22530,7 +22536,7 @@ Double-click to edit item.</source>
     </message>
     <message>
         <source>The file &quot;%1&quot; exists. Overwrite?</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen &quot;%1&quot; finns. Skriva över?</translation>
     </message>
     <message>
         <source>Overwrite</source>
@@ -22550,7 +22556,7 @@ Double-click to edit item.</source>
     </message>
     <message>
         <source>Failed to Copy Plugin Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att kopiera insticksmodulfiler</translation>
     </message>
     <message>
         <source>unnamed</source>
@@ -22578,7 +22584,7 @@ Double-click to edit item.</source>
     </message>
     <message>
         <source>&lt;br/&gt;Built on %1 %2&lt;br/&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;br/&gt;Byggdes den %1 %2&lt;br/&gt;</translation>
     </message>
     <message>
         <source>Haskell Editor</source>
@@ -22614,11 +22620,11 @@ Double-click to edit item.</source>
     </message>
     <message>
         <source>Secret storage is not available! Your values will be stored as plaintext in the settings!</source>
-        <translation type="unfinished"></translation>
+        <translation>Hemlig lagring är inte tillgänglig! Dina värden kommer att lagras som ren text i inställningarna!</translation>
     </message>
     <message>
         <source>You can install libsecret or KWallet to enable secret storage.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du kan installera libsecret eller KWallet för att aktivera hemlig lagring.</translation>
     </message>
 </context>
 <context>
@@ -42779,7 +42785,7 @@ fails because Clang does not understand the target architecture.</source>
     </message>
     <message>
         <source>Detect x86_64 GCC compilers as x86_64 and x86</source>
-        <translation type="unfinished"></translation>
+        <translation>Identifiera x86_64 GCC-kompilatorer som x86_64 och x86</translation>
     </message>
     <message>
         <source>If checked, %1 will set up two instances of each x86_64 compiler:
@@ -42833,7 +42839,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Auto-detection Settings...</source>
-        <translation>Inställningar för automatisk identifering...</translation>
+        <translation>Inställningar för automatisk identifiering...</translation>
     </message>
     <message>
         <source>Duplicate Compilers Detected</source>
