@@ -39,9 +39,9 @@ Updating 'ifw_sv.qm'... (Tack för granskningen, Anders Jonsson)
 
 
 Updating 'qtcreator_sv.qm'...
-    Genererade 8617 översättningar (8617 slutförda och 0 oavslutade)
+    Genererade 8693 översättningar (8693 slutförda och 0 oavslutade)
     
-    Ignorerade 6408 oöversatta källtexter
+    Ignorerade 6332 oöversatta källtexter
 
 .
 
