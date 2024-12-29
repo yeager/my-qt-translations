@@ -30897,7 +30897,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Type Alt-Y, Alt-Y to quit FakeVim mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tryck Alt-Y, Alt-Y för att avsluta FakeVim-läget.</translation>
     </message>
     <message>
         <source>Unknown option:</source>
@@ -30913,7 +30913,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Move lines into themselves.</source>
-        <translation type="unfinished"></translation>
+        <translation>Flytta rader in i sig själva.</translation>
     </message>
     <message numerus="yes">
         <source>%n lines moved.</source>
@@ -30936,7 +30936,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Cannot open file &quot;%1&quot; for reading</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte öppna filen &quot;%1&quot; för läsning</translation>
     </message>
     <message numerus="yes">
         <source>%n lines filtered.</source>
@@ -30970,9 +30970,9 @@ Reason: %3</source>
     </message>
     <message numerus="yes">
         <source>%n lines %1ed %2 time.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n rad %1ed %2 gång.</numerusform>
+            <numerusform>%n rader %1ed %2 gånger.</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -31001,7 +31001,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Invalid regular expression: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltigt reguljärt uttryck: %1</translation>
     </message>
     <message>
         <source>Unknown option: %1</source>
@@ -31053,7 +31053,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Expand tabulators</source>
-        <translation type="unfinished"></translation>
+        <translation>Expandera tabulatorer</translation>
     </message>
     <message>
         <source>Show position of text marks</source>
@@ -31061,7 +31061,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Smart tabulators</source>
-        <translation type="unfinished"></translation>
+        <translation>Smarta tabulatorer</translation>
     </message>
     <message>
         <source>Highlight search results</source>
@@ -31077,7 +31077,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Tabulator size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabulatorstorlek:</translation>
     </message>
     <message>
         <source>Use tildeop</source>
@@ -31085,7 +31085,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Show line numbers relative to cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa radnummer relativt till markör</translation>
     </message>
     <message>
         <source>Blinking cursor</source>
@@ -31093,15 +31093,15 @@ Reason: %3</source>
     </message>
     <message>
         <source>Use system encoding for :source</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd systemenkoding för :source</translation>
     </message>
     <message>
         <source>Backspace:</source>
-        <translation type="unfinished"></translation>
+        <translation>Backsteg:</translation>
     </message>
     <message>
         <source>Keyword characters:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nyckelordstecken:</translation>
     </message>
     <message>
         <source>Copy Text Editor Settings</source>
@@ -31145,7 +31145,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Read .vimrc from location:</source>
-        <translation type="unfinished"></translation>
+        <translation>Läs .vimrc från plats:</translation>
     </message>
     <message>
         <source>Displays line numbers relative to the line containing text cursor.</source>
@@ -31177,13 +31177,13 @@ Reason: %3</source>
     </message>
     <message>
         <source>Saving succeeded</source>
-        <translation type="unfinished"></translation>
+        <translation>Sparning lyckades</translation>
     </message>
     <message numerus="yes">
         <source>%n files not saved</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n fil inte sparad</numerusform>
+            <numerusform>%n filer inte sparade</numerusform>
         </translation>
     </message>
     <message>
@@ -31196,7 +31196,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Not an editor command: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Inte ett redigerarkommando: %1</translation>
     </message>
     <message>
         <source>Ex Command Mapping</source>
@@ -31216,7 +31216,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Regular expression:</source>
-        <translation type="unfinished"></translation>
+        <translation>Reguljärt uttryck:</translation>
     </message>
     <message>
         <source>Invalid regular expression.</source>
@@ -31252,11 +31252,11 @@ Reason: %3</source>
     </message>
     <message>
         <source>User command #%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Användarkommando #%1</translation>
     </message>
     <message>
         <source>User Command Mapping</source>
-        <translation type="unfinished"></translation>
+        <translation>Mappning av användarkommando</translation>
     </message>
 </context>
 <context>
@@ -41552,7 +41552,7 @@ To develop a full application, create a Qt Quick Application project instead.</s
     </message>
     <message>
         <source>Creates a simple Nim application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapar ett enkelt Nim-program.</translation>
     </message>
     <message>
         <source>Nim Application</source>
@@ -41560,7 +41560,7 @@ To develop a full application, create a Qt Quick Application project instead.</s
     </message>
     <message>
         <source>This wizard generates a Qt Widgets Application project. The application derives by default from QApplication and includes an empty widget.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denna guide generera ett Qt Widgets-programprojekt. Programmet härleder som standard från QApplication och inkluderar en tom widget.</translation>
     </message>
     <message>
         <source>Generate form</source>
@@ -41608,7 +41608,7 @@ To develop a full application, create a Qt Quick Application project instead.</s
     </message>
     <message>
         <source>Window UI</source>
-        <translation type="unfinished"></translation>
+        <translation>Fönstergränssnitt</translation>
     </message>
     <message>
         <source>&lt;Custom&gt;</source>
@@ -41644,15 +41644,15 @@ To develop a full application, create a Qt Quick Application project instead.</s
     </message>
     <message>
         <source>Creates a Qt Quick application that contains an empty window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapar ett Qt Quick-program som innehåller ett tomt fönster.</translation>
     </message>
     <message>
         <source>Qt Quick Application - Empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt Quick-program - Tom</translation>
     </message>
     <message>
         <source>Creates a Qt for Python application that contains only the main code for a QApplication.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapar ett Qt för Python-program som innehåller endast huvudkoden för ett QApplication.</translation>
     </message>
     <message>
         <source>Empty Application</source>
@@ -41660,7 +41660,7 @@ To develop a full application, create a Qt Quick Application project instead.</s
     </message>
     <message>
         <source>This wizard creates a simple Qt-based console application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denna guide skapar ett enkelt Qt-baserat konsollprogram.</translation>
     </message>
     <message>
         <source>Qt Console Application</source>
@@ -41668,15 +41668,15 @@ To develop a full application, create a Qt Quick Application project instead.</s
     </message>
     <message>
         <source>Google Test</source>
-        <translation type="unfinished"></translation>
+        <translation>Google Test</translation>
     </message>
     <message>
         <source>Qt Quick Test</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt Quick-test</translation>
     </message>
     <message>
         <source>Boost Test</source>
-        <translation type="unfinished"></translation>
+        <translation>Boost-test</translation>
     </message>
     <message>
         <source>Catch2</source>
@@ -41688,15 +41688,15 @@ To develop a full application, create a Qt Quick Application project instead.</s
     </message>
     <message>
         <source>GUI Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Grafiskt program</translation>
     </message>
     <message>
         <source>Test suite name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Testsvitnamn:</translation>
     </message>
     <message>
         <source>Test case name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Testfallsnamn:</translation>
     </message>
     <message>
         <source>Requires QApplication</source>
@@ -41704,7 +41704,7 @@ To develop a full application, create a Qt Quick Application project instead.</s
     </message>
     <message>
         <source>Generate setup code</source>
-        <translation type="unfinished"></translation>
+        <translation>Generera konfigurationskod</translation>
     </message>
     <message>
         <source>Generate initialization and cleanup code</source>
@@ -41716,7 +41716,7 @@ To develop a full application, create a Qt Quick Application project instead.</s
     </message>
     <message>
         <source>Creates a project with a structure that is compatible both with Qt Design Studio (via .qmlproject) and with Qt Creator (via CMakeLists.txt). It contains a .ui.qml form that you can visually edit in Qt Design Studio.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapar ett projekt med en struktur som är kompatibel med både Qt Design Studio (via .qmlproject) och med Qt Creator (via CMakeLists.txt). Det innehåller ett .ui.qml-formulär som du visuellt kan redigera i Qt Design Studio.</translation>
     </message>
     <message>
         <source>Qt 6.4</source>
@@ -41728,37 +41728,43 @@ To develop a full application, create a Qt Quick Application project instead.</s
     </message>
     <message>
         <source>The minimum version of Qt you want to build the application for</source>
-        <translation type="unfinished"></translation>
+        <translation>Minsta versionen av Qt som du vill bygga programmet för</translation>
     </message>
     <message>
         <source>Creates a Qt Quick application that can have both QML and C++ code. You can build the application and deploy it to desktop, embedded, and mobile target platforms.
 
 You can select an option to create a project that you can open in Qt Design Studio, which has a visual editor for Qt Quick UIs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapar ett Qt Quick-program som kan ha både QML och C++-kod. Du kan bygga programmet och distribuera det till skrivbord, inbäddade och mobila målplattformar.
+
+Du kan välja ett alternativ för att skapa ett projekt som du kan öppna i Qt Design Studio, som har en visuell redigerare för Qt Quick-gränssnitt.</translation>
     </message>
     <message>
         <source>Creates a Qt Quick application that contains an empty window.
 
 Use this &quot;compat&quot; version if you want to use other build systems than CMake or Qt versions lower than 6.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapar ett Qt Quick-program som innehåller ett tomt fönster.
+
+Använd denna &quot;compat&quot;-version om du vill använda andra byggsystem än CMake eller Qt-versioner lägre än 6.</translation>
     </message>
     <message>
         <source>Qt Quick Application (compat)</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt Quick-program (compat)</translation>
     </message>
     <message>
         <source>Creates a widget-based Qt application that contains a Qt Widgets Designer-based main window and C++ source and header files to implement the application logic.
 
 Preselects a desktop Qt for building the application if available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapar ett widget-baserat Qt-program som innehåller ett Qt Widgets Designer-baserat huvudfönster och C++-källkod och header-filer för att implementera programlogiken.
+
+Förväljer en skrivbordsbaserad Qt för att bygga programmet om tillgängligt.</translation>
     </message>
     <message>
         <source>This wizard creates a simple unit test project using Qt Test.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denna guide skapar ett enkelt enhetstestprojekt med Qt Test.</translation>
     </message>
     <message>
         <source>Creates a new unit test project using Qt Test. Unit tests allow you to verify that the code is fit for use and that there are no regressions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapar ett nytt enhetstestprojekt med Qt Test. Enhetstester låter dig verifiera att koden passar för användning och att det inte finns några regressioner.</translation>
     </message>
     <message>
         <source>Test Project</source>
@@ -41770,11 +41776,11 @@ Preselects a desktop Qt for building the application if available.</source>
     </message>
     <message>
         <source>This wizard creates a simple unit test project using Qt Quick Test.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denna guide skapar ett enkelt enhetstestprojekt med Qt Quick Test.</translation>
     </message>
     <message>
         <source>Creates a new unit test project using Qt Quick Test. Unit tests allow you to verify that the code is fit for use and that there are no regressions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapar ett nytt enhetstestprojekt med Qt Quick Test. Enhetstester låter dig verifiera att koden passar för användning och att det inte finns några regressioner.</translation>
     </message>
     <message>
         <source>Qt Quick Test Project</source>
@@ -41782,43 +41788,43 @@ Preselects a desktop Qt for building the application if available.</source>
     </message>
     <message>
         <source>This wizard creates a simple unit test project using Google Test.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denna guide skapara ett enkelt enhetstestprojekt med Google Test.</translation>
     </message>
     <message>
         <source>Google Test (header only)</source>
-        <translation type="unfinished"></translation>
+        <translation>Google Test (endast header)</translation>
     </message>
     <message>
         <source>Google Test (shared libraries)</source>
-        <translation type="unfinished"></translation>
+        <translation>Google Test (delade bibliotek)</translation>
     </message>
     <message>
         <source>Googletest install directory (optional):</source>
-        <translation type="unfinished"></translation>
+        <translation>Installationskatalog för Googletest (valfritt):</translation>
     </message>
     <message>
         <source>Creates a new unit test project using Google Test. Unit tests allow you to verify that the code is fit for use and that there are no regressions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapar ett nytt enhetstestprojekt med Google Test. Enhetstester låter dig att verifiera att koden passar för användning och att det inte finns några regressioner.</translation>
     </message>
     <message>
         <source>Google Test Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Google Test-projekt</translation>
     </message>
     <message>
         <source>This wizard creates a simple unit test project using Boost.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denna guide skapar ett enkelt enhetstestprojekt med Boost.</translation>
     </message>
     <message>
         <source>Boost Test (header only)</source>
-        <translation type="unfinished"></translation>
+        <translation>Boost Test (endast header)</translation>
     </message>
     <message>
         <source>Boost Test (shared libraries)</source>
-        <translation type="unfinished"></translation>
+        <translation>Boost Test (delade bibliotek)</translation>
     </message>
     <message>
         <source>Googletest source directory (optional):</source>
-        <translation type="unfinished"></translation>
+        <translation>Källkatalog för Googletest (valfritt):</translation>
     </message>
     <message>
         <source>Boost include directory (optional):</source>
@@ -41838,7 +41844,7 @@ Preselects a desktop Qt for building the application if available.</source>
     </message>
     <message>
         <source>Project and Test Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Projekt- och testinformation</translation>
     </message>
     <message>
         <source>Qt for Python module:</source>
@@ -41870,39 +41876,39 @@ Preselects a desktop Qt for building the application if available.</source>
     </message>
     <message>
         <source>Creates a new unit test project using Boost. Unit tests allow you to verify that the code is fit for use and that there are no regressions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapar ett nytt enhetstestprojekt med Boost. Enhetstester låter dig verifiera att koden passar för användning och att det inte finns några regressioner.</translation>
     </message>
     <message>
         <source>Boost Test Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Boost Test-projekt</translation>
     </message>
     <message>
         <source>This wizard creates a simple unit test project using Catch2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denna guide skapar ett enkelt enhetstestprojekt med Catch2.</translation>
     </message>
     <message>
         <source>Catch2 v2 (header only)</source>
-        <translation type="unfinished"></translation>
+        <translation>Catch2 v2 (endast header)</translation>
     </message>
     <message>
         <source>Catch2 v3 (shared libraries)</source>
-        <translation type="unfinished"></translation>
+        <translation>Catch2 v3 (delade bibliotek)</translation>
     </message>
     <message>
         <source>Catch2 install directory (optional):</source>
-        <translation type="unfinished"></translation>
+        <translation>Installationskatalog för Catch2 (valfritt):</translation>
     </message>
     <message>
         <source>Use own main</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd egen main</translation>
     </message>
     <message>
         <source>Creates a new unit test project using Catch2. Unit tests allow you to verify that the code is fit for use and that there are no regressions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapar ett nytt enhetstestprojekt med Catch2. Enhetstester låter dig verifiera att koden passar för användning och att det inte finns några regressioner.</translation>
     </message>
     <message>
         <source>Catch2 Test Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Catch2-testprojekt</translation>
     </message>
     <message>
         <source>Python Class</source>
@@ -41914,7 +41920,7 @@ Preselects a desktop Qt for building the application if available.</source>
     </message>
     <message>
         <source>Items are editable</source>
-        <translation type="unfinished"></translation>
+        <translation>Objekten är redigerbara</translation>
     </message>
     <message>
         <source>Rows and columns can be added</source>
@@ -41946,7 +41952,7 @@ Preselects a desktop Qt for building the application if available.</source>
     </message>
     <message>
         <source>Fully qualified name, including namespaces</source>
-        <translation type="unfinished"></translation>
+        <translation>Fullt kvalificerat namn, inklusive namnrymder</translation>
     </message>
     <message>
         <source>Include QObject</source>
@@ -41974,7 +41980,7 @@ Preselects a desktop Qt for building the application if available.</source>
     </message>
     <message>
         <source>Creates a C++ header and a source file for a new class that you can add to a C++ project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapar en C++-header och en källkodsfil för en ny klass som du kan lägga till ett C++-projekt.</translation>
     </message>
     <message>
         <source>C/C++</source>
@@ -41990,7 +41996,7 @@ Preselects a desktop Qt for building the application if available.</source>
     </message>
     <message>
         <source>Creates a CMake-based test project for which a code snippet can be entered.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapar ett CMake-baserat testprojekt för vilket en kodsnutt kan anges.</translation>
     </message>
     <message>
         <source>QtCore</source>
@@ -42050,11 +42056,11 @@ Preselects a desktop Qt for building the application if available.</source>
     </message>
     <message>
         <source>Model Name and Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Modellnamn och plats</translation>
     </message>
     <message>
         <source>Creates a new empty model with an empty diagram.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapar en ny tom modell med ett tomt diagram.</translation>
     </message>
     <message>
         <source>Model</source>
@@ -42222,15 +42228,15 @@ Preselects a desktop Qt for building the application if available.</source>
     </message>
     <message>
         <source>QML File (Qt Quick 2)</source>
-        <translation type="unfinished"></translation>
+        <translation>QML-fil (Qt Quick 2)</translation>
     </message>
     <message>
         <source>This wizard creates a custom Qt Creator plugin.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denna guide skapar en anpassad Qt Creator-insticksmodul.</translation>
     </message>
     <message>
         <source>Specify details about your custom Qt Creator plugin.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange detaljer om din anpassade Qt Creator-insticksmodul.</translation>
     </message>
     <message>
         <source>MyCompany</source>
@@ -42266,15 +42272,15 @@ Preselects a desktop Qt for building the application if available.</source>
     </message>
     <message>
         <source>&lt;No other projects in this session&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Inga andra projekt i denna session&gt;</translation>
     </message>
     <message>
         <source>Deploy dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuera beroenden</translation>
     </message>
     <message>
         <source>Do not just build dependencies, but deploy them as well.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bygg inte bara beroenden, distribuera dem också.</translation>
     </message>
     <message>
         <source>Dependencies</source>
@@ -42308,7 +42314,7 @@ The name of the build configuration created by default for a generic project.</e
     </message>
     <message>
         <source>Kit ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Kit-id</translation>
     </message>
     <message>
         <source>Kit filesystem-friendly name</source>
@@ -42316,7 +42322,7 @@ The name of the build configuration created by default for a generic project.</e
     </message>
     <message>
         <source>The name of the kit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Namnet för kitet.</translation>
     </message>
     <message>
         <source>The name of the kit in a filesystem-friendly version.</source>
@@ -42360,7 +42366,7 @@ The name of the build configuration created by default for a generic project.</e
     </message>
     <message>
         <source>&lt;b&gt;Deploy:&lt;/b&gt; %1</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Distribuera:&lt;/b&gt; %1</translation>
     </message>
     <message>
         <source>&lt;b&gt;Run:&lt;/b&gt; %1</source>
@@ -42376,7 +42382,7 @@ The name of the build configuration created by default for a generic project.</e
     </message>
     <message>
         <source>Deploy: &lt;b&gt;%1&lt;/b&gt;&lt;br/&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuera: &lt;b&gt;%1&lt;/b&gt;&lt;br/&gt;</translation>
     </message>
     <message>
         <source>Run: &lt;b&gt;%1&lt;/b&gt;&lt;br/&gt;</source>
@@ -42392,7 +42398,7 @@ The name of the build configuration created by default for a generic project.</e
     </message>
     <message>
         <source>Other Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Annat projekt</translation>
     </message>
     <message>
         <source>Import Project</source>
@@ -42455,7 +42461,7 @@ The name of the build configuration created by default for a generic project.</e
     <message>
         <source>%1: Full path to Project Directory.</source>
         <extracomment>%1 is something like &quot;Active project&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1: Fullständig sökväg till projektkatalog.</translation>
     </message>
     <message>
         <source>%1: The name of the active kit.</source>
@@ -42516,7 +42522,7 @@ The name of the build configuration created by default for a generic project.</e
     </message>
     <message>
         <source>Some configurations could not be copied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Några konfigurationer kunde inte kopieras.</translation>
     </message>
     <message>
         <source>&amp;Configure Project</source>
@@ -42548,7 +42554,7 @@ The name of the build configuration created by default for a generic project.</e
     </message>
     <message>
         <source>Disable Kit for Project &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Inaktivera kit för projektet &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Cancel Build and Disable Kit in This Project</source>
