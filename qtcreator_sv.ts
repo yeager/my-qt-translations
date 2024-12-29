@@ -34913,7 +34913,7 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Use the current settings for background, outline, and fitting to screen as the default for new image viewers. Current default:</source>
-        <translation>Använd aktuella inställningar för bakgrund, kontur och anpassning till skärm som standard för nya bildvisare. Aktuell standard:</translation>
+        <translation>Använd aktuella inställningar för bakgrund, översikt och anpassning till skärm som standard för nya bildvisare. Aktuell standard:</translation>
     </message>
     <message>
         <source>Background: %1</source>
@@ -34921,7 +34921,7 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Outline: %1</source>
-        <translation>Kontur: %1</translation>
+        <translation>Översikt: %1</translation>
     </message>
     <message>
         <source>Fit to Screen: %1</source>
@@ -34949,7 +34949,7 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Switch Outline</source>
-        <translation>Växla kontur</translation>
+        <translation>Växla översikt</translation>
     </message>
     <message>
         <source>Toggle Animation</source>
@@ -54209,11 +54209,11 @@ A value less than 100% can result in overlapping and misaligned graphics.</sourc
     </message>
     <message>
         <source>Open Call Hierarchy</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna anropshierarki</translation>
     </message>
     <message>
         <source>Open Type Hierarchy</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna typhierarki</translation>
     </message>
     <message>
         <source>Meta+Shift+T</source>
@@ -55332,11 +55332,11 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>Download Definitions</source>
-        <translation type="unfinished"></translation>
+        <translation>Hämta definitioner</translation>
     </message>
     <message>
         <source>No outline available</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen översikt tillgänglig</translation>
     </message>
     <message>
         <source>Synchronize with Editor</source>
@@ -59937,7 +59937,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Show Definition</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa definition</translation>
     </message>
     <message>
         <source>Inheritance</source>
@@ -59953,11 +59953,11 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Open Diagram</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna diagram</translation>
     </message>
     <message>
         <source>Create Diagram</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa diagram</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -59965,51 +59965,51 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Align Objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Justera objekt</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Justera åt vänster</translation>
     </message>
     <message>
         <source>Center Vertically</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrera vertikalt</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Justera åt höger</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Justera överst</translation>
     </message>
     <message>
         <source>Center Horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrera horisontellt</translation>
     </message>
     <message>
         <source>Open Linked File</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna länkad fil</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Justera nederst</translation>
     </message>
     <message>
         <source>Same Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Samma bredd</translation>
     </message>
     <message>
         <source>Same Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Samma höjd</translation>
     </message>
     <message>
         <source>Same Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Samma storlek</translation>
     </message>
     <message>
         <source>Layout Objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg ut objekt</translation>
     </message>
     <message>
         <source>Equal Horizontal Distance</source>
@@ -60037,11 +60037,11 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>New Component</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny komponent</translation>
     </message>
     <message>
         <source>New Diagram</source>
-        <translation type="unfinished"></translation>
+        <translation>Nytt diagram</translation>
     </message>
     <message>
         <source>Unacceptable null object.</source>
@@ -60053,43 +60053,43 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Unable to create file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte skapa filen.</translation>
     </message>
     <message>
         <source>Writing to file failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrivning till fil misslyckades.</translation>
     </message>
     <message>
         <source>Reading from file failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Läsning från fil misslyckades.</translation>
     </message>
     <message>
         <source>Illegal XML file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig XML-fil.</translation>
     </message>
     <message>
         <source>Unable to handle file version %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte hantera filversionen %1.</translation>
     </message>
     <message>
         <source>Change Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra objekt</translation>
     </message>
     <message>
         <source>Change Relation</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra relation</translation>
     </message>
     <message>
         <source>Move Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Flytta objekt</translation>
     </message>
     <message>
         <source>Move Relation</source>
-        <translation type="unfinished"></translation>
+        <translation>Flytta relation</translation>
     </message>
     <message>
         <source>Delete Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort objekt</translation>
     </message>
     <message>
         <source>Add Relation</source>
@@ -60097,11 +60097,11 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Delete Relation</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort relation</translation>
     </message>
     <message>
         <source>[unnamed]</source>
-        <translation type="unfinished"></translation>
+        <translation>[namnlös]</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -60113,7 +60113,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Diagram Elements</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagramelement</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -60125,7 +60125,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filter</translation>
     </message>
     <message>
         <source>Type:</source>
@@ -60185,7 +60185,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Namespace:</source>
-        <translation type="unfinished"></translation>
+        <translation>Namnrymd:</translation>
     </message>
     <message>
         <source>Template:</source>
@@ -60193,11 +60193,11 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Clean Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Rensa upp</translation>
     </message>
     <message>
         <source>Members:</source>
-        <translation type="unfinished"></translation>
+        <translation>Medlemmar:</translation>
     </message>
     <message>
         <source>Component</source>
@@ -60217,7 +60217,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Elements:</source>
-        <translation type="unfinished"></translation>
+        <translation>Element:</translation>
     </message>
     <message>
         <source>Canvas Diagram</source>
@@ -60289,7 +60289,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Composition</source>
-        <translation type="unfinished"></translation>
+        <translation>Komposition</translation>
     </message>
     <message>
         <source>Relationship:</source>
@@ -60305,7 +60305,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Position and size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Position och storlek:</translation>
     </message>
     <message>
         <source>Auto sized</source>
@@ -60321,11 +60321,11 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Lighter</source>
-        <translation type="unfinished"></translation>
+        <translation>Ljusare</translation>
     </message>
     <message>
         <source>Darker</source>
-        <translation type="unfinished"></translation>
+        <translation>Mörkare</translation>
     </message>
     <message>
         <source>Soften</source>
@@ -60333,7 +60333,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Översikt</translation>
     </message>
     <message>
         <source>Flat</source>
@@ -60357,7 +60357,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Decoration</source>
-        <translation type="unfinished"></translation>
+        <translation>Dekoration</translation>
     </message>
     <message>
         <source>Icon</source>
@@ -60370,7 +60370,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Depth:</source>
-        <translation type="unfinished"></translation>
+        <translation>Djup:</translation>
     </message>
     <message>
         <source>Box</source>
@@ -60395,7 +60395,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Shape:</source>
-        <translation type="unfinished"></translation>
+        <translation>Form:</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -60419,11 +60419,11 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Annotations</source>
-        <translation type="unfinished"></translation>
+        <translation>Anteckningar</translation>
     </message>
     <message>
         <source>Auto width</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisk bredd</translation>
     </message>
     <message>
         <source>Title</source>
@@ -60431,11 +60431,11 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Subtitle</source>
-        <translation type="unfinished"></translation>
+        <translation>Undertext</translation>
     </message>
     <message>
         <source>Footnote</source>
-        <translation type="unfinished"></translation>
+        <translation>Fotnotis</translation>
     </message>
     <message>
         <source>Boundary</source>
@@ -60455,7 +60455,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Invalid syntax.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig syntax.</translation>
     </message>
     <message>
         <source>Multi-Selection</source>
@@ -60463,15 +60463,15 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Missing file name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Saknar filnamn.</translation>
     </message>
     <message>
         <source>Project is modified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Projektet är ändrat.</translation>
     </message>
     <message>
         <source>Create Dependency</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa beroende</translation>
     </message>
     <message>
         <source>Create Inheritance</source>
@@ -60483,7 +60483,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Create Connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa anslutning</translation>
     </message>
     <message>
         <source>Drop Element</source>
@@ -60491,11 +60491,11 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Add Related Element</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till relaterat element</translation>
     </message>
     <message>
         <source>Add Element</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till element</translation>
     </message>
     <message>
         <source>Relocate Relation</source>
@@ -60523,7 +60523,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Number of matching elements: </source>
-        <translation type="unfinished"></translation>
+        <translation>Antal matchande element: </translation>
     </message>
 </context>
 <context>
