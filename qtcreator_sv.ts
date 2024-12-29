@@ -1287,7 +1287,7 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Live</source>
-        <translation type="unfinished"></translation>
+        <translation>Live</translation>
     </message>
 </context>
 <context>
@@ -2299,19 +2299,19 @@ Detta går inte att ångra.</translation>
     <name>ContentLibraryMaterialsView</name>
     <message>
         <source>&lt;b&gt;Content Library&lt;/b&gt; materials are not supported in Qt5 projects.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Innehållsbibliotek&lt;/b&gt;-material stöds inte i Qt5-projekt.</translation>
     </message>
     <message>
         <source>To use &lt;b&gt;Content Library&lt;/b&gt;, first add the QtQuick3D module in the &lt;b&gt;Components&lt;/b&gt; view.</source>
-        <translation type="unfinished"></translation>
+        <translation>För att använda &lt;b&gt;Innehållsbibliotek&lt;/b&gt;, lägg först till QtQuick3D-modulen i &lt;b&gt;Komponenter&lt;/b&gt;-vyn.</translation>
     </message>
     <message>
         <source>To use &lt;b&gt;Content Library&lt;/b&gt;, version 6.3 or later of the QtQuick3D module is required.</source>
-        <translation type="unfinished"></translation>
+        <translation>För att använda &lt;b&gt;Innehållsbibliotek&lt;/b&gt; krävs version 6.3 eller senare av QtQuick3D-modulen.</translation>
     </message>
     <message>
         <source>&lt;b&gt;Content Library&lt;/b&gt; is disabled inside a non-visual component.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Innehållsbibliotek&lt;/b&gt; är inaktiverad för icke-visuella komponenter.</translation>
     </message>
     <message>
         <source>No materials available. Make sure you have an internet connection.</source>
@@ -2496,7 +2496,7 @@ Detta går inte att ångra.</translation>
     </message>
     <message>
         <source>Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Avstånd</translation>
     </message>
     <message>
         <source>Wheel</source>
@@ -2588,7 +2588,7 @@ Detta går inte att ångra.</translation>
     </message>
     <message>
         <source>Target Qt Version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt-version som mål:</translation>
     </message>
     <message>
         <source>Save Custom Preset</source>
@@ -2604,7 +2604,7 @@ Detta går inte att ångra.</translation>
     </message>
     <message>
         <source>MyPreset</source>
-        <translation type="unfinished"></translation>
+        <translation>MittFörval</translation>
     </message>
 </context>
 <context>
@@ -2714,7 +2714,7 @@ defined in &lt;b&gt;Step size&lt;/b&gt;.</source>
     </message>
     <message>
         <source>Network or example is not available or the link is broken.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nätverk eller exemplet finns inte tillgängligt eller så är länken trasig.</translation>
     </message>
     <message>
         <source>Download the example.</source>
@@ -2825,7 +2825,7 @@ defined in &lt;b&gt;Step size&lt;/b&gt;.</source>
     <message>
         <source>Effect Composer is disabled on MCU projects</source>
         <translatorcomment>n&apos;est pas pris en charge ?</translatorcomment>
-        <translation type="unfinished"></translation>
+        <translation>Effektkompositör är inaktivera för MCU-projekt</translation>
     </message>
 </context>
 <context>
@@ -2938,15 +2938,15 @@ defined in &lt;b&gt;Step size&lt;/b&gt;.</source>
     </message>
     <message>
         <source>Save current composition</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara aktuell komposition</translation>
     </message>
     <message>
         <source>Save current composition with a new name</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara aktuell komposition med ett nytt namn</translation>
     </message>
     <message>
         <source>Assign current composition to selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilldela aktuell komposition till markerat objekt</translation>
     </message>
     <message>
         <source>Untitled</source>
@@ -2959,7 +2959,12 @@ defined in &lt;b&gt;Step size&lt;/b&gt;.</source>
 3. Change the order of the effects, if you like
 4. See the preview
 5. Save in the assets library, if you wish to reuse the effect later</source>
-        <translation type="unfinished"></translation>
+        <translation>Hur man använder Effektkompositör:
+1. Klicka på &quot;+ Lägg till effekt&quot; för att lägga till effektnod
+2. Justera egenskaper för effektnoderna
+3. Ändra ordningen på effekterna, om du vill
+4. Titta på förhandsvisningen
+5. Spara i tillgångsbiblioteket om du vill återanvända effekten senare</translation>
     </message>
 </context>
 <context>
@@ -3467,7 +3472,7 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Avstånd</translation>
     </message>
 </context>
 <context>
@@ -3795,7 +3800,7 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Sets the space between the items in pixels in the rows and columns in the &lt;b&gt;Grid Layout&lt;/b&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in avståndet mellan objekt i pixlar för kolumner och rader i &lt;b&gt;Rutnätslayout&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Flow</source>
@@ -3886,7 +3891,7 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Avstånd</translation>
     </message>
 </context>
 <context>
@@ -4329,7 +4334,7 @@ Ids must begin with a lowercase letter.</source>
     </message>
     <message>
         <source>Sets the transparency of the component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in transparensen för komponenten.</translation>
     </message>
     <message>
         <source>Layout</source>
@@ -4769,51 +4774,51 @@ a highlight component.</source>
     <name>Main</name>
     <message>
         <source>Rename state group</source>
-        <translation type="unfinished"></translation>
+        <translation>Byt namn på tillståndsgrupp</translation>
     </message>
     <message>
         <source>State Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillståndsgrupp</translation>
     </message>
     <message>
         <source>State Groups are not supported with Qt for MCUs</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillståndsgrupper stöds inte med Qt för MCUer</translation>
     </message>
     <message>
         <source>Switch State Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Växla tillståndsgrupp</translation>
     </message>
     <message>
         <source>Create State Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa tillståndsgrupp</translation>
     </message>
     <message>
         <source>Remove State Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort tillståndsgrupp</translation>
     </message>
     <message>
         <source>Rename State Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Byt namn på tillståndsgrupp</translation>
     </message>
     <message>
         <source>Show thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa miniatyrbilder</translation>
     </message>
     <message>
         <source>Show property changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa egenskapsändringar</translation>
     </message>
     <message>
         <source>Can&apos;t rename category, name already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte byta namn på kategori, namnet finns redan.</translation>
     </message>
     <message>
         <source>Tracking</source>
-        <translation type="unfinished"></translation>
+        <translation>Spårning</translation>
     </message>
     <message>
         <source>With tracking turned on, the application tracks user interactions for all component types in the selected predefined categories.</source>
-        <translation type="unfinished"></translation>
+        <translation>Med spårning aktiverat kommer programmet att spåra användarinteraktioner för alla komponenttyper i valda fördefinierade kategorier.</translation>
     </message>
     <message>
         <source>Enabled</source>
@@ -4825,19 +4830,19 @@ a highlight component.</source>
     </message>
     <message>
         <source>Token</source>
-        <translation type="unfinished"></translation>
+        <translation>Token</translation>
     </message>
     <message>
         <source>Tokens are used to match the data your application sends to your Qt Insight Organization.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tokens används för att matcha datat som ditt program skickar till din Qt Insight Organization.</translation>
     </message>
     <message>
         <source>Add token here</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till token här</translation>
     </message>
     <message>
         <source>Send Cadence</source>
-        <translation type="unfinished"></translation>
+        <translation>Skicka kadens</translation>
     </message>
     <message>
         <source>minutes</source>
@@ -4845,7 +4850,7 @@ a highlight component.</source>
     </message>
     <message>
         <source>Set runtime configuration for the project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställ in körtidskonfiguration för projektet.</translation>
     </message>
     <message>
         <source>Kit</source>
@@ -4853,7 +4858,7 @@ a highlight component.</source>
     </message>
     <message>
         <source>Choose a predefined kit for the runtime configuration of the project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj ett fördefinierat kit för körtidskonfigurationen för projektet.</translation>
     </message>
     <message>
         <source>Style</source>
@@ -4861,11 +4866,11 @@ a highlight component.</source>
     </message>
     <message>
         <source>Choose a style for the Qt Quick Controls of the project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en stil för Qt Quick-kontroller för projektet.</translation>
     </message>
     <message>
         <source>Show issues.</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa problem.</translation>
     </message>
     <message>
         <source>Show application output.</source>
@@ -4889,7 +4894,7 @@ a highlight component.</source>
     </message>
     <message>
         <source>Live Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Live-förhandsvisning</translation>
     </message>
     <message>
         <source>Go Back</source>
@@ -4906,7 +4911,7 @@ a highlight component.</source>
     <message>
         <source>Sets the visible &lt;b&gt;Views&lt;/b&gt; to immovable across the Workspaces.</source>
         <translatorcomment>Vues ?</translatorcomment>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in synliga &lt;b&gt;Vyer&lt;/b&gt; till oflyttbara runt alla arbetsytor.</translation>
     </message>
     <message>
         <source> Workspace</source>
@@ -4926,11 +4931,11 @@ a highlight component.</source>
     </message>
     <message>
         <source>Sharing your project online is disabled in the Community Version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Delning av ditt projekt på nätet är inaktiverat i Community Version.</translation>
     </message>
     <message>
         <source>More Items</source>
-        <translation type="unfinished"></translation>
+        <translation>Fler objekt</translation>
     </message>
     <message>
         <source>Connections</source>
@@ -4938,7 +4943,7 @@ a highlight component.</source>
     </message>
     <message>
         <source>Sets logical connection between the components and the signals.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in logisk anslutning mellan komponenter och signaler.</translation>
     </message>
     <message>
         <source>Bindings</source>
@@ -4946,7 +4951,7 @@ a highlight component.</source>
     </message>
     <message>
         <source>Sets the relation between the properties of two components to bind them together.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in relationen mellan egenskaperna för två komponenter för att binda dem samman.</translation>
     </message>
     <message>
         <source>Properties</source>
@@ -4954,11 +4959,11 @@ a highlight component.</source>
     </message>
     <message>
         <source>Sets an additional property for the component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in ytterligare egenskap för komponenten.</translation>
     </message>
     <message>
         <source>Adds a Connection, Binding, or Custom Property to the components.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägger till en anslutning, bindning eller anpassad egenskap till komponenterna.</translation>
     </message>
 </context>
 <context>
@@ -6232,7 +6237,7 @@ operation is in progress.</source>
     </message>
     <message>
         <source>Could not open wallet: %1; %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte öppna plånbok: %1, %2</translation>
     </message>
 </context>
 <context>
@@ -6941,7 +6946,7 @@ Exporting assets: %2</source>
     </message>
     <message>
         <source>Binds this component to the parent&apos;s selected property.</source>
-        <translation type="unfinished"></translation>
+        <translation>Binder denna komponent till förälderns valda egenskap.</translation>
     </message>
 </context>
 <context>
@@ -7247,7 +7252,7 @@ Exporting assets: %2</source>
     <name>QmlDesigner::DocumentWarningWidget</name>
     <message>
         <source>Cannot open this QML document because of an error in the QML file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte öppna detta QML-dokument på grund av ett fel i QML-filen:</translation>
     </message>
     <message>
         <source>OK</source>
@@ -7255,11 +7260,11 @@ Exporting assets: %2</source>
     </message>
     <message>
         <source>Turn off warnings about unsupported Qt Design Studio features.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stäng av varningar om funktioner som inte stöds i Qt Design Studio.</translation>
     </message>
     <message>
         <source>This QML file contains features which are not supported by Qt Design Studio at:</source>
-        <translation type="unfinished"></translation>
+        <translation>Denna QML-fil innehåller funktioner som inte stöds av Qt Design Studio på:</translation>
     </message>
     <message>
         <source>Ignore</source>
@@ -7922,7 +7927,7 @@ Kontrollera utdatapanelen för mer information.</translation>
     <name>QmlDesigner::Import3dImporter</name>
     <message>
         <source>Could not create a temporary directory for import.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte skapa en temporärkatalog för import.</translation>
     </message>
     <message>
         <source>Importing 3D assets.</source>
@@ -7946,7 +7951,7 @@ Kontrollera utdatapanelen för mer information.</translation>
     </message>
     <message>
         <source>Import failed for unknown reason.</source>
-        <translation type="unfinished"></translation>
+        <translation>Importen misslyckades av okänd anledning.</translation>
     </message>
     <message>
         <source>Asset import process failed: &quot;%1&quot;.</source>
@@ -7974,7 +7979,7 @@ Kontrollera utdatapanelen för mer information.</translation>
     </message>
     <message>
         <source>Removing old overwritten assets.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tar bort gamla överskrivna tillgångar.</translation>
     </message>
     <message>
         <source>Copying asset files.</source>
@@ -8007,7 +8012,7 @@ Kontrollera utdatapanelen för mer information.</translation>
     </message>
     <message>
         <source>Updating data model.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdaterar datamodell.</translation>
     </message>
     <message>
         <source>Failed to insert import statement into qml document.</source>
@@ -8015,7 +8020,7 @@ Kontrollera utdatapanelen för mer information.</translation>
     </message>
     <message>
         <source>Failed to update imports: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att uppdatera importer: %1</translation>
     </message>
 </context>
 <context>
@@ -9141,7 +9146,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>This state is not empty. Are you sure you want to remove it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Detta tillstånd är inte tomt. Är du säker på att du vill ta bort det?</translation>
     </message>
     <message>
         <source>Locked components:</source>
@@ -9149,15 +9154,15 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Removing this state will modify locked components.</source>
-        <translation type="unfinished"></translation>
+        <translation>Borttagning av detta tillstånd kommer ändra låsta komponenter.</translation>
     </message>
     <message>
         <source>Continue by removing the state?</source>
-        <translation type="unfinished"></translation>
+        <translation>Fortsätta att tar bort tillståndet?</translation>
     </message>
     <message>
         <source>base state</source>
-        <translation type="unfinished"></translation>
+        <translation>grundtillstånd</translation>
     </message>
 </context>
 <context>
@@ -9562,7 +9567,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Base State</source>
-        <translation type="unfinished"></translation>
+        <translation>Grundtillstånd</translation>
     </message>
     <message>
         <source>Error</source>
@@ -9573,7 +9578,7 @@ Locked components cannot be modified or selected.</source>
     <name>QmlDesigner::TimelineToolBar</name>
     <message>
         <source>Base State</source>
-        <translation type="unfinished"></translation>
+        <translation>Grundtillstånd</translation>
     </message>
     <message>
         <source>Not Supported for MCUs</source>
@@ -10407,7 +10412,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Close Other Groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Stäng andra grupper</translation>
     </message>
     <message>
         <source>Pin Active Tab (Press Ctrl to Pin Group)</source>
@@ -10431,7 +10436,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Överst</translation>
     </message>
     <message>
         <source>Left</source>
@@ -10443,7 +10448,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Nederst</translation>
     </message>
     <message>
         <source>Unpin (Dock)</source>
@@ -10460,7 +10465,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Enter the name of the workspace:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange namnet för arbetsytan:</translation>
     </message>
     <message>
         <source>&amp;New</source>
@@ -10472,7 +10477,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>C&amp;lone</source>
-        <translation type="unfinished"></translation>
+        <translation>K&amp;lona</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -10484,7 +10489,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>&amp;Switch To</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Växla till</translation>
     </message>
     <message>
         <source>Import</source>
@@ -10504,19 +10509,19 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Restore last workspace on startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Återställ senaste arbetsytan vid uppstart</translation>
     </message>
     <message>
         <source>Workspace Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbetsytehanterare</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;qthelp://org.qt-project.qtcreator/doc/creator-project-managing-workspaces.html&quot;&gt;What is a Workspace?&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;qthelp://org.qt-project.qtcreator/doc/creator-project-managing-workspaces.html&quot;&gt;Vad är en Arbetsyta?&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Workspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbetsyta</translation>
     </message>
     <message>
         <source>File Name</source>
@@ -10528,7 +10533,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>New Workspace Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nytt namn för arbetsyta</translation>
     </message>
     <message>
         <source>&amp;Create</source>
@@ -10536,11 +10541,11 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Create and &amp;Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa och ö&amp;ppna</translation>
     </message>
     <message>
         <source>Cannot Create Workspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte skapa arbetsytan</translation>
     </message>
     <message>
         <source>&amp;Clone</source>
@@ -10552,43 +10557,43 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>%1 Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 kopia</translation>
     </message>
     <message>
         <source>Cannot Clone Workspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte klona arbetsytan</translation>
     </message>
     <message>
         <source>Rename Workspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Byt namn på arbetsyta</translation>
     </message>
     <message>
         <source>Rename and &amp;Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Byt namn och öpp&amp;na</translation>
     </message>
     <message>
         <source>Cannot Rename Workspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte byta namn på arbetsytan</translation>
     </message>
     <message>
         <source>Cannot Switch Workspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte växla arbetsyta</translation>
     </message>
     <message>
         <source>Import Workspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Importera arbetsyta</translation>
     </message>
     <message>
         <source>Cannot Import Workspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte importera arbetsytan</translation>
     </message>
     <message>
         <source>Export Workspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportera arbetsyta</translation>
     </message>
     <message>
         <source>Cannot Export Workspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte exportera arbetsytan</translation>
     </message>
     <message>
         <source>Delete Workspace</source>
@@ -10596,23 +10601,23 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Delete Workspaces</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort arbetsytor</translation>
     </message>
     <message>
         <source>Delete workspace &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort arbetsytan &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Delete these workspaces?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort dessa arbetsytor?</translation>
     </message>
     <message>
         <source>Workspace &quot;%1&quot; does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbetsytan &quot;%1&quot; finns inte.</translation>
     </message>
     <message>
         <source>Cannot restore &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte återställa &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Cannot reload &quot;%1&quot;. It is not in the list of workspaces.</source>
@@ -10620,15 +10625,15 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Could not clone &quot;%1&quot; due to: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte klona &quot;%1&quot; på grund av: %2</translation>
     </message>
     <message>
         <source>Workspace &quot;%1&quot; is not a preset.</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbetsytan &quot;%1&quot; är inte ett förval.</translation>
     </message>
     <message>
         <source>Cannot remove &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte ta bort &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Cannot save workspace while in mode change state.</source>
@@ -10636,23 +10641,23 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>File &quot;%1&quot; does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen &quot;%1&quot; finns inte.</translation>
     </message>
     <message>
         <source>Could not copy &quot;%1&quot; to &quot;%2&quot; due to: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte kopiera &quot;%1&quot; till &quot;%2&quot; på grund av: %3</translation>
     </message>
     <message>
         <source>Could not remove &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte ta bort &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>The directory &quot;%1&quot; does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalogen &quot;%1&quot; finns inte.</translation>
     </message>
     <message>
         <source>The workspace &quot;%1&quot; does not exist </source>
-        <translation type="unfinished"></translation>
+        <translation>Arbetsytan &quot;%1&quot; finns inte </translation>
     </message>
     <message>
         <source>Cannot write to &quot;%1&quot;.</source>
@@ -10660,7 +10665,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Cannot write to &quot;%1&quot; due to: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte skriva till &quot;%1&quot; på grund av: %2</translation>
     </message>
 </context>
 <context>
@@ -16730,7 +16735,7 @@ Make sure that CMAKE_BUILD_TYPE variable matches the &quot;Build type&quot; fiel
     </message>
     <message>
         <source>CVS command:</source>
-        <translation type="unfinished"></translation>
+        <translation>CVS-kommando:</translation>
     </message>
     <message>
         <source>CVS root:</source>
@@ -17014,11 +17019,11 @@ Make sure that CMAKE_BUILD_TYPE variable matches the &quot;Build type&quot; fiel
     </message>
     <message>
         <source>CVS Command</source>
-        <translation type="unfinished"></translation>
+        <translation>CVS-kommando</translation>
     </message>
     <message>
         <source>Annotate revision &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Anteckna revision &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Ignore Whitespace</source>
@@ -17111,7 +17116,7 @@ Make sure that CMAKE_BUILD_TYPE variable matches the &quot;Build type&quot; fiel
     </message>
     <message>
         <source>collecting overrides...</source>
-        <translation type="unfinished"></translation>
+        <translation>samlar in åsidosättningar...</translation>
     </message>
     <message>
         <source>&lt;base declaration&gt;</source>
@@ -36576,7 +36581,7 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>&lt;p&gt;Could not fetch data from Qt Marketplace.&lt;/p&gt;&lt;p&gt;Try with your browser instead: &lt;a href=&apos;https://marketplace.qt.io&apos;&gt;https://marketplace.qt.io&lt;/a&gt;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&lt;small&gt;&lt;i&gt;Error: %1&lt;/i&gt;&lt;/small&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Kunde inte hämta data från Qt Marketplace.&lt;/p&gt;&lt;p&gt;Prova med din webbläsare istället: &lt;a href=&apos;https://marketplace.qt.io&apos;&gt;https://marketplace.qt.io&lt;/a&gt;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&lt;small&gt;&lt;i&gt;Fel: %1&lt;/i&gt;&lt;/small&gt;&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -37439,11 +37444,11 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>Executable does not exist: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Körbara filen finns inte: %1</translation>
     </message>
     <message>
         <source>Command is not executable: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommandot är inte körbart: %1</translation>
     </message>
     <message>
         <source>No Meson tool set.</source>
@@ -37455,7 +37460,7 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>No compilers set in kit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga kompilatorer inställda i kit.</translation>
     </message>
     <message>
         <source>Meson Tool</source>
@@ -37652,7 +37657,7 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>Edit Element Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera elementegenskaper</translation>
     </message>
     <message>
         <source>Shift+Return</source>
@@ -37660,7 +37665,7 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>Edit Item on Diagram</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera objekt på diagram</translation>
     </message>
     <message>
         <source>Return</source>
@@ -37676,7 +37681,7 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>Add Related Elements...</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till relaterade element...</translation>
     </message>
     <message>
         <source>Update Include Dependencies</source>
@@ -37684,7 +37689,7 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>Select Custom Configuration Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj anpassad konfigurationsmapp</translation>
     </message>
     <message>
         <source>Config path:</source>
@@ -37696,7 +37701,7 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>Linked file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Länkad fil:</translation>
     </message>
     <message>
         <source>Select Image File</source>
@@ -37716,27 +37721,27 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>Unable to read image file &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte läsa bildfilen &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>No model loaded. Cannot save.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen modell inläst. Kan inte spara.</translation>
     </message>
     <message>
         <source>Could not open &quot;%1&quot; for reading: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte öppna &quot;%1&quot; för läsning: %2.</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;body style=&quot;color:#909090; font-size:14px&quot;&gt;&lt;div align=&apos;center&apos;&gt;&lt;div style=&quot;font-size:20px&quot;&gt;Open a diagram&lt;/div&gt;&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;hr/&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull; Double-click on diagram in model tree&lt;/div&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull; Select &quot;Open Diagram&quot; from package&apos;s context menu in model tree&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;body style=&quot;color:#909090; font-size:14px&quot;&gt;&lt;div align=&apos;center&apos;&gt;&lt;div style=&quot;font-size:20px&quot;&gt;Öppna ett diagram&lt;/div&gt;&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;hr/&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull; Dubbelklicka på diagram i modellträdet&lt;/div&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull; Välj &quot;Öppna diagram&quot; från paketets kontextmeny i modellträdet&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Synchronize Structure with Diagram</source>
-        <translation type="unfinished"></translation>
+        <translation>Synkronisera struktur med diagram</translation>
     </message>
     <message>
         <source>Synchronize Diagram with Structure</source>
-        <translation type="unfinished"></translation>
+        <translation>Synkronisera diagram med struktur</translation>
     </message>
     <message>
         <source>Keep Synchronized</source>
@@ -37760,7 +37765,7 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>Exporting Selected Elements Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Export av valda element misslyckades</translation>
     </message>
     <message>
         <source>Exporting the selected elements of the current diagram into file&lt;br&gt;&quot;%1&quot;&lt;br&gt;failed.</source>
@@ -37768,11 +37773,11 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>Exporting Diagram Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Export av diagram misslyckades</translation>
     </message>
     <message>
         <source>Exporting the diagram into file&lt;br&gt;&quot;%1&quot;&lt;br&gt;failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Export av diagrammet till filen&lt;br&gt;&quot;%1&quot;&lt;br&gt;misslyckades.</translation>
     </message>
     <message>
         <source>Zoom: %1%</source>
@@ -37812,7 +37817,7 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>New Item</source>
-        <translation type="unfinished"></translation>
+        <translation>Nytt objekt</translation>
     </message>
     <message>
         <source>Annotation</source>
@@ -37832,7 +37837,7 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>Add Component %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till komponenten %1</translation>
     </message>
     <message>
         <source>Add Class %1</source>
@@ -37840,15 +37845,15 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>Add Package Link to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till paketlänk till %1</translation>
     </message>
     <message>
         <source>Add Diagram Link to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till diagramlänk till %1</translation>
     </message>
     <message>
         <source>Add Document Link to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till dokumentlänk till %1</translation>
     </message>
     <message>
         <source>Add Package %1</source>
@@ -37856,19 +37861,19 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>Add Package and Diagram %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till paket och diagram %1</translation>
     </message>
     <message>
         <source>Add Component Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till komponentmodell</translation>
     </message>
     <message>
         <source>Create Component Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa komponentmodell</translation>
     </message>
     <message>
         <source>Drop Node</source>
-        <translation type="unfinished"></translation>
+        <translation>Släpp nod</translation>
     </message>
 </context>
 <context>
@@ -38618,7 +38623,7 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>Edit &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Alt+P,Alt+E</source>
@@ -38642,7 +38647,7 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>Add File</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till fil</translation>
     </message>
     <message>
         <source>Delete File</source>
@@ -38899,9 +38904,9 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message numerus="yes">
         <source>[Only %n MB of output shown]</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>[Endast %n MB av utdata visas]</numerusform>
+            <numerusform>[Endast %n MB av utdata visas]</numerusform>
         </translation>
     </message>
     <message>
@@ -38974,7 +38979,7 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>Automatically open files when editing</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna filer automatiskt vid redigering</translation>
     </message>
     <message>
         <source>Perforce Command</source>
@@ -45072,11 +45077,11 @@ These files are preserved.</source>
     <name>QtC::Python</name>
     <message>
         <source>Update Requirements</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdatera krav</translation>
     </message>
     <message>
         <source>Install Requirements</source>
-        <translation type="unfinished"></translation>
+        <translation>Installera krav</translation>
     </message>
     <message>
         <source>Update %1</source>
@@ -45101,19 +45106,19 @@ These files are preserved.</source>
     </message>
     <message>
         <source>The installation of &quot;%1&quot; was canceled by timeout.</source>
-        <translation type="unfinished"></translation>
+        <translation>Installationen av &quot;%1&quot; avbröts av överstigen tidsgräns.</translation>
     </message>
     <message>
         <source>The installation of &quot;%1&quot; was canceled by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Installationen av &quot;%1&quot; avbröts av användaren.</translation>
     </message>
     <message>
         <source>Installing &quot;%1&quot; failed with exit code %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Installation av &quot;%1&quot; misslyckades med avslutskod %2.</translation>
     </message>
     <message>
         <source>Select PySide Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj PySide-version</translation>
     </message>
     <message>
         <source>Installing PySide</source>
@@ -45125,11 +45130,11 @@ These files are preserved.</source>
     </message>
     <message>
         <source>Select which version to install:</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj vilken version att installera:</translation>
     </message>
     <message>
         <source>Latest PySide from the PyPI</source>
-        <translation type="unfinished"></translation>
+        <translation>Senaste PySide från PyPI</translation>
     </message>
     <message>
         <source>PySide %1 Wheel (%2)</source>
@@ -45137,11 +45142,11 @@ These files are preserved.</source>
     </message>
     <message>
         <source>%1 installation missing for %2 (%3)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-installation saknas för %2 (%3)</translation>
     </message>
     <message>
         <source>Install %1 for %2 using pip package installer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Installera %1 för %2 med pip-paketinstalleraren.</translation>
     </message>
     <message>
         <source>Install</source>
@@ -45173,11 +45178,11 @@ These files are preserved.</source>
     </message>
     <message>
         <source>New Virtual Environment</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny virtuell miljö</translation>
     </message>
     <message>
         <source>Global Python</source>
-        <translation type="unfinished"></translation>
+        <translation>Global Python</translation>
     </message>
     <message>
         <source> Virtual Environment</source>
@@ -45213,7 +45218,7 @@ These files are preserved.</source>
     </message>
     <message>
         <source>No Python Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen Python vald</translation>
     </message>
     <message>
         <source>Create Virtual Environment</source>
@@ -45221,7 +45226,7 @@ These files are preserved.</source>
     </message>
     <message>
         <source>Manage Python Interpreters</source>
-        <translation type="unfinished"></translation>
+        <translation>Hantera Python-tolkar</translation>
     </message>
     <message>
         <source>Python Language Server (%1)</source>
@@ -45249,11 +45254,11 @@ These files are preserved.</source>
     </message>
     <message>
         <source>Unable to read &quot;%1&quot;: The file is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte läsa &quot;%1&quot;. Filen är tom.</translation>
     </message>
     <message>
         <source>Unable to parse &quot;%1&quot;:%2: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte tolka &quot;%1&quot;:%2: %3</translation>
     </message>
     <message>
         <source>Buffered output</source>
@@ -45285,11 +45290,11 @@ These files are preserved.</source>
     </message>
     <message>
         <source>&quot;%1&quot; does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; finns inte.</translation>
     </message>
     <message>
         <source>&quot;%1&quot; is not an executable file.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; är inte en körbar fil.</translation>
     </message>
     <message>
         <source>&amp;Add</source>
@@ -45313,7 +45318,7 @@ These files are preserved.</source>
     </message>
     <message>
         <source>Remove all Python interpreters without a valid executable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort alla Python-tolkar utan en giltig körbar fil.</translation>
     </message>
     <message>
         <source>Interpreters</source>
@@ -45325,7 +45330,7 @@ These files are preserved.</source>
     </message>
     <message>
         <source>Plugins:</source>
-        <translation type="unfinished"></translation>
+        <translation>Insticksmoduler:</translation>
     </message>
     <message>
         <source>Use Python Language Server</source>
@@ -45377,7 +45382,7 @@ These files are preserved.</source>
     </message>
     <message>
         <source>Create Python venv</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa Python venv</translation>
     </message>
     <message>
         <source>&quot;data&quot; of a Python wizard page expects a map with &quot;items&quot; containing a list of objects.</source>
@@ -45425,15 +45430,15 @@ These files are preserved.</source>
     </message>
     <message>
         <source>Name of Python Interpreter</source>
-        <translation type="unfinished"></translation>
+        <translation>Namn på Python-tolk</translation>
     </message>
     <message>
         <source>Path to Python Interpreter</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökväg till Python-tolk</translation>
     </message>
     <message>
         <source>No Python interpreter set for kit &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen Python-tolk inställd för kitet &quot;%1&quot;.</translation>
     </message>
 </context>
 <context>
@@ -56563,7 +56568,7 @@ Influences the indentation of continuation lines.
     </message>
     <message>
         <source>Select range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj intervall.</translation>
     </message>
     <message>
         <source>View event information on mouseover.</source>
@@ -60791,11 +60796,11 @@ defined in step size.</source>
     </message>
     <message>
         <source>Row spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Radavstånd</translation>
     </message>
     <message>
         <source>Sets the space between the items in pixels in the &lt;b&gt;Row Layout&lt;/b&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in avståndet mellan objekten i pixlar i &lt;b&gt;Radlayout&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Layout direction</source>
@@ -60803,15 +60808,15 @@ defined in step size.</source>
     </message>
     <message>
         <source>Sets the direction of the item flow in the &lt;b&gt;Row Layout&lt;/b&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in riktningen för objektflödet i &lt;b&gt;Radlayout&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Uniform cell sizes</source>
-        <translation type="unfinished"></translation>
+        <translation>Enhetliga cellstorlekar</translation>
     </message>
     <message>
         <source>Toggles all cells to have a uniform size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar alla celler till att ha en enhetlig storlek.</translation>
     </message>
 </context>
 <context>
@@ -60834,7 +60839,7 @@ defined in step size.</source>
     </message>
     <message>
         <source>Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Avstånd</translation>
     </message>
 </context>
 <context>
@@ -61386,7 +61391,7 @@ A near field gain of 1 will raise the volume of the sound signal by approx 20 dB
     <name>SpinBoxSpecifics</name>
     <message>
         <source>Spin Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Snurruta</translation>
     </message>
     <message>
         <source>Value</source>
@@ -61394,23 +61399,23 @@ A near field gain of 1 will raise the volume of the sound signal by approx 20 dB
     </message>
     <message>
         <source>Sets the current value of the spin box.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in aktuellt värde för snurrutan.</translation>
     </message>
     <message>
         <source>Sets the lowest value of the spin box range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in lägsta värdet för snurrutans intervall.</translation>
     </message>
     <message>
         <source>Sets the highest value of the spin box range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in högsta värdet för snurrutans intervall.</translation>
     </message>
     <message>
         <source>Sets the number by which the spin box value changes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in antalet med vilket snurrutans värde ändras.</translation>
     </message>
     <message>
         <source>Toggles if the spin box is editable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar om snurrutan är redigerbar.</translation>
     </message>
     <message>
         <source>Toggles if the spin box wraps around when 
@@ -61670,19 +61675,19 @@ it reaches the start or end.</source>
     </message>
     <message>
         <source>Set State as default</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställ in tillstånd som standard</translation>
     </message>
     <message>
         <source>State Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillståndsnamn</translation>
     </message>
     <message>
         <source>Base State</source>
-        <translation type="unfinished"></translation>
+        <translation>Grundtillstånd</translation>
     </message>
     <message>
         <source>No Property Changes Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga egenskapsändringar tillgängliga</translation>
     </message>
     <message>
         <source>Target</source>
@@ -61690,7 +61695,7 @@ it reaches the start or end.</source>
     </message>
     <message>
         <source>Explicit</source>
-        <translation type="unfinished"></translation>
+        <translation>Uttryckligen</translation>
     </message>
     <message>
         <source>Restore values</source>
@@ -61698,7 +61703,7 @@ it reaches the start or end.</source>
     </message>
     <message>
         <source>When Condition</source>
-        <translation type="unfinished"></translation>
+        <translation>När villkor</translation>
     </message>
 </context>
 <context>
