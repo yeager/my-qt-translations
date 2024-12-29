@@ -16512,7 +16512,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Searching CMake binaries...</source>
-        <translation type="unfinished"></translation>
+        <translation>Söker efter CMake-binärer...</translation>
     </message>
     <message>
         <source>Found &quot;%1&quot;</source>
@@ -22860,7 +22860,7 @@ managed by the same clangd process, add them here.</source>
     </message>
     <message>
         <source>C++ Symbols in Current Document</source>
-        <translation type="unfinished"></translation>
+        <translation>C++-symboler i aktuellt dokument</translation>
     </message>
     <message>
         <source>Locates C++ symbols in the current document.</source>
@@ -22868,7 +22868,7 @@ managed by the same clangd process, add them here.</source>
     </message>
     <message>
         <source>Locates C++ classes in any open project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hittar C++-klasser i något öppet projekt.</translation>
     </message>
     <message>
         <source>Locates C++ functions in any open project.</source>
@@ -22876,11 +22876,11 @@ managed by the same clangd process, add them here.</source>
     </message>
     <message>
         <source>All Included C/C++ Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Alla inkluderade C/C++-filer</translation>
     </message>
     <message>
         <source>C++ Classes, Enums, Functions and Type Aliases</source>
-        <translation type="unfinished"></translation>
+        <translation>C++-klasser, enums, funktioner och type-alias</translation>
     </message>
     <message>
         <source>Locates C++ classes, enums, functions and type aliases in any open project.</source>
@@ -31043,7 +31043,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Use search dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd sökdialogen</translation>
     </message>
     <message>
         <source>Expand tabulators</source>
@@ -35920,7 +35920,7 @@ Expiration date: %3</source>
     </message>
     <message>
         <source>Symbols in Current Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Symboler i aktuellt dokument</translation>
     </message>
     <message>
         <source>Locates symbols in the current document, based on a language server.</source>
@@ -35936,7 +35936,7 @@ Expiration date: %3</source>
     </message>
     <message>
         <source>Classes and Structs in Workspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Klasser och structs i arbetsyta</translation>
     </message>
     <message>
         <source>Locates classes and structs in the language server workspace.</source>
@@ -36004,7 +36004,7 @@ Expiration date: %3</source>
     </message>
     <message>
         <source>Requires an Open File</source>
-        <translation type="unfinished"></translation>
+        <translation>Kräver en öppnad fil</translation>
     </message>
     <message>
         <source>Start Server per Project</source>
@@ -36020,11 +36020,11 @@ Expiration date: %3</source>
     </message>
     <message>
         <source>Set MIME Types...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställ in MIME-typer...</translation>
     </message>
     <message>
         <source>File pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Filmönster</translation>
     </message>
     <message>
         <source>List of file patterns.
@@ -36041,7 +36041,7 @@ Example: *.cpp%1*.h</source>
     </message>
     <message>
         <source>Failed to parse JSON at %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att tolka JSON vid %1: %2</translation>
     </message>
     <message>
         <source>Language server-specific JSON to pass via &quot;initializationOptions&quot; field of &quot;initialize&quot; request.</source>
@@ -36049,7 +36049,7 @@ Example: *.cpp%1*.h</source>
     </message>
     <message>
         <source>File pattern:</source>
-        <translation type="unfinished"></translation>
+        <translation>Filmönster:</translation>
     </message>
     <message>
         <source>Select MIME Types</source>
@@ -36069,7 +36069,7 @@ Example: *.cpp%1*.h</source>
     </message>
     <message>
         <source>JSON Error</source>
-        <translation type="unfinished"></translation>
+        <translation>JSON-fel</translation>
     </message>
     <message>
         <source>Workspace Configuration</source>
@@ -36086,9 +36086,9 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message numerus="yes">
         <source>Re&amp;name %n files</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Byt &amp;namn på %n fil</numerusform>
+            <numerusform>Byt &amp;namn på %n filer</numerusform>
         </translation>
     </message>
     <message>
@@ -36417,7 +36417,7 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>New Script...</source>
-        <translation>Ny skript...</translation>
+        <translation>Nytt skript...</translation>
     </message>
     <message>
         <source>Scripting</source>
@@ -43975,7 +43975,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Searching for qmake executables...</source>
-        <translation type="unfinished"></translation>
+        <translation>Söker efter körbara qmake-filer...</translation>
     </message>
     <message>
         <source>Error: %1.</source>
@@ -44642,7 +44642,7 @@ Please close all running instances of your application before starting a build.<
     </message>
     <message>
         <source>Parse Build Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Tolka byggutdata</translation>
     </message>
     <message>
         <source>Output went to stderr</source>
@@ -44650,7 +44650,7 @@ Please close all running instances of your application before starting a build.<
     </message>
     <message>
         <source>Clear existing tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>Töm befintliga uppgifter</translation>
     </message>
     <message>
         <source>Load from File...</source>
