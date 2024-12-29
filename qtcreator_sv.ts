@@ -647,7 +647,7 @@ Bind to AmbientSound.Infinite to loop the current sound forever.</source>
     </message>
     <message>
         <source>Duration of the animation in milliseconds.</source>
-        <translation>Längd för animeringen i millsekunder.</translation>
+        <translation>Längd för animeringen i millisekunder.</translation>
     </message>
     <message>
         <source>Run to end</source>
@@ -1497,7 +1497,7 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Sets the style of the selected font. This is prioritized over &lt;b&gt;Weight&lt;/b&gt; and &lt;b&gt;Emphasis&lt;/b&gt;.</source>
-        <translation>Ställer in stilen för markerat typsnitt. Detta är prioritetat över &lt;b&gt;Vikt&lt;/b&gt; och &lt;b&gt;Framhäv&lt;/b&gt;.</translation>
+        <translation>Ställer in stilen för markerat typsnitt. Detta är prioriterat över &lt;b&gt;Vikt&lt;/b&gt; och &lt;b&gt;Framhäv&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Sets the overall thickness of the font.</source>
@@ -2820,7 +2820,7 @@ defined in &lt;b&gt;Step size&lt;/b&gt;.</source>
     </message>
     <message>
         <source>Add an effect node to start</source>
-        <translation>Lägg till en effektmod för att börja</translation>
+        <translation>Lägg till en effektnod för att börja</translation>
     </message>
     <message>
         <source>Effect Composer is disabled on MCU projects</source>
@@ -6397,7 +6397,7 @@ operation is in progress.</source>
     </message>
     <message>
         <source>Effect %1 is not complete.</source>
-        <translation>Effektem %1 är inte komplett.</translation>
+        <translation>Effekten %1 är inte komplett.</translation>
     </message>
     <message>
         <source>Ensure that you have saved it in the Effect Composer.
@@ -8404,7 +8404,7 @@ Kontrollera utdatapanelen för mer information.</translation>
     </message>
     <message>
         <source>Unknown property for Type %1</source>
-        <translation>Okänd egenskap förType %1</translation>
+        <translation>Okänd egenskap för Type %1</translation>
     </message>
     <message>
         <source>Unknown property for ItemLibraryEntry %1</source>
@@ -15717,7 +15717,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Add a new configuration value.</source>
-        <translation>Lägg till ett nytt konfigrationsvärde.</translation>
+        <translation>Lägg till ett nytt konfigurationsvärde.</translation>
     </message>
     <message>
         <source>&amp;Boolean</source>
@@ -19932,7 +19932,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>The Qt logo, axivion stopping software erosion logo, Qt Group logo, as well as Qt®, Axivion®, avixion stopping software erosion®, Boot to Qt®, Built with Qt®, Coco®, froglogic®, Qt Cloud Services®, Qt Developer Days®, Qt Embedded®, Qt Enterprise®, Qt Group®, Qt Mobile®, Qt Quick®, Qt Quick Compiler®, Squish® are registered trademarks of The Qt Company Ltd. or its subsidiaries.</source>
-        <translation>Qt-logotypen, axivion stopping software erosion logo, Qt Group-logotypen, såväl som Qt®, Axivion®, avixion stopping software erosion®, Boot to Qt®, Built with Qt®, Coco®, froglogic®, Qt Cloud Services®, Qt Developer Days®, Qt Embedded®, Qt Enterprise®, Qt Group®, Qt Mobile®, Qt Quick®, Qt Quick Compiler®, Squish® är registererade varumärken för The Qt Company Ltd. eller dess dotterbolag.</translation>
+        <translation>Qt-logotypen, axivion stopping software erosion logo, Qt Group-logotypen, såväl som Qt®, Axivion®, avixion stopping software erosion®, Boot to Qt®, Built with Qt®, Coco®, froglogic®, Qt Cloud Services®, Qt Developer Days®, Qt Embedded®, Qt Enterprise®, Qt Group®, Qt Mobile®, Qt Quick®, Qt Quick Compiler®, Squish® är registrerade varumärken för The Qt Company Ltd. eller dess dotterbolag.</translation>
     </message>
     <message>
         <source>%1 is free software, and you are welcome to redistribute it under &lt;a href=&quot;%2&quot;&gt;certain conditions&lt;/a&gt;. For some components, different conditions might apply though.</source>
@@ -20156,7 +20156,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Save Enabled as Preset...</source>
-        <translation>Spara aktiverade som förvall...</translation>
+        <translation>Spara aktiverade som förval...</translation>
     </message>
     <message>
         <source>Update from Preset...</source>
@@ -22202,23 +22202,23 @@ You will likely experience further problems using this instance of %3.</source>
     </message>
     <message>
         <source>Text Encoding</source>
-        <translation>Textenkodning</translation>
+        <translation>Textkodning</translation>
     </message>
     <message>
         <source>The following encodings are likely to fit:</source>
-        <translation>Följande enkodningar passar antagligen:</translation>
+        <translation>Följande kodningar passar antagligen:</translation>
     </message>
     <message>
         <source>Select encoding for &quot;%1&quot;.%2</source>
-        <translation>Välj enkodning för &quot;%1&quot;.%2</translation>
+        <translation>Välj kodning för &quot;%1&quot;.%2</translation>
     </message>
     <message>
         <source>Reload with Encoding</source>
-        <translation>Läs om med enkodning</translation>
+        <translation>Läs om med kodning</translation>
     </message>
     <message>
         <source>Save with Encoding</source>
-        <translation>Spara med enkodning</translation>
+        <translation>Spara med kodning</translation>
     </message>
     <message>
         <source>Restart Required</source>
@@ -22451,7 +22451,7 @@ Double-click to edit item.</source>
     </message>
     <message>
         <source>A timeout occurred running &quot;%1&quot;.</source>
-        <translation>En tidgräns överstegs vid körning av &quot;%1&quot;.</translation>
+        <translation>En tidsgräns överstegs vid körning av &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>&quot;%1&quot; crashed.</source>
@@ -24825,7 +24825,7 @@ Do you want to display them anyway?</source>
     </message>
     <message>
         <source>&lt;Encoding error&gt;</source>
-        <translation>&lt;Enkodingsfel&gt;</translation>
+        <translation>&lt;Kodningsfel&gt;</translation>
     </message>
     <message>
         <source>ptrace: Operation not permitted.
@@ -26379,7 +26379,7 @@ markers in the source code editor.</source>
     </message>
     <message>
         <source>Tooltip</source>
-        <translation>Verktygtips</translation>
+        <translation>Verktygstips</translation>
     </message>
     <message>
         <source>Name</source>
@@ -27963,7 +27963,7 @@ Do you want to retry?</source>
     </message>
     <message>
         <source>Are you sure you want to remove all breakpoints from all files in the current session?</source>
-        <translation>Ör du säker på att du vill ta bort alla brytpunkter från alla filer i aktuella sessionen?</translation>
+        <translation>Är du säker på att du vill ta bort alla brytpunkter från alla filer i aktuella sessionen?</translation>
     </message>
     <message>
         <source>Add Breakpoint</source>
@@ -29850,11 +29850,11 @@ Rebuilding the project might help.</source>
     </message>
     <message>
         <source>&lt;b&gt;Error:&lt;/b&gt; Could not decode &quot;%1&quot; with &quot;%2&quot;-encoding.</source>
-        <translation>&lt;b&gt;Fel:&lt;/b&gt; Kunde inte dekoda &quot;%1&quot; med &quot;%2&quot;-enkodning.</translation>
+        <translation>&lt;b&gt;Fel:&lt;/b&gt; Kunde inte avkoda &quot;%1&quot; med &quot;%2&quot;-kodning.</translation>
     </message>
     <message>
         <source>Select Encoding</source>
-        <translation>Välj enkodning</translation>
+        <translation>Välj kodning</translation>
     </message>
     <message>
         <source>No document</source>
@@ -31093,7 +31093,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Use system encoding for :source</source>
-        <translation>Använd systemenkoding för :source</translation>
+        <translation>Använd systemkoding för :source</translation>
     </message>
     <message>
         <source>Backspace:</source>
@@ -41295,7 +41295,7 @@ To develop a full application, create a Qt Quick Application project instead.</s
     </message>
     <message>
         <source>Proprietary</source>
-        <translation>Properitär</translation>
+        <translation>Proprietär</translation>
     </message>
     <message>
         <source>Other</source>
@@ -42039,7 +42039,7 @@ Förväljer en skrivbordsbaserad Qt för att bygga programmet om tillgängligt.<
     </message>
     <message>
         <source>Modeling</source>
-        <translation>Modelering</translation>
+        <translation>Modellering</translation>
     </message>
     <message>
         <source>Scratch Model</source>
@@ -44019,7 +44019,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Registered kit %1</source>
-        <translation>Registererat kit %1</translation>
+        <translation>Registrerat kit %1</translation>
     </message>
     <message>
         <source>Build directory:</source>
@@ -53949,7 +53949,7 @@ A value less than 100% can result in overlapping and misaligned graphics.</sourc
     </message>
     <message>
         <source>Select Encoding...</source>
-        <translation>Välj enkodning...</translation>
+        <translation>Välj kodning...</translation>
     </message>
     <message>
         <source>Auto-&amp;indent Selection</source>
@@ -55432,11 +55432,11 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>&lt;b&gt;Error:&lt;/b&gt; Could not decode &quot;%1&quot; with &quot;%2&quot;-encoding. Editing not possible.</source>
-        <translation>&lt;b&gt;Fel:&lt;/b&gt; Kunde inte avkoda &quot;%1&quot; med &quot;%2&quot;-enkodning. Redigering inte möjlig.</translation>
+        <translation>&lt;b&gt;Fel:&lt;/b&gt; Kunde inte avkoda &quot;%1&quot; med &quot;%2&quot;-kodning. Redigering inte möjlig.</translation>
     </message>
     <message>
         <source>Select Encoding</source>
-        <translation>Välj enkodning</translation>
+        <translation>Välj kodning</translation>
     </message>
     <message>
         <source>Snippet Parse Error</source>
@@ -55795,11 +55795,11 @@ Specifies how backspace interacts with indentation.
     </message>
     <message>
         <source>File Encodings</source>
-        <translation>Filenkodningar</translation>
+        <translation>Filkodningar</translation>
     </message>
     <message>
         <source>Default encoding:</source>
-        <translation>Standardenkodning:</translation>
+        <translation>Standardkodning:</translation>
     </message>
     <message>
         <source>Add If Encoding Is UTF-8</source>
@@ -55994,7 +55994,7 @@ francis : en effet, une erreur de ma part --&gt; validé.</translatorcomment>
     </message>
     <message>
         <source>Display file encoding</source>
-        <translation>Visa filenkodning</translation>
+        <translation>Visa filkodning</translation>
     </message>
     <message>
         <source>Syntax Highlight Definition Files</source>
@@ -57385,7 +57385,7 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>An encoding error was encountered.</source>
-        <translation>Ett enkodningsfel påträffades.</translation>
+        <translation>Ett kodningsfel påträffades.</translation>
     </message>
     <message>
         <source>Add</source>
@@ -62562,7 +62562,7 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>Edit Easing Curve...</source>
-        <translation>Rediera bezierkurva...</translation>
+        <translation>Redigera bezierkurva...</translation>
     </message>
     <message>
         <source>Edit Keyframe...</source>
@@ -62646,7 +62646,7 @@ This is used for calculating the total implicit size.</source>
     <name>TourModel</name>
     <message>
         <source>Welcome Page</source>
-        <translation>Välkomstssidan</translation>
+        <translation>Välkomstsidan</translation>
     </message>
     <message>
         <source>The welcome page of Qt Design Studio.</source>
