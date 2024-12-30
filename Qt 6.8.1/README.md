@@ -1,4 +1,4 @@
-$ lrelease *sv.ts
+$ lrelease *ts
 
 Updating 'assistant_sv.qm'...
 
@@ -6,9 +6,9 @@ Updating 'assistant_sv.qm'...
     
 Updating 'designer_sv.qm'...
 
-    Genererade 1157 översättningar (1157 slutförda och 0 oavslutade)
+    Genererade 1163 översättningar (1163 slutförda och 0 oavslutade)
     
-    Ignorerade 175 oöversatta källtexter
+    Ignorerade 169 oöversatta källtexter
     
 Updating 'linguist_sv.qm'...
 
