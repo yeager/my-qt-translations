@@ -9175,7 +9175,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Cannot Create QtQuick View</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte skapa QtQuick-vy</translation>
     </message>
     <message>
         <source>StatesEditorWidget: %1 cannot be created.%2</source>
@@ -9328,7 +9328,7 @@ Locked components cannot be modified or selected.</source>
     <name>QmlDesigner::TimelineAnimationForm</name>
     <message>
         <source>Number of times the animation runs before it stops.</source>
-        <translation type="unfinished"></translation>
+        <translation>Antal gånger som animeringen körs innan den stoppar.</translation>
     </message>
     <message>
         <source>Loops:</source>
@@ -9352,7 +9352,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Name for the animation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Namn för animeringen.</translation>
     </message>
     <message>
         <source>Animation ID:</source>
@@ -9372,11 +9372,11 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Ping pong</source>
-        <translation type="unfinished"></translation>
+        <translation>Ping pong</translation>
     </message>
     <message>
         <source>Transition to state:</source>
-        <translation type="unfinished"></translation>
+        <translation>Övergång till tillstånd:</translation>
     </message>
     <message>
         <source>Runs the animation automatically when the base state is active.</source>
@@ -9384,7 +9384,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Running in base state</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör i grundtillstånd</translation>
     </message>
     <message>
         <source>First frame of the animation.</source>
@@ -9392,7 +9392,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Start frame:</source>
-        <translation type="unfinished"></translation>
+        <translation>Startbild:</translation>
     </message>
     <message>
         <source>Length of the animation in milliseconds. If you set a shorter duration than the number of frames, frames are left out from the end of the animation.</source>
@@ -9400,7 +9400,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Duration:</source>
-        <translation type="unfinished"></translation>
+        <translation>Speltid:</translation>
     </message>
     <message>
         <source>Last frame of the animation.</source>
@@ -9408,7 +9408,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>End frame:</source>
-        <translation type="unfinished"></translation>
+        <translation>Slutbild:</translation>
     </message>
     <message>
         <source>Invalid Id</source>
@@ -9623,7 +9623,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Easing Curve Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigerare för bézierkurvor</translation>
     </message>
     <message>
         <source>Zoom Out</source>
@@ -9747,7 +9747,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>This file does not contain transitions. &lt;br&gt;&lt;br&gt;             To create an animation, add a transition by clicking the + button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denna fil innehåller inte övergångar. &lt;br&gt;&lt;br&gt;             För att skapa en animering, lägg till en övergång genom att klicka på +-knappen.</translation>
     </message>
     <message>
         <source>To edit the transition settings, click </source>
@@ -10274,7 +10274,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Keyframe %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nyckelbild %1</translation>
     </message>
 </context>
 <context>
@@ -10673,7 +10673,7 @@ Locked components cannot be modified or selected.</source>
     <name>QtC::Android</name>
     <message>
         <source>Android SDK Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Android SDK-hanterare</translation>
     </message>
     <message>
         <source>Update Installed</source>
@@ -12390,11 +12390,11 @@ the manifest file by overriding your settings. Allow override?</source>
     </message>
     <message>
         <source>Process failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Process misslyckades: %1</translation>
     </message>
     <message>
         <source>Process finished with exit code %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Processen färdigställdes med avslutskod %1.</translation>
     </message>
     <message>
         <source>Run an Application Manager Package</source>
@@ -12438,11 +12438,11 @@ the manifest file by overriding your settings. Allow override?</source>
     </message>
     <message>
         <source>Default instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Standardinstans</translation>
     </message>
     <message>
         <source>Document URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokument-URL:</translation>
     </message>
     <message>
         <source>Customize step</source>
@@ -12454,7 +12454,7 @@ the manifest file by overriding your settings. Allow override?</source>
     </message>
     <message>
         <source>Restart if running:</source>
-        <translation type="unfinished"></translation>
+        <translation>Starta om om kör:</translation>
     </message>
     <message>
         <source>Restarts the application in case it is already running.</source>
@@ -12678,7 +12678,7 @@ Executable: %2</source>
     </message>
     <message>
         <source>Running tests without output.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör tester utan utdata.</translation>
     </message>
     <message>
         <source>Log format:</source>
@@ -12872,7 +12872,7 @@ Executable: %2</source>
     </message>
     <message>
         <source>Output on failure</source>
-        <translation type="unfinished"></translation>
+        <translation>Utdata vid fel</translation>
     </message>
     <message>
         <source>Output mode</source>
@@ -13143,7 +13143,7 @@ See Google Test documentation for further information on GTest filters.</source>
     </message>
     <message>
         <source>Test finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>Test färdigt.</translation>
     </message>
     <message>
         <source>Walltime</source>
@@ -13388,11 +13388,11 @@ See Google Test documentation for further information on GTest filters.</source>
     </message>
     <message>
         <source>Debug Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Felsökningsmeddelanden</translation>
     </message>
     <message>
         <source>Warning Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Varningsmeddelanden</translation>
     </message>
     <message>
         <source>Internal Messages</source>
@@ -18621,7 +18621,7 @@ Oui :)</translatorcomment>
     </message>
     <message>
         <source>No libraries selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga bibliotek valda</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -18637,11 +18637,11 @@ Oui :)</translatorcomment>
     </message>
     <message>
         <source>Advanced Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Avancerade alternativ</translation>
     </message>
     <message>
         <source>Remove Compiler</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort kompilator</translation>
     </message>
     <message>
         <source>Bytes</source>
@@ -18705,7 +18705,7 @@ Oui :)</translatorcomment>
     </message>
     <message>
         <source>Arguments passed to the compiler.</source>
-        <translation type="unfinished"></translation>
+        <translation>Argument som skickas till kompilatorn.</translation>
     </message>
     <message>
         <source>Libraries:</source>
@@ -29432,7 +29432,7 @@ Stepping into the module or setting breakpoints by file and line is expected to 
     </message>
     <message>
         <source>Qt Widgets Designer Form Class</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt Widgets Designer-formulärklass</translation>
     </message>
     <message>
         <source>Form Template</source>
@@ -29456,12 +29456,12 @@ Stepping into the module or setting breakpoints by file and line is expected to 
     </message>
     <message>
         <source>Creates a Qt Widgets Designer form along with a matching class (C++ header and source file) for implementation purposes. You can add the form and class to an existing Qt Widget Project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapar ett Qt Widgets Designer-formulär tillsammans med en matchande klass (C++-header och källfil) för implementationssyften. Du kan lägga till formuläret och klassen till ett befintligt Qt Widget-projekt.</translation>
     </message>
     <message>
         <source>Widget Box</source>
         <translatorcomment>this translation must coherent with the translation of Qt Widgets Designer</translatorcomment>
-        <translation type="unfinished"></translation>
+        <translation>Widgetruta</translation>
     </message>
     <message>
         <source>Object Inspector</source>
@@ -29470,7 +29470,7 @@ Stepping into the module or setting breakpoints by file and line is expected to 
     </message>
     <message>
         <source>Widget box</source>
-        <translation type="unfinished"></translation>
+        <translation>Widgetruta</translation>
     </message>
     <message>
         <source>Property Editor</source>
@@ -29584,11 +29584,12 @@ Stepping into the module or setting breakpoints by file and line is expected to 
     <message>
         <source>The class containing &quot;%1&quot; could not be found in %2.
 Please verify the #include-directives.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klassen som innehåller &quot;%1&quot; kunde inte hittas i %2.
+Verifiera #include-direktiven.</translation>
     </message>
     <message>
         <source>Cannot rename UI symbol &quot;%1&quot; in C++ files: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte byta namn på UI-symbolen &quot;%1&quot; i C++-filer: %2</translation>
     </message>
     <message>
         <source>Error finding/adding a slot.</source>
@@ -29598,7 +29599,8 @@ Please verify the #include-directives.</source>
     <message>
         <source>No documents matching &quot;%1&quot; could be found.
 Rebuilding the project might help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga dokument som matchar &quot;%1&quot; kunde hittas.
+Det kan hjälpa att bygga om projektet.</translation>
     </message>
     <message>
         <source>File &quot;%1&quot; not found in project.</source>
@@ -29614,37 +29616,39 @@ Rebuilding the project might help.</source>
     </message>
     <message>
         <source>Failed to find the ui header.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att hitta ui-headern.</translation>
     </message>
     <message>
         <source>Renaming via the property editor cannot be synced with C++ code; see QTCREATORBUG-19141. This message will not be repeated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Byta namn via egenskapsredigeraren kan inte synkas med C++-koden; se QTCREATORBUG-19141. Detta meddelande kommer inte upprepas.</translation>
     </message>
     <message>
         <source>Failed to retrieve ui header contents.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att hämta ui-headerinnehåll.</translation>
     </message>
     <message>
         <source>Failed to locate corresponding symbol in ui header.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att hitta motsvarande symbol i ui-header.</translation>
     </message>
     <message>
         <source>Unable to add the method definition.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte lägga till method-definitionen.</translation>
     </message>
     <message>
         <source>This file can only be edited in &lt;b&gt;Design&lt;/b&gt; mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denna fil kan endast redigeras i &lt;b&gt;Design&lt;/b&gt;-läget.</translation>
     </message>
     <message>
         <source>The generated header of the form &quot;%1&quot; could not be found.
 Rebuilding the project might help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Den genererade headern för formuläret &quot;%1&quot; kunde inte hittas.
+Det kan hjälpa att bygga om projektet.</translation>
     </message>
     <message>
         <source>The generated header &quot;%1&quot; could not be found in the code model.
 Rebuilding the project might help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Den genererade headern &quot;%1&quot; kunde inte hittas i kodmodellen.
+Det kan hjälpa att bygga om projektet.</translation>
     </message>
     <message>
         <source>&amp;Class name:</source>
@@ -29652,15 +29656,15 @@ Rebuilding the project might help.</source>
     </message>
     <message>
         <source>&amp;Header file:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Header-fil:</translation>
     </message>
     <message>
         <source>&amp;Source file:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Källfil:</translation>
     </message>
     <message>
         <source>&amp;Form file:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Formulärfil:</translation>
     </message>
     <message>
         <source>&amp;Path:</source>
@@ -29668,15 +29672,15 @@ Rebuilding the project might help.</source>
     </message>
     <message>
         <source>Invalid header file name: &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltigt header-filnamn: &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Invalid source file name: &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltigt källfilnamn: &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Invalid form file name: &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltigt formulärfilnamn: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -35673,7 +35677,7 @@ Vill du skriva över dem?</translation>
     </message>
     <message>
         <source>Development teams</source>
-        <translation type="unfinished"></translation>
+        <translation>Utvecklingsteam</translation>
     </message>
     <message>
         <source>Provisioning profiles</source>
@@ -35767,7 +35771,7 @@ Expiration date: %3</source>
     </message>
     <message>
         <source>Invalid Empty UDID.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltigt tomt UDID.</translation>
     </message>
     <message>
         <source>Simulator device is not available. (%1)</source>
@@ -36748,11 +36752,11 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>MCUXpresso IDE</source>
-        <translation type="unfinished"></translation>
+        <translation>MCUXpresso IDE</translation>
     </message>
     <message>
         <source>Path to SEGGER J-Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökväg till SEGGER J-Link</translation>
     </message>
     <message>
         <source>Path to Renesas Flash Programmer</source>
@@ -36820,11 +36824,11 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Qt for MCUs Demos</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt for MCUer-demon</translation>
     </message>
     <message>
         <source>Qt for MCUs Examples</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt for MCUer-exampel</translation>
     </message>
     <message>
         <source>Replace Existing Kits</source>
@@ -36844,7 +36848,7 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Errors while creating Qt for MCUs kits</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid skapandet av Qt for MCUer-kit</translation>
     </message>
     <message>
         <source>Details</source>
@@ -49178,7 +49182,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Failed to start Qt Design Studio.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att starta Qt Design Studio.</translation>
     </message>
     <message>
         <source>No project file (*.qmlproject) found for Qt Design Studio.
@@ -49188,11 +49192,11 @@ Qt Design Studio kräver en .qmlproject-baserat projekt för att öppna .ui.qml-
     </message>
     <message>
         <source>Set as Main .qml File</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställ in som Main .qml-fil</translation>
     </message>
     <message>
         <source>Set as Main .ui.qml File</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställ in som Main .ui.qml-fil</translation>
     </message>
     <message>
         <source>Cannot find a valid build system.</source>
@@ -51481,7 +51485,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Export Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Export misslyckades</translation>
     </message>
     <message>
         <source>Could not export to image.</source>
@@ -56925,7 +56929,7 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>The path &quot;%1&quot; expanded to an empty string.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökvägen &quot;%1&quot; expanderade till en tom sträng.</translation>
     </message>
     <message>
         <source>The path &quot;%1&quot; does not exist.</source>
@@ -56945,7 +56949,7 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>The path &quot;%1&quot; is not an executable file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökvägen &quot;%1&quot; är inte en körbar fil.</translation>
     </message>
     <message>
         <source>Invalid path &quot;%1&quot;.</source>
@@ -57029,7 +57033,7 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>Use as default project location</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd som standardprojektplats</translation>
     </message>
     <message>
         <source>Introduction and Project Location</source>
@@ -57480,7 +57484,7 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>No source file set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen källfil inställd.</translation>
     </message>
     <message>
         <source>No destination directory set.</source>
@@ -57975,7 +57979,7 @@ Lines starting with &quot;##&quot; will be treated as comments.</source>
     </message>
     <message>
         <source>Valgrind tool &quot;%1&quot; not supported</source>
-        <translation type="unfinished"></translation>
+        <translation>Valgrind-verktyget &quot;%1&quot; stöds inte</translation>
     </message>
     <message>
         <source>Unknown %1 kind &quot;%2&quot;</source>
@@ -57987,7 +57991,7 @@ Lines starting with &quot;##&quot; will be treated as comments.</source>
     </message>
     <message>
         <source>Unknown state &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Okänt tillstånd &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Unexpected exception caught during parsing.</source>
@@ -59087,7 +59091,7 @@ Check settings or ensure Valgrind is installed and available in PATH.</source>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation>S&amp;täng</translation>
     </message>
     <message>
         <source>&amp;Keep Editing</source>
@@ -59099,11 +59103,11 @@ Check settings or ensure Valgrind is installed and available in PATH.</source>
     </message>
     <message>
         <source>Executing %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör %1</translation>
     </message>
     <message>
         <source>Executing [%1] %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör [%1] %2</translation>
     </message>
     <message>
         <source>&quot;data&quot; is no JSON object in &quot;VcsCommand&quot; page.</source>
@@ -59135,7 +59139,7 @@ Check settings or ensure Valgrind is installed and available in PATH.</source>
     </message>
     <message>
         <source>Command started...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommandot startat...</translation>
     </message>
     <message>
         <source>Checkout</source>
@@ -59159,11 +59163,11 @@ Check settings or ensure Valgrind is installed and available in PATH.</source>
     </message>
     <message>
         <source>&quot;%1&quot; (%2) does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; (%2) finns inte.</translation>
     </message>
     <message>
         <source>No job running, please abort.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inget jobb körs, avbryt gärna.</translation>
     </message>
     <message>
         <source>Failed.</source>
@@ -59187,11 +59191,11 @@ Check settings or ensure Valgrind is installed and available in PATH.</source>
     </message>
     <message>
         <source>The directory %1 could not be deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalogen %1 kunde inte tas bort.</translation>
     </message>
     <message>
         <source>The file %1 could not be deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen %1 kunde inte tas bort.</translation>
     </message>
     <message>
         <source>There were errors when cleaning the repository %1:</source>
@@ -59207,14 +59211,14 @@ Check settings or ensure Valgrind is installed and available in PATH.</source>
     </message>
     <message numerus="yes">
         <source>%n bytes, last modified %1.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n byte, senast ändrad %1.</numerusform>
+            <numerusform>%n byte, senast ändrad %1.</numerusform>
         </translation>
     </message>
     <message>
         <source>Cleaning &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Rensar &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -59222,9 +59226,9 @@ Check settings or ensure Valgrind is installed and available in PATH.</source>
     </message>
     <message numerus="yes">
         <source>Do you want to delete %n files?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Vill du ta bort %n fil?</numerusform>
+            <numerusform>Vill du ta bort %n filer?</numerusform>
         </translation>
     </message>
     <message>
@@ -59380,11 +59384,11 @@ Check settings or ensure Valgrind is installed and available in PATH.</source>
     </message>
     <message>
         <source>Save before %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara innan %1?</translation>
     </message>
     <message>
         <source>The file &quot;%1&quot; could not be deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen &quot;%1&quot; kunde inte tas bort.</translation>
     </message>
     <message>
         <source>The directory &quot;%1&quot; is already managed by a version control system (%2). Would you like to specify another directory?</source>
@@ -59416,7 +59420,7 @@ Check settings or ensure Valgrind is installed and available in PATH.</source>
     </message>
     <message>
         <source>Annotate &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Anteckna &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Copy &quot;%1&quot;</source>
@@ -59424,11 +59428,11 @@ Check settings or ensure Valgrind is installed and available in PATH.</source>
     </message>
     <message>
         <source>&amp;Describe Change %1</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Beskriv ändring %1</translation>
     </message>
     <message>
         <source>Send to CodePaster...</source>
-        <translation type="unfinished"></translation>
+        <translation>Skicka till CodePaster...</translation>
     </message>
     <message>
         <source>Apply Chunk...</source>
@@ -59440,7 +59444,7 @@ Check settings or ensure Valgrind is installed and available in PATH.</source>
     </message>
     <message>
         <source>Failed to retrieve data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att hämta data.</translation>
     </message>
     <message>
         <source>Configuration</source>
@@ -59458,7 +59462,7 @@ Check settings or ensure Valgrind is installed and available in PATH.</source>
     </message>
     <message>
         <source>Please configure &lt;b&gt;%1&lt;/b&gt; now.</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurera &lt;b&gt;%1&lt;/b&gt; nu.</translation>
     </message>
     <message>
         <source>No known version control selected.</source>
@@ -59466,7 +59470,7 @@ Check settings or ensure Valgrind is installed and available in PATH.</source>
     </message>
     <message>
         <source>Clean Repository</source>
-        <translation type="unfinished"></translation>
+        <translation>Rensa förråd</translation>
     </message>
     <message>
         <source>Select All</source>
@@ -59525,11 +59529,11 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Open URL in Browser...</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna URL i webbläsare...</translation>
     </message>
     <message>
         <source>Copy URL Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera URL-plats</translation>
     </message>
     <message>
         <source>Send Email To...</source>
@@ -59545,7 +59549,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Descriptio&amp;n</source>
-        <translation type="unfinished"></translation>
+        <translation>Beskriv&amp;ning</translation>
     </message>
     <message>
         <source>F&amp;iles</source>
@@ -59592,7 +59596,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Description is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Beskrivningen är tom</translation>
     </message>
     <message>
         <source>No files checked</source>
@@ -59657,7 +59661,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>&amp;Copy to clipboard: &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kopiera till urklipp: &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Name of the version control system in use by the current project.</source>
