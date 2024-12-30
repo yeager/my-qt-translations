@@ -4782,7 +4782,7 @@ a highlight component.</source>
     </message>
     <message>
         <source>State Groups are not supported with Qt for MCUs</source>
-        <translation>Tillståndsgrupper stöds inte med Qt för MCUer</translation>
+        <translation>Tillståndsgrupper stöds inte med Qt for MCUer</translation>
     </message>
     <message>
         <source>Switch State Group</source>
@@ -6651,7 +6651,7 @@ Do you want to edit this effect?</source>
     </message>
     <message>
         <source>Advanced Options</source>
-        <translation>Avancerade inställningar</translation>
+        <translation>Avancerade alternativ</translation>
     </message>
     <message>
         <source>Export assets</source>
@@ -10677,7 +10677,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Update Installed</source>
-        <translation>Uppdatering installerad</translation>
+        <translation>Uppdatera installerade</translation>
     </message>
     <message>
         <source>Default</source>
@@ -10717,7 +10717,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Advanced Options...</source>
-        <translation type="unfinished"></translation>
+        <translation>Avancerade alternativ...</translation>
     </message>
     <message>
         <source>Expand All</source>
@@ -10747,23 +10747,23 @@ Install them manually after the current operation is done.
     </message>
     <message>
         <source>Android SDK installation is missing necessary packages. Do you want to install the missing packages?</source>
-        <translation type="unfinished"></translation>
+        <translation>Android SDK-installationen saknar nödvändiga paket. Vill du installera de saknade paketen?</translation>
     </message>
     <message>
         <source>Checking pending licenses...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrollerar väntande licenser...</translation>
     </message>
     <message>
         <source>The installation of Android SDK packages may fail if the respective licenses are not accepted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Installationen av Android SDK-paket kan bli fel om respektive licenser inte har accepterats.</translation>
     </message>
     <message>
         <source>Finished successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Färdigställdes.</translation>
     </message>
     <message>
         <source>Installing / Uninstalling selected packages...</source>
-        <translation type="unfinished"></translation>
+        <translation>Installerar / avinstallerar valda paket...</translation>
     </message>
     <message>
         <source>Closing the preferences dialog will cancel the running and scheduled SDK operations.</source>
@@ -10787,17 +10787,17 @@ Install them manually after the current operation is done.
     </message>
     <message>
         <source>[Packages to be uninstalled:]</source>
-        <translation type="unfinished"></translation>
+        <translation>[Paket att avinstalleras:]</translation>
     </message>
     <message>
         <source>[Packages to be installed:]</source>
-        <translation type="unfinished"></translation>
+        <translation>[Paket att installeras:]</translation>
     </message>
     <message numerus="yes">
         <source>%n Android SDK packages shall be updated.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n Android SDK-paket ska uppdateras.</numerusform>
+            <numerusform>%n Android SDK-paket ska uppdateras.</numerusform>
         </translation>
     </message>
     <message>
@@ -10806,7 +10806,7 @@ Install them manually after the current operation is done.
     </message>
     <message>
         <source>Cannot load available arguments for &quot;sdkmanager&quot; command.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte läsa in tillgängliga argument för &quot;sdkmanager&quot;-kommandot.</translation>
     </message>
     <message>
         <source>SDK manager arguments:</source>
@@ -10846,23 +10846,23 @@ Install them manually after the current operation is done.
     </message>
     <message>
         <source>Install a system image from the SDK Manager first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Installera en systemavbild från SDK Manager först.</translation>
     </message>
     <message>
         <source>No system images found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga systemavbilder hittades.</translation>
     </message>
     <message>
         <source>No system images found for %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga systemavbilder hittades för %1.</translation>
     </message>
     <message>
         <source>Allowed characters are: a-z A-Z 0-9 and . _ -</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillåtna tecken är: a-z A-Z 0-9 och . _ -</translation>
     </message>
     <message>
         <source>SD card size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Storlek för SD-kort:</translation>
     </message>
     <message>
         <source>Create a keystore and a certificate</source>
@@ -10958,11 +10958,11 @@ Install them manually after the current operation is done.
     </message>
     <message>
         <source>The selected path does not exist or is not readable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Den valda sökvägen finns inte eller är inte läsbar.</translation>
     </message>
     <message>
         <source>Could not find &quot;%1&quot; in the selected path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte hitta &quot;%1&quot; i vald sökväg.</translation>
     </message>
     <message>
         <source>The selected path does not contain a valid JDK. (%1 failed: %2)</source>
@@ -11016,7 +11016,7 @@ packages required for Qt to build for Android.</source>
     </message>
     <message>
         <source>SDK Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>SDK Manager</translation>
     </message>
     <message>
         <source>Open Android NDK download URL in the system&apos;s browser.</source>
@@ -11024,7 +11024,7 @@ packages required for Qt to build for Android.</source>
     </message>
     <message>
         <source>Select the path of the prebuilt OpenSSL binaries.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj sökvägen till förbyggda OpenSSL-binärer.</translation>
     </message>
     <message>
         <source>Download OpenSSL</source>
@@ -11070,15 +11070,15 @@ in the system&apos;s browser for manual download.</source>
     </message>
     <message>
         <source>Android settings are OK.</source>
-        <translation type="unfinished"></translation>
+        <translation>Android-inställningarna är OK.</translation>
     </message>
     <message>
         <source>Android settings have errors.</source>
-        <translation type="unfinished"></translation>
+        <translation>Android-inställningar innehåller fel.</translation>
     </message>
     <message>
         <source>OpenSSL path exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>OpenSSL-sökvägen finns.</translation>
     </message>
     <message>
         <source>QMake include project (openssl.pri) exists.</source>
@@ -11090,11 +11090,11 @@ in the system&apos;s browser for manual download.</source>
     </message>
     <message>
         <source>OpenSSL Settings are OK.</source>
-        <translation type="unfinished"></translation>
+        <translation>OpenSSL-inställningarna är OK.</translation>
     </message>
     <message>
         <source>OpenSSL settings have errors.</source>
-        <translation type="unfinished"></translation>
+        <translation>OpenSSL-inställningarna innehåller fel.</translation>
     </message>
     <message>
         <source>Select JDK Path</source>
@@ -11102,7 +11102,7 @@ in the system&apos;s browser for manual download.</source>
     </message>
     <message>
         <source>Select Android SDK Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj Android SDK-mapp</translation>
     </message>
     <message>
         <source>Select OpenSSL Include Project File</source>
@@ -11110,7 +11110,7 @@ in the system&apos;s browser for manual download.</source>
     </message>
     <message>
         <source>All changes on this page take effect immediately.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alla ändringar på denna sida tar effekt direkt.</translation>
     </message>
     <message>
         <source>Android Settings</source>
@@ -11118,19 +11118,19 @@ in the system&apos;s browser for manual download.</source>
     </message>
     <message>
         <source>Android SDK location:</source>
-        <translation type="unfinished"></translation>
+        <translation>Android SDK-plats:</translation>
     </message>
     <message>
         <source>Android NDK list:</source>
-        <translation type="unfinished"></translation>
+        <translation>Android NDK-lista:</translation>
     </message>
     <message>
         <source>Android OpenSSL Settings (Optional)</source>
-        <translation type="unfinished"></translation>
+        <translation>OpenSSL-inställningar för Android (valfritt)</translation>
     </message>
     <message>
         <source>OpenSSL binaries location:</source>
-        <translation type="unfinished"></translation>
+        <translation>Plats för OpenSSL-binärer:</translation>
     </message>
     <message>
         <source>Failed to create the SDK Tools path %1.</source>
@@ -11142,7 +11142,7 @@ in the system&apos;s browser for manual download.</source>
     </message>
     <message>
         <source>Add Custom NDK</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till anpassad NDK</translation>
     </message>
     <message>
         <source>The selected path has an invalid NDK. This might mean that the path contains space characters, or that it does not have a &quot;toolchains&quot; sub-directory, or that the NDK version could not be retrieved because of a missing &quot;source.properties&quot; or &quot;RELEASE.TXT&quot; file</source>
@@ -11150,11 +11150,11 @@ in the system&apos;s browser for manual download.</source>
     </message>
     <message>
         <source>OpenSSL Cloning</source>
-        <translation type="unfinished"></translation>
+        <translation>OpenSSL-kloning</translation>
     </message>
     <message>
         <source>OpenSSL prebuilt libraries repository is already configured.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förråd för förbyggda OpenSSL-bibliotek har redan konfigurerats.</translation>
     </message>
     <message>
         <source>The selected download path (%1) for OpenSSL already exists and the directory is not empty. Select a different path or make sure it is an empty directory.</source>
@@ -11162,11 +11162,11 @@ in the system&apos;s browser for manual download.</source>
     </message>
     <message>
         <source>Cloning OpenSSL prebuilt libraries...</source>
-        <translation type="unfinished"></translation>
+        <translation>Klonar förbyggda OpenSSL-bibliotek...</translation>
     </message>
     <message>
         <source>OpenSSL prebuilt libraries cloning failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kloning av förbyggda OpenSSL-bibliotek misslyckades.</translation>
     </message>
     <message>
         <source>Opening OpenSSL URL for manual download.</source>
@@ -11174,7 +11174,7 @@ in the system&apos;s browser for manual download.</source>
     </message>
     <message>
         <source>Open Download URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna hämtnings-URL</translation>
     </message>
     <message>
         <source>The Git tool might not be installed properly on your system.</source>
@@ -11218,7 +11218,7 @@ in the system&apos;s browser for manual download.</source>
     </message>
     <message>
         <source>JDK location:</source>
-        <translation type="unfinished"></translation>
+        <translation>JDK-plats:</translation>
     </message>
     <message>
         <source>Android Debugger (%1, NDK %2)</source>
@@ -11408,7 +11408,7 @@ The kit supports &quot;%2&quot;, but the device uses &quot;%3&quot;.</source>
     </message>
     <message>
         <source>Cannot find the androiddeployqt tool.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte hitta verktyget androiddeployqt.</translation>
     </message>
     <message>
         <source>Uninstalling the previous package &quot;%1&quot;.</source>
@@ -11420,15 +11420,15 @@ The kit supports &quot;%2&quot;, but the device uses &quot;%3&quot;.</source>
     </message>
     <message>
         <source>The process &quot;%1&quot; exited normally.</source>
-        <translation type="unfinished"></translation>
+        <translation>Processen &quot;%1&quot; avslutades normalt.</translation>
     </message>
     <message>
         <source>The process &quot;%1&quot; exited with code %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Processen &quot;%1&quot; avslutades med kod %2.</translation>
     </message>
     <message>
         <source>The process &quot;%1&quot; crashed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Processen &quot;%1&quot; kraschade.</translation>
     </message>
     <message>
         <source>Installing the app failed even after uninstalling the previous one.</source>
@@ -11460,7 +11460,7 @@ The kit supports &quot;%2&quot;, but the device uses &quot;%3&quot;.</source>
     </message>
     <message>
         <source>Package deploy: Running command &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Paketdistribution: Kör kommandot &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Install an APK File</source>
@@ -11556,7 +11556,7 @@ The kit supports &quot;%2&quot;, but the device uses &quot;%3&quot;.</source>
     </message>
     <message>
         <source>AVD Arguments</source>
-        <translation type="unfinished"></translation>
+        <translation>AVD-argument</translation>
     </message>
     <message>
         <source>Set up Wi-Fi</source>
@@ -15312,7 +15312,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Restrict to MIME types:</source>
-        <translation type="unfinished"></translation>
+        <translation>Begränsa till MIME-typer:</translation>
     </message>
     <message>
         <source>Bea&amp;utifier</source>
@@ -16190,7 +16190,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Failed to create build directory &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att skapa byggkatalogen &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>No CMake tool set up in kit.</source>
@@ -16214,11 +16214,11 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Cannot create output directory &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte skapa utdatakatalogen &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>No valid cmake executable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen giltig körbar cmake-fil.</translation>
     </message>
     <message>
         <source>Running in &quot;%1&quot;: %2.</source>
@@ -16226,7 +16226,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Failed to open %1 for reading.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att öppna &quot;%1&quot; för läsning.</translation>
     </message>
     <message>
         <source>Format &amp;Current File</source>
@@ -16234,7 +16234,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Enable auto format on file save</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisk formatering vid filsparning</translation>
     </message>
     <message>
         <source>Restrict to MIME types:</source>
@@ -16242,15 +16242,15 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Restrict to files contained in the current project</source>
-        <translation type="unfinished"></translation>
+        <translation>Begränsa till filer som finns i aktuellt projekt</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;%1&quot;&gt;CMakeFormat&lt;/a&gt; command:</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;%1&quot;&gt;CMakeFormat&lt;/a&gt;-kommando:</translation>
     </message>
     <message>
         <source>Formatter</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatter</translation>
     </message>
     <message>
         <source>Automatic Formatting on File Save</source>
@@ -16358,7 +16358,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>CMakeFormatter</source>
-        <translation type="unfinished"></translation>
+        <translation>CMakeFormatter</translation>
     </message>
     <message>
         <source>Version: %1</source>
@@ -16498,7 +16498,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Show advanced options by default</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa avancerade alternativ som standard</translation>
     </message>
     <message>
         <source>Use junctions for CMake configuration and build operations</source>
@@ -16514,7 +16514,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Version not parseable</source>
-        <translation type="unfinished"></translation>
+        <translation>Version inte tolkningsbar</translation>
     </message>
     <message>
         <source>Searching CMake binaries...</source>
@@ -16582,7 +16582,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>&lt;Build Directory&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Byggkatalog&gt;</translation>
     </message>
     <message>
         <source>&lt;Other Locations&gt;</source>
@@ -16590,7 +16590,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>&lt;Generated Files&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Genererade filer&gt;</translation>
     </message>
     <message>
         <source>Failed to set up CMake file API support. %1 cannot extract project information.</source>
@@ -24796,7 +24796,7 @@ Do you want to display them anyway?</source>
     </message>
     <message>
         <source>When Debugging Stops</source>
-        <translation type="unfinished"></translation>
+        <translation>När felsökningen stoppar</translation>
     </message>
     <message>
         <source>Allow inferior calls in debugging helper</source>
@@ -26099,7 +26099,7 @@ markers in the source code editor.</source>
     </message>
     <message>
         <source>Use system settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd systeminställningar</translation>
     </message>
     <message>
         <source>Lets GDB attempt to automatically retrieve debug information for system packages.</source>
@@ -26111,7 +26111,7 @@ markers in the source code editor.</source>
     </message>
     <message>
         <source>Additional Startup Commands</source>
-        <translation type="unfinished"></translation>
+        <translation>Ytterligare uppstartskommandon</translation>
     </message>
     <message>
         <source>GDB</source>
@@ -36151,11 +36151,11 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>The installation of &quot;%1&quot; was canceled by timeout.</source>
-        <translation type="unfinished"></translation>
+        <translation>Installationen av &quot;%1&quot; avbröts på grund av tidsgräns.</translation>
     </message>
     <message>
         <source>The installation of &quot;%1&quot; was canceled by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Installationen av &quot;%1&quot; avbröts av användaren.</translation>
     </message>
     <message>
         <source>Installing &quot;%1&quot; failed with exit code %2.</source>
@@ -36840,11 +36840,11 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Qt for MCUs</source>
-        <translation>Qt för MCUer</translation>
+        <translation>Qt for MCUer</translation>
     </message>
     <message>
         <source>New version of Qt for MCUs detected. Upgrade existing kits?</source>
-        <translation>Ny version av Qt för MCUer hittades. Uppgradera befintliga kit?</translation>
+        <translation>Ny version av Qt for MCUer hittades. Uppgradera befintliga kit?</translation>
     </message>
     <message>
         <source>Errors while creating Qt for MCUs kits</source>
@@ -36961,7 +36961,7 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Qt for MCUs: %1</source>
-        <translation>Qt för MCUer: %1</translation>
+        <translation>Qt for MCUer: %1</translation>
     </message>
     <message>
         <source>Create Kits for Qt for MCUs? To do it later, select Edit &gt; Preferences &gt; Devices &gt; MCU.</source>
@@ -36969,7 +36969,7 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Create Kits for Qt for MCUs</source>
-        <translation>Skapa kit för Qt för MCUer</translation>
+        <translation>Skapa kit för Qt for MCUer</translation>
     </message>
     <message>
         <source>Read about Using QtMCUs in the Qt Design Studio</source>
@@ -41245,7 +41245,7 @@ Förväljer en skrivbordsbaserad Qt för byggnation av programmet om tillgängli
     </message>
     <message>
         <source>Creates a Qt for Python application that includes a Qt Widgets Designer-based widget (ui file). Requires .ui to Python conversion.</source>
-        <translation>Skapar ett Qt för Python-program som inkluderar en Qt Widgets Designer-baserad widget (gränssnittsfil). Kräver .ui till Python-konvertering.</translation>
+        <translation>Skapar ett Qt for Python-program som inkluderar en Qt Widgets Designer-baserad widget (gränssnittsfil). Kräver .ui till Python-konvertering.</translation>
     </message>
     <message>
         <source>Creates a Qt Quick UI project for previewing and prototyping designs.
@@ -41573,7 +41573,7 @@ Om du vill utveckla ett fullständigt program, skapa ett Qt Quick Application-pr
     </message>
     <message>
         <source>This wizard generates a Qt Widgets Application project. The application derives by default from QApplication and includes an empty widget.</source>
-        <translation>Denna guide generera ett Qt Widgets-programprojekt. Programmet härleder som standard från QApplication och inkluderar en tom widget.</translation>
+        <translation>Denna guide genererar ett Qt Widgets-programprojekt. Programmet härleder som standard från QApplication och inkluderar en tom widget.</translation>
     </message>
     <message>
         <source>Generate form</source>
@@ -41617,7 +41617,7 @@ Om du vill utveckla ett fullständigt program, skapa ett Qt Quick Application-pr
     </message>
     <message>
         <source>Application (Qt for Python)</source>
-        <translation>Program (Qt för Python)</translation>
+        <translation>Program (Qt for Python)</translation>
     </message>
     <message>
         <source>Window UI</source>
@@ -41629,7 +41629,7 @@ Om du vill utveckla ett fullständigt program, skapa ett Qt Quick Application-pr
     </message>
     <message>
         <source>Creates a Qt for Python application that contains an empty window.</source>
-        <translation>Skapar ett Qt för Python-program som innehåller ett tomt fönster.</translation>
+        <translation>Skapar ett Qt for Python-program som innehåller ett tomt fönster.</translation>
     </message>
     <message>
         <source>Empty Window</source>
@@ -41665,7 +41665,7 @@ Om du vill utveckla ett fullständigt program, skapa ett Qt Quick Application-pr
     </message>
     <message>
         <source>Creates a Qt for Python application that contains only the main code for a QApplication.</source>
-        <translation>Skapar ett Qt för Python-program som innehåller endast huvudkoden för ett QApplication.</translation>
+        <translation>Skapar ett Qt for Python-program som innehåller endast huvudkoden för ett QApplication.</translation>
     </message>
     <message>
         <source>Empty Application</source>
@@ -41801,7 +41801,7 @@ Förväljer en skrivbordsbaserad Qt för att bygga programmet om tillgängligt.<
     </message>
     <message>
         <source>This wizard creates a simple unit test project using Google Test.</source>
-        <translation>Denna guide skapara ett enkelt enhetstestprojekt med Google Test.</translation>
+        <translation>Denna guide skapar ett enkelt enhetstestprojekt med Google Test.</translation>
     </message>
     <message>
         <source>Google Test (header only)</source>
@@ -41861,11 +41861,11 @@ Förväljer en skrivbordsbaserad Qt för att bygga programmet om tillgängligt.<
     </message>
     <message>
         <source>Qt for Python module:</source>
-        <translation>Qt för Python-modul:</translation>
+        <translation>Qt for Python-modul:</translation>
     </message>
     <message>
         <source>You can choose Qt classes only if you select a Qt for Python module.</source>
-        <translation>Du kan välja Qt-klasser endast om du har valt en Qt för Python-modul.</translation>
+        <translation>Du kan välja Qt-klasser endast om du har valt en Qt for Python-modul.</translation>
     </message>
     <message>
         <source>Import QtCore</source>
@@ -44534,7 +44534,7 @@ to project &quot;%2&quot;.</source>
     </message>
     <message>
         <source>The features available to this wizard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Funktionerna tillgängliga för denna guide.</translation>
     </message>
     <message>
         <source>The plugins loaded.</source>
@@ -45494,7 +45494,7 @@ These files are preserved.</source>
     </message>
     <message>
         <source>Clean install root</source>
-        <translation type="unfinished"></translation>
+        <translation>Rensa installationsroten</translation>
     </message>
     <message>
         <source>Force probes</source>
@@ -45554,7 +45554,7 @@ These files are preserved.</source>
     </message>
     <message>
         <source>Install root:</source>
-        <translation type="unfinished"></translation>
+        <translation>Installationsrot:</translation>
     </message>
     <message>
         <source>Remove first</source>
@@ -45717,7 +45717,7 @@ You will rarely need to do this.</source>
     </message>
     <message>
         <source>Associated profile:</source>
-        <translation type="unfinished"></translation>
+        <translation>Associerad profil:</translation>
     </message>
     <message>
         <source>Profile properties:</source>
@@ -45809,11 +45809,11 @@ The affected files are:
     <message>
         <source>Use %1 settings directory for Qbs</source>
         <extracomment>%1 == &quot;Qt Creator&quot; or &quot;Qt Design Studio&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Använd inställningskatalogen för %1 för Qbs</translation>
     </message>
     <message>
         <source>Path to qbs executable:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökväg till körbar qbs-fil:</translation>
     </message>
     <message>
         <source>Default installation directory:</source>
@@ -46425,7 +46425,7 @@ The affected files are:
     <message>
         <source>This wizard generates a Qt Widgets Designer Custom Widget or a Qt Widgets Designer Custom Widget Collection project.</source>
         <translatorcomment>lourd ? &quot;contenant un widget ou une collection de widgets, personnalisé pour Qt Widgets Designer&quot; ?</translatorcomment>
-        <translation type="unfinished"></translation>
+        <translation>Denna guide genererar ett Qt Widgets Designer Custom Widget eller Qt Widgets Designer Custom Widget Collection-projekt.</translation>
     </message>
     <message>
         <source>Custom Widgets</source>
@@ -46855,7 +46855,7 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>This wizard generates a Qt Subdirs project. Add subprojects to it later on by using the other wizards.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denna guide genererar ett Qt Subdirs-projekt. Lägg till underprojekt till det senare genom att använda andra guider.</translation>
     </message>
 </context>
 <context>
@@ -47802,7 +47802,7 @@ Please build the qmldump application on the Qt version options page.</source>
     </message>
     <message>
         <source>Use custom command instead of built-in formatter</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd anpassat kommando istället för inbyggd formatter</translation>
     </message>
     <message>
         <source>Command:</source>
@@ -47898,7 +47898,7 @@ Please build the qmldump application on the Qt version options page.</source>
     </message>
     <message>
         <source>Open .ui.qml files with:</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna .ui.qml-filer med:</translation>
     </message>
     <message>
         <source>Static Analyzer</source>
@@ -47910,7 +47910,7 @@ Please build the qmldump application on the Qt version options page.</source>
     </message>
     <message>
         <source>QML/JS Editing</source>
-        <translation type="unfinished"></translation>
+        <translation>QML/JS-redigering</translation>
     </message>
     <message>
         <source>Always show Qt Quick Toolbar</source>
@@ -47923,7 +47923,7 @@ Please build the qmldump application on the Qt version options page.</source>
     </message>
     <message>
         <source>Move Component into Separate File</source>
-        <translation type="unfinished"></translation>
+        <translation>Flytta komponent till separat fil</translation>
     </message>
     <message>
         <source>Component Name</source>
@@ -47931,11 +47931,11 @@ Please build the qmldump application on the Qt version options page.</source>
     </message>
     <message>
         <source>ui.qml file</source>
-        <translation type="unfinished"></translation>
+        <translation>ui.qml-fil</translation>
     </message>
     <message>
         <source>Component name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Komponentnamn:</translation>
     </message>
     <message>
         <source>Path:</source>
@@ -47947,7 +47947,7 @@ Please build the qmldump application on the Qt version options page.</source>
     </message>
     <message>
         <source>Invalid component name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltigt komponentnamn.</translation>
     </message>
     <message>
         <source>Invalid path.</source>
@@ -47955,7 +47955,7 @@ Please build the qmldump application on the Qt version options page.</source>
     </message>
     <message>
         <source>Component already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Komponenten finns redan.</translation>
     </message>
     <message>
         <source>QML/JS Usages:</source>
@@ -47968,7 +47968,7 @@ Please build the qmldump application on the Qt version options page.</source>
     <message>
         <source>Show All Bindings</source>
         <translatorcomment>myzu : faut-il traduire binding ? John : Non </translatorcomment>
-        <translation type="unfinished"></translation>
+        <translation>Visa alla bindningar</translation>
     </message>
     <message>
         <source>Split Initializer</source>
@@ -47980,15 +47980,15 @@ Please build the qmldump application on the Qt version options page.</source>
     </message>
     <message>
         <source>Code Model Not Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Kodmodellen inte tillgänglig</translation>
     </message>
     <message>
         <source>Code model not available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kodmodell inte tillgänglig.</translation>
     </message>
     <message>
         <source>Code Model of %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kodmodell för %1</translation>
     </message>
     <message>
         <source>Refactoring</source>
@@ -49233,7 +49233,7 @@ Qt Design Studio kräver en .qmlproject-baserat projekt för att öppna .ui.qml-
     </message>
     <message>
         <source>Cannot find a valid Qt for MCUs kit.</source>
-        <translation>Kan inte hitta en giltig Qt för MCUer-kit.</translation>
+        <translation>Kan inte hitta en giltig Qt for MCUer-kit.</translation>
     </message>
     <message>
         <source>Qt for MCUs Deploy Step</source>
@@ -49683,7 +49683,7 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>The installation location of the current Qt version&apos;s data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Installationsplatsen för den aktuella Qt-versionens data.</translation>
     </message>
     <message>
         <source>The host location of the current Qt version.</source>
@@ -50806,11 +50806,11 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Install root:</source>
-        <translation type="unfinished"></translation>
+        <translation>Installationsrot:</translation>
     </message>
     <message>
         <source>Clean install root first:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rensa installationsroten först:</translation>
     </message>
     <message>
         <source>Full command line:</source>
@@ -50834,7 +50834,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>The install root &quot;%1&quot; could not be cleaned.</source>
-        <translation type="unfinished"></translation>
+        <translation>Installationsroten &quot;%1&quot; kunde inte rensas.</translation>
     </message>
     <message>
         <source>The install root &quot;%1&quot; could not be created.</source>
