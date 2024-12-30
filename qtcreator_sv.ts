@@ -3483,11 +3483,11 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Capitalization</source>
-        <translation type="unfinished"></translation>
+        <translation>Versalisering</translation>
     </message>
     <message>
         <source>Sets capitalization rules for the text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in versaliseringsregler för texten.</translation>
     </message>
     <message>
         <source>Style</source>
@@ -3495,7 +3495,7 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Sets the font style.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in typsnittsstilen.</translation>
     </message>
     <message>
         <source>Style color</source>
@@ -3503,7 +3503,7 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Sets the color for the font style.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in färgen för typsnittsstilen.</translation>
     </message>
     <message>
         <source>Hinting</source>
@@ -3512,7 +3512,7 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Sets how to interpolate the text to render it more clearly when scaled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in hur interpolering av texten för att rendera den mer rent när skalad.</translation>
     </message>
     <message>
         <source>Resolves the gap between texts if turned true.</source>
@@ -3520,7 +3520,7 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Toggles the font-specific special features.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar typsnittsspecifika specialfunktioner.</translation>
     </message>
     <message>
         <source>Auto kerning</source>
@@ -5347,11 +5347,11 @@ Fel:
     </message>
     <message>
         <source>Sets how the mouse can interact with the area.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in hur musen kan interagera med området.</translation>
     </message>
     <message>
         <source>Area</source>
-        <translation type="unfinished"></translation>
+        <translation>Område</translation>
     </message>
     <message>
         <source>Hover</source>
@@ -5359,63 +5359,63 @@ Fel:
     </message>
     <message>
         <source>Accepted buttons</source>
-        <translation type="unfinished"></translation>
+        <translation>Accepterade knappar</translation>
     </message>
     <message>
         <source>Sets which mouse buttons the area reacts to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in vilka musknappar som ytan reagerar på.</translation>
     </message>
     <message>
         <source>Sets which mouse cursor to display on this area.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in vilken muspekare att visa på denna yta.</translation>
     </message>
     <message>
         <source>Sets the time before the pressAndHold signal is registered when you press the area.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in tiden innan pressAndHold-signalen registreras när du trycker i området.</translation>
     </message>
     <message>
         <source>Toggles if scroll gestures from non-mouse devices are supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar om rullningsgester från icke-musenheter stöds.</translation>
     </message>
     <message>
         <source>Toggles if mouse events can be stolen from this area.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar om mushändelser kan stjälas från detta område.</translation>
     </message>
     <message>
         <source>Toggles if composed mouse events should be propagated to other mouse areas overlapping this area.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar om komponerade mushändelser ska propageras till andra musområdet som överlappar detta område.</translation>
     </message>
     <message>
         <source>Sets the component to have drag functionalities.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in komponenten till att ha dragfunktionaliteter.</translation>
     </message>
     <message>
         <source>Sets in which directions the dragging work.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in vilka riktningar som drag fungerar.</translation>
     </message>
     <message>
         <source>Sets a threshold after which the drag starts to work.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in ett tröskelvärde efter vilket draget börjar fungera.</translation>
     </message>
     <message>
         <source>Toggles if the dragging overrides descendant mouse areas.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar om draget åsidosätter underliggande musområden.</translation>
     </message>
     <message>
         <source>Toggles if the move is smoothly animated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar om flytten är mjukt animerad.</translation>
     </message>
     <message>
         <source>Cursor shape</source>
-        <translation type="unfinished"></translation>
+        <translation>Markörform</translation>
     </message>
     <message>
         <source>Hold interval</source>
-        <translation type="unfinished"></translation>
+        <translation>Hållintervall</translation>
     </message>
     <message>
         <source>Scroll gesture</source>
-        <translation type="unfinished"></translation>
+        <translation>Rullningsgest</translation>
     </message>
     <message>
         <source>Enabled</source>
@@ -5423,7 +5423,7 @@ Fel:
     </message>
     <message>
         <source>Prevent stealing</source>
-        <translation type="unfinished"></translation>
+        <translation>Förhindra stöld</translation>
     </message>
     <message>
         <source>Propagate events</source>
@@ -5431,7 +5431,7 @@ Fel:
     </message>
     <message>
         <source>Drag</source>
-        <translation type="unfinished"></translation>
+        <translation>Dra</translation>
     </message>
     <message>
         <source>Target</source>
@@ -5440,7 +5440,7 @@ Fel:
     <message>
         <source>Axis</source>
         <translatorcomment>Peut être au pluriel ?</translatorcomment>
-        <translation type="unfinished"></translation>
+        <translation>Axel</translation>
     </message>
     <message>
         <source>Threshold</source>
@@ -5448,15 +5448,15 @@ Fel:
     </message>
     <message>
         <source>Filter children</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrera barn</translation>
     </message>
     <message>
         <source>Smoothed</source>
-        <translation type="unfinished"></translation>
+        <translation>Mjuk</translation>
     </message>
     <message>
         <source>Mouse Area</source>
-        <translation type="unfinished"></translation>
+        <translation>Musområde</translation>
     </message>
 </context>
 <context>
@@ -6287,7 +6287,7 @@ operation is in progress.</source>
     </message>
     <message>
         <source>Could not open wallet: %1; %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte öppna plånbok: %1, %2</translation>
     </message>
     <message>
         <source>Access to keychain denied</source>
@@ -6295,7 +6295,7 @@ operation is in progress.</source>
     </message>
     <message>
         <source>Could not determine data type: %1; %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte bestämma datatyp: %1, %2</translation>
     </message>
     <message>
         <source>Entry not found</source>
@@ -6671,7 +6671,8 @@ Do you want to edit this effect?</source>
     <message>
         <source>Export root directory: %1.
 Exporting assets: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportera rotkatalog: %1.
+Exporterar tillgångar: %2</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -6683,7 +6684,7 @@ Exporting assets: %2</source>
     </message>
     <message>
         <source>Each component is exported separately.</source>
-        <translation type="unfinished"></translation>
+        <translation>Varje komponent exporteras separat.</translation>
     </message>
     <message>
         <source>Canceling export.</source>
@@ -6695,23 +6696,23 @@ Exporting assets: %2</source>
     </message>
     <message>
         <source>Loading file is taking too long.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inläsning av fil tar för lång tid.</translation>
     </message>
     <message>
         <source>Cannot parse. The file contains coding errors.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte tolka. Filen innehåller kodningsfel.</translation>
     </message>
     <message>
         <source>Loading components failed. %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Inläsning av komponenter misslyckades. %1</translation>
     </message>
     <message>
         <source>Cannot export component. Document &quot;%1&quot; has parsing errors.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte exportera komponent. Dokumentet &quot;%1&quot; innehåller tolkningsfel.</translation>
     </message>
     <message>
         <source>Error saving component file. %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid sparning av komponentfil. %1</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -6719,20 +6720,21 @@ Exporting assets: %2</source>
     </message>
     <message>
         <source>Cannot preprocess file: %1. Error %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte förbehandla filen: %1. Fel %2</translation>
     </message>
     <message>
         <source>Cannot preprocess file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte förbehandla filen: %1</translation>
     </message>
     <message>
         <source>Cannot update %1.
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte uppdatera %1.
+%2</translation>
     </message>
     <message>
         <source>Exporting file %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporterar filen %1.</translation>
     </message>
     <message>
         <source>Export canceled.</source>
@@ -6740,31 +6742,31 @@ Exporting assets: %2</source>
     </message>
     <message>
         <source>Writing metadata failed. Cannot create file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrivning av metadata misslyckades. Kan inte skapa filen %1</translation>
     </message>
     <message>
         <source>Writing metadata to file %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriver metadata till filen %1.</translation>
     </message>
     <message>
         <source>Empty JSON document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tomt JSON-dokument.</translation>
     </message>
     <message>
         <source>Writing metadata failed. %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrivning av metadata misslyckades. %1</translation>
     </message>
     <message>
         <source>Export finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporten är färdig.</translation>
     </message>
     <message>
         <source>Error creating asset directory. %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid skapandet av tillgångskatalog. %1</translation>
     </message>
     <message>
         <source>Error saving asset. %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid sparande av tillgång. %1</translation>
     </message>
 </context>
 <context>
@@ -8960,12 +8962,12 @@ Locked components cannot be modified or selected.</source>
     <name>QmlDesigner::SetFrameValueDialog</name>
     <message>
         <source>Edit Keyframe</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera nyckelbild</translation>
     </message>
     <message>
         <source>Frame</source>
         <translatorcomment>Frame? Quelques fois étape, quelques fois &quot;cadre&quot;.</translatorcomment>
-        <translation type="unfinished"></translation>
+        <translation>Bild</translation>
     </message>
 </context>
 <context>
@@ -15481,7 +15483,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <name>QtC::BinEditor</name>
     <message>
         <source>The file is too big for the Binary Editor (max. 32GB).</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen är för stor för Binärredigeraren (max. 32GB).</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
@@ -15578,7 +15580,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>You cannot copy more than 4 MB of binary data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du kan inte kopiera mer än 4 MB binärdata.</translation>
     </message>
     <message>
         <source>Copy Selection as ASCII Characters</source>
@@ -15590,7 +15592,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Set Data Breakpoint on Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställ in databrytpunkt på markering</translation>
     </message>
     <message>
         <source>Copy 0x%1</source>
@@ -51402,7 +51404,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Theme %1 is already available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Temat %1 är redan tillgängligt.</translation>
     </message>
     <message>
         <source>Remove Color Theme</source>
@@ -51446,7 +51448,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>SCXML Generation Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>SCXML-generering misslyckades</translation>
     </message>
     <message>
         <source>Loading document...</source>
@@ -51502,7 +51504,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Saving Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Sparning misslyckades</translation>
     </message>
     <message>
         <source>Could not save the screenshot.</source>
@@ -51510,7 +51512,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Navigator</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigator</translation>
     </message>
     <message>
         <source>Search</source>
@@ -51598,7 +51600,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Change parent</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra förälder</translation>
     </message>
     <message>
         <source>Errors(%1) / Warnings(%2) / Info(%3)</source>
@@ -51618,7 +51620,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Severity</source>
-        <translation type="unfinished"></translation>
+        <translation>Allvarlighet</translation>
     </message>
     <message>
         <source>Reason</source>
@@ -51638,7 +51640,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Info</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -51649,7 +51651,10 @@ The local and remote ports are determined automatically.</source>
 Type:     	%2
 Reason: 	%3
 Description:	%4</source>
-        <translation type="unfinished"></translation>
+        <translation>Allvarlighet:	  %1
+Typ:     	  %2
+Anledning: 	  %3
+Beskrivning:	  %4</translation>
     </message>
     <message>
         <source>Zoom In</source>
@@ -51694,7 +51699,7 @@ Description:	%4</source>
     </message>
     <message>
         <source>Navigator (Ctrl+E)</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigator (Ctrl+E)</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -51734,43 +51739,43 @@ Description:	%4</source>
     </message>
     <message>
         <source>Toggle Full Namespace</source>
-        <translation type="unfinished"></translation>
+        <translation>Växla fullständig namnrymd</translation>
     </message>
     <message>
         <source>Align Left (Ctrl+L,1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Justera vänster (Ctrl+L,1)</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Justera höger</translation>
     </message>
     <message>
         <source>Align Right (Ctrl+L,2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Justera höger (Ctrl+L,2)</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Justera överst</translation>
     </message>
     <message>
         <source>Align Top (Ctrl+L,3)</source>
-        <translation type="unfinished"></translation>
+        <translation>Justera överst (Ctrl+L,3)</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Justera nederst</translation>
     </message>
     <message>
         <source>Align Bottom (Ctrl+L,4)</source>
-        <translation type="unfinished"></translation>
+        <translation>Justera nederst (Ctrl+L,4)</translation>
     </message>
     <message>
         <source>Align Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Justera horisontellt</translation>
     </message>
     <message>
         <source>Align Horizontal (Ctrl+L,5)</source>
-        <translation type="unfinished"></translation>
+        <translation>Justera horisontellt (Ctrl+L,5)</translation>
     </message>
     <message>
         <source>Align Vertical</source>
@@ -51778,19 +51783,19 @@ Description:	%4</source>
     </message>
     <message>
         <source>Align Vertical (Ctrl+L,6)</source>
-        <translation type="unfinished"></translation>
+        <translation>Justera vertikalt (Ctrl+L,6)</translation>
     </message>
     <message>
         <source>Adjust Width (Ctrl+L,7)</source>
-        <translation type="unfinished"></translation>
+        <translation>Justera bredd (Ctrl+L,7)</translation>
     </message>
     <message>
         <source>Adjust Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Justera höjd</translation>
     </message>
     <message>
         <source>Adjust Height (Ctrl+L,8)</source>
-        <translation type="unfinished"></translation>
+        <translation>Justera höjd (Ctrl+L,8)</translation>
     </message>
     <message>
         <source>Adjust Size</source>
@@ -51798,7 +51803,7 @@ Description:	%4</source>
     </message>
     <message>
         <source>Adjust Size (Ctrl+L,9)</source>
-        <translation type="unfinished"></translation>
+        <translation>Justera storlek (Ctrl+L,9)</translation>
     </message>
     <message>
         <source>Show Statistics...</source>
@@ -51810,15 +51815,15 @@ Description:	%4</source>
     </message>
     <message>
         <source>Add new state</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till nytt tillstånd</translation>
     </message>
     <message>
         <source>Move State</source>
-        <translation type="unfinished"></translation>
+        <translation>Flytta tillstånd</translation>
     </message>
     <message>
         <source>Align states</source>
-        <translation type="unfinished"></translation>
+        <translation>Justera tillstånd</translation>
     </message>
     <message>
         <source>Adjust states</source>
@@ -51874,7 +51879,7 @@ Description:	%4</source>
     </message>
     <message>
         <source>Common States</source>
-        <translation type="unfinished"></translation>
+        <translation>Vanliga tillstånd</translation>
     </message>
     <message>
         <source>Final</source>
@@ -51902,7 +51907,7 @@ Description:	%4</source>
     </message>
     <message>
         <source>Custom error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anpassat fel.</translation>
     </message>
     <message>
         <source>Error in reading XML.
@@ -51919,11 +51924,11 @@ Row: %4, Column: %5
     </message>
     <message>
         <source>Pasted data is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inklistrat data är tomt.</translation>
     </message>
     <message>
         <source>Paste items</source>
-        <translation type="unfinished"></translation>
+        <translation>Klistra in objekt</translation>
     </message>
     <message>
         <source>Cannot save XML to the file %1.</source>
@@ -51967,7 +51972,7 @@ Row: %4, Column: %5
     </message>
     <message>
         <source>Zoom to State</source>
-        <translation type="unfinished"></translation>
+        <translation>Zooma till tillstånd</translation>
     </message>
     <message>
         <source>Re-Layout</source>
@@ -51975,7 +51980,7 @@ Row: %4, Column: %5
     </message>
     <message>
         <source>Change initial state</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra initialt tillstånd</translation>
     </message>
     <message>
         <source>Draw some transitions to state.</source>
@@ -51983,7 +51988,7 @@ Row: %4, Column: %5
     </message>
     <message>
         <source>No input connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen indataanslutning.</translation>
     </message>
     <message>
         <source>No input or output connections (%1).</source>
@@ -51995,7 +52000,7 @@ Row: %4, Column: %5
     </message>
     <message>
         <source>No output connections (%1).</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga utdataanslutningar (%1).</translation>
     </message>
     <message>
         <source>Draw some transitions from state.</source>
@@ -52003,7 +52008,7 @@ Row: %4, Column: %5
     </message>
     <message>
         <source>No input connections (%1).</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga indataanslutningar (%1).</translation>
     </message>
     <message>
         <source>Remove Point</source>
@@ -52031,7 +52036,7 @@ Row: %4, Column: %5
     </message>
     <message>
         <source>This file can only be edited in &lt;b&gt;Design&lt;/b&gt; mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denna fil kan endast redigeras i &lt;b&gt;Design&lt;/b&gt;-läget.</translation>
     </message>
     <message>
         <source>Switch Mode</source>
@@ -60749,7 +60754,7 @@ defined in step size.</source>
     </message>
     <message>
         <source>Delegate</source>
-        <translation type="unfinished"></translation>
+        <translation>Delegat</translation>
     </message>
     <message>
         <source>The delegate provides a template defining each object instantiated by the repeater.</source>
@@ -62810,7 +62815,7 @@ Are you sure you want to remove it?</source>
     <name>UrlChooser</name>
     <message>
         <source>Built-in primitive</source>
-        <translation type="unfinished"></translation>
+        <translation>Inbyggd primitiv</translation>
     </message>
 </context>
 <context>
