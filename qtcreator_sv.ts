@@ -13263,7 +13263,7 @@ See Google Test documentation for further information on GTest filters.</source>
     </message>
     <message>
         <source>&lt;unnamed&gt;</source>
-        <translation>&lt;namnlös&gt;</translation>
+        <translation>&lt;ingetnamn&gt;</translation>
     </message>
     <message>
         <source>Give all test cases a name to ensure correct behavior when running test cases and to be able to select them</source>
@@ -22579,7 +22579,7 @@ Double-click to edit item.</source>
     </message>
     <message>
         <source>unnamed</source>
-        <translation>namnlös</translation>
+        <translation>ingetnamn</translation>
     </message>
     <message>
         <source>Current theme: %1</source>
@@ -24521,7 +24521,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Unused functions</source>
-        <translation type="unfinished"></translation>
+        <translation>Oanvända funktioner</translation>
     </message>
     <message>
         <source>Missing includes</source>
@@ -24533,7 +24533,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Check all define combinations</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrollera alla define-kombinationer</translation>
     </message>
     <message>
         <source>Show raw output</source>
@@ -24541,11 +24541,11 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Add include paths</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till include-sökvägar</translation>
     </message>
     <message>
         <source>Calculate additional arguments</source>
-        <translation type="unfinished"></translation>
+        <translation>Beräkna ytterligare argument</translation>
     </message>
     <message>
         <source>Disables multithreaded check.</source>
@@ -24569,7 +24569,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Checks:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontroller:</translation>
     </message>
     <message>
         <source>Custom arguments:</source>
@@ -24577,7 +24577,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Ignored file patterns:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorerade filmönster:</translation>
     </message>
     <message>
         <source>Cppcheck</source>
@@ -24585,11 +24585,11 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Go to previous diagnostic.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå till föregående diagnostik.</translation>
     </message>
     <message>
         <source>Go to next diagnostic.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå till nästa diagnostik.</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -40914,7 +40914,7 @@ Försök igen.</translation>
     <message>
         <source>untitled</source>
         <extracomment>File path suggestion for a new project. If you choose to translate it, make sure it is a valid path name without blanks and using only ascii chars.</extracomment>
-        <translation>namnlös</translation>
+        <translation>ingetnamn</translation>
     </message>
     <message>
         <source>Clean</source>
@@ -42679,7 +42679,7 @@ Display name of the deploy build step list. Used as part of the labels in the pr
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;center&gt;&lt;i&gt;%1&lt;/i&gt; is still running.&lt;center/&gt;&lt;center&gt;Force it to quit?&lt;/center&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;center&gt;&lt;i&gt;%1&lt;/i&gt; är fortfarande igång.&lt;center/&gt;&lt;center&gt;Tvinga den att avsluta?&lt;/center&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Show in Editor</source>
@@ -43566,7 +43566,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>&amp;Header paths:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Header-sökvägar:</translation>
     </message>
     <message>
         <source>C++11 &amp;flags:</source>
@@ -43578,7 +43578,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>&amp;Error parser:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Feltolkare:</translation>
     </message>
     <message>
         <source>No device configured.</source>
@@ -43598,7 +43598,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Run Environment</source>
-        <translation type="unfinished"></translation>
+        <translation>Körmiljö</translation>
     </message>
     <message>
         <source>Base environment for this run configuration:</source>
@@ -43812,7 +43812,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Cannot interrupt process with pid %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte avbryta process med pid %1: %2</translation>
     </message>
     <message>
         <source>Cannot open process.</source>
@@ -43880,7 +43880,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Add a kit in the &lt;a href=&quot;buildandrun&quot;&gt;options&lt;/a&gt; or via the maintenance tool of the SDK.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till ett kit i &lt;a href=&quot;buildandrun&quot;&gt;alternativen&lt;/a&gt; eller via underhållsverktyget för SDK.</translation>
     </message>
     <message>
         <source>Select all kits</source>
@@ -44239,19 +44239,19 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Field &quot;%1&quot; has unsupported type &quot;%2&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Field &quot;%1&quot; har en type som inte stöds &quot;%2&quot;.</translation>
     </message>
     <message>
         <source>When parsing Field &quot;%1&quot;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Vid tolkning av Field &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <source>Label (&quot;%1&quot;) data is not an object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Label (&quot;%1&quot;) data är inte ett objekt.</translation>
     </message>
     <message>
         <source>Label (&quot;%1&quot;) has no trText.</source>
-        <translation type="unfinished"></translation>
+        <translation>Label (&quot;%1&quot;) har ingen trText.</translation>
     </message>
     <message>
         <source>Spacer (&quot;%1&quot;) data is not an object.</source>
@@ -44275,7 +44275,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>TextEdit (&quot;%1&quot;) data is not an object.</source>
-        <translation type="unfinished"></translation>
+        <translation>TextEdit (&quot;%1&quot;) data är inte ett objekt.</translation>
     </message>
     <message>
         <source>PathChooser data is not an object.</source>
@@ -44287,7 +44287,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>CheckBox (&quot;%1&quot;) data is not an object.</source>
-        <translation type="unfinished"></translation>
+        <translation>CheckBox (&quot;%1&quot;) data är inte ett objekt.</translation>
     </message>
     <message>
         <source>CheckBox (&quot;%1&quot;) values for checked and unchecked state are identical.</source>
@@ -44457,7 +44457,7 @@ to project &quot;%2&quot;.</source>
     </message>
     <message>
         <source>Generator is not a object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Generator är inte ett objekt.</translation>
     </message>
     <message>
         <source>Generator has no typeId set.</source>
@@ -60130,7 +60130,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>[unnamed]</source>
-        <translation>[namnlös]</translation>
+        <translation>[ingetnamn]</translation>
     </message>
     <message>
         <source>Reset</source>
