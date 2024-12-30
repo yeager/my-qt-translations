@@ -64,7 +64,7 @@
     </message>
     <message>
         <source>&amp;Spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation>A&amp;vstånd:</translation>
     </message>
     <message>
         <source>&amp;Margin:</source>
@@ -80,7 +80,7 @@
     </message>
     <message>
         <source>Spa&amp;cing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Avs&amp;tånd:</translation>
     </message>
     <message>
         <source>Connections</source>
@@ -3429,11 +3429,11 @@ Klass: %2</translation>
     </message>
     <message>
         <source>Expand all</source>
-        <translation type="unfinished"></translation>
+        <translation>Fäll ut alla</translation>
     </message>
     <message>
         <source>Collapse all</source>
-        <translation type="unfinished"></translation>
+        <translation>Fäll in alla</translation>
     </message>
     <message>
         <source>List View</source>
@@ -5786,11 +5786,11 @@ This indicates an inconsistency in the ui-file.</source>
     </message>
     <message>
         <source>Split Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Dela vertikalt</translation>
     </message>
     <message>
         <source>Split Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Dela horisontellt</translation>
     </message>
     <message>
         <source>Pointing Hand</source>
