@@ -475,7 +475,6 @@ Bind to AmbientSound.Infinite to loop the current sound forever.</source>
     </message>
     <message>
         <source>Frame size</source>
-        <translatorcomment>Cadre, trame ou image?</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -962,7 +961,6 @@ A positive value will increase reverb for higher frequencies and dampen lower fr
     <name>BakeLights</name>
     <message>
         <source>Bake Lights</source>
-        <translatorcomment>Bake -&gt; inspiré de https://docs.blender.org/manual/fr/3.6/render/cycles/baking.html</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1438,7 +1436,6 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>The value multiplier for the speed slider.</source>
-        <translatorcomment>ou facteur ?</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2056,7 +2053,6 @@ Detta går inte att ångra.</translation>
     </message>
     <message>
         <source>Call Function</source>
-        <translatorcomment>ou Appel de fonction/Assignation/Changement d&apos;état...?</translatorcomment>
         <translation>Anropa funktion</translation>
     </message>
     <message>
@@ -2824,7 +2820,6 @@ defined in &lt;b&gt;Step size&lt;/b&gt;.</source>
     </message>
     <message>
         <source>Effect Composer is disabled on MCU projects</source>
-        <translatorcomment>n&apos;est pas pris en charge ?</translatorcomment>
         <translation>Effektkompositör är inaktivera för MCU-projekt</translation>
     </message>
 </context>
@@ -2848,7 +2843,6 @@ defined in &lt;b&gt;Step size&lt;/b&gt;.</source>
     </message>
     <message>
         <source>This property allows explicit control of current animation time.</source>
-        <translatorcomment>À relire</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2857,7 +2851,6 @@ defined in &lt;b&gt;Step size&lt;/b&gt;.</source>
     </message>
     <message>
         <source>This property allows explicit control of current animation frame.</source>
-        <translatorcomment>À relire</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3027,7 +3020,6 @@ defined in &lt;b&gt;Step size&lt;/b&gt;.</source>
     </message>
     <message>
         <source>Layer Blur</source>
-        <translatorcomment>Inspiration: https://docs.krita.org/fr/reference_manual/filters/blur.html</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3065,7 +3057,6 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Drop Shadow</source>
-        <translatorcomment>Ombre portée ?</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3086,7 +3077,6 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Resizes the base shadow of the component by pixels.</source>
-        <translatorcomment>A revoir</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3107,7 +3097,6 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Moves the shadow with respect to the component in X and Y coordinates by pixels.</source>
-        <translatorcomment>Déplace ?</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3507,7 +3496,6 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Hinting</source>
-        <translatorcomment>https://fr.wikipedia.org/wiki/Hinting</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3524,7 +3512,6 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Auto kerning</source>
-        <translatorcomment>https://fr.wikipedia.org/wiki/Cr%C3%A9nage</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3930,7 +3917,6 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Sets the directions of the cells.</source>
-        <translatorcomment>Ou &quot;les directions&quot; ?</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4015,7 +4001,6 @@ a highlight component.</source>
     </message>
     <message>
         <source>Follows current</source>
-        <translatorcomment>?</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4243,7 +4228,6 @@ a highlight component.</source>
     <name>InsightSection</name>
     <message>
         <source>Insight</source>
-        <translatorcomment>Nom du produit https://www.qt.io/product/insight</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4910,7 +4894,6 @@ a highlight component.</source>
     </message>
     <message>
         <source>Sets the visible &lt;b&gt;Views&lt;/b&gt; to immovable across the Workspaces.</source>
-        <translatorcomment>Vues ?</translatorcomment>
         <translation>Ställer in synliga &lt;b&gt;Vyer&lt;/b&gt; till oflyttbara runt alla arbetsytor.</translation>
     </message>
     <message>
@@ -4997,7 +4980,6 @@ a highlight component.</source>
     </message>
     <message>
         <source>Get Started</source>
-        <translatorcomment>Pour démarrer?</translatorcomment>
         <translation>Kom igång</translation>
     </message>
     <message>
@@ -5439,7 +5421,6 @@ Fel:
     </message>
     <message>
         <source>Axis</source>
-        <translatorcomment>Peut être au pluriel ?</translatorcomment>
         <translation>Axel</translation>
     </message>
     <message>
@@ -6167,7 +6148,6 @@ operation is in progress.</source>
     <name>PropertyActionSpecifics</name>
     <message>
         <source>Property Action</source>
-        <translatorcomment>Action sur une propriété?</translatorcomment>
         <translation>Egenskapsåtgärd</translation>
     </message>
     <message>
@@ -6244,7 +6224,6 @@ operation is in progress.</source>
     <name>QKeychain::JobPrivate</name>
     <message>
         <source>Access to keychain denied</source>
-        <translatorcomment>keychain ?</translatorcomment>
         <translation>Åtkomst till nyckelkedja nekades</translation>
     </message>
 </context>
@@ -7403,12 +7382,10 @@ Exporterar tillgångar: %2</translation>
     </message>
     <message>
         <source>Viewport Shading</source>
-        <translatorcomment>https://doc.qt.io/qtdesignstudio/studio-3d-editor.html#using-viewport-shading</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Wireframe</source>
-        <translatorcomment>A vérifier</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7732,7 +7709,6 @@ Exporterar tillgångar: %2</translation>
     <message>
         <source>Successfully generated QRC resource file
  %1</source>
-        <translatorcomment>ressoures ?</translatorcomment>
         <translation>QRC-resursfilen genererades
  %1</translation>
     </message>
@@ -8083,12 +8059,10 @@ Kontrollera utdatapanelen för mer information.</translation>
     </message>
     <message>
         <source>::nodeReparented:</source>
-        <translatorcomment>by looking at the rest of the code, there are some other log calls with strings not marked translatable. So, I guess this one should not be translated.</translatorcomment>
         <translation>::nodeReparented:</translation>
     </message>
     <message>
         <source>::nodeIdChanged:</source>
-        <translatorcomment>Same comment as for ::nodeReparented:</translatorcomment>
         <translation>::nodeIdChanged:</translation>
     </message>
     <message>
@@ -8180,7 +8154,6 @@ Kontrollera utdatapanelen för mer information.</translation>
     <name>QmlDesigner::Internal::SettingsPage</name>
     <message>
         <source>Snapping</source>
-        <translatorcomment>pour être cohérents avec designer</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8245,7 +8218,6 @@ Kontrollera utdatapanelen för mer information.</translation>
     </message>
     <message>
         <source>Always save when leaving subcomponent in bread crumb</source>
-        <translatorcomment>https://fr.wikipedia.org/wiki/Fil_d%27Ariane_(ergonomie)</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8270,7 +8242,6 @@ Kontrollera utdatapanelen för mer information.</translation>
     </message>
     <message>
         <source>qsTr()</source>
-        <translatorcomment>Option name referring to function in Qt. Should not be translatable?</translatorcomment>
         <translation>qsTr()</translation>
     </message>
     <message>
@@ -8966,7 +8937,6 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Frame</source>
-        <translatorcomment>Frame? Quelques fois étape, quelques fois &quot;cadre&quot;.</translatorcomment>
         <translation>Bild</translation>
     </message>
 </context>
@@ -9093,7 +9063,6 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Corner Point</source>
-        <translatorcomment>Opposite of Smooth operation</translatorcomment>
         <translation>Hörnpunkt</translation>
     </message>
     <message>
@@ -9291,7 +9260,6 @@ Locked components cannot be modified or selected.</source>
     <name>QmlDesigner::TextToModelMerger</name>
     <message>
         <source>No import statements found.</source>
-        <translatorcomment>instruction?</translatorcomment>
         <translation>Inga importvillkor hittades.</translation>
     </message>
     <message>
@@ -10271,7 +10239,6 @@ Locked components cannot be modified or selected.</source>
     <name>QmlDesignerTimeline</name>
     <message>
         <source>Playhead frame %1</source>
-        <translatorcomment>Tête de lecture?</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10287,7 +10254,6 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Illegal unicode escape sequence</source>
-        <translatorcomment>trad illegal ?</translatorcomment>
         <translation>Ogiltig unicode-avbrottssekvens</translation>
     </message>
     <message>
@@ -10455,7 +10421,6 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Unpin (Dock)</source>
-        <translatorcomment>I have seen &quot;désépingler&quot; in Firefox</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11958,7 +11923,6 @@ This cannot be undone.</source>
     </message>
     <message>
         <source>Select a build target</source>
-        <translatorcomment>Titre</translatorcomment>
         <translation>Välj ett byggmål</translation>
     </message>
     <message>
@@ -12732,12 +12696,10 @@ Executable: %2</source>
     </message>
     <message>
         <source>parameterized</source>
-        <translatorcomment>Test name before this string, https://www.boost.org/doc/libs/1_66_0/libs/test/doc/html/boost_test/tests_organization/test_cases/param_test.html</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>fixture</source>
-        <translatorcomment>fixture is something run before (initialisation) et after (cleanup) the test</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12918,7 +12880,6 @@ Executable: %2</source>
     </message>
     <message>
         <source>Schedule random</source>
-        <translatorcomment>CTest Option --schedule-random </translatorcomment>
         <translation>Schemalägg slumpmässigt</translation>
     </message>
     <message>
@@ -13014,7 +12975,6 @@ Executable: %2</source>
     </message>
     <message>
         <source>Throw on failure</source>
-        <translatorcomment>GTest option gtest_throw_on_failure</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13096,7 +13056,6 @@ See Google Test documentation for further information on GTest filters.</source>
     </message>
     <message>
         <source>Limit Files to Path Patterns</source>
-        <translatorcomment>je ne suis pas certain de cette traduction</translatorcomment>
         <translation>Begränsa filer till sökvägsmönster</translation>
     </message>
     <message>
@@ -13337,7 +13296,6 @@ See Google Test documentation for further information on GTest filters.</source>
     </message>
     <message>
         <source>Show Data Functions</source>
-        <translatorcomment>Data functions?</translatorcomment>
         <translation>Visa datafunktioner</translation>
     </message>
     <message>
@@ -13840,7 +13798,6 @@ Warning: this is an experimental feature and might lead to failing to execute th
     </message>
     <message>
         <source>Path globbing</source>
-        <translatorcomment>globbing?</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13905,7 +13862,6 @@ Warning: this is an experimental feature and might lead to failing to execute th
     </message>
     <message>
         <source>Show Issue Properties</source>
-        <translatorcomment>propriétés n&apos;est peut être pas le meilleur mot ici. Informations?</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14664,7 +14620,6 @@ a matches issues where the value contains the letter &apos;a&apos;
     </message>
     <message>
         <source>Vendor</source>
-        <translatorcomment>Distributeur ?</translatorcomment>
         <translation>Tillverkare</translation>
     </message>
     <message>
@@ -14905,7 +14860,6 @@ Local commits are not pushed to the master branch until a normal commit is perfo
     </message>
     <message>
         <source>For example: &quot;https://[user[:pass]@]host[:port]/[path]&quot;.</source>
-        <translatorcomment>Should we translate the URL?</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14968,7 +14922,6 @@ Local pulls are not applied to the master branch.</source>
     </message>
     <message>
         <source>Push Destination</source>
-        <translatorcomment>ça semble plus cohérent</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15511,7 +15464,6 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Little Endian</source>
-        <translatorcomment>remettre endian ?</translatorcomment>
         <translation>Little Endian</translation>
     </message>
     <message>
@@ -15643,7 +15595,6 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Stage for installation</source>
-        <translatorcomment>option sets https://cmake.org/cmake/help/latest/envvar/DESTDIR.html</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16015,7 +15966,6 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Toolset</source>
-        <translatorcomment>pas trouvé de traduction adéquate pour «&#xa0;toolset&#xa0;»</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16270,7 +16220,6 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>You may need to add the project directory to the list of directories that are mounted by the build device.</source>
-        <translatorcomment>A revoir</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -17817,7 +17766,6 @@ Set a valid executable first.</source>
     </message>
     <message>
         <source>Class View</source>
-        <translatorcomment>Ce texte est affiché dans le combobox du panneau de gauche (où l&apos;on affiche la hiérarchie du projets ou le système de fichiers). Peut être que &quot;symboles&quot; aurait plus sa place, sachant que ce mode affiche une liste des classes et les symboles définis par ces classes.</translatorcomment>
         <translation>Klassvy</translation>
     </message>
 </context>
@@ -17845,7 +17793,6 @@ Set a valid executable first.</source>
     </message>
     <message>
         <source>Use &amp;Hijacked file</source>
-        <translatorcomment>ça sent le dikkenek un peu tout ça: http://www.lembrouille.com/dikkenek/dikkenek-je-viens-de-me-faire-carjacker</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -17890,12 +17837,10 @@ Set a valid executable first.</source>
     </message>
     <message>
         <source>&amp;History count:</source>
-        <translatorcomment>Pluriel ?</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Timeout:</source>
-        <translatorcomment>Pluriel ?</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18213,8 +18158,6 @@ Set a valid executable first.</source>
     </message>
     <message>
         <source>Undo Hijack File</source>
-        <translatorcomment>ils ont vraiment des concepts bizarres dans Clearcase, mais en general je trouve ce jargon specifique à un outil particulier assez intraduisible...
-Oui :)</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18420,7 +18363,6 @@ Oui :)</translatorcomment>
     </message>
     <message>
         <source>Paste Snippet...</source>
-        <translatorcomment>snippet est traduit par «&#xa0;extrait de code&#xa0;» partout ailleurs</translatorcomment>
         <translation>Klistra in kodsnutt...</translation>
     </message>
     <message>
@@ -18659,7 +18601,7 @@ Oui :)</translatorcomment>
     </message>
     <message>
         <source>No source code added yet. Add some using the button below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen källkod tillagd ännu. Lägg till den med knappen nedan.</translation>
     </message>
     <message>
         <source>Add Source</source>
@@ -18731,15 +18673,15 @@ Oui :)</translatorcomment>
     </message>
     <message>
         <source>Failed to fetch libraries: &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att hämta bibliotek: &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Failed to fetch languages: &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att hämta språk: &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Failed to fetch compilers: &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att hämta kompilatorer: &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Compiler Explorer URL:</source>
@@ -20428,7 +20370,6 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Whole words o&amp;nly</source>
-        <translatorcomment>On trouve, plus couramment, l&apos;expression &quot;Mots entiers&quot;</translatorcomment>
         <translation>Endast &amp;hela ord</translation>
     </message>
     <message>
@@ -21030,7 +20971,6 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>Show Bread Crumbs</source>
-        <translatorcomment>bread crumbs?</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21132,7 +21072,6 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>Modifies current document</source>
-        <translatorcomment>le reste des verbes similaires est à l&apos;infinitif dans l&apos;application</translatorcomment>
         <translation>Ändrar aktuellt dokument</translation>
     </message>
     <message>
@@ -21255,12 +21194,10 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>Opens the current file in Notepad</source>
-        <translatorcomment>Notepad, c&apos;est pas très cross-platform</translatorcomment>
         <translation>Öppnar aktuell fil i Notepad</translation>
     </message>
     <message>
         <source>Edit with Notepad</source>
-        <translatorcomment>Notepad, c&apos;est pas très cross-platform</translatorcomment>
         <translation>Redigera med Notepad</translation>
     </message>
     <message>
@@ -22989,7 +22926,6 @@ managed by the same clangd process, add them here.</source>
     </message>
     <message>
         <source>Split if Statement</source>
-        <translatorcomment>aaaaaaaah ! Je n&apos;avais pas tilté.</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -23918,7 +23854,6 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Extract Function Refactoring</source>
-        <translatorcomment>contexte ? [Pierre] là je cale...</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -23939,7 +23874,6 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Apply Function Signature Changes</source>
-        <translatorcomment>Pluriel ?</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -24912,12 +24846,10 @@ For more details, see /etc/sysctl.d/10-ptrace.conf
     </message>
     <message>
         <source>Marker File:</source>
-        <translatorcomment>Alternative &quot;Fichier ayant le marqueur&quot;</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Marker Line:</source>
-        <translatorcomment>idem</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -25002,7 +24934,6 @@ For more details, see /etc/sysctl.d/10-ptrace.conf
     </message>
     <message>
         <source>Enabled</source>
-        <translatorcomment>ou activé ? modifier en conséquence disabled plus haut. </translatorcomment>
         <translation>Aktiverad</translation>
     </message>
     <message>
@@ -26096,7 +26027,6 @@ markers in the source code editor.</source>
     </message>
     <message>
         <source>Use debug info daemon</source>
-        <translatorcomment>ou daemon ou service</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -26294,7 +26224,6 @@ markers in the source code editor.</source>
     </message>
     <message numerus="yes">
         <source>%n bytes</source>
-        <translatorcomment>voir les récentes discussions sur Developpez.com sur la distinction byte != octet</translatorcomment>
         <translation>
             <numerusform>%n byte</numerusform>
             <numerusform>%n byte</numerusform>
@@ -26352,7 +26281,6 @@ markers in the source code editor.</source>
     </message>
     <message>
         <source>%1 Object at Unknown Address</source>
-        <translatorcomment>%1 est le data type =&gt; &quot;Objet QMainWindow&quot; par exemple.</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -26779,7 +26707,6 @@ Selecting GDB or LLDB as debugger would improve the debugging experience for thi
     </message>
     <message>
         <source>Taking notice of pid %1</source>
-        <translatorcomment>Pas sur de la traduction...</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -26896,7 +26823,6 @@ You may be asked to share the contents of this log when reporting bugs related t
     </message>
     <message>
         <source>Global Debugger &amp;Log</source>
-        <translatorcomment>Je pense que &quot;Global&quot; se réfère au log et non au débogueur.</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -27449,7 +27375,6 @@ You may be asked to share the contents of this log when reporting bugs related t
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;You are trying to run the tool &quot;%1&quot; on an application in %2 mode. The tool is designed to be used %3.&lt;/p&gt;&lt;p&gt;Run-time characteristics differ significantly between optimized and non-optimized binaries. Analytical findings for one mode may or may not be relevant for the other.&lt;/p&gt;&lt;p&gt;Running tools that need debug symbols on binaries that don&apos;t provide any may lead to missing function names or otherwise insufficient output.&lt;/p&gt;&lt;p&gt;Do you want to continue and run the tool in %2 mode?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translatorcomment>%3 est remplacé par la chaîne précédente (on optimized code...)</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -28131,7 +28056,6 @@ You can choose another communication channel here, such as a serial line or cust
     </message>
     <message>
         <source>%1 &lt;None&gt;</source>
-        <translatorcomment>Balise à traduire ? Yep (c&apos;est ce qui est fait dans qtcreator_de.ts en tout cas)</translatorcomment>
         <translation>%1 &lt;Ingen&gt;</translation>
     </message>
     <message>
@@ -28144,7 +28068,6 @@ You can choose another communication channel here, such as a serial line or cust
     </message>
     <message>
         <source>Error Loading Core File</source>
-        <translatorcomment>Core ? coeur ? Les anciennes chaînes utilisent core</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -28422,17 +28345,14 @@ Stepping into the module or setting breakpoints by file and line is expected to 
     </message>
     <message>
         <source>RO</source>
-        <translatorcomment>je pense qu&apos;il ne faut pas traduire «&#xa0;RO&#xa0;»</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WO</source>
-        <translatorcomment>je pense qu&apos;il ne faut pas traduire «&#xa0;WO&#xa0;»</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>RW</source>
-        <translatorcomment>je pense qu&apos;il ne faut pas traduire «&#xa0;RW&#xa0;»</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -28481,7 +28401,6 @@ Stepping into the module or setting breakpoints by file and line is expected to 
     </message>
     <message>
         <source>Debugger Preset</source>
-        <translatorcomment>pas d&apos;idée sur la façon de traduire «&#xa0;preset&#xa0;»</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -29462,12 +29381,10 @@ Stepping into the module or setting breakpoints by file and line is expected to 
     </message>
     <message>
         <source>Widget Box</source>
-        <translatorcomment>this translation must coherent with the translation of Qt Widgets Designer</translatorcomment>
         <translation>Widgetruta</translation>
     </message>
     <message>
         <source>Object Inspector</source>
-        <translatorcomment>Je trouve que &quot;Inspecteur d&apos;objet&quot; est peu adapté. Explorateur d&apos;objet n&apos;est pas excellent non plus, à changer surement.</translatorcomment>
         <translation>Objektinspekterare</translation>
     </message>
     <message>
@@ -29564,7 +29481,6 @@ Stepping into the module or setting breakpoints by file and line is expected to 
     </message>
     <message>
         <source>Signals &amp;&amp; Slots Editor</source>
-        <translatorcomment>&amp;&amp; ? typo in original ?</translatorcomment>
         <translation>Redigerare för signaler och slots</translation>
     </message>
     <message>
@@ -29595,7 +29511,6 @@ Verifiera #include-direktiven.</translation>
     </message>
     <message>
         <source>Error finding/adding a slot.</source>
-        <translatorcomment>Erreur lors de la recherche/de l&apos;ajout d&apos;un slot. ?</translatorcomment>
         <translation>Fel vid sökning/lägga till en slot.</translation>
     </message>
     <message>
@@ -30237,7 +30152,7 @@ Det kan hjälpa att bygga om projektet.</translation>
     </message>
     <message>
         <source>Extension details</source>
-        <translation type="unfinished"></translation>
+        <translation>Utökningsdetaljer</translation>
     </message>
     <message>
         <source>Active</source>
@@ -30265,7 +30180,7 @@ Det kan hjälpa att bygga om projektet.</translation>
     </message>
     <message>
         <source>Select an extension to see more information about it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en utökning för att se mer information om den.</translation>
     </message>
     <message>
         <source>Last Update</source>
@@ -30365,15 +30280,15 @@ Det kan hjälpa att bygga om projektet.</translation>
     </message>
     <message>
         <source>Server URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>Server-URL:</translation>
     </message>
     <message>
         <source>Note</source>
-        <translation type="unfinished"></translation>
+        <translation>Observera</translation>
     </message>
     <message>
         <source>%1 does not check extensions from external vendors for security flaws or malicious intent, so be careful when installing them, as it might leave your computer vulnerable to attacks such as hacking, malware, and phishing.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 kontrollerar inte utökningar från externa tillverkare efter säkerhetshål eller skadliga syften så var försiktig när du installerar dem då det kan göra din dator sårbar för attacker såsom hacking, skadlig kod och phishing.</translation>
     </message>
     <message>
         <source>Use External Repository</source>
@@ -30436,7 +30351,6 @@ Det kan hjälpa att bygga om projektet.</translation>
     </message>
     <message>
         <source>Copyright:</source>
-        <translatorcomment>Droit d&apos;auteur ?</translatorcomment>
         <translation>Copyright:</translation>
     </message>
     <message>
@@ -30469,7 +30383,6 @@ Det kan hjälpa att bygga om projektet.</translation>
     </message>
     <message>
         <source>Compatibility version:</source>
-        <translatorcomment>cf libs/extensionsystem/plugindetailsview.ui et PluginSpecPrivate::provides() : version minimum compatible</translatorcomment>
         <translation>Kompatibel version:</translation>
     </message>
     <message>
@@ -30983,7 +30896,6 @@ Reason: %3</source>
     </message>
     <message numerus="yes">
         <source>%n lines yanked.</source>
-        <translatorcomment>C&apos;est un essai</translatorcomment>
         <translation type="unfinished">
             <numerusform></numerusform>
             <numerusform></numerusform>
@@ -32328,7 +32240,6 @@ Would you like to create the branch &quot;%1&quot; on the remote and set it as u
     </message>
     <message>
         <source>All</source>
-        <translatorcomment>Semble être pour les branches</translatorcomment>
         <translation>Alla</translation>
     </message>
     <message>
@@ -32616,12 +32527,10 @@ Commit now?</source>
     </message>
     <message>
         <source>Undo Unstaged Changes</source>
-        <translatorcomment>quid de unstaged ? pas sur^  =&gt; cf ci dessus &quot;unstage&quot; a été traduit par &quot;retiré du staging&quot;, donc pourquoi pas &quot;retirés du staging&quot; pour être cohérent (mais j&apos;avoue ne pas savoir si unstage=retiré du staging est correct ;) ) [pnr]</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Undo Unstaged Changes for &quot;%1&quot;</source>
-        <translatorcomment>&quot;non ajoutés à la staging area&quot; commencait a faire trop alambiqué et trop anglais...</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -32888,7 +32797,6 @@ Commit now?</source>
     <message>
         <source>Log Current Selection</source>
         <comment>Avoid translating &quot;Log&quot;</comment>
-        <translatorcomment>Doit t-on suivre le conseil du développeur ? :D</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -33072,7 +32980,6 @@ Commit now?</source>
     </message>
     <message>
         <source>By&amp;pass hooks</source>
-        <translatorcomment>contexte ? -&gt; Les hooks dans git (ou SVN) sont des checks faites avant et après un commit. D&apos;ailleurs, le projet Qt utilise les hooks :P . Dans le livre suivant, j&apos;ai trouvé : http://git-scm.com/book/fr/Personnalisation-de-Git-Crochets-Git </translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -33421,7 +33328,6 @@ You can choose between stashing the changes or discarding them.</source>
     </message>
     <message>
         <source>staged + </source>
-        <translatorcomment>contexte ? pierre: concept de la staging area (ou index), pas évident à traduire...</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -33478,7 +33384,6 @@ You can choose between stashing the changes or discarding them.</source>
     </message>
     <message>
         <source>Change #, hash, tr:id, owner:email or reviewer:email</source>
-        <translatorcomment>Je ne suis pas sûr pour celle-ci</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -33625,7 +33530,6 @@ Would you like to terminate it?</source>
     </message>
     <message>
         <source>&amp;ssh:</source>
-        <translatorcomment>Espace avant le : (protocole ?) ?</translatorcomment>
         <translation>&amp;ssh:</translation>
     </message>
     <message>
@@ -33876,7 +33780,6 @@ Unchecked - The change is not a draft.</source>
     </message>
     <message>
         <source>Hash</source>
-        <translatorcomment>ou hashage (que j&apos;ai vu autre part dans la traduction de QtCreator)</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -34636,7 +34539,6 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Choose Topic</source>
-        <translatorcomment>thème ?</translatorcomment>
         <translation>Välj ämne</translation>
     </message>
     <message>
@@ -34666,7 +34568,6 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Save File</source>
-        <translatorcomment>Enregistrer ? (tout court)</translatorcomment>
         <translation>Spara fil</translation>
     </message>
     <message>
@@ -35582,7 +35483,6 @@ Vill du skriva över dem?</translation>
     </message>
     <message>
         <source>Could not get inferior PID.</source>
-        <translatorcomment>https://itecnote.com/tecnote/what-does-inferior-mean-in-the-term-inferior-debugger/</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -36312,7 +36212,6 @@ See the documentation of the specific language server for valid settings.</sourc
     <message>
         <source>Allow the extension &quot;%1&quot; to fetch from the following URL:
 %2</source>
-        <translatorcomment>de l&apos;URL ?</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -36343,7 +36242,6 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Fetching is not allowed for the extension &quot;%1&quot;. (You can edit permissions in Preferences &gt; Lua.)</source>
-        <translatorcomment>ajouter &quot;en ligne&quot; ?</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -36435,7 +36333,6 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Scripting</source>
-        <translatorcomment>Comment traduire?</translatorcomment>
         <translation>Skriptning</translation>
     </message>
     <message>
@@ -36737,7 +36634,6 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Flexible Software Package for Renesas RA MCU Family</source>
-        <translatorcomment>https://www.renesas.com/us/en/software-tool/flexible-software-package-fsp</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -37649,7 +37545,6 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>Toggle View and Filter Settings</source>
-        <translatorcomment>View and Filter Settings ?</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -38250,7 +38145,6 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>Self Samples</source>
-        <translatorcomment>Here &quot;auto&quot; is used for self https://learn.microsoft.com/fr-fr/visualstudio/profiling/beginners-guide-to-performance-profiling?view=vs-2022</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -38602,7 +38496,6 @@ You might find further explanations in the Application Output view.</source>
     <name>QtC::Perforce</name>
     <message>
         <source>Change Number</source>
-        <translatorcomment>?</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -39180,7 +39073,6 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message numerus="yes">
         <source>Finished %1 of %n steps</source>
-        <translatorcomment>lorsqu&apos;il n&apos;y a qu&apos;une étape 1/1 n&apos;est pas franchement utile... -&gt; et comme ça ?</translatorcomment>
         <translation>
             <numerusform>Färdigställde %1 av %n steg</numerusform>
             <numerusform>Färdigställde %1 av %n steg</numerusform>
@@ -39442,7 +39334,6 @@ Title of a the cloned RunConfiguration window, text of the window</extracomment>
     </message>
     <message>
         <source>Discarded excessive compile output.</source>
-        <translatorcomment>abandonné ? jeté ?</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -39479,7 +39370,6 @@ Title of a the cloned RunConfiguration window, text of the window</extracomment>
     </message>
     <message>
         <source>Restore Global</source>
-        <translatorcomment>?</translatorcomment>
         <translation>Återställ global</translation>
     </message>
     <message>
@@ -40191,23 +40081,19 @@ Do you want to ignore them?</source>
     </message>
     <message>
         <source>Active build environment of the active project.</source>
-        <translatorcomment>les messages similaires précédent n&apos;ont pas de point final. Ce message apparait dans une boite déroulante.</translatorcomment>
         <translation>Aktiv byggmiljö för det aktiva projektet.</translation>
     </message>
     <message>
         <source>Active run environment of the active project.</source>
-        <translatorcomment>les messages similaires précédent n&apos;ont pas de point final. Ce message apparait dans une boite déroulante.</translatorcomment>
         <translation>Aktiv körmiljö för det aktiva projektet.</translation>
     </message>
     <message>
         <source>Sanitizer</source>
         <comment>Category for sanitizer issues listed under &apos;Issues&apos;</comment>
-        <translatorcomment>Si on tient vraiment à traduire, on peut utiliser «&#xa0;assainissant&#xa0;» mais le terme «&#xa0;sanitizer&#xa0;» semble plus répandu en français</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Memory handling issues that the address sanitizer found.</source>
-        <translatorcomment>sanitizer, pour garder la cohérence</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -40593,7 +40479,6 @@ Försök igen.</translation>
     </message>
     <message>
         <source>The amount of seconds to wait between a &quot;soft kill&quot; and a &quot;hard kill&quot; of a running application.</source>
-        <translatorcomment>mort douce ?</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -42954,7 +42839,6 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Discard excessive output</source>
-        <translatorcomment>A revoir</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -43737,7 +43621,6 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Standard error</source>
-        <translatorcomment>A revoir -&gt; Sortie d&apos;erreur</translatorcomment>
         <translation>Standardfel</translation>
     </message>
     <message>
@@ -45990,7 +45873,6 @@ The affected files are:
     </message>
     <message>
         <source>Flash Boot to Qt Device</source>
-        <translatorcomment>Refers to Boot2Qt</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -46426,7 +46308,6 @@ The affected files are:
     </message>
     <message>
         <source>This wizard generates a Qt Widgets Designer Custom Widget or a Qt Widgets Designer Custom Widget Collection project.</source>
-        <translatorcomment>lourd ? &quot;contenant un widget ou une collection de widgets, personnalisé pour Qt Widgets Designer&quot; ?</translatorcomment>
         <translation>Denna guide genererar ett Qt Widgets Designer Custom Widget eller Qt Widgets Designer Custom Widget Collection-projekt.</translation>
     </message>
     <message>
@@ -46638,8 +46519,6 @@ Neither the path to the library nor the path to its includes is added to the .pr
     <message>
         <source>Links to a library that is not located in your build tree.
 Adds the library and include paths to the .pro file.</source>
-        <translatorcomment>Avant : Fait l’édition de liens avec une bibliothèque qui n’est pas dans votre arbre de compilation.
-Ajoute la bibliothèque et les chemins d’inclusion dans le fichier .pro.</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -46689,7 +46568,6 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>%1 Dynamic</source>
-        <translatorcomment>%1, c&apos;est  linkage(tr(&quot;Linkage:&quot;)), donc &quot;edition de  lien&quot;.</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -46698,12 +46576,10 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>%1 Framework</source>
-        <translatorcomment>traduire framework ? pas certain que ça ait un sens en français dans le context OSX. John : non on ne traduit pas</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 Library</source>
-        <translatorcomment>On inverse l&apos;ordre non ?</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -46964,7 +46840,6 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>Repeat vertically. Tiles the image until there is no more space. May crop the last image.</source>
-        <translatorcomment>tronquée ? rognée ? john :rognée</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -47061,7 +46936,6 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>Easing overshoot for a back curve.</source>
-        <translatorcomment>Related to bounce easing curve</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -47920,7 +47794,6 @@ Please build the qmldump application on the Qt version options page.</source>
     </message>
     <message>
         <source>Pin Qt Quick Toolbar</source>
-        <translatorcomment>&quot;Pin&quot; -&gt; épingler (utilisé dans d&apos;autres traductions)</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -47969,7 +47842,6 @@ Please build the qmldump application on the Qt version options page.</source>
     </message>
     <message>
         <source>Show All Bindings</source>
-        <translatorcomment>myzu : faut-il traduire binding ? John : Non </translatorcomment>
         <translation>Visa alla bindningar</translation>
     </message>
     <message>
@@ -48010,7 +47882,6 @@ Please build the qmldump application on the Qt version options page.</source>
     </message>
     <message>
         <source>Wrap Component in Loader</source>
-        <translatorcomment>wrap en &quot;enveloppez&quot; = bof ; Component et Loader en majuscule = correspond à des noms de modules ? (et ne pas traduire alors ?)</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -48405,12 +48276,10 @@ Do you want to save the data first?</source>
     </message>
     <message>
         <source>Self Time in Percent</source>
-        <translatorcomment>Contexte de &quot;self&quot; ?</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Self Time</source>
-        <translatorcomment>Contexte de &quot;self&quot; ?</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -48455,7 +48324,6 @@ Do you want to save the data first?</source>
     </message>
     <message>
         <source>Binding</source>
-        <translatorcomment>Vérifier le contexte</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -49549,7 +49417,6 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>&lt;unknown&gt;</source>
-        <translatorcomment>contexte ?</translatorcomment>
         <translation>&lt;okänd&gt;</translation>
     </message>
     <message>
@@ -49574,7 +49441,6 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>Non-installed -prefix build - for internal development only.</source>
-        <translatorcomment>?</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -50892,7 +50758,6 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Transfer method was downgraded from &quot;%1&quot; to &quot;%2&quot;. If this is unexpected, please re-test device &quot;%3&quot;.</source>
-        <translatorcomment>downgraded ?</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -51331,7 +51196,6 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Capture the screen mouse clicks</source>
-        <translatorcomment>Pourquoi screen est précisé ?</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -51352,7 +51216,6 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Export animated images as infinite loop</source>
-        <translatorcomment>To obtain a GIF that loops</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -51682,7 +51545,6 @@ Beskrivning:	  %4</translation>
     </message>
     <message>
         <source>Panning</source>
-        <translatorcomment>see scxmleditor/graphicsview.cpp -&gt; setPanning</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -52115,7 +51977,6 @@ Row: %4, Column: %5
     </message>
     <message>
         <source>None</source>
-        <translatorcomment>ce sont les fins de ligne</translatorcomment>
         <translation>Ingen</translation>
     </message>
     <message>
@@ -52162,7 +52023,6 @@ Row: %4, Column: %5
     </message>
     <message>
         <source>The Symbolic Name &lt;span style=&apos;white-space: nowrap&apos;&gt;&quot;%1&quot;&lt;/span&gt; you want to remove is used in Multi Property Names. Select the action to apply to references in these Multi Property Names.</source>
-        <translatorcomment>Multi Property Names ?</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -53858,7 +53718,6 @@ A value less than 100% can result in overlapping and misaligned graphics.</sourc
     </message>
     <message>
         <source>Antialias</source>
-        <translatorcomment>c&apos;est le français pour anti-aliasing ?</translatorcomment>
         <translation>Antialias</translation>
     </message>
     <message>
@@ -54537,7 +54396,6 @@ Applied to text that matched no other rule.</source>
     </message>
     <message>
         <source>Links that follow symbol under cursor.</source>
-        <translatorcomment>suivant &gt; après.</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -54593,7 +54451,6 @@ Used to mark containing function of the symbol usage.</source>
     </message>
     <message>
         <source>Search Scope</source>
-        <translatorcomment>contexte/portée/autre ?</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -55281,7 +55138,6 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>Underline</source>
-        <translatorcomment>Vu dans LibreOffice</translatorcomment>
         <translation>Understruken</translation>
     </message>
     <message>
@@ -55318,7 +55174,6 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>Not a color scheme file.</source>
-        <translatorcomment>Pas sur ?</translatorcomment>
         <translation>Inte en färgschemafil.</translation>
     </message>
     <message>
@@ -55937,8 +55792,6 @@ Specifies how backspace interacts with indentation.
     </message>
     <message>
         <source>Auto-fold first &amp;comment</source>
-        <translatorcomment>reformulation à l&apos;infinitif
-francis : en effet, une erreur de ma part --&gt; validé.</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -55955,7 +55808,6 @@ francis : en effet, une erreur de ma part --&gt; validé.</translatorcomment>
     </message>
     <message>
         <source>Adds a colored background and a marker to the scrollbar to occurrences of the selected text.</source>
-        <translatorcomment>occurences ? apparitions ?</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -56270,7 +56122,6 @@ Influences the indentation of continuation lines.
     </message>
     <message>
         <source>Copy Hash to Clipboard</source>
-        <translatorcomment>J&apos;ai vu hashage?</translatorcomment>
         <translation>Kopiera kontrollsumma till urklipp</translation>
     </message>
     <message>
@@ -56487,7 +56338,6 @@ Influences the indentation of continuation lines.
     </message>
     <message>
         <source>To-Do Entries</source>
-        <translatorcomment>Fonctionnalités qui recherche les entrées &quot;TODO&quot; dans le code, à voir comment ça s&apos;affiche en partique dans Qt Creator. [Pierre] ça je suis partisant de laisser TODO tel quel, c&apos;est du jargon informatique...</translatorcomment>
         <translation>Att-göra-poster</translation>
     </message>
     <message>
@@ -56520,7 +56370,6 @@ Influences the indentation of continuation lines.
     </message>
     <message>
         <source>To-Do</source>
-        <translatorcomment>Quoi que l&apos;on pourrait laisser TODO ? [Pierre] yep, je valide TODO</translatorcomment>
         <translation>Att-göra</translation>
     </message>
     <message>
@@ -56537,7 +56386,6 @@ Influences the indentation of continuation lines.
     </message>
     <message>
         <source>errorLabel</source>
-        <translatorcomment>... bah, je ne sais pas &gt;&gt; vraiment à traduire ? </translatorcomment>
         <translation>errorLabel</translation>
     </message>
     <message>
@@ -57843,7 +57691,6 @@ Lines starting with &quot;##&quot; will be treated as comments.</source>
     </message>
     <message>
         <source>Insert Unexpanded Value</source>
-        <translatorcomment>pas sûr de la traduction de «&#xa0;unexpanded&#xa0;»</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -57852,7 +57699,6 @@ Lines starting with &quot;##&quot; will be treated as comments.</source>
     </message>
     <message>
         <source>Insert Expanded Value</source>
-        <translatorcomment>pas sûr de la traduction de «&#xa0;expanded&#xa0;»</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -58201,7 +58047,6 @@ With cache simulation, further event counters are enabled:
     </message>
     <message>
         <source>Full</source>
-        <translatorcomment>il est question de la vérification des fuites</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -58214,7 +58059,6 @@ With cache simulation, further event counters are enabled:
     </message>
     <message>
         <source>Callers</source>
-        <translatorcomment>ou -ants ?</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -58594,7 +58438,6 @@ When a problem is detected, the application is interrupted and can be debugged.<
     </message>
     <message>
         <source>None</source>
-        <translatorcomment>concerne les détails de fuite mémoire</translatorcomment>
         <translation>Ingen</translation>
     </message>
     <message>
@@ -58699,7 +58542,6 @@ When a problem is detected, the application is interrupted and can be debugged.<
     </message>
     <message>
         <source>Wrong bitness.</source>
-        <translatorcomment>pas sûr si il faut traduire «&#xa0;bitness&#xa0;», pour le moment, je propose «&#xa0;largeur de bits&#xa0;» ou éventuellement «&#xa0;largeur de bits («&#xa0;bitness&#xa0;»)&#xa0;»</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -58812,7 +58654,6 @@ When a problem is detected, the application is interrupted and can be debugged.<
     </message>
     <message numerus="yes">
         <source>%n time(s)</source>
-        <translatorcomment>En français le singulier s&apos;écrit en lettre et pas en chiffre, d&apos;où l&apos;absence de %n pour le singulier</translatorcomment>
         <translation>
             <numerusform>%n gång</numerusform>
             <numerusform>%n gånger</numerusform>
@@ -58856,7 +58697,6 @@ When a problem is detected, the application is interrupted and can be debugged.<
     </message>
     <message>
         <source>Self Cost: %1</source>
-        <translatorcomment>?</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -59275,7 +59115,6 @@ Check settings or ensure Valgrind is installed and available in PATH.</source>
     </message>
     <message>
         <source>Git Reflog Editor</source>
-        <translatorcomment>Reflog?</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -59798,7 +59637,6 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Explore more</source>
-        <translatorcomment>Découvrir ?</translatorcomment>
         <translation>UTFORSKA MER</translation>
     </message>
     <message>
@@ -59827,7 +59665,6 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Welcome</source>
-        <translatorcomment>il s&apos;agit du mode, donc d&apos;un écran d&apos;accueil</translatorcomment>
         <translation>Välkommen</translation>
     </message>
     <message>
@@ -60399,7 +60236,6 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Stereotype display:</source>
-        <translatorcomment>https://doc.qt.io/qtcreator/creator-modeling.html</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -60408,7 +60244,6 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Box</source>
-        <translatorcomment>https://doc.qt.io/qtcreator/creator-modeling.html#creating-class-diagrams</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -61064,7 +60899,6 @@ This is used for calculating the total implicit size.</source>
     <name>ShowLookAtAction</name>
     <message>
         <source>Show Look-at</source>
-        <translatorcomment>où la caméra pointe/direction</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -61398,7 +61232,6 @@ A value of 0 implies that the sound is emitted equally in all directions, while 
     </message>
     <message>
         <source>Directivity Order</source>
-        <translatorcomment>https://resonance-audio.github.io/resonance-audio/discover/concepts.html</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -61911,7 +61744,6 @@ it reaches the start or end.</source>
     <name>SwipeViewSpecifics</name>
     <message>
         <source>Swipe View</source>
-        <translatorcomment>ou vue glissante? ou carroussel?</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -62079,7 +61911,6 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>Community</source>
-        <translatorcomment>Ou garder community?</translatorcomment>
         <translation>Gemenskap</translation>
     </message>
     <message>
@@ -62273,7 +62104,6 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>Placeholder text</source>
-        <translatorcomment>texte affiché en gris lorsqu&apos;il n&apos;y a pas encore de texte entré ou pas le focus</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -62365,7 +62195,6 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>Tab stop distance</source>
-        <translatorcomment>https://fr.wikipedia.org/wiki/Taquet_de_tabulation</translatorcomment>
         <translation>Tabulatorstoppavstånd</translation>
     </message>
     <message>
@@ -62553,7 +62382,6 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>Recently Downloaded</source>
-        <translatorcomment>Pluriels?</translatorcomment>
         <translation>Tidigare hämtade</translation>
     </message>
 </context>
