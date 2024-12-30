@@ -1494,7 +1494,7 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Sets the style of the selected font. This is prioritized over &lt;b&gt;Weight&lt;/b&gt; and &lt;b&gt;Emphasis&lt;/b&gt;.</source>
-        <translation>Ställer in stilen för markerat typsnitt. Detta är prioriterat över &lt;b&gt;Vikt&lt;/b&gt; och &lt;b&gt;Framhäv&lt;/b&gt;.</translation>
+        <translation>Ställer in stilen för markerat typsnitt. Detta är prioriterat över &lt;b&gt;Vikt&lt;/b&gt; och &lt;b&gt;Förtydliga&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Sets the overall thickness of the font.</source>
@@ -3224,7 +3224,7 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Insert Keyframe</source>
-        <translation type="unfinished"></translation>
+        <translation>Infoga nyckelbild</translation>
     </message>
 </context>
 <context>
@@ -3535,47 +3535,47 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Sets the font size in pixels or points.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in typsnittsstorleken i pixlar eller punkter.</translation>
     </message>
     <message>
         <source>Emphasis</source>
-        <translation type="unfinished"></translation>
+        <translation>Förtydliga</translation>
     </message>
     <message>
         <source>Sets the text to bold, italic, underlined, or strikethrough.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in texten till fet, kursiv, understruken eller genomstruken.</translation>
     </message>
     <message>
         <source>Capitalization</source>
-        <translation type="unfinished"></translation>
+        <translation>Versalisering</translation>
     </message>
     <message>
         <source>Sets capitalization rules for the text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in versaliseringsregler för texten.</translation>
     </message>
     <message>
         <source>Sets the overall thickness of the font.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in övergripande tjocklek för typsnittet.</translation>
     </message>
     <message>
         <source>Sets the style of the selected font. This is prioritized over &lt;b&gt;Weight&lt;/b&gt; and &lt;b&gt;Emphasis&lt;/b&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in stilen för markerat typsnitt. Detta är prioriterat över &lt;b&gt;Vikt&lt;/b&gt; och &lt;b&gt;Förtydliga&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Sets the font style.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in typsnittsstilen.</translation>
     </message>
     <message>
         <source>Sets how to interpolate the text to render it more clearly when scaled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in hur interpolering av texten för att rendera den mer rent när skalad.</translation>
     </message>
     <message>
         <source>Sets the letter spacing for the text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in bokstavsavstånd för texten.</translation>
     </message>
     <message>
         <source>Sets the word spacing for the text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in ordavstånd för texten.</translation>
     </message>
     <message>
         <source>Resolves the gap between texts if turned true.</source>
@@ -3599,7 +3599,7 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Sets the color for the font style.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in färgen för typsnittsstilen.</translation>
     </message>
     <message>
         <source>Hinting</source>
@@ -3607,11 +3607,11 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Letter spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Bokstavsavstånd</translation>
     </message>
     <message>
         <source>Word spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordavstånd</translation>
     </message>
     <message>
         <source>Auto kerning</source>
@@ -8691,7 +8691,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>You are opening a .qml file in the designer. Do you want to open a .ui.qml file instead?</source>
-        <translation type="unfinished"></translation>
+        <translation>Du öppnar en .qml-fil i designern. Vill du öppna en .ui.qml-fil istället?</translation>
     </message>
 </context>
 <context>
@@ -8793,7 +8793,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Qml Designer Lite</source>
-        <translation type="unfinished"></translation>
+        <translation>Qml Designer Lite</translation>
     </message>
     <message>
         <source>The Qml Designer Lite plugin is not enabled.</source>
@@ -15619,7 +15619,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Running CMake in preparation to build...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör CMake och förbereder för att bygga...</translation>
     </message>
     <message>
         <source>Project did not parse successfully, cannot build.</source>
@@ -15646,7 +15646,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Initial Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Initial konfiguration</translation>
     </message>
     <message>
         <source>Current Configuration</source>
@@ -15694,7 +15694,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Edit the current CMake configuration value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera aktuellt CMake-konfigurationsvärde.</translation>
     </message>
     <message>
         <source>&amp;Set</source>
@@ -15738,7 +15738,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Edit CMake Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera CMake-konfiguration</translation>
     </message>
     <message>
         <source>Enter one CMake &lt;a href=&quot;variable&quot;&gt;variable&lt;/a&gt; per line.&lt;br/&gt;To set or change a variable, use -D&amp;lt;variable&amp;gt;:&amp;lt;type&amp;gt;=&amp;lt;value&amp;gt;.&lt;br/&gt;&amp;lt;type&amp;gt; can have one of the following values: FILEPATH, PATH, BOOL, INTERNAL, or STRING.&lt;br/&gt;To unset a variable, use -U&amp;lt;variable&amp;gt;.&lt;br/&gt;</source>
@@ -15746,11 +15746,11 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Re-configure with Initial Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Omkonfigurera med initiala parametrar</translation>
     </message>
     <message>
         <source>Clear CMake configuration and configure with initial parameters?</source>
-        <translation type="unfinished"></translation>
+        <translation>Rensa CMake-konfigurationen och konfigurera med initiala parametrar?</translation>
     </message>
     <message>
         <source>Kit CMake Configuration</source>
@@ -15858,7 +15858,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>System Environment</source>
-        <translation type="unfinished"></translation>
+        <translation>Systemmiljö</translation>
     </message>
     <message>
         <source>Build Environment</source>
@@ -15914,7 +15914,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Clean</source>
-        <translation>Töm</translation>
+        <translation>Rensa</translation>
     </message>
     <message>
         <source>Re-generates the kits that were created for CMake presets. All manual modifications to the CMake project settings will be lost.</source>
@@ -15974,7 +15974,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Generator:</source>
-        <translation type="unfinished"></translation>
+        <translation>Generator:</translation>
     </message>
     <message>
         <source>Platform:</source>
@@ -16106,7 +16106,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>The build configuration is currently disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Byggkonfigurationen är för närvarande inaktiverad.</translation>
     </message>
     <message>
         <source>A CMake tool must be set up for building. Configure a CMake tool in the kit options.</source>
@@ -16122,7 +16122,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Apply configuration changes?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillämpa konfigurationsändringar?</translation>
     </message>
     <message>
         <source>Run CMake with configuration changes?</source>
@@ -32888,7 +32888,7 @@ Commit now?</source>
     </message>
     <message>
         <source>Repository Browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Förrådsbläddrare</translation>
     </message>
     <message>
         <source>Merge Tool</source>
@@ -32992,7 +32992,7 @@ Commit now?</source>
     </message>
     <message>
         <source>Ignore line moves</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorera radflyttningar</translation>
     </message>
     <message>
         <source>Git</source>
@@ -33012,7 +33012,7 @@ Commit now?</source>
     </message>
     <message>
         <source>Git command:</source>
-        <translation type="unfinished"></translation>
+        <translation>Git-kommando:</translation>
     </message>
     <message>
         <source>Set &quot;HOME&quot; environment variable</source>
@@ -37973,7 +37973,7 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>Use Trace Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd spårningspunkter</translation>
     </message>
     <message>
         <source>Add Event</source>
@@ -37993,7 +37993,7 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>Cannot List Trace Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte lista spårningspunkter</translation>
     </message>
     <message>
         <source>&quot;perf probe -l&quot; failed to start. Is perf installed?</source>
@@ -38053,11 +38053,11 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>Load Perf Trace</source>
-        <translation type="unfinished"></translation>
+        <translation>Läs in Perf-spårning</translation>
     </message>
     <message>
         <source>&amp;Trace file:</source>
-        <translation type="unfinished"></translation>
+        <translation>S&amp;pårningsfil:</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
@@ -38077,7 +38077,7 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>Choose Perf Trace</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj Perf-spårning</translation>
     </message>
     <message>
         <source>Perf traces (*%1)</source>
@@ -38157,27 +38157,27 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>Load perf.data File</source>
-        <translation type="unfinished"></translation>
+        <translation>Läs in perf.data-fil</translation>
     </message>
     <message>
         <source>Load Trace File</source>
-        <translation type="unfinished"></translation>
+        <translation>Läs in spårningsfil</translation>
     </message>
     <message>
         <source>Save Trace File</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara spårningsfil</translation>
     </message>
     <message>
         <source>Limit to Range Selected in Timeline</source>
-        <translation type="unfinished"></translation>
+        <translation>Begränsa till intervall valt i tidslinje</translation>
     </message>
     <message>
         <source>Show Full Range</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa fullständigt intervall</translation>
     </message>
     <message>
         <source>Create Memory Trace Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa minnesspårningspunkter</translation>
     </message>
     <message>
         <source>Create trace points for memory profiling on the target device.</source>
@@ -38209,7 +38209,7 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>Limit to Selected Range</source>
-        <translation type="unfinished"></translation>
+        <translation>Begränsa till valt intervall</translation>
     </message>
     <message>
         <source>Reset Zoom</source>
@@ -38238,7 +38238,7 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>A performance analysis is still in progress.</source>
-        <translation type="unfinished"></translation>
+        <translation>En prestandaanalys pågår fortfarande.</translation>
     </message>
     <message>
         <source>Start a performance analysis.</source>
@@ -38254,7 +38254,7 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>Trace File (*.ptq)</source>
-        <translation type="unfinished"></translation>
+        <translation>Spårningsfil (*.ptq)</translation>
     </message>
     <message>
         <source>Show all addresses.</source>
@@ -38262,11 +38262,11 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>Aggregate by functions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggregera efter funktioner.</translation>
     </message>
     <message>
         <source>Stop collecting profile data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoppa insamling av profildata.</translation>
     </message>
     <message>
         <source>Collect profile data.</source>
@@ -38274,7 +38274,7 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>Recorded: %1.%2s</source>
-        <translation type="unfinished"></translation>
+        <translation>Spelade in: %1.%2s</translation>
     </message>
     <message>
         <source>Processing delay: %1.%2s</source>
@@ -38330,15 +38330,15 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>Loading Trace Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Läser in spårningsdata</translation>
     </message>
     <message>
         <source>Saving Trace Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Sparar spårningsdata</translation>
     </message>
     <message>
         <source>Performance Analyzer Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Inställningar för prestandaanalyserare</translation>
     </message>
     <message>
         <source>Sample period:</source>
@@ -38489,7 +38489,7 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>Created trace points for: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapade spårningspunkter för: %1</translation>
     </message>
 </context>
 <context>
@@ -56235,7 +56235,7 @@ Influences the indentation of continuation lines.
     </message>
     <message>
         <source>Emphasis</source>
-        <translation type="unfinished"></translation>
+        <translation>Förtydliga</translation>
     </message>
     <message>
         <source>Inline Code</source>
@@ -60407,7 +60407,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Text label for the radio button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Textetikett för radioknappen.</translation>
     </message>
     <message>
         <source>Determines whether the radio button is checked or not.</source>
