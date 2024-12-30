@@ -40331,7 +40331,8 @@ Do you want to ignore them?</source>
     <message>
         <source>File &quot;%1&quot; was not removed, because the project has changed in the meantime.
 Please try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen &quot;%1&quot; togs inte bort därför att projektet har ändrats under tiden.
+Försök igen.</translation>
     </message>
     <message>
         <source>Could not remove file &quot;%1&quot; from project &quot;%2&quot;.</source>
@@ -41112,7 +41113,7 @@ Display name of the clean build step list. Used as part of the labels in the pro
     </message>
     <message>
         <source>Header file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Header-fil:</translation>
     </message>
     <message>
         <source>Source file:</source>
@@ -41176,7 +41177,7 @@ Display name of the clean build step list. Used as part of the labels in the pro
     </message>
     <message>
         <source>Creates a C++ plugin to load Qt Quick extensions dynamically into applications using the QQmlEngine class.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapar en C++-insticksmodul för att läsa in Qt Quick-utökningar dynamiskt till program med QQmlEngine-klassen.</translation>
     </message>
     <message>
         <source>Binary</source>
@@ -41196,13 +41197,15 @@ Display name of the clean build step list. Used as part of the labels in the pro
     </message>
     <message>
         <source>Creates a CMake-based test project where you can enter a code snippet to compile and check it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapar ett CMake-baserat testprojekt där du kan ange en kodsnutt för att kompilera och testa det.</translation>
     </message>
     <message>
         <source>You must tell Qt Creator which test framework is used inside the project.
 
 You should not mix multiple test frameworks in a project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du måste säga till Qt Creator vilket testramverk som används inne i projektet.
+
+Du bör inte blanda flera testramverk i ett projekt.</translation>
     </message>
     <message>
         <source>Test Information</source>
@@ -41248,7 +41251,9 @@ Förväljer en skrivbordsbaserad Qt för byggnation av programmet om tillgängli
         <source>Creates a Qt Quick UI project for previewing and prototyping designs.
 
 To develop a full application, create a Qt Quick Application project instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapar ett Qt Quick UI-projekt för förhandsvisning och prototypdesigner.
+
+Om du vill utveckla ett fullständigt program, skapa ett Qt Quick Application-projekt istället.</translation>
     </message>
     <message>
         <source>Creates a C++ library. You can create:&lt;ul&gt;&lt;li&gt;a shared C++ library for use with &lt;tt&gt;QPluginLoader&lt;/tt&gt; and runtime (Plugins)&lt;/li&gt;&lt;li&gt;a shared or static C++ library for use with another project at linktime&lt;/li&gt;&lt;/ul&gt;</source>
@@ -41368,7 +41373,7 @@ To develop a full application, create a Qt Quick Application project instead.</s
     </message>
     <message>
         <source>Repository URL is not valid</source>
-        <translation type="unfinished"></translation>
+        <translation>Förråds-URLen är inte giltig</translation>
     </message>
     <message>
         <source>&lt;default branch&gt;</source>
@@ -41392,11 +41397,11 @@ To develop a full application, create a Qt Quick Application project instead.</s
     </message>
     <message>
         <source>Recursively initialize submodules.</source>
-        <translation type="unfinished"></translation>
+        <translation>Initiera undermoduler rekursivt.</translation>
     </message>
     <message>
         <source>Specify repository URL, branch, checkout directory, and path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange förråds-URL, branch, utcheckningskatalog och sökväg.</translation>
     </message>
     <message>
         <source>Running Git clone...</source>
@@ -41404,7 +41409,7 @@ To develop a full application, create a Qt Quick Application project instead.</s
     </message>
     <message>
         <source>Checkout</source>
-        <translation type="unfinished"></translation>
+        <translation>Checka ut</translation>
     </message>
     <message>
         <source>Creates a translation file that you can add to a Qt project.</source>
@@ -41440,7 +41445,7 @@ To develop a full application, create a Qt Quick Application project instead.</s
     </message>
     <message>
         <source>Proceed with cloning the repository, even if the target directory already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fortsätt med kloning av förrådet, även om målkatalogen redan finns.</translation>
     </message>
     <message>
         <source>Stacked</source>
@@ -41476,11 +41481,11 @@ To develop a full application, create a Qt Quick Application project instead.</s
     </message>
     <message>
         <source>Hardlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Hårdlänk</translation>
     </message>
     <message>
         <source>Use hard-links in working tree.</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd hårda länkar i arbetsträdet.</translation>
     </message>
     <message>
         <source>No working-tree</source>
@@ -41488,7 +41493,7 @@ To develop a full application, create a Qt Quick Application project instead.</s
     </message>
     <message>
         <source>Do not create a working tree.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa inte ett arbetsträd.</translation>
     </message>
     <message>
         <source>Revision:</source>
@@ -41496,7 +41501,7 @@ To develop a full application, create a Qt Quick Application project instead.</s
     </message>
     <message>
         <source>Specify repository URL, checkout directory, and path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange förråds-URL, utcheckningskatalog och sökväg.</translation>
     </message>
     <message>
         <source>Running Bazaar branch...</source>
@@ -41504,11 +41509,11 @@ To develop a full application, create a Qt Quick Application project instead.</s
     </message>
     <message>
         <source>Clones a Bazaar branch and tries to load the contained project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klonar en Bazaar branch och försöker att läsa in det innehållande projektet.</translation>
     </message>
     <message>
         <source>Bazaar Clone (Or Branch)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bazaar-klon (eller Branch)</translation>
     </message>
     <message>
         <source>Running Mercurial clone...</source>
@@ -41516,27 +41521,27 @@ To develop a full application, create a Qt Quick Application project instead.</s
     </message>
     <message>
         <source>Clones a Mercurial repository and tries to load the contained project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klonar ett Mercurial-förråd och försöker att läsa in dess innehållande projekt.</translation>
     </message>
     <message>
         <source>Mercurial Clone</source>
-        <translation type="unfinished"></translation>
+        <translation>Mercurial Clone</translation>
     </message>
     <message>
         <source>Trust Server Certificate</source>
-        <translation type="unfinished"></translation>
+        <translation>Lita på servercertifikat</translation>
     </message>
     <message>
         <source>Running Subversion checkout...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör Subversion checkout...</translation>
     </message>
     <message>
         <source>Checks out a Subversion repository and tries to load the contained project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Checkar ut ett Subversion-förråd och försöker att läsa in det innehållande projektet.</translation>
     </message>
     <message>
         <source>Subversion Checkout</source>
-        <translation type="unfinished"></translation>
+        <translation>Subversion Checkout</translation>
     </message>
     <message>
         <source>Module:</source>
@@ -41544,19 +41549,19 @@ To develop a full application, create a Qt Quick Application project instead.</s
     </message>
     <message>
         <source>Specify module and checkout directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange modul och utcheckningskatalog.</translation>
     </message>
     <message>
         <source>Running CVS checkout...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör CVS checkout...</translation>
     </message>
     <message>
         <source>Checks out a CVS repository and tries to load the contained project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Checkar ut ett CVS-förråd och försöker att läsa in dess innehållande projekt.</translation>
     </message>
     <message>
         <source>CVS Checkout</source>
-        <translation type="unfinished"></translation>
+        <translation>CVS Checkout</translation>
     </message>
     <message>
         <source>Creates a simple Nim application.</source>
@@ -41692,7 +41697,7 @@ To develop a full application, create a Qt Quick Application project instead.</s
     </message>
     <message>
         <source>Test framework:</source>
-        <translation type="unfinished"></translation>
+        <translation>Testramverk:</translation>
     </message>
     <message>
         <source>GUI Application</source>
@@ -42152,19 +42157,19 @@ Förväljer en skrivbordsbaserad Qt för att bygga programmet om tillgängligt.<
     </message>
     <message>
         <source>Creates a source file that you can add to a C/C++ project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapar en källfil som du kan lägga till i ett C/C++-projekt.</translation>
     </message>
     <message>
         <source>C/C++ Source File</source>
-        <translation type="unfinished"></translation>
+        <translation>C/C++-källfil</translation>
     </message>
     <message>
         <source>Creates a header file that you can add to a C/C++ project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapar en header-fil som du kan lägga till i ett C/C++-projekt.</translation>
     </message>
     <message>
         <source>C/C++ Header File</source>
-        <translation type="unfinished"></translation>
+        <translation>C/C++ header-fil</translation>
     </message>
     <message>
         <source>Stateless library</source>
@@ -42220,7 +42225,7 @@ Förväljer en skrivbordsbaserad Qt för att bygga programmet om tillgängligt.<
     </message>
     <message>
         <source>Creates a Java file with boilerplate code.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapar en Java-fil med standardformuleringskod.</translation>
     </message>
     <message>
         <source>Java</source>
@@ -42232,7 +42237,7 @@ Förväljer en skrivbordsbaserad Qt för att bygga programmet om tillgängligt.<
     </message>
     <message>
         <source>Creates a QML file with boilerplate code, starting with &quot;import QtQuick&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapar en QML-fil med standardformuleringskod, börjar med &quot;import QtQuick&quot;.</translation>
     </message>
     <message>
         <source>QML File (Qt Quick 2)</source>
@@ -42256,11 +42261,11 @@ Förväljer en skrivbordsbaserad Qt för att bygga programmet om tillgängligt.<
     </message>
     <message>
         <source>Put short license information here</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg kort licensinformation här</translation>
     </message>
     <message>
         <source>Put a short description of your plugin here</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg en kort beskrivning av din insticksmodul här</translation>
     </message>
     <message>
         <source>URL:</source>
@@ -42326,7 +42331,7 @@ The name of the build configuration created by default for a generic project.</e
     </message>
     <message>
         <source>Kit filesystem-friendly name</source>
-        <translation type="unfinished"></translation>
+        <translation>Kitets filsystemsvänliga namn</translation>
     </message>
     <message>
         <source>The name of the kit.</source>
@@ -42334,11 +42339,11 @@ The name of the build configuration created by default for a generic project.</e
     </message>
     <message>
         <source>The name of the kit in a filesystem-friendly version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Namnet på kitet i en filsystemsvänlig version.</translation>
     </message>
     <message>
         <source>The ID of the kit.</source>
-        <translation type="unfinished"></translation>
+        <translation>ID för kitet.</translation>
     </message>
     <message>
         <source>Unconfigured</source>
@@ -42366,7 +42371,7 @@ The name of the build configuration created by default for a generic project.</e
     </message>
     <message>
         <source>&lt;style type=text/css&gt;a:link {color: rgb(128, 128, 255);}&lt;/style&gt;The project &lt;b&gt;%1&lt;/b&gt; is not yet configured&lt;br/&gt;&lt;br/&gt;You can configure it in the &lt;a href=&quot;projectmode&quot;&gt;Projects mode&lt;/a&gt;&lt;br/&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;style type=text/css&gt;a:link {color: rgb(128, 128, 255);}&lt;/style&gt;Projektet &lt;b&gt;%1&lt;/b&gt; är ännu inte konfigurerat&lt;br/&gt;&lt;br/&gt;Du kan konfigurera det i &lt;a href=&quot;projectmode&quot;&gt;Projekt-läget&lt;/a&gt;&lt;br/&gt;</translation>
     </message>
     <message>
         <source>&lt;b&gt;Build:&lt;/b&gt; %1</source>
@@ -42434,11 +42439,11 @@ The name of the build configuration created by default for a generic project.</e
     </message>
     <message>
         <source>Kit %1 is incompatible with kit %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kit %1 är inte kompatibelt med kitet %2.</translation>
     </message>
     <message>
         <source>Run configurations:</source>
-        <translation type="unfinished"></translation>
+        <translation>Körkonfigurationer:</translation>
     </message>
     <message>
         <source>Could not load kits in a reasonable amount of time.</source>
@@ -42464,7 +42469,7 @@ The name of the build configuration created by default for a generic project.</e
     <message>
         <source>%1: Full path to main file.</source>
         <extracomment>%1 is something like &quot;Active project&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1: Fullständig sökväg till main-filen.</translation>
     </message>
     <message>
         <source>%1: Full path to Project Directory.</source>
@@ -42474,55 +42479,55 @@ The name of the build configuration created by default for a generic project.</e
     <message>
         <source>%1: The name of the active kit.</source>
         <extracomment>%1 is something like &quot;Active project&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1: Namnet för det aktiva kitet.</translation>
     </message>
     <message>
         <source>%1: Name of the active build configuration.</source>
         <extracomment>%1 is something like &quot;Active project&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1: Namnet på den aktiva byggkonfigurationen.</translation>
     </message>
     <message>
         <source>%1: Type of the active build configuration.</source>
         <extracomment>%1 is something like &quot;Active project&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1: Typen för den aktiva byggkonfigurationen.</translation>
     </message>
     <message>
         <source>%1: Full build path of active build configuration.</source>
         <extracomment>%1 is something like &quot;Active project&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1: Fullständig byggsökväg för den aktiva byggkonfigurationen.</translation>
     </message>
     <message>
         <source>%1: Variables in the active build environment.</source>
         <extracomment>%1 is something like &quot;Active project&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1: Variabler i den aktiva byggmiljön.</translation>
     </message>
     <message>
         <source>%1: Name of the active run configuration.</source>
         <extracomment>%1 is something like &quot;Active project&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1: Namnet på den aktiva körkonfigurationen.</translation>
     </message>
     <message>
         <source>%1: Executable of the active run configuration.</source>
         <extracomment>%1 is something like &quot;Active project&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1: Körbara filen för den aktiva körkonfigurationen.</translation>
     </message>
     <message>
         <source>%1: Variables in the environment of the active run configuration.</source>
         <extracomment>%1 is something like &quot;Active project&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1: Variabler i miljön för den aktiva körkonfigurationen.</translation>
     </message>
     <message>
         <source>%1: Working directory of the active run configuration.</source>
         <extracomment>%1 is something like &quot;Active project&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1: Arbetskatalog för den aktiva körkonfigurationen.</translation>
     </message>
     <message>
         <source>Build configurations:</source>
-        <translation type="unfinished"></translation>
+        <translation>Byggkonfigurationer:</translation>
     </message>
     <message>
         <source>Deploy configurations:</source>
-        <translation type="unfinished"></translation>
+        <translation>Distributionskonfigurationer:</translation>
     </message>
     <message>
         <source>Partially Incompatible Kit</source>
@@ -42574,7 +42579,7 @@ The name of the build configuration created by default for a generic project.</e
     </message>
     <message>
         <source>The kit &lt;b&gt;%1&lt;/b&gt; is currently being built.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kitet &lt;b&gt;%1&lt;/b&gt; byggs för närvarande.</translation>
     </message>
     <message>
         <source>Do you want to cancel the build process and remove the kit anyway?</source>
@@ -42658,7 +42663,7 @@ Display name of the deploy build step list. Used as part of the labels in the pr
     <message>
         <source>Deploy Configuration</source>
         <extracomment>Display name of the default deploy configuration</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Distributionskonfiguration</translation>
     </message>
     <message>
         <source>Application Still Running</source>
@@ -42771,7 +42776,7 @@ fails because Clang does not understand the target architecture.</source>
     </message>
     <message>
         <source>Initialization:</source>
-        <translation type="unfinished"></translation>
+        <translation>Initiering:</translation>
     </message>
     <message>
         <source>&lt;empty&gt;</source>
@@ -42779,7 +42784,7 @@ fails because Clang does not understand the target architecture.</source>
     </message>
     <message>
         <source>Additional arguments for the vcvarsall.bat call</source>
-        <translation type="unfinished"></translation>
+        <translation>Ytterligare argument för att anropa vcvarsall.bat</translation>
     </message>
     <message>
         <source>clang-cl</source>
@@ -42796,7 +42801,7 @@ fails because Clang does not understand the target architecture.</source>
     </message>
     <message>
         <source>Automatically managed by %1 or the installer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hanteras automatiskt av %1 eller installeraren.</translation>
     </message>
     <message>
         <source>Manual</source>
