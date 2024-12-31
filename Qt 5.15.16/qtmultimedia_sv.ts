@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="sv">
+<TS version="2.1" language="sv_SE">
 <context>
     <name>AudioContainerControl</name>
     <message>
@@ -16,54 +16,54 @@
     <name>AudioEncoderControl</name>
     <message>
         <source>Linear PCM audio data</source>
-        <translation type="unfinished"></translation>
+        <translation>Linjärt PCM-ljuddata</translation>
     </message>
 </context>
 <context>
     <name>CameraBinImageCapture</name>
     <message>
         <source>Camera not ready</source>
-        <translation type="unfinished"></translation>
+        <translation>Kameran är inte redo</translation>
     </message>
 </context>
 <context>
     <name>CameraBinImageEncoder</name>
     <message>
         <source>JPEG image</source>
-        <translation type="unfinished"></translation>
+        <translation>JPEG-bild</translation>
     </message>
 </context>
 <context>
     <name>CameraBinRecorder</name>
     <message>
         <source>QMediaRecorder::pause() is not supported by camerabin2.</source>
-        <translation type="unfinished"></translation>
+        <translation>QMediaRecorder::pause() stöds inte av camerabin2.</translation>
     </message>
     <message>
         <source>Service has not been started</source>
-        <translation type="unfinished"></translation>
+        <translation>Tjänsten har inte startats</translation>
     </message>
     <message>
         <source>Recording permissions are not available</source>
-        <translation type="unfinished"></translation>
+        <translation>Inspelningsrättigheter är inte tillgängliga</translation>
     </message>
 </context>
 <context>
     <name>CameraBinSession</name>
     <message>
         <source>Camera error</source>
-        <translation type="unfinished"></translation>
+        <translation>Kamerafel</translation>
     </message>
 </context>
 <context>
     <name>DSCameraSession</name>
     <message>
         <source>Failed to configure preview format</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att konfigurera förhandsvisningsformat</translation>
     </message>
     <message>
         <source>Failed to connect graph</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att ansluta graf</translation>
     </message>
     <message>
         <source>Failed to get stream control</source>
@@ -71,23 +71,23 @@
     </message>
     <message>
         <source>Failed to start</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att starta</translation>
     </message>
     <message>
         <source>Failed to stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att stoppa</translation>
     </message>
     <message>
         <source>Camera not ready for capture</source>
-        <translation type="unfinished"></translation>
+        <translation>Kameran är inte redo för fångst</translation>
     </message>
     <message>
         <source>Could not save image to file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte spara bild till fil.</translation>
     </message>
     <message>
         <source>Failed to create filter graph</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att skapa filtergraf</translation>
     </message>
     <message>
         <source>Failed to create graph builder</source>
@@ -99,7 +99,7 @@
     </message>
     <message>
         <source>No capture device found</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen fångstenhet hittades</translation>
     </message>
     <message>
         <source>Failed to create null renderer</source>
@@ -201,27 +201,27 @@
     <name>QAndroidAudioEncoderSettingsControl</name>
     <message>
         <source>Adaptive Multi-Rate Narrowband (AMR-NB) audio codec</source>
-        <translation type="unfinished"></translation>
+        <translation>Adaptive Multi-Rate Narrowband (AMR-NB) ljudkodek</translation>
     </message>
     <message>
         <source>Adaptive Multi-Rate Wideband (AMR-WB) audio codec</source>
-        <translation type="unfinished"></translation>
+        <translation>Adaptive Multi-Rate Wideband (AMR-WB) ljudkodek</translation>
     </message>
     <message>
         <source>AAC Low Complexity (AAC-LC) audio codec</source>
-        <translation type="unfinished"></translation>
+        <translation>AAC Low Complexity (AAC-LC) ljudkodek</translation>
     </message>
 </context>
 <context>
     <name>QAndroidCameraSession</name>
     <message>
         <source>Camera not ready</source>
-        <translation type="unfinished"></translation>
+        <translation>Kameran är inte redo</translation>
     </message>
     <message>
         <source>Drive mode not supported</source>
         <extracomment>Drive mode is the camera&apos;s shutter mode, for example single shot, continuos exposure, etc.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Slutarläget stöds inte</translation>
     </message>
     <message>
         <source>Failed to capture image</source>
@@ -233,14 +233,14 @@
     </message>
     <message>
         <source>Could not open destination file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte öppna målfilen: %1</translation>
     </message>
 </context>
 <context>
     <name>QAndroidImageEncoderControl</name>
     <message>
         <source>JPEG image</source>
-        <translation type="unfinished"></translation>
+        <translation>JPEG-bild</translation>
     </message>
 </context>
 <context>
@@ -281,88 +281,88 @@
     <name>QAudioDecoder</name>
     <message>
         <source>The QAudioDecoder object does not have a valid service</source>
-        <translation type="unfinished"></translation>
+        <translation>QAudioDecoder-objektet har inte en giltig tjänst</translation>
     </message>
 </context>
 <context>
     <name>QCamera</name>
     <message>
         <source>The camera service is missing</source>
-        <translation type="unfinished"></translation>
+        <translation>Kameratjänsten saknas</translation>
     </message>
 </context>
 <context>
     <name>QCameraImageCapture</name>
     <message>
         <source>Device does not support images capture.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enheten har inte stöd för bildfångst.</translation>
     </message>
 </context>
 <context>
     <name>QDeclarativeAudio</name>
     <message>
         <source>volume should be between 0.0 and 1.0</source>
-        <translation type="unfinished"></translation>
+        <translation>volymen ska vara mellan 0.0 och 1.0</translation>
     </message>
 </context>
 <context>
     <name>QGstreamerAudioDecoderSession</name>
     <message>
         <source>Cannot play stream of type: &lt;unknown&gt;</source>
-        <translation type="unfinished">Kan inte spela upp ström av typen: &lt;unknown&gt;</translation>
+        <translation>Kan inte spela upp ström av typen: &lt;unknown&gt;</translation>
     </message>
 </context>
 <context>
     <name>QGstreamerAudioInputSelector</name>
     <message>
         <source>System default device</source>
-        <translation type="unfinished"></translation>
+        <translation>Systemets standardenhet</translation>
     </message>
 </context>
 <context>
     <name>QGstreamerCameraControl</name>
     <message>
         <source>State not supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillståndet stöds inte.</translation>
     </message>
 </context>
 <context>
     <name>QGstreamerCaptureSession</name>
     <message>
         <source>Could not create an audio source element</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte skapa ett ljudkällelement</translation>
     </message>
     <message>
         <source>Failed to build media capture pipeline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att bygga pipeline för mediafångst.</translation>
     </message>
 </context>
 <context>
     <name>QGstreamerImageCaptureControl</name>
     <message>
         <source>Not ready to capture</source>
-        <translation type="unfinished"></translation>
+        <translation>Inte redo att fånga</translation>
     </message>
 </context>
 <context>
     <name>QGstreamerImageEncode</name>
     <message>
         <source>JPEG image encoder</source>
-        <translation type="unfinished"></translation>
+        <translation>JPEG-bildkodare</translation>
     </message>
 </context>
 <context>
     <name>QGstreamerPlayerControl</name>
     <message>
         <source>Attempting to play invalid user stream</source>
-        <translation type="unfinished"></translation>
+        <translation>Försöker att spela upp ogiltig användarström</translation>
     </message>
 </context>
 <context>
     <name>QGstreamerPlayerSession</name>
     <message>
         <source>Cannot play stream of type: &lt;unknown&gt;</source>
-        <translation type="unfinished">Kan inte spela upp ström av typen: &lt;unknown&gt;</translation>
+        <translation>Kan inte spela upp ström av typen: &lt;unknown&gt;</translation>
     </message>
     <message>
         <source>UDP source timeout</source>
@@ -373,22 +373,22 @@
     <name>QGstreamerRecorderControl</name>
     <message>
         <source>Service has not been started</source>
-        <translation type="unfinished"></translation>
+        <translation>Tjänsten har inte startats</translation>
     </message>
     <message>
         <source>Not compatible codecs and container format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga kompatibla kodekar och containerformat.</translation>
     </message>
 </context>
 <context>
     <name>QGstreamerVideoInputDeviceControl</name>
     <message>
         <source>Main camera</source>
-        <translation type="unfinished"></translation>
+        <translation>Huvudkamera</translation>
     </message>
     <message>
         <source>Front camera</source>
-        <translation type="unfinished"></translation>
+        <translation>Främre kamera</translation>
     </message>
 </context>
 <context>
@@ -399,57 +399,57 @@
     </message>
     <message>
         <source>The QMediaPlayer object does not have a valid service</source>
-        <translation type="unfinished"></translation>
+        <translation>QMediaPlayer-objektet har inte en giltig tjänst</translation>
     </message>
 </context>
 <context>
     <name>QMediaPlaylist</name>
     <message>
         <source>Could not add items to read only playlist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte lägga till objekt till skrivskyddad spellista.</translation>
     </message>
     <message>
         <source>Playlist format is not supported</source>
-        <translation type="unfinished"></translation>
+        <translation>Spellisteformatet stöds inte</translation>
     </message>
     <message>
         <source>The file could not be accessed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen kunde inte kommas åt.</translation>
     </message>
     <message>
         <source>Playlist format is not supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Spellisteformatet stöds inte.</translation>
     </message>
 </context>
 <context>
     <name>QMultimediaDeclarativeModule</name>
     <message>
         <source>CameraCapture is provided by Camera</source>
-        <translation type="unfinished"></translation>
+        <translation>CameraCapture tillhandahålls av Camera</translation>
     </message>
     <message>
         <source>CameraRecorder is provided by Camera</source>
-        <translation type="unfinished"></translation>
+        <translation>CameraRecorder tillhandahålls av Camera</translation>
     </message>
     <message>
         <source>CameraExposure is provided by Camera</source>
-        <translation type="unfinished"></translation>
+        <translation>CameraExposure tillhandahålls av Camera</translation>
     </message>
     <message>
         <source>CameraFocus is provided by Camera</source>
-        <translation type="unfinished"></translation>
+        <translation>CameraFocus tillhandahålls av Camera</translation>
     </message>
     <message>
         <source>CameraFlash is provided by Camera</source>
-        <translation type="unfinished"></translation>
+        <translation>CameraFlash tillhandahålls av Camera</translation>
     </message>
     <message>
         <source>CameraImageProcessing is provided by Camera</source>
-        <translation type="unfinished"></translation>
+        <translation>CameraImageProcessing tillhandahålls av Camera</translation>
     </message>
     <message>
         <source>CameraViewfinder is provided by Camera</source>
-        <translation type="unfinished"></translation>
+        <translation>CameraViewfinder tillhandahålls av Camera</translation>
     </message>
 </context>
 <context>
@@ -479,22 +479,22 @@
     <name>QWinRTCameraImageCaptureControl</name>
     <message>
         <source>Camera not ready</source>
-        <translation type="unfinished"></translation>
+        <translation>Kameran är inte redo</translation>
     </message>
     <message>
         <source>Invalid photo data length.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig fotodatalängd.</translation>
     </message>
     <message>
         <source>Image saving failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildsparning misslyckades</translation>
     </message>
 </context>
 <context>
     <name>QWinRTImageEncoderControl</name>
     <message>
         <source>JPEG image</source>
-        <translation type="unfinished"></translation>
+        <translation>JPEG-bild</translation>
     </message>
 </context>
 </TS>
