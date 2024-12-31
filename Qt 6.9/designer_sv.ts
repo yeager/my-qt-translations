@@ -283,7 +283,7 @@ Välj ett annat namn.</translation>
     <message>
         <source>Tristate CheckBox</source>
         <extracomment>Palette Editor Preview Widget</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Tristate CheckBox</translation>
     </message>
     <message>
         <source>PushButton</source>
@@ -318,7 +318,7 @@ Välj ett annat namn.</translation>
     <message>
         <source>Top Level 1</source>
         <extracomment>Palette Editor Preview Widget</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Toppnivå 1</translation>
     </message>
     <message>
         <source>Nested Item 1</source>
@@ -338,12 +338,12 @@ Välj ett annat namn.</translation>
     <message>
         <source>Simple Input Widgets</source>
         <extracomment>Palette Editor Preview Widget</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Enkla inmatningswidgetar</translation>
     </message>
     <message>
         <source>LineEdit</source>
         <extracomment>Palette Editor Preview Widget</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>LineEdit</translation>
     </message>
     <message>
         <source>ComboBox</source>
@@ -1045,7 +1045,7 @@ Vill du ersätta den?</translation>
     </message>
     <message>
         <source>&lt;p&gt;To resolve the issue, press:&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th align=&quot;left&quot;&gt;Copy&lt;/th&gt;&lt;td&gt;to copy the file to the resource file&apos;s parent directory.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th align=&quot;left&quot;&gt;Copy As...&lt;/th&gt;&lt;td&gt;to copy the file into a subdirectory of the resource file&apos;s parent directory.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th align=&quot;left&quot;&gt;Keep&lt;/th&gt;&lt;td&gt;to use its current location.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;För att lösa problemen, tryck:&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th align=&quot;left&quot;&gt;Kopiera&lt;/th&gt;&lt;td&gt;för att kopiera filen till resursfilens föräldrakatalog.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th align=&quot;left&quot;&gt;Kopiera som...&lt;/th&gt;&lt;td&gt;för att kopiera filen till en underkatalog till resursfilens föräldrakatalog.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th align=&quot;left&quot;&gt;Behåll&lt;/th&gt;&lt;td&gt;för att använda dess aktuella plats.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</translation>
     </message>
     <message>
         <source>Add Files</source>
@@ -1885,11 +1885,11 @@ till
     </message>
     <message>
         <source>Key Resize</source>
-        <translation type="unfinished"></translation>
+        <translation>Key Resize</translation>
     </message>
     <message>
         <source>Key Move</source>
-        <translation type="unfinished"></translation>
+        <translation>Key Move</translation>
     </message>
     <message numerus="yes">
         <source>Paste %n action(s)</source>
@@ -2175,7 +2175,8 @@ till
     <message>
         <source>The container extension of the widget &apos;%1&apos; (%2) returned a widget not managed by Designer &apos;%3&apos; (%4) when queried for page #%5.
 Container pages should only be added by specifying them in XML returned by the domXml() method of the custom widget.</source>
-        <translation type="unfinished"></translation>
+        <translation>Containerutökningen för widgeten &apos;%1&apos; (%2) returnerade en widget som inte hanteras av Designer &apos;%3&apos; (%4) när frågade efter sida #%5.
+Containersidor bör endast läggas till genom att specifiera dem i XML returnerad av domXml()-metodeb för anpassade widgeten.</translation>
     </message>
     <message>
         <source>Unexpected element &lt;%1&gt;</source>
@@ -2677,7 +2678,7 @@ rulla, rulla liten bulla.</translation>
     </message>
     <message>
         <source>Drop Down Button View</source>
-        <translation type="unfinished"></translation>
+        <translation>Rullgardinsknappvy</translation>
     </message>
     <message>
         <source>String...</source>
@@ -2685,11 +2686,11 @@ rulla, rulla liten bulla.</translation>
     </message>
     <message>
         <source>Bool...</source>
-        <translation type="unfinished"></translation>
+        <translation>Bool...</translation>
     </message>
     <message>
         <source>Other...</source>
-        <translation type="unfinished"></translation>
+        <translation>Annan...</translation>
     </message>
     <message>
         <source>Configure Property Editor</source>
@@ -2899,7 +2900,7 @@ Klass: %2</translation>
     </message>
     <message>
         <source>Change Form Layout Item Geometry</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra formulärlayout för objektgeometri</translation>
     </message>
     <message>
         <source>Change Layout Item Geometry</source>
@@ -3253,11 +3254,11 @@ Klass: %2</translation>
     </message>
     <message>
         <source>Tile</source>
-        <translation type="unfinished"></translation>
+        <translation>Bricka</translation>
     </message>
     <message>
         <source>Cascade</source>
-        <translation type="unfinished"></translation>
+        <translation>Cascade</translation>
     </message>
 </context>
 <context>
@@ -3272,7 +3273,7 @@ Klass: %2</translation>
     <message>
         <source>XX Icon Selected off</source>
         <extracomment>Sample string to determinate the width for the first column of the list item property browser</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>XX-ikon markerad av</translation>
     </message>
 </context>
 <context>
@@ -3424,7 +3425,7 @@ Klass: %2</translation>
     <name>qdesigner_internal::WidgetBoxTreeWidget</name>
     <message>
         <source>Scratchpad</source>
-        <translation type="unfinished"></translation>
+        <translation>Skissblock</translation>
     </message>
     <message>
         <source>Custom Widgets</source>
@@ -5174,11 +5175,11 @@ Anledning: %2</translation>
     </message>
     <message>
         <source>Superscript</source>
-        <translation type="unfinished"></translation>
+        <translation>Upphöjt</translation>
     </message>
     <message>
         <source>Subscript</source>
-        <translation type="unfinished"></translation>
+        <translation>Nedsänkt</translation>
     </message>
     <message>
         <source>Insert &amp;Link</source>
@@ -5317,24 +5318,25 @@ Anledning: %2</translation>
     <name>qdesigner_internal::WidgetFactory</name>
     <message>
         <source>The custom widget factory registered for widgets of class %1 returned 0.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anpassad widget factory registererad för widgetar av klassen %1 returnerade 0.</translation>
     </message>
     <message>
         <source>A class name mismatch occurred when creating a widget using the custom widget factory registered for widgets of class %1. It returned a widget of class %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ett klassnamn stämmer inte överens inträffade vid skapandet av widget med anpassad widget factory registererad för widgetar av klassen %1. Den returnerade en widget av klassen %2.</translation>
     </message>
     <message>
         <source>%1 Widget</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-widget</translation>
     </message>
     <message>
         <source>The current page of the container &apos;%1&apos; (%2) could not be determined while creating a layout.This indicates an inconsistency in the ui-file, probably a layout being constructed on a container widget.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuell sida för containern &apos;%1&apos; (%2) kunde inte bestämmas vid skapandet av en layout. Detta indikerar en inkonsistens i ui-filen, antagligen en layout som blir konstruerad på en containerwidget.</translation>
     </message>
     <message>
         <source>Attempt to add a layout to a widget &apos;%1&apos; (%2) which already has an unmanaged layout of type %3.
 This indicates an inconsistency in the ui-file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Försök att lägga till en layout till en widget &apos;%1&apos; (%2) som redan har en ohanterad layout av typen %3.
+Detta indikerar en inkonsistens i ui-filen.</translation>
     </message>
     <message>
         <source>Cannot create style &apos;%1&apos;.</source>
