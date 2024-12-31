@@ -632,7 +632,7 @@
     </message>
     <message>
         <source>Cannot connect mismatched signal/slot %1 vs %2</source>
-        <translation>Kan inte ansluta icke-matchande signal/plats %1 mot %2</translation>
+        <translation>Kan inte ansluta icke-matchande signal/slot %1 mot %2</translation>
     </message>
     <message>
         <source>Cannot assign object to interface property</source>
