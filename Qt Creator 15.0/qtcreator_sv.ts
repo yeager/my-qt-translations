@@ -1661,7 +1661,7 @@ It should be a relative path.</source>
     <name>ColorEditorPopup</name>
     <message>
         <source>Solid</source>
-        <translation type="unfinished"></translation>
+        <translation>Fast</translation>
     </message>
     <message>
         <source>Linear</source>
@@ -1669,7 +1669,7 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Radial</source>
-        <translation type="unfinished"></translation>
+        <translation>Radiell</translation>
     </message>
     <message>
         <source>Conical</source>
@@ -1681,7 +1681,7 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Fill type can only be changed in base state.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fyllnadstypen kan endast ändras i grundtillstånd.</translation>
     </message>
     <message>
         <source>Transparent</source>
@@ -1741,11 +1741,11 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Defines the center point.</source>
-        <translation type="unfinished"></translation>
+        <translation>Definierar centrumpunkten.</translation>
     </message>
     <message>
         <source>Defines the focal point.</source>
-        <translation type="unfinished"></translation>
+        <translation>Definierar fokalpunkten.</translation>
     </message>
     <message>
         <source>Defines the center radius.</source>
@@ -2219,19 +2219,19 @@ Detta går inte att ångra.</translation>
     </message>
     <message>
         <source>&lt;b&gt;Content Library&lt;/b&gt; effects are not supported in Qt5 projects.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Innehållsbibliotek&lt;/b&gt;-effekter stöds inte i Qt5-projekt.</translation>
     </message>
     <message>
         <source>To use &lt;b&gt;Content Library&lt;/b&gt;, first add the QtQuick3D module in the &lt;b&gt;Components&lt;/b&gt; view.</source>
-        <translation type="unfinished"></translation>
+        <translation>För att använda &lt;b&gt;Innehållsbibliotek&lt;/b&gt;, lägg först till QtQuick3D-modulen i &lt;b&gt;Komponenter&lt;/b&gt;-vyn.</translation>
     </message>
     <message>
         <source>To use &lt;b&gt;Content Library&lt;/b&gt;, version 6.4 or later of the QtQuick3D module is required.</source>
-        <translation type="unfinished"></translation>
+        <translation>För att använda &lt;b&gt;Innehållsbibliotek&lt;/b&gt; krävs version 6.4 eller senare av QtQuick3D-modulen.</translation>
     </message>
     <message>
         <source>&lt;b&gt;Content Library&lt;/b&gt; is disabled inside a non-visual component.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Innehållsbibliotek&lt;/b&gt; är inaktiverad för en icke-visuell komponent.</translation>
     </message>
     <message>
         <source>No match found.</source>
@@ -2307,7 +2307,7 @@ Detta går inte att ångra.</translation>
     </message>
     <message>
         <source>&lt;b&gt;Content Library&lt;/b&gt; is disabled inside a non-visual component.</source>
-        <translation>&lt;b&gt;Innehållsbibliotek&lt;/b&gt; är inaktiverad för icke-visuella komponenter.</translation>
+        <translation>&lt;b&gt;Innehållsbibliotek&lt;/b&gt; är inaktiverad för en icke-visuell komponent.</translation>
     </message>
     <message>
         <source>No materials available. Make sure you have an internet connection.</source>
@@ -2763,7 +2763,7 @@ defined in &lt;b&gt;Step size&lt;/b&gt;.</source>
     </message>
     <message>
         <source>Drag margin</source>
-        <translation type="unfinished"></translation>
+        <translation>Dragmarginal</translation>
     </message>
     <message>
         <source>Defines the distance from the screen edge within which drag actions will open the drawer.</source>
@@ -3136,7 +3136,7 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>&lt;b&gt;Material Editor&lt;/b&gt; is disabled inside a non-visual component.</source>
-        <translation>&lt;b&gt;Materialredigerare&lt;/b&gt; är inaktiverad för icke-visuella komponenter.</translation>
+        <translation>&lt;b&gt;Materialredigerare&lt;/b&gt; är inaktiverad för en icke-visuell komponent.</translation>
     </message>
     <message>
         <source>There are no materials in this project.&lt;br&gt;Select &apos;&lt;b&gt;+&lt;/b&gt;&apos; to create one.</source>
@@ -5864,7 +5864,7 @@ the total implicit size.</source>
     </message>
     <message>
         <source>Drag margin</source>
-        <translation type="unfinished"></translation>
+        <translation>Dragmarginal</translation>
     </message>
     <message>
         <source>Sets a margin within which the drag function also works even without clicking the item itself.</source>
@@ -6909,11 +6909,11 @@ Exporterar tillgångar: %2</translation>
     <name>QmlDesigner::CapturingConnectionManager</name>
     <message>
         <source>QML Emulation Layer (QML Puppet - %1) Crashed</source>
-        <translation type="unfinished"></translation>
+        <translation>QML-emuleringslager (QML Puppet - %1) kraschade</translation>
     </message>
     <message>
         <source>You are recording a puppet stream and the emulations layer crashed. It is recommended to reopen the Qt Quick Designer and start again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du spelar in en puppet-stream och emuleringslagret kraschade. Det rekommenderas att öppna Qt Quick Designer och försöka igen.</translation>
     </message>
 </context>
 <context>
@@ -7783,11 +7783,11 @@ Kontrollera utdatapanelen för mer information.</translation>
     </message>
     <message>
         <source>Insert Keyframe</source>
-        <translation type="unfinished"></translation>
+        <translation>Infoga nyckelbild</translation>
     </message>
     <message>
         <source>Delete Selected Keyframes</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort markerade nyckelbilder</translation>
     </message>
 </context>
 <context>
@@ -9397,11 +9397,11 @@ Locked components cannot be modified or selected.</source>
     <name>QmlDesigner::TimelineForm</name>
     <message>
         <source>Last frame of the timeline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sista bilde i tidslinjen.</translation>
     </message>
     <message>
         <source>End frame:</source>
-        <translation type="unfinished"></translation>
+        <translation>Slutbild:</translation>
     </message>
     <message>
         <source>First frame of the timeline. Negative numbers are allowed.</source>
@@ -9409,7 +9409,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Start frame:</source>
-        <translation type="unfinished"></translation>
+        <translation>Startbild:</translation>
     </message>
     <message>
         <source>To create an expression binding animation, delete all animations from this timeline.</source>
@@ -9417,19 +9417,19 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Expression binding</source>
-        <translation type="unfinished"></translation>
+        <translation>Uttrycksbindning</translation>
     </message>
     <message>
         <source>Name for the timeline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Namn för tidslinjen.</translation>
     </message>
     <message>
         <source>Timeline ID:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidslinje-id:</translation>
     </message>
     <message>
         <source>Timeline Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidslinjeinställningar</translation>
     </message>
     <message>
         <source>Animation</source>
@@ -9437,11 +9437,11 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Sets the expression to bind the current keyframe to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in uttrycket att binda aktuell nyckelbild till.</translation>
     </message>
     <message>
         <source>Expression binding:</source>
-        <translation type="unfinished"></translation>
+        <translation>Uttrycksbindning:</translation>
     </message>
     <message>
         <source>Invalid Id</source>
@@ -9456,23 +9456,23 @@ Locked components cannot be modified or selected.</source>
     <name>QmlDesigner::TimelinePropertyItem</name>
     <message>
         <source>Previous Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Föregående bild</translation>
     </message>
     <message>
         <source>Next Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Nästa bild</translation>
     </message>
     <message>
         <source>Auto Record</source>
-        <translation type="unfinished"></translation>
+        <translation>Spela in automatiskt</translation>
     </message>
     <message>
         <source>Insert Keyframe</source>
-        <translation type="unfinished"></translation>
+        <translation>Infoga nyckelbild</translation>
     </message>
     <message>
         <source>Delete Keyframe</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort nyckelbild</translation>
     </message>
     <message>
         <source>Edit Easing Curve...</source>
@@ -9480,7 +9480,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Edit Keyframe...</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera nyckelbild...</translation>
     </message>
     <message>
         <source>Remove Property</source>
@@ -12692,7 +12692,7 @@ Executable: %2</source>
     </message>
     <message>
         <source>Enable memory leak detection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivera upptäckter av minnesläckage.</translation>
     </message>
     <message>
         <source>parameterized</source>
@@ -13080,7 +13080,7 @@ See Google Test documentation for further information on GTest filters.</source>
     </message>
     <message>
         <source>XML parsing failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>XML-tolkning misslyckades.</translation>
     </message>
     <message>
         <source>Entering test function %1::%2</source>
@@ -13096,7 +13096,7 @@ See Google Test documentation for further information on GTest filters.</source>
     </message>
     <message>
         <source>Test execution took %1 ms.</source>
-        <translation type="unfinished"></translation>
+        <translation>Testkörning tog %1 ms.</translation>
     </message>
     <message>
         <source>Test function finished.</source>
@@ -13312,7 +13312,7 @@ See Google Test documentation for further information on GTest filters.</source>
     </message>
     <message>
         <source>Switch Between Visual and Text Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Växla mellan visuell och textvisning</translation>
     </message>
     <message>
         <source>Test Results</source>
@@ -13420,7 +13420,7 @@ See Google Test documentation for further information on GTest filters.</source>
     </message>
     <message>
         <source>Debug This Test Without Deployment</source>
-        <translation type="unfinished"></translation>
+        <translation>Felsök detta test utan distribution</translation>
     </message>
     <message>
         <source>Save Output To</source>
@@ -13480,7 +13480,7 @@ Maybe raise the timeout?</source>
     </message>
     <message>
         <source>Failed to start test for project &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att starta test för projektet &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Test for project &quot;%1&quot; crashed.</source>
@@ -13492,7 +13492,7 @@ Maybe raise the timeout?</source>
     </message>
     <message>
         <source>No tests selected. Canceling test run.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga tester valda. Avbryter testkörning.</translation>
     </message>
     <message>
         <source>Project is null. Canceling test run.
@@ -13528,7 +13528,7 @@ This might cause trouble during execution.
     </message>
     <message>
         <source>Failed to get run configuration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att få körkonfiguration.</translation>
     </message>
     <message>
         <source>Could not find command &quot;%1&quot;. (%2)</source>
@@ -13648,7 +13648,7 @@ This might cause trouble during execution.
     </message>
     <message>
         <source>Group results by application</source>
-        <translation type="unfinished"></translation>
+        <translation>Gruppera resultat efter program</translation>
     </message>
     <message>
         <source>Process arguments</source>
@@ -13681,7 +13681,7 @@ Warning: this is an experimental feature and might lead to failing to execute th
     </message>
     <message>
         <source>Framework</source>
-        <translation type="unfinished"></translation>
+        <translation>Ramverk</translation>
     </message>
     <message>
         <source>Group</source>
@@ -13689,7 +13689,7 @@ Warning: this is an experimental feature and might lead to failing to execute th
     </message>
     <message>
         <source>Enables grouping of test cases.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiverar gruppering av testfall.</translation>
     </message>
     <message>
         <source>Reset Cached Choices</source>
@@ -13709,7 +13709,7 @@ Warning: this is an experimental feature and might lead to failing to execute th
     </message>
     <message>
         <source>Active Test Frameworks</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiva testramverk</translation>
     </message>
     <message>
         <source>Enable or disable test frameworks to be handled by the AutoTest plugin.</source>
@@ -13721,7 +13721,7 @@ Warning: this is an experimental feature and might lead to failing to execute th
     </message>
     <message>
         <source>No active test frameworks or tools.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga aktiva testramverk eller verktyg.</translation>
     </message>
     <message>
         <source>You will not be able to use the AutoTest plugin without having at least one active test framework.</source>
@@ -22240,7 +22240,7 @@ You will likely experience further problems using this instance of %3.</source>
     </message>
     <message>
         <source>Evaluates arbitrary JavaScript expressions and copies the result.</source>
-        <translation type="unfinished"></translation>
+        <translation>Evaluerar godtyckliga JavaScript-uttryck och kopierar resultatet.</translation>
     </message>
     <message>
         <source>Reset Engine</source>
@@ -23271,7 +23271,7 @@ Use drag and drop to change the order of the parameters.</source>
     </message>
     <message>
         <source>Evaluating Type Hierarchy</source>
-        <translation type="unfinished"></translation>
+        <translation>Evaluerar Type-hierarki</translation>
     </message>
     <message>
         <source>Derived</source>
@@ -27147,7 +27147,7 @@ You may be asked to share the contents of this log when reporting bugs related t
     </message>
     <message>
         <source>Error evaluating command line arguments: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid evaluering av kommandoradsargument: %1</translation>
     </message>
     <message>
         <source>Start Debugging</source>
@@ -36213,7 +36213,8 @@ See the documentation of the specific language server for valid settings.</sourc
     <message>
         <source>Allow the extension &quot;%1&quot; to fetch from the following URL:
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillåt att utökningen &quot;%1&quot; hämtar från följande URL:
+%2</translation>
     </message>
     <message>
         <source>Remember choice</source>
@@ -36221,13 +36222,15 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Allow the extension &quot;%1&quot; to fetch data from the internet?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillåt att utökningen &quot;%1&quot; hämtar data från internet?</translation>
     </message>
     <message>
         <source>Allow the extension &quot;%1&quot; to fetch datafrom the following URL:
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Tillåt att utökningen &quot;%1&quot; hämtar data från följande URL:
+
+</translation>
     </message>
     <message>
         <source>Always Allow</source>
@@ -36243,23 +36246,23 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Fetching is not allowed for the extension &quot;%1&quot;. (You can edit permissions in Preferences &gt; Lua.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Hämtning tillåts inte för utökningen &quot;%1&quot;. (Du kan redigera rättigheter i Inställningar &gt; Lua.)</translation>
     </message>
     <message>
         <source>Package info is not an object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Package-info är inte ett objekt.</translation>
     </message>
     <message>
         <source>Installed package info is not an object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Installerad package-info är inte ett objekt.</translation>
     </message>
     <message>
         <source>Cannot create app data directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte skapa programdatakatalog.</translation>
     </message>
     <message>
         <source>Cannot write to package info: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte skriva till package-info: %1</translation>
     </message>
     <message>
         <source>Cannot write to temporary file.</source>
@@ -36267,7 +36270,7 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Unarchiving failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppackning misslyckades.</translation>
     </message>
     <message>
         <source>Cannot open temporary file.</source>
@@ -36285,7 +36288,9 @@ See the documentation of the specific language server for valid settings.</sourc
         <source>The extension &quot;%1&quot; wants to install the following package(s):
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Utökningen &quot;%1&quot; vill installera följande paket:
+
+</translation>
     </message>
     <message>
         <source>Install</source>
@@ -36366,7 +36371,7 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>No Lua statement to evaluate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inget Lua-villkor att evaluera.</translation>
     </message>
 </context>
 <context>
@@ -56658,7 +56663,7 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>Press &lt;RETURN&gt; to close this window...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tryck &lt;RETURN&gt; för att stänga detta fönster...</translation>
     </message>
     <message>
         <source>Cannot create temporary file: %1</source>
@@ -56666,15 +56671,15 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>Cannot write temporary file. Disk full?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte skriva temporärfil. Disken full?</translation>
     </message>
     <message>
         <source>Cannot create temporary directory &quot;%1&quot;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte skapa temporärkatalogen &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <source>Cannot change to working directory &quot;%1&quot;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte ändra till arbetskatalogen &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <source>Cannot execute &quot;%1&quot;: %2</source>
@@ -56702,7 +56707,7 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>Name contains white space.</source>
-        <translation type="unfinished"></translation>
+        <translation>Namnet innehåller blanksteg.</translation>
     </message>
     <message>
         <source>Invalid character &quot;%1&quot;.</source>
@@ -56718,11 +56723,11 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>File extension %1 is required:</source>
-        <translation type="unfinished"></translation>
+        <translation>Filändelsen %1 krävs:</translation>
     </message>
     <message>
         <source>File extensions %1 are required:</source>
-        <translation type="unfinished"></translation>
+        <translation>Filändelserna %1 krävs:</translation>
     </message>
     <message numerus="yes">
         <source>%1: canceled. %n occurrences found in %2 files.</source>
@@ -56768,11 +56773,11 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>Local</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokal</translation>
     </message>
     <message>
         <source>Remote</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjärr</translation>
     </message>
     <message>
         <source>Choose Directory</source>
@@ -56896,7 +56901,7 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>Introduction and Project Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Intriduktion och projektplats</translation>
     </message>
     <message>
         <source>Choose the Location</source>
@@ -56997,7 +57002,7 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>The program &quot;%1&quot; does not exist or is not executable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Programmet &quot;%1&quot; finns inte eller är inte körbart.</translation>
     </message>
     <message>
         <source>The program &quot;%1&quot; could not be found.</source>
@@ -57109,7 +57114,7 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>watch is not implemented.</source>
-        <translation type="unfinished"></translation>
+        <translation>watch är inte implementerat.</translation>
     </message>
     <message>
         <source>Failed to watch &quot;%1&quot;.</source>
@@ -57347,15 +57352,15 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>No destination directory set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen målkatalog inställd.</translation>
     </message>
     <message>
         <source>Failed to open output file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att öppna utdatafil.</translation>
     </message>
     <message>
         <source>Failed to write output file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att skriva utdatafil.</translation>
     </message>
     <message>
         <source>Command failed.</source>
@@ -57394,7 +57399,7 @@ i &quot;%2&quot;.
     </message>
     <message>
         <source>No clangd executable specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen körbar clangd-fil angiven.</translation>
     </message>
     <message>
         <source>Failed to retrieve clangd version: Unexpected clangd output.</source>
@@ -57402,7 +57407,7 @@ i &quot;%2&quot;.
     </message>
     <message>
         <source>The clangd version is %1, but %2 or greater is required.</source>
-        <translation type="unfinished"></translation>
+        <translation>Versionen av clangd är %1 men %2 eller senare krävs.</translation>
     </message>
     <message>
         <source>Edit Environment</source>
@@ -57432,7 +57437,7 @@ i &quot;%2&quot;.
     </message>
     <message>
         <source>Failed to move %1 to %2. Removing the source file failed: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att flytta %1 till %2. Borttagning av källfilen misslyckades: %3</translation>
     </message>
     <message>
         <source>No &quot;localSource&quot; device hook set.</source>
@@ -57466,7 +57471,7 @@ i &quot;%2&quot;.
     </message>
     <message>
         <source>Date Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändringsdatum</translation>
     </message>
     <message>
         <source>Cannot create OpenGL context.</source>
@@ -57529,11 +57534,11 @@ i &quot;%2&quot;.
     </message>
     <message>
         <source>Internal protocol error: invalid packet size %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Internt protokollfel: ogiltig paketstorlek %1.</translation>
     </message>
     <message>
         <source>Internal protocol error: invalid packet type %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Internt protokollfel: ogiltig pakettyp %1.</translation>
     </message>
     <message>
         <source>Launcher socket closed unexpectedly.</source>
@@ -57577,7 +57582,7 @@ i &quot;%2&quot;.
     </message>
     <message>
         <source>Access environment variables.</source>
-        <translation type="unfinished"></translation>
+        <translation>Åtkomstvariabler för miljö.</translation>
     </message>
     <message>
         <source>Minimize</source>
@@ -57616,7 +57621,7 @@ Lines starting with &quot;##&quot; will be treated as comments.</source>
     </message>
     <message>
         <source>&amp;Remove from version control</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ta bort från versionskontroll</translation>
     </message>
     <message>
         <source>File to remove:</source>
@@ -57640,7 +57645,7 @@ Lines starting with &quot;##&quot; will be treated as comments.</source>
     </message>
     <message>
         <source>There was nothing to write.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det fanns ingenting att skriva.</translation>
     </message>
     <message>
         <source>No Valid Settings Found</source>
@@ -57664,7 +57669,7 @@ Lines starting with &quot;##&quot; will be treated as comments.</source>
     </message>
     <message>
         <source>Settings File for &quot;%1&quot; from a Different Environment?</source>
-        <translation type="unfinished"></translation>
+        <translation>Inställningsfil för &quot;%1&quot; från en annan miljö?</translation>
     </message>
     <message>
         <source>&lt;p&gt;No settings file created by this instance of %1 was found.&lt;/p&gt;&lt;p&gt;Did you work with this project on another machine or using a different settings path before?&lt;/p&gt;&lt;p&gt;Do you still want to load the settings file &quot;%2&quot;?&lt;/p&gt;</source>
@@ -57692,7 +57697,7 @@ Lines starting with &quot;##&quot; will be treated as comments.</source>
     </message>
     <message>
         <source>Insert Unexpanded Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Infoga oexpanderat värde</translation>
     </message>
     <message>
         <source>Insert &quot;%1&quot;</source>
@@ -57700,7 +57705,7 @@ Lines starting with &quot;##&quot; will be treated as comments.</source>
     </message>
     <message>
         <source>Insert Expanded Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Infoga expanderat värde</translation>
     </message>
     <message>
         <source>Select a variable to insert.</source>
@@ -57741,11 +57746,12 @@ Lines starting with &quot;##&quot; will be treated as comments.</source>
     <message>
         <source>Failed to install shell script: %1
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att installera skalskript: %1
+%2</translation>
     </message>
     <message>
         <source>Timeout while trying to check for %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidsgräns överstegs vid försök att leta efter %1.</translation>
     </message>
     <message>
         <source>Command &quot;%1&quot; was not found.</source>
@@ -57761,7 +57767,7 @@ Lines starting with &quot;##&quot; will be treated as comments.</source>
     </message>
     <message>
         <source>Failed to install shell script: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att installera skalskript: %1</translation>
     </message>
     <message>
         <source>Show/Hide Password</source>
@@ -57777,7 +57783,7 @@ Lines starting with &quot;##&quot; will be treated as comments.</source>
     </message>
     <message>
         <source>Could not find any shell.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte hitta något skal.</translation>
     </message>
     <message>
         <source>No Lua interface set</source>
