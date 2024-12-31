@@ -60718,23 +60718,23 @@ defined in step size.</source>
     </message>
     <message>
         <source>Name contains invalid characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Namnet innehåller ogiltiga tecken.</translation>
     </message>
     <message>
         <source>Name must start with a capital letter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Namnet måste börja med en versal bokstav.</translation>
     </message>
     <message>
         <source>Name must have at least 3 characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Namnet måste ha minst tre tecken.</translation>
     </message>
     <message>
         <source>Name cannot contain white space.</source>
-        <translation type="unfinished"></translation>
+        <translation>Namnet får inte innehåll blanksteg.</translation>
     </message>
     <message>
         <source>Name is already taken.</source>
-        <translation type="unfinished"></translation>
+        <translation>Namnet är upptaget.</translation>
     </message>
     <message>
         <source>Save</source>
