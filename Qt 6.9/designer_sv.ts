@@ -1341,7 +1341,7 @@ till
     </message>
     <message>
         <source>Val</source>
-        <translation type="unfinished">Vär</translation>
+        <translation>Vär</translation>
     </message>
     <message>
         <source>Alpha</source>
@@ -1461,11 +1461,11 @@ till
     </message>
     <message>
         <source>Start X</source>
-        <translation type="unfinished"></translation>
+        <translation>Start X</translation>
     </message>
     <message>
         <source>Start Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Start Y</translation>
     </message>
     <message>
         <source>Final X</source>
@@ -2729,7 +2729,7 @@ Klass: %2</translation>
     </message>
     <message>
         <source>Change signal-slot connection</source>
-        <translation type="unfinished">Ändra signal-slot-anslutning</translation>
+        <translation>Ändra signal-slot-anslutning</translation>
     </message>
     <message>
         <source>Change sender</source>
@@ -3491,15 +3491,15 @@ Klass: %2</translation>
     </message>
     <message>
         <source>&apos;%1&apos; is not a valid font id.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; är inte ett giltigt typsnitts-id.</translation>
     </message>
     <message>
         <source>There is no loaded font matching the id &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det finns inget inläst typsnitt som matchar id &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>The font &apos;%1&apos; (%2) could not be unloaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Typsnittet &quot;%1&quot; (%2) kunde inte läsas ur.</translation>
     </message>
 </context>
 <context>
