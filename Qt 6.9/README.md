@@ -7,9 +7,7 @@ Updating 'assistant_sv.qm'...
     
 Updating 'designer_sv.qm'...
 
-    Genererade 1171 översättningar (1169 slutförda och 2 oavslutade)
-    
-    Ignorerade 161 oöversatta källtexter
+    Genererade 1332 översättningar (1332 slutförda och 2 oavslutade)
 
     
 Updating 'linguist_sv.qm'...
@@ -33,9 +31,9 @@ Updating 'qtconnectivity_sv.qm'...
     
 Updating 'qtdeclarative_sv.qm'...
 
-    Genererade 361 översättningar (361 slutförda och 0 oavslutade)
+    Genererade 368 översättningar (368 slutförda och 0 oavslutade)
     
-    Ignorerade 139 oöversatta källtexter
+    Ignorerade 132 oöversatta källtexter
 
     
 Updating 'qt_help_sv.qm'...
