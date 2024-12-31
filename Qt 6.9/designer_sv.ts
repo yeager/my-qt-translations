@@ -578,7 +578,7 @@ Please select another name.</source>
     </message>
     <message>
         <source>Move Item Left (before Parent Item)</source>
-        <translation type="unfinished"></translation>
+        <translation>Flytta objekt åt vänster (före Förälder-objekt)</translation>
     </message>
     <message>
         <source>L</source>
@@ -586,7 +586,7 @@ Please select another name.</source>
     </message>
     <message>
         <source>Move Item Right (as a First Subitem of the Next Sibling Item)</source>
-        <translation type="unfinished"></translation>
+        <translation>Flytta objekt åt höger (som ett Första underobjekt för Nästa syskon-objekt)</translation>
     </message>
     <message>
         <source>R</source>
@@ -622,7 +622,7 @@ Please select another name.</source>
     </message>
     <message>
         <source>Per column properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Per kolumn-egenskaper</translation>
     </message>
     <message>
         <source>Common properties</source>
@@ -2054,19 +2054,19 @@ till
     </message>
     <message>
         <source>Lay Out Horizontally in S&amp;plitter</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg ut horisontellt i s&amp;plitter</translation>
     </message>
     <message>
         <source>Lays out the selected widgets horizontally in a splitter</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägger ut markerade widgetar horisontellt i en splitter</translation>
     </message>
     <message>
         <source>Lay Out Vertically in Sp&amp;litter</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg ut vertikalt i s&amp;plitter</translation>
     </message>
     <message>
         <source>Lays out the selected widgets vertically in a splitter</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägger ut markerade widgetar vertikalt i en splitter</translation>
     </message>
     <message>
         <source>&amp;Break Layout</source>
@@ -2182,12 +2182,12 @@ Container pages should only be added by specifying them in XML returned by the d
     <message>
         <source>Error while pasting clipboard contents at line %1, column %2: %3</source>
         <extracomment>Parsing clipboard contents</extracomment>
-        <translation type="unfinished">Fel vid inklistring av urklippsinnehåll på rad %1, kolumn %2: %3</translation>
+        <translation>Fel vid inklistring av urklippsinnehåll på rad %1, kolumn %2: %3</translation>
     </message>
     <message>
         <source>Error while pasting clipboard contents: The root element &lt;ui&gt; is missing.</source>
         <extracomment>Parsing clipboard contents</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid inklistring av urklippsinnehåll: Rotelementet &lt;ui&gt; saknas.</translation>
     </message>
 </context>
 <context>
@@ -2344,7 +2344,7 @@ Container pages should only be added by specifying them in XML returned by the d
     <name>qdesigner_internal::DesignerPropertyManager</name>
     <message>
         <source>disambiguation</source>
-        <translation type="unfinished"></translation>
+        <translation>disambiguering</translation>
     </message>
     <message>
         <source>id</source>
@@ -2352,7 +2352,7 @@ Container pages should only be added by specifying them in XML returned by the d
     </message>
     <message>
         <source>AlignLeft</source>
-        <translation type="unfinished"></translation>
+        <translation>JusteraVänster</translation>
     </message>
     <message>
         <source>AlignHCenter</source>
@@ -4451,23 +4451,23 @@ Anledning: %2</translation>
     </message>
     <message>
         <source>&apos;%1&apos; is not a valid string property specification.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; är inte en giltig specifikation för string-egenskap.</translation>
     </message>
     <message>
         <source>An invalid property specification (&apos;%1&apos;) was encountered. Supported types: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>En ogiltig egenskapsspecifikation (&quot;%1&quot;) påträffades. Typer som stöds: %2</translation>
     </message>
     <message>
         <source>The XML of the custom widget %1 does not contain any of the elements &lt;widget&gt; or &lt;ui&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>XML för anpassad widget %1 innehåller inte något av elementet &lt;widget&gt; eller &lt;ui&gt;.</translation>
     </message>
     <message>
         <source>The class attribute for the class %1 is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klassattributet för klassen %1 saknas.</translation>
     </message>
     <message>
         <source>The class attribute for the class %1 does not match the class name %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klassattributet för klassen %1 stämmer inte överens med klassnamnet %2.</translation>
     </message>
 </context>
 <context>
@@ -5354,12 +5354,13 @@ This indicates an inconsistency in the ui-file.</source>
     </message>
     <message>
         <source>Attempt to add child that is not of class QWizardPage to QWizard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Försökte lägga till barn som inte är av klassen QWizardPage till QWizard.</translation>
     </message>
     <message>
         <source>Attempt to add a layout to a widget &apos;%1&apos; (%2) which already has a layout of non-box type %3.
 This indicates an inconsistency in the ui-file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Försökte att lägga till en layout till en widget &apos;%1&apos; (%2) som redan har en layout av non-box-typen %3.
+Detta indikerar en inkonsistens i ui-filen.</translation>
     </message>
     <message>
         <source>Empty widget item in %1 &apos;%2&apos;.</source>
@@ -5371,7 +5372,7 @@ This indicates an inconsistency in the ui-file.</source>
     </message>
     <message>
         <source>While applying tab stops: The widget &apos;%1&apos; could not be found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vid tillämpning av tabulatorstopp: Widgeten &quot;%1&quot; kunde inte hittas.</translation>
     </message>
     <message>
         <source>Invalid QButtonGroup reference &apos;%1&apos; referenced by &apos;%2&apos;.</source>
@@ -5379,7 +5380,7 @@ This indicates an inconsistency in the ui-file.</source>
     </message>
     <message>
         <source>An error has occurred while reading the UI file at line %1, column %2: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Ett fel har inträffat vid läsning av UI-filen på rad %1, kolumn %2: %3</translation>
     </message>
     <message>
         <source>This file was created using Designer from Qt-%1 and cannot be read.</source>
@@ -5391,7 +5392,7 @@ This indicates an inconsistency in the ui-file.</source>
     </message>
     <message>
         <source>Invalid UI file: The root element &lt;ui&gt; is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig UI-fil: Rotelementet &lt;ui&gt; saknas.</translation>
     </message>
     <message>
         <source>Invalid UI file</source>
@@ -5550,19 +5551,19 @@ This indicates an inconsistency in the ui-file.</source>
     </message>
     <message>
         <source>The skin &quot;up&quot; image file &apos;%1&apos; does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildfilen för skalet &quot;up&quot; &quot;%1&quot; finns inte.</translation>
     </message>
     <message>
         <source>The skin &quot;down&quot; image file &apos;%1&apos; does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildfilen för skalet &quot;down&quot; &quot;%1&quot; finns inte.</translation>
     </message>
     <message>
         <source>The skin &quot;closed&quot; image file &apos;%1&apos; does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildfilen för skalet &quot;closed&quot; &quot;%1&quot; finns inte.</translation>
     </message>
     <message>
         <source>The skin cursor image file &apos;%1&apos; does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildfilen för skalets markör &quot;%1&quot; finns inte.</translation>
     </message>
     <message>
         <source>Syntax error in area definition: %1</source>
@@ -5570,7 +5571,7 @@ This indicates an inconsistency in the ui-file.</source>
     </message>
     <message>
         <source>Mismatch in number of areas, expected %1, got %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Antal ytor stämmer inte, förväntade %1, fick %2.</translation>
     </message>
 </context>
 <context>
