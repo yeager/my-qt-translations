@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="sv">
+<TS version="2.1" language="sv_SE">
 <context>
     <name>AbstractButtonSection</name>
     <message>
@@ -182,7 +182,7 @@
     </message>
     <message>
         <source>Current</source>
-        <translation type="unfinished">Aktuell</translation>
+        <translation>Aktuell</translation>
     </message>
     <message>
         <source>The index of the current item.</source>

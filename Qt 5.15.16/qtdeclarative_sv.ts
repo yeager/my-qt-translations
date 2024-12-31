@@ -1455,11 +1455,11 @@ Install a driver providing OpenGL 2.0 or higher, or, if this is not possible, ma
     </message>
     <message>
         <source>Signal parameter &quot;%1&quot; hides global variable.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Signalparameter &quot;%1&quot; döljer global variabel.</translation>
     </message>
     <message>
         <source>&quot;%1.%2&quot; is not available in %3 %4.%5.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&quot;%1.%2&quot; är inte tillgänglig i %3 %4.%5.</translation>
     </message>
     <message>
         <source>&quot;%1.%2&quot; is not available due to component versioning.</source>

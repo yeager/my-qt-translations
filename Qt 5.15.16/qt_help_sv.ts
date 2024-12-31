@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="sv">
+<TS version="2.1" language="sv_SE">
 <context>
     <name>FilterNameDialogClass</name>
     <message>
@@ -252,7 +252,7 @@
     <name>fulltextsearch::qt::QHelpSearchIndexWriter</name>
     <message>
         <source>Cannot open database &quot;%1&quot; using connection &quot;%2&quot;: %3</source>
-        <translation type="unfinished">Kan inte öppna databasen &quot;%1&quot; med anslutningen &quot;%2&quot;: %3</translation>
+        <translation>Kan inte öppna databasen &quot;%1&quot; med anslutningen &quot;%2&quot;: %3</translation>
     </message>
 </context>
 </TS>
