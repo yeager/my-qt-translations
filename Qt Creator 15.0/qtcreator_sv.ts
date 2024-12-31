@@ -15223,7 +15223,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Cannot read documentation file &quot;%1&quot;: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte läsa dokumentationsfilen &quot;%1&quot;: %2.</translation>
     </message>
     <message>
         <source>&amp;Artistic Style</source>
@@ -22601,7 +22601,7 @@ Double-click to edit item.</source>
     </message>
     <message>
         <source>%1: Could not get file contents</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Kunde inte få filinnehåll</translation>
     </message>
     <message>
         <source>Code Style</source>
@@ -22625,7 +22625,7 @@ Double-click to edit item.</source>
     </message>
     <message>
         <source>Do not index files greater than</source>
-        <translation type="unfinished"></translation>
+        <translation>Indexera inte filer större än</translation>
     </message>
     <message>
         <source>MB</source>
@@ -22641,7 +22641,7 @@ Double-click to edit item.</source>
     </message>
     <message>
         <source>Ignore precompiled headers</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorera förkompilerade headers</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;When precompiled headers are not ignored, the parsing for code completion and semantic highlighting will process the precompiled header before processing any file.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -22767,7 +22767,7 @@ The built-in code model will handle highlighting, completion and so on.</source>
     </message>
     <message>
         <source>Document update threshold:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tröskelvärde för dokumentuppdatering:</translation>
     </message>
     <message>
         <source>Sessions with a Single Clangd Instance</source>
@@ -22841,7 +22841,7 @@ managed by the same clangd process, add them here.</source>
     </message>
     <message>
         <source>C++ Functions</source>
-        <translation type="unfinished"></translation>
+        <translation>C++-funktioner</translation>
     </message>
     <message>
         <source>&amp;C++</source>
@@ -22865,11 +22865,11 @@ managed by the same clangd process, add them here.</source>
     </message>
     <message>
         <source>Reads</source>
-        <translation type="unfinished"></translation>
+        <translation>Läser</translation>
     </message>
     <message>
         <source>Writes</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriver</translation>
     </message>
     <message>
         <source>Other</source>
@@ -22885,9 +22885,9 @@ managed by the same clangd process, add them here.</source>
     </message>
     <message numerus="yes">
         <source>Re&amp;name %n files</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Byt &amp;namn på %n fil</numerusform>
+            <numerusform>Byt &amp;namn på %n filer</numerusform>
         </translation>
     </message>
     <message>
@@ -22914,7 +22914,7 @@ managed by the same clangd process, add them here.</source>
     </message>
     <message>
         <source>Split Declaration</source>
-        <translation type="unfinished"></translation>
+        <translation>Dela deklaration</translation>
     </message>
     <message>
         <source>Add Curly Braces</source>
@@ -22934,7 +22934,7 @@ managed by the same clangd process, add them here.</source>
     </message>
     <message>
         <source>Convert to String Literal</source>
-        <translation type="unfinished"></translation>
+        <translation>Konvertera till strängkonstant</translation>
     </message>
     <message>
         <source>Convert to Character Literal and Enclose in QLatin1Char(...)</source>
@@ -22946,15 +22946,15 @@ managed by the same clangd process, add them here.</source>
     </message>
     <message>
         <source>Add #include %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till #include %1</translation>
     </message>
     <message>
         <source>Switch with Previous Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Växla med föregående parameter</translation>
     </message>
     <message>
         <source>Switch with Next Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Växla med nästa parameter</translation>
     </message>
     <message>
         <source>Mark as Translatable</source>
@@ -22982,11 +22982,11 @@ managed by the same clangd process, add them here.</source>
     </message>
     <message>
         <source>Add Local Declaration</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till lokal deklaration</translation>
     </message>
     <message>
         <source>Convert to Camel Case</source>
-        <translation type="unfinished"></translation>
+        <translation>Konvertera till kamelnotation</translation>
     </message>
     <message>
         <source>Add Forward Declaration for %1</source>
@@ -22994,11 +22994,11 @@ managed by the same clangd process, add them here.</source>
     </message>
     <message>
         <source>Reformat to &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatera om till &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Reformat Pointers or References</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatera om pekare eller referenser</translation>
     </message>
     <message>
         <source>Complete Switch Statement</source>
@@ -23006,19 +23006,19 @@ managed by the same clangd process, add them here.</source>
     </message>
     <message>
         <source>Add Class Member &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till klassmedlem &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Provide the type</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange typen</translation>
     </message>
     <message>
         <source>Data type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Datatyp:</translation>
     </message>
     <message>
         <source>Add Member Function &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till medlemsfunktion &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Member Function Implementations</source>
@@ -23030,7 +23030,7 @@ managed by the same clangd process, add them here.</source>
     </message>
     <message>
         <source>Outside Class</source>
-        <translation type="unfinished"></translation>
+        <translation>Utanför klass</translation>
     </message>
     <message>
         <source>Default implementation location:</source>
@@ -23038,7 +23038,7 @@ managed by the same clangd process, add them here.</source>
     </message>
     <message>
         <source>Create Implementations for Member Functions</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa implementerationer för medlemsfunktioner</translation>
     </message>
     <message>
         <source>Generate Missing Q_PROPERTY Members</source>
@@ -23098,7 +23098,7 @@ managed by the same clangd process, add them here.</source>
     </message>
     <message>
         <source>Constant QProperty</source>
-        <translation type="unfinished"></translation>
+        <translation>Konstant QProperty</translation>
     </message>
     <message>
         <source>Create getters for all members</source>
@@ -23126,7 +23126,7 @@ managed by the same clangd process, add them here.</source>
     </message>
     <message>
         <source>Access</source>
-        <translation type="unfinished"></translation>
+        <translation>Åtkomst</translation>
     </message>
     <message>
         <source>Extract Constant as Function Parameter</source>
@@ -23134,11 +23134,11 @@ managed by the same clangd process, add them here.</source>
     </message>
     <message>
         <source>Convert to Stack Variable</source>
-        <translation type="unfinished"></translation>
+        <translation>Konvertera till stackvariabel</translation>
     </message>
     <message>
         <source>Convert to Pointer</source>
-        <translation type="unfinished"></translation>
+        <translation>Konvertera till pekare</translation>
     </message>
     <message>
         <source>Definitions Outside Class</source>
@@ -23150,11 +23150,11 @@ managed by the same clangd process, add them here.</source>
     </message>
     <message>
         <source>Move Definition Here</source>
-        <translation type="unfinished"></translation>
+        <translation>Flytta definition hit</translation>
     </message>
     <message>
         <source>Assign to Local Variable</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilldela till lokal variabel</translation>
     </message>
     <message>
         <source>Optimize for-Loop</source>
@@ -23170,7 +23170,7 @@ managed by the same clangd process, add them here.</source>
     </message>
     <message>
         <source>Convert connect() to Qt 5 Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Konvertera connect() till Qt 5-stil</translation>
     </message>
     <message>
         <source>Remove All Occurrences of &quot;using namespace %1&quot; in Global Scope and Adjust Type Names Accordingly</source>
@@ -23210,7 +23210,7 @@ managed by the same clangd process, add them here.</source>
     </message>
     <message>
         <source>Initialize all members</source>
-        <translation type="unfinished"></translation>
+        <translation>Initiera alla medlemmar</translation>
     </message>
     <message>
         <source>Select the members to be initialized in the constructor.
@@ -23223,11 +23223,11 @@ Use drag and drop to change the order of the parameters.</source>
     </message>
     <message>
         <source>Convert Comment to C-Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Konvertera kommentar till C-stil</translation>
     </message>
     <message>
         <source>Convert Comment to C++-Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Konvertera kommentar till C++-stil</translation>
     </message>
     <message>
         <source>Move Function Documentation to Declaration</source>
@@ -23243,11 +23243,11 @@ Use drag and drop to change the order of the parameters.</source>
     </message>
     <message>
         <source>Add Definition in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till definition i %1</translation>
     </message>
     <message>
         <source>Add Definition Here</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till definition här</translation>
     </message>
     <message>
         <source>Add Definition Inside Class</source>
@@ -23259,7 +23259,7 @@ Use drag and drop to change the order of the parameters.</source>
     </message>
     <message>
         <source>No type hierarchy available</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen type-hierarki tillgänglig</translation>
     </message>
     <message>
         <source>Bases</source>
@@ -23283,11 +23283,11 @@ Use drag and drop to change the order of the parameters.</source>
     </message>
     <message>
         <source>C++ Symbols</source>
-        <translation type="unfinished"></translation>
+        <translation>C++-symboler</translation>
     </message>
     <message>
         <source>C++ Symbols:</source>
-        <translation type="unfinished"></translation>
+        <translation>C++-symboler:</translation>
     </message>
     <message>
         <source>Classes</source>
@@ -23295,7 +23295,7 @@ Use drag and drop to change the order of the parameters.</source>
     </message>
     <message>
         <source>Functions</source>
-        <translation type="unfinished"></translation>
+        <translation>Funktioner</translation>
     </message>
     <message>
         <source>Enums</source>
@@ -23303,11 +23303,11 @@ Use drag and drop to change the order of the parameters.</source>
     </message>
     <message>
         <source>Declarations</source>
-        <translation type="unfinished"></translation>
+        <translation>Deklarationer</translation>
     </message>
     <message>
         <source>Searching for Symbol</source>
-        <translation type="unfinished"></translation>
+        <translation>Söker efter symbol</translation>
     </message>
     <message>
         <source>Scope: %1
@@ -23333,7 +23333,7 @@ Flags: %3</source>
     </message>
     <message>
         <source>See tool tip for more information</source>
-        <translation type="unfinished"></translation>
+        <translation>Se verktygstips för mer information</translation>
     </message>
     <message>
         <source>Use &lt;name&gt; for the variable
@@ -23348,11 +23348,11 @@ e.g. name = &quot;m_test_foo_&quot;:
     </message>
     <message>
         <source>For example, [[nodiscard]]</source>
-        <translation type="unfinished"></translation>
+        <translation>Till exempel, [[nodiscard]]</translation>
     </message>
     <message>
         <source>For example, new&lt;Name&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Till exempel, new&lt;Namn&gt;</translation>
     </message>
     <message>
         <source>Setters should be slots</source>
@@ -23368,19 +23368,19 @@ e.g. name = &quot;m_test_foo_&quot;:
     </message>
     <message>
         <source>Generate signals with the new value as parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Generera signaler med nya värdet som parameter</translation>
     </message>
     <message>
         <source>For example, m_&lt;name&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Till exempel, m_&lt;name&gt;</translation>
     </message>
     <message>
         <source>Generate missing namespaces</source>
-        <translation type="unfinished"></translation>
+        <translation>Generera saknade namnrymder</translation>
     </message>
     <message>
         <source>Add &quot;using namespace ...&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till &quot;using namespace ...&quot;</translation>
     </message>
     <message>
         <source>Rewrite types to match the existing namespaces</source>
@@ -23400,7 +23400,7 @@ e.g. name = &quot;m_test_foo_&quot;:
     </message>
     <message>
         <source>Separate the types by comma.</source>
-        <translation type="unfinished"></translation>
+        <translation>Separera typerna med kommatecken.</translation>
     </message>
     <message>
         <source>Use &lt;new&gt; and &lt;cur&gt; to access the parameter and current value. Use &lt;type&gt; to access the type and &lt;T&gt; for the template parameter.</source>
@@ -23444,15 +23444,15 @@ e.g. name = &quot;m_test_foo_&quot;:
     </message>
     <message>
         <source>Types:</source>
-        <translation type="unfinished"></translation>
+        <translation>Typer:</translation>
     </message>
     <message>
         <source>Comparison:</source>
-        <translation type="unfinished"></translation>
+        <translation>Jämförelse:</translation>
     </message>
     <message>
         <source>Assignment:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilldelning:</translation>
     </message>
     <message>
         <source>Return expression:</source>
@@ -23492,7 +23492,7 @@ e.g. name = &quot;m_test_foo_&quot;:
     </message>
     <message>
         <source>Signal name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Signalnamn:</translation>
     </message>
     <message>
         <source>Member variable name:</source>
@@ -23512,7 +23512,7 @@ e.g. name = &quot;m_test_foo_&quot;:
     </message>
     <message>
         <source>Projects only</source>
-        <translation type="unfinished"></translation>
+        <translation>Endast projekt</translation>
     </message>
     <message>
         <source>All files</source>
@@ -23529,7 +23529,7 @@ This is normally not a good idea, as the file will likely get overwritten during
     </message>
     <message>
         <source>Do you want to edit &quot;%1&quot; instead?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vill du redigera &quot;%1&quot; istället?</translation>
     </message>
     <message>
         <source>Open &quot;%1&quot;</source>
@@ -23557,7 +23557,7 @@ This is normally not a good idea, as the file will likely get overwritten during
     </message>
     <message>
         <source>Indent</source>
-        <translation type="unfinished"></translation>
+        <translation>Dra in</translation>
     </message>
     <message>
         <source>&quot;public&quot;, &quot;protected&quot; and
@@ -23596,7 +23596,7 @@ This is normally not a good idea, as the file will likely get overwritten during
     </message>
     <message>
         <source>Class declarations</source>
-        <translation type="unfinished"></translation>
+        <translation>Klassdeklarationer</translation>
     </message>
     <message>
         <source>Namespace declarations</source>
@@ -23608,7 +23608,7 @@ This is normally not a good idea, as the file will likely get overwritten during
     </message>
     <message>
         <source>Blocks</source>
-        <translation type="unfinished"></translation>
+        <translation>Block</translation>
     </message>
     <message>
         <source>&quot;switch&quot;</source>
@@ -23643,7 +23643,7 @@ This is normally not a good idea, as the file will likely get overwritten during
     </message>
     <message>
         <source>Align</source>
-        <translation type="unfinished"></translation>
+        <translation>Justera</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
@@ -23692,7 +23692,7 @@ if (a &amp;&amp;
     </message>
     <message>
         <source>Pointers and References</source>
-        <translation type="unfinished"></translation>
+        <translation>Pekare och referenser</translation>
     </message>
     <message>
         <source>Bind &apos;*&apos; and &apos;&amp;&amp;&apos; in types/declarations to</source>
@@ -23838,7 +23838,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Sources</source>
-        <translation type="unfinished"></translation>
+        <translation>Källor</translation>
     </message>
     <message>
         <source>P&amp;refixes:</source>
@@ -23846,7 +23846,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>License &amp;template:</source>
-        <translation type="unfinished"></translation>
+        <translation>Li&amp;censmall:</translation>
     </message>
     <message>
         <source>Extract Function</source>
@@ -23858,35 +23858,35 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>C++ Classes</source>
-        <translation type="unfinished"></translation>
+        <translation>C++-klasser</translation>
     </message>
     <message>
         <source>Target file was changed, could not apply changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Målfilen ändrades. kunde inte verkställa ändringar</translation>
     </message>
     <message>
         <source>Apply changes to definition</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillämpa ändringar till definition</translation>
     </message>
     <message>
         <source>Apply changes to declaration</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillämpa ändringar till deklaration</translation>
     </message>
     <message>
         <source>Apply Function Signature Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillämpa ändringar för funktionssignatur</translation>
     </message>
     <message>
         <source>Only virtual functions can be marked &apos;override&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Endast virtuella funktioner kan märkas &apos;override&apos;</translation>
     </message>
     <message>
         <source>Only virtual functions can be marked &apos;final&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Endast virtuella funktioner kan märkas &apos;final&apos;</translation>
     </message>
     <message>
         <source>Expected a namespace-name</source>
-        <translation type="unfinished"></translation>
+        <translation>Förväntade ett namnrymdsnamn</translation>
     </message>
     <message>
         <source>Too many arguments</source>
@@ -23902,11 +23902,11 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Switch Between Function Declaration/Definition</source>
-        <translation type="unfinished"></translation>
+        <translation>Växla mellan funktionens deklaration/definition</translation>
     </message>
     <message>
         <source>Open Function Declaration/Definition in Next Split</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna funktionens deklaration/definition i nästa delning</translation>
     </message>
     <message>
         <source>Meta+E, Shift+F2</source>
@@ -23934,7 +23934,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>The configured path to the license template</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurerad sökväg till licensmallen</translation>
     </message>
     <message>
         <source>Insert &quot;#pragma once&quot; instead of &quot;#ifndef&quot; include guards into header file</source>
@@ -23953,40 +23953,40 @@ These prefixes are used in addition to current file name on Switch Header/Source
     <message>
         <source>Follow</source>
         <comment>text on macOS touch bar</comment>
-        <translation type="unfinished"></translation>
+        <translation>Följ</translation>
     </message>
     <message>
         <source>Decl/Def</source>
         <comment>text on macOS touch bar</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dekl/Def</translation>
     </message>
     <message>
         <source>Find References With Access Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Hitta referenser med åtkomsttyp</translation>
     </message>
     <message>
         <source>Show Preprocessed Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa förbehandlad källa</translation>
     </message>
     <message>
         <source>Show Preprocessed Source in Next Split</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa förbehandlad källa i nästa delning</translation>
     </message>
     <message>
         <source>Find Unused Functions</source>
-        <translation type="unfinished"></translation>
+        <translation>Hitta oanvända funktioner</translation>
     </message>
     <message>
         <source>Find Unused C/C++ Functions</source>
-        <translation type="unfinished"></translation>
+        <translation>Hitta oanvända C/C++-funktioner</translation>
     </message>
     <message>
         <source>Open Type Hierarchy</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna Type-hierarki</translation>
     </message>
     <message>
         <source>Open Include Hierarchy</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna Include-hierarki</translation>
     </message>
     <message>
         <source>Meta+Shift+I</source>
@@ -23998,7 +23998,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Inspect C++ Code Model...</source>
-        <translation type="unfinished"></translation>
+        <translation>Inspektera C++-kodmodell...</translation>
     </message>
     <message>
         <source>Meta+Shift+F12</source>
@@ -24010,7 +24010,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Reparse Externally Changed Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Återtolka externt ändrade filer</translation>
     </message>
     <message>
         <source>Create Getter and Setter Member Functions</source>
@@ -24018,59 +24018,59 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Move Definition Outside Class</source>
-        <translation type="unfinished"></translation>
+        <translation>Flytta definition utanför klass</translation>
     </message>
     <message>
         <source>Move Definition to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Flytta definition till %1</translation>
     </message>
     <message>
         <source>Move Definition to Class</source>
-        <translation type="unfinished"></translation>
+        <translation>Flytta definition till klass</translation>
     </message>
     <message>
         <source>Insert Virtual Functions of Base Classes</source>
-        <translation type="unfinished"></translation>
+        <translation>Infoga virtuella funktioner för basklasser</translation>
     </message>
     <message>
         <source>Insert Virtual Functions</source>
-        <translation type="unfinished"></translation>
+        <translation>Infoga virtuella funktioner</translation>
     </message>
     <message>
         <source>&amp;Functions to insert:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Funktioner att infoga:</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filter</translation>
     </message>
     <message>
         <source>&amp;Hide reimplemented functions</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Dölj återimplementerade funktioner</translation>
     </message>
     <message>
         <source>&amp;Insertion options:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Infogningsalternativ:</translation>
     </message>
     <message>
         <source>Insert only declarations</source>
-        <translation type="unfinished"></translation>
+        <translation>Infoga endast deklarationer</translation>
     </message>
     <message>
         <source>Insert definitions inside class</source>
-        <translation type="unfinished"></translation>
+        <translation>Infoga definitioner inne i klass</translation>
     </message>
     <message>
         <source>Insert definitions outside class</source>
-        <translation type="unfinished"></translation>
+        <translation>Infoga definitioner utanför klass</translation>
     </message>
     <message>
         <source>Insert definitions in implementation file</source>
-        <translation type="unfinished"></translation>
+        <translation>Infoga definitioner i implementationsfil</translation>
     </message>
     <message>
         <source>Add &quot;&amp;virtual&quot; to function declaration</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till &quot;&amp;virtuell&quot; till funktionsdeklaration</translation>
     </message>
     <message>
         <source>Add &quot;override&quot; equivalent to function declaration:</source>
@@ -24082,7 +24082,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Too few arguments</source>
-        <translation type="unfinished"></translation>
+        <translation>För få argument</translation>
     </message>
     <message>
         <source>Additional C++ Preprocessor Directives</source>
@@ -24094,7 +24094,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>No include hierarchy available</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen include-hierarki tillgänglig</translation>
     </message>
     <message>
         <source>Synchronize with Editor</source>
@@ -24102,7 +24102,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Include Hierarchy</source>
-        <translation type="unfinished"></translation>
+        <translation>Include-hierarki</translation>
     </message>
     <message>
         <source>Includes</source>
@@ -24114,7 +24114,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>(none)</source>
-        <translation type="unfinished"></translation>
+        <translation>(ingen)</translation>
     </message>
     <message>
         <source>(cyclic)</source>
@@ -24130,15 +24130,15 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Diagnostic configuration:</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagnostikkonfiguration:</translation>
     </message>
     <message>
         <source>Diagnostic Configurations</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagnostikkonfigurationer</translation>
     </message>
     <message>
         <source>Built-in</source>
-        <translation type="unfinished"></translation>
+        <translation>Inbyggd</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -24150,7 +24150,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Use diagnostic flags from build system</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd diagnostikflaggor från byggsystem</translation>
     </message>
     <message>
         <source>Copy...</source>
@@ -24166,15 +24166,15 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Clang Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Clang-varningar</translation>
     </message>
     <message>
         <source>Copy Diagnostic Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera diagnostikkonfiguration</translation>
     </message>
     <message>
         <source>Diagnostic configuration name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Namn för diagnostikkonfiguration:</translation>
     </message>
     <message>
         <source>%1 (Copy)</source>
@@ -24182,7 +24182,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Rename Diagnostic Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Byt namn på diagnostikkonfiguration</translation>
     </message>
     <message>
         <source>New name:</source>
@@ -24190,11 +24190,11 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Option &quot;%1&quot; is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternativet &quot;%1&quot; är ogiltigt.</translation>
     </message>
     <message>
         <source>Copy this configuration to customize it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera denna konfiguration för att anpassa den.</translation>
     </message>
     <message>
         <source>Configuration passes sanity checks.</source>
@@ -24202,15 +24202,15 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Follow Symbol to Type is only available when using clangd</source>
-        <translation type="unfinished"></translation>
+        <translation>Följa Symbol till Type är endast tillgänglig när clangd används</translation>
     </message>
     <message>
         <source>Compiler Flags</source>
-        <translation type="unfinished"></translation>
+        <translation>Kompilatorflaggor</translation>
     </message>
     <message>
         <source>Background Priority</source>
-        <translation type="unfinished"></translation>
+        <translation>Bakgrundsprioritet</translation>
     </message>
     <message>
         <source>Normal Priority</source>
@@ -24226,11 +24226,11 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Use Built-in Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd inbyggd endast</translation>
     </message>
     <message>
         <source>Use Clangd Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd Clangd endast</translation>
     </message>
     <message>
         <source>Try Both</source>
@@ -24242,7 +24242,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Heuristics</source>
-        <translation type="unfinished"></translation>
+        <translation>Heuristik</translation>
     </message>
     <message>
         <source>&lt;b&gt;Warning&lt;/b&gt;: This file is not part of any project. The code model might have issues parsing this file properly.</source>
@@ -24254,15 +24254,15 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>C++ Code Model</source>
-        <translation type="unfinished"></translation>
+        <translation>C++-kodmodell</translation>
     </message>
     <message>
         <source>Parsing C/C++ Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Tolkning av C/C++-filer</translation>
     </message>
     <message>
         <source>Cannot show preprocessed file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte visa förbehandlad fil: %1</translation>
     </message>
     <message>
         <source>Falling back to built-in preprocessor: %1</source>
@@ -24270,30 +24270,30 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Failed to open output file &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att öppna utdatafilen &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Failed to write output file &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att skriva utdatafilen &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Could not determine which compiler to invoke.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte bestämma vilken kompilator att anropa.</translation>
     </message>
     <message>
         <source>Could not determine compiler command line.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte bestämma kompilatorns kommandorad.</translation>
     </message>
     <message numerus="yes">
         <source>Checked %1 of %n function(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Kontrollerade %1 av %n funktion</numerusform>
+            <numerusform>Kontrollerade %1 av %n funktioner</numerusform>
         </translation>
     </message>
     <message>
         <source>Finding Unused Functions</source>
-        <translation type="unfinished"></translation>
+        <translation>Hittar oanvända funktioner</translation>
     </message>
     <message>
         <source>C++ Indexer: Skipping file &quot;%1&quot; because its path matches the ignore pattern.</source>
@@ -24317,7 +24317,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Preparing C++ Code Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Förbereder C++-kodmodell</translation>
     </message>
     <message>
         <source>Quick Fix settings are saved in a file. Existing settings file &quot;%1&quot; found. Should this file be used or a new one be created?</source>
@@ -24325,11 +24325,11 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Switch Back to Global Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Växla tillbaka till globala inställningar</translation>
     </message>
     <message>
         <source>Use Existing</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd befintliga</translation>
     </message>
     <message>
         <source>Create New</source>
@@ -24341,15 +24341,15 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Delete Custom Settings File</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort anpassad inställningsfil</translation>
     </message>
     <message>
         <source>Resets all settings to the global settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Återställer alla inställningar till globala inställningar.</translation>
     </message>
     <message>
         <source>Reset to Global</source>
-        <translation type="unfinished"></translation>
+        <translation>Återställ till global</translation>
     </message>
     <message>
         <source>C++ Indexer: Skipping file &quot;%1&quot; because it is too big.</source>
@@ -24361,7 +24361,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Build-system warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Varningar från byggsystem</translation>
     </message>
     <message>
         <source>Locates files that are included by C++ files of any open project. Append &quot;+&lt;number&gt;&quot; or &quot;:&lt;number&gt;&quot; to jump to the given line number. Append another &quot;+&lt;number&gt;&quot; or &quot;:&lt;number&gt;&quot; to jump to the column number as well.</source>
@@ -24369,7 +24369,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>collecting overrides...</source>
-        <translation type="unfinished"></translation>
+        <translation>samlar in åsidosättningar...</translation>
     </message>
     <message>
         <source>Convert Function Call to Qt Meta-Method Invocation</source>
@@ -24377,11 +24377,11 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Move Class to a Dedicated Set of Source Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Flytta klass till en dedicerad uppsättning källfiler</translation>
     </message>
     <message>
         <source>Header file only</source>
-        <translation type="unfinished"></translation>
+        <translation>Endast header-fil</translation>
     </message>
     <message>
         <source>Project:</source>
@@ -24389,20 +24389,21 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Header file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Header-fil:</translation>
     </message>
     <message>
         <source>Implementation file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Implementationsfil:</translation>
     </message>
     <message>
         <source>Refusing to overwrite the following files: %1
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Vägrar att skriva över följande filer: %1
+</translation>
     </message>
     <message>
         <source>Failed to add to project file &quot;%1&quot;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att lägga till i projektfilen &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <source>Re-order Member Function Definitions According to Declaration Order</source>
@@ -29786,11 +29787,11 @@ Det kan hjälpa att bygga om projektet.</translation>
     <name>QtC::Docker</name>
     <message>
         <source>Checking docker daemon</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrollerar docker daemon</translation>
     </message>
     <message>
         <source>Docker executable not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Körbar Docker-fil hittades inte</translation>
     </message>
     <message>
         <source>Failed to retrieve docker networks. Exit code: %1. Error: %2</source>
@@ -29798,7 +29799,7 @@ Det kan hjälpa att bygga om projektet.</translation>
     </message>
     <message>
         <source>Path &quot;%1&quot; is not a directory or does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökvägen &quot;%1&quot; är inte en katalog eller finns inte.</translation>
     </message>
     <message>
         <source>Docker</source>
@@ -29914,7 +29915,7 @@ Det kan hjälpa att bygga om projektet.</translation>
     </message>
     <message>
         <source>Docker Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Docker-enhet</translation>
     </message>
     <message>
         <source>Failed to inspect image: %1</source>
@@ -30999,7 +31000,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Use tildeop</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd tildeop</translation>
     </message>
     <message>
         <source>Show line numbers relative to cursor</source>
@@ -31023,15 +31024,15 @@ Reason: %3</source>
     </message>
     <message>
         <source>Copy Text Editor Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera inställningar för textredigerare</translation>
     </message>
     <message>
         <source>Set Qt Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställ in Qt-stil</translation>
     </message>
     <message>
         <source>Set Plain Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställ in vanlig stil</translation>
     </message>
     <message>
         <source>Plugin Emulation</source>
@@ -31750,7 +31751,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Create Git Repository...</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa Git-förråd...</translation>
     </message>
     <message>
         <source>Add Branch...</source>
@@ -31854,7 +31855,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Re&amp;fresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Upp&amp;datera</translation>
     </message>
     <message>
         <source>&amp;Add...</source>
@@ -31882,7 +31883,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>&amp;Show</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Visa</translation>
     </message>
     <message>
         <source>&amp;Revert</source>
@@ -31890,7 +31891,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Check&amp;out</source>
-        <translation type="unfinished"></translation>
+        <translation>Checka &amp;ut</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -31910,7 +31911,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Select Git Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj Git-katalog</translation>
     </message>
     <message>
         <source>Error: Unknown reference</source>
@@ -31938,7 +31939,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>HEAD</source>
-        <translation type="unfinished"></translation>
+        <translation>HEAD</translation>
     </message>
     <message>
         <source>Waiting for data...</source>
@@ -32158,23 +32159,23 @@ Would you like to create the branch &quot;%1&quot; on the remote and set it as u
     </message>
     <message>
         <source>No Move Detection</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen flyttning upptäcktes</translation>
     </message>
     <message>
         <source>Detect Moves Within File</source>
-        <translation type="unfinished"></translation>
+        <translation>Upptäck flyttningar inom fil</translation>
     </message>
     <message>
         <source>Detect Moves Between Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Upptäck flyttningar mellan filer</translation>
     </message>
     <message>
         <source>Detect Moves and Copies Between Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Upptäck flyttningar och kopieringar mellan filer</translation>
     </message>
     <message>
         <source>Move detection</source>
-        <translation type="unfinished"></translation>
+        <translation>Flyttupptäckter</translation>
     </message>
     <message>
         <source>Filter commits by message or content.</source>
@@ -32334,7 +32335,7 @@ Commit now?</source>
     </message>
     <message>
         <source>C&amp;heckout %1</source>
-        <translation type="unfinished"></translation>
+        <translation>C&amp;hecka ut %1</translation>
     </message>
     <message>
         <source>&amp;Interactive Rebase from %1...</source>
@@ -32788,7 +32789,7 @@ Commit now?</source>
     </message>
     <message>
         <source>Take Snapshot...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta ögonblicksbild...</translation>
     </message>
     <message>
         <source>Meta+G,Meta+C</source>
@@ -32924,7 +32925,7 @@ Commit now?</source>
     </message>
     <message>
         <source>Choose Patch</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj patch</translation>
     </message>
     <message>
         <source>Revert</source>
@@ -32940,7 +32941,7 @@ Commit now?</source>
     </message>
     <message>
         <source>General Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Allmän information</translation>
     </message>
     <message>
         <source>Repository:</source>
@@ -32960,7 +32961,7 @@ Commit now?</source>
     </message>
     <message>
         <source>Show HEAD</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa HEAD</translation>
     </message>
     <message>
         <source>Sign off</source>
@@ -33051,7 +33052,7 @@ instead of its installation directory when run outside git bash.</source>
     </message>
     <message>
         <source>The binary &quot;%1&quot; could not be located in the path &quot;%2&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Binären &quot;%1&quot; kunde inte hittas i sökvägen &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Instant Blame</source>
@@ -33135,7 +33136,7 @@ instead of its installation directory when run outside git bash.</source>
     </message>
     <message>
         <source>Repository Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Förrådet ändrat</translation>
     </message>
     <message>
         <source>%1 cannot be restored since the repository is modified.
@@ -33164,7 +33165,7 @@ You can choose between stashing the changes or discarding them.</source>
     </message>
     <message>
         <source>Filter by message</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrera efter meddelande</translation>
     </message>
     <message>
         <source>Filter log entries by text in the commit message.</source>
@@ -33172,7 +33173,7 @@ You can choose between stashing the changes or discarding them.</source>
     </message>
     <message>
         <source>Filter by content</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrera efter innehåll</translation>
     </message>
     <message>
         <source>Filter log entries by added or removed string.</source>
@@ -33180,7 +33181,7 @@ You can choose between stashing the changes or discarding them.</source>
     </message>
     <message>
         <source>Filter by author</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrera efter upphovsperson</translation>
     </message>
     <message>
         <source>Filter log entries by author.</source>
@@ -33188,7 +33189,7 @@ You can choose between stashing the changes or discarding them.</source>
     </message>
     <message>
         <source>Filter:</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrera:</translation>
     </message>
     <message>
         <source>Case Sensitive</source>
@@ -33280,7 +33281,7 @@ You can choose between stashing the changes or discarding them.</source>
     </message>
     <message>
         <source>The URL may not be valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>URLen kanske inte är giltig.</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -33396,11 +33397,11 @@ You can choose between stashing the changes or discarding them.</source>
     </message>
     <message>
         <source>C&amp;heckout</source>
-        <translation type="unfinished"></translation>
+        <translation>C&amp;hecka ut</translation>
     </message>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Uppdatera</translation>
     </message>
     <message>
         <source>Remote:</source>
@@ -33412,7 +33413,7 @@ You can choose between stashing the changes or discarding them.</source>
     </message>
     <message>
         <source>&amp;Checkout</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Checka ut</translation>
     </message>
     <message>
         <source>Fetching &quot;%1&quot;...</source>
@@ -33478,7 +33479,7 @@ Would you like to terminate it?</source>
     </message>
     <message>
         <source> (Draft)</source>
-        <translation type="unfinished"></translation>
+        <translation> (Utkast)</translation>
     </message>
     <message>
         <source>Querying Gerrit</source>
@@ -33486,7 +33487,7 @@ Would you like to terminate it?</source>
     </message>
     <message>
         <source>Timeout</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidsgräns</translation>
     </message>
     <message>
         <source>Terminate</source>
@@ -33572,7 +33573,7 @@ Would you like to terminate it?</source>
     </message>
     <message>
         <source>Git is not available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Git är inte tillgängligt.</translation>
     </message>
     <message>
         <source>Remote Not Verified</source>
@@ -33599,7 +33600,7 @@ were not verified among remotes in %3. Select different folder?</source>
     </message>
     <message>
         <source>Select Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj ändring</translation>
     </message>
     <message>
         <source>&amp;Commit only</source>
@@ -33838,11 +33839,11 @@ Remote: %4</source>
     </message>
     <message>
         <source>&amp;Local</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Lokal</translation>
     </message>
     <message>
         <source>&amp;Remote</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Fjärr</translation>
     </message>
     <message>
         <source>&amp;Created</source>
@@ -33958,7 +33959,7 @@ Leave empty to search through the file system.</source>
     </message>
     <message>
         <source>Cloning succeeded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kloning lyckades.</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -33978,7 +33979,7 @@ Leave empty to search through the file system.</source>
     </message>
     <message>
         <source>Cloning failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kloning misslyckades.</translation>
     </message>
     <message>
         <source>GitLab</source>
@@ -34002,7 +34003,7 @@ Leave empty to search through the file system.</source>
     </message>
     <message>
         <source>Remote:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjärr:</translation>
     </message>
     <message>
         <source>Not logged in.</source>
@@ -34148,7 +34149,7 @@ Note: This can expose you to man-in-the-middle attack.</source>
     </message>
     <message>
         <source>Linked GitLab Configuration:</source>
-        <translation type="unfinished"></translation>
+        <translation>Länkad GitLab-konfiguration:</translation>
     </message>
     <message>
         <source>Link with GitLab</source>
@@ -35761,7 +35762,7 @@ Expiration date: %3</source>
     <message>
         <source>%1 for %2</source>
         <extracomment>&lt;language client&gt; for &lt;project&gt;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 för %2</translation>
     </message>
     <message>
         <source>uninitialized</source>
@@ -35776,7 +35777,7 @@ Expiration date: %3</source>
     <message>
         <source>failed to initialize</source>
         <extracomment>language client state</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>misslyckades med att initiera</translation>
     </message>
     <message>
         <source>initialized</source>
@@ -37053,7 +37054,7 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Local filesystem:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokalt filsystem:</translation>
     </message>
     <message>
         <source>Specify URL:</source>
@@ -37097,11 +37098,11 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Mercurial</source>
-        <translation type="unfinished"></translation>
+        <translation>Mercurial</translation>
     </message>
     <message>
         <source>Me&amp;rcurial</source>
-        <translation type="unfinished"></translation>
+        <translation>Me&amp;rcurial</translation>
     </message>
     <message>
         <source>Triggers a Mercurial version control operation.</source>
@@ -37109,11 +37110,11 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Annotate Current File</source>
-        <translation type="unfinished"></translation>
+        <translation>Anteckna aktuell fil</translation>
     </message>
     <message>
         <source>Annotate &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Anteckna &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Diff Current File</source>
@@ -37221,11 +37222,11 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Incoming...</source>
-        <translation type="unfinished"></translation>
+        <translation>Inkommande...</translation>
     </message>
     <message>
         <source>Outgoing...</source>
-        <translation type="unfinished"></translation>
+        <translation>Utgående...</translation>
     </message>
     <message>
         <source>Commit...</source>
@@ -37257,7 +37258,7 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Incoming Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Inkommande källa</translation>
     </message>
     <message>
         <source>There are no changes to commit.</source>
@@ -37273,7 +37274,7 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Mercurial Command</source>
-        <translation type="unfinished"></translation>
+        <translation>Mercurial-kommando</translation>
     </message>
     <message>
         <source>Username:</source>
@@ -37285,7 +37286,7 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>&amp;Annotate %1</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Anteckna %1</translation>
     </message>
     <message>
         <source>Annotate &amp;parent revision %1</source>
@@ -46746,11 +46747,11 @@ Adds the library and include paths to the .pro file.</source>
     <message>
         <source>The application is not set up for QML/JS debugging.</source>
         <extracomment>Error message shown after &apos;Could not connect ... debugger:&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Programmet är inte konfigureat för QML/JS-felsökning.</translation>
     </message>
     <message>
         <source>Socket state changed to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Uttagstillståndet ändrades till %1</translation>
     </message>
     <message>
         <source>Error: %1</source>
@@ -46758,15 +46759,15 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>Debug connection opened.</source>
-        <translation type="unfinished"></translation>
+        <translation>Felsökningsanslutning öppnad.</translation>
     </message>
     <message>
         <source>Debug connection closed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Felsökningsanslutning stängd.</translation>
     </message>
     <message>
         <source>Debug connection failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Felsökningsanslutning misslyckades.</translation>
     </message>
 </context>
 <context>
@@ -47630,7 +47631,7 @@ Please build the qmldump application on the Qt version options page.</source>
     </message>
     <message>
         <source>Reformat File</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatera om fil</translation>
     </message>
     <message>
         <source>Inspect API for Element Under Cursor</source>
@@ -47646,7 +47647,7 @@ Please build the qmldump application on the Qt version options page.</source>
     </message>
     <message>
         <source>QML Analysis</source>
-        <translation type="unfinished"></translation>
+        <translation>QML-analys</translation>
     </message>
     <message>
         <source>Issues that the QML static analyzer found.</source>
@@ -47718,7 +47719,7 @@ Please build the qmldump application on the Qt version options page.</source>
     </message>
     <message>
         <source>Allow versions below Qt %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillåt versioner under Qt %1</translation>
     </message>
     <message>
         <source>Use advanced features (renaming, find usages, and so on) (experimental)</source>
@@ -47726,7 +47727,7 @@ Please build the qmldump application on the Qt version options page.</source>
     </message>
     <message>
         <source>Use from latest Qt version</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd från senaste Qt-version</translation>
     </message>
     <message>
         <source>Create .qmlls.ini files for new projects</source>
@@ -47802,7 +47803,7 @@ Please build the qmldump application on the Qt version options page.</source>
     </message>
     <message>
         <source>Component Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Komponentnamn</translation>
     </message>
     <message>
         <source>ui.qml file</source>
@@ -49305,7 +49306,7 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>No files need to be uploaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga filer behöver skickas upp.</translation>
     </message>
     <message numerus="yes">
         <source>%n file(s) need to be uploaded.</source>
@@ -49360,7 +49361,7 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>Checking that files can be created in %1...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrollerar att filer kan skapas i %1...</translation>
     </message>
     <message>
         <source>Files can be created in /var/run.</source>
@@ -51060,7 +51061,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Save Current Frame As</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara aktuell bild som</translation>
     </message>
     <message>
         <source>Start:</source>
@@ -51140,15 +51141,15 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Screen Recording Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternativ för skärminspelning</translation>
     </message>
     <message>
         <source>Display:</source>
-        <translation type="unfinished"></translation>
+        <translation>Visning:</translation>
     </message>
     <message>
         <source>FPS:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilder/s:</translation>
     </message>
     <message>
         <source>Recorded screen area:</source>
@@ -51184,15 +51185,15 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>ffmpeg tool:</source>
-        <translation type="unfinished"></translation>
+        <translation>ffmpeg-verktyg:</translation>
     </message>
     <message>
         <source>ffprobe tool:</source>
-        <translation type="unfinished"></translation>
+        <translation>ffprobe-verktyg:</translation>
     </message>
     <message>
         <source>Capture the mouse cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>Fånga muspekaren</translation>
     </message>
     <message>
         <source>Capture the screen mouse clicks</source>
@@ -51228,7 +51229,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>FFmpeg Installation</source>
-        <translation type="unfinished"></translation>
+        <translation>FFmpeg-installation</translation>
     </message>
     <message>
         <source>Record Settings</source>
@@ -52790,7 +52791,7 @@ Failed to open file &quot;%1&quot;.</source>
     </message>
     <message>
         <source>Subversion command:</source>
-        <translation type="unfinished"></translation>
+        <translation>Subversion-kommando:</translation>
     </message>
     <message>
         <source>Username:</source>
@@ -52818,7 +52819,7 @@ Failed to open file &quot;%1&quot;.</source>
     </message>
     <message>
         <source>Subversion Command</source>
-        <translation type="unfinished"></translation>
+        <translation>Subversion-kommando</translation>
     </message>
     <message>
         <source>&amp;Subversion</source>
@@ -52874,11 +52875,11 @@ Failed to open file &quot;%1&quot;.</source>
     </message>
     <message>
         <source>Annotate Current File</source>
-        <translation type="unfinished"></translation>
+        <translation>Anteckna aktuell fil</translation>
     </message>
     <message>
         <source>Annotate &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Anteckna &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Describe...</source>
@@ -52922,7 +52923,7 @@ Failed to open file &quot;%1&quot;.</source>
     </message>
     <message>
         <source>Repository Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Förrådsstatus</translation>
     </message>
     <message>
         <source>Log Repository</source>
@@ -52930,7 +52931,7 @@ Failed to open file &quot;%1&quot;.</source>
     </message>
     <message>
         <source>Update Repository</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdatera förråd</translation>
     </message>
     <message>
         <source>Revert Repository...</source>
@@ -52938,7 +52939,7 @@ Failed to open file &quot;%1&quot;.</source>
     </message>
     <message>
         <source>No subversion executable specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen körbar subversion-fil angiven.</translation>
     </message>
     <message>
         <source>Revert repository</source>
@@ -53018,7 +53019,7 @@ Failed to open file &quot;%1&quot;.</source>
     </message>
     <message>
         <source>Annotate revision &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Anteckna revision &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Verbose</source>
@@ -53026,7 +53027,7 @@ Failed to open file &quot;%1&quot;.</source>
     </message>
     <message>
         <source>Show files changed in each revision</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa filer som ändrats i varje revision</translation>
     </message>
     <message>
         <source>Waiting for data...</source>
@@ -53253,7 +53254,7 @@ Failed to open file &quot;%1&quot;.</source>
     </message>
     <message>
         <source>Process exited with code: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Processen avslutades med kod: %1.</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -54059,7 +54060,7 @@ A value less than 100% can result in overlapping and misaligned graphics.</sourc
     </message>
     <message>
         <source>Follow Type Under Cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>Följ typ under markör</translation>
     </message>
     <message>
         <source>Ctrl+Shift+F2</source>
@@ -54167,7 +54168,7 @@ A value less than 100% can result in overlapping and misaligned graphics.</sourc
     </message>
     <message>
         <source>Create Cursors at Selected Line Ends</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa markörer vid markerade radslut</translation>
     </message>
     <message>
         <source>Alt+Shift+I</source>
@@ -54175,7 +54176,7 @@ A value less than 100% can result in overlapping and misaligned graphics.</sourc
     </message>
     <message>
         <source>Add Next Occurrence to Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till nästa förekomst till markering</translation>
     </message>
     <message>
         <source>Ctrl+D</source>
@@ -54255,11 +54256,11 @@ A value less than 100% can result in overlapping and misaligned graphics.</sourc
     </message>
     <message>
         <source>Indent</source>
-        <translation type="unfinished"></translation>
+        <translation>Dra in</translation>
     </message>
     <message>
         <source>Unindent</source>
-        <translation type="unfinished"></translation>
+        <translation>Dra inte in</translation>
     </message>
     <message>
         <source>Follow Symbol Under Cursor</source>
@@ -54311,35 +54312,35 @@ A value less than 100% can result in overlapping and misaligned graphics.</sourc
     </message>
     <message>
         <source>Go to Line Start with Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå till radstart med markering</translation>
     </message>
     <message>
         <source>Go to Line End with Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå till radslut med markering</translation>
     </message>
     <message>
         <source>Go to Next Line with Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå till nästa rad med markering</translation>
     </message>
     <message>
         <source>Go to Previous Line with Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå till föregående rad med markering</translation>
     </message>
     <message>
         <source>Go to Previous Character with Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå till föregående tecken med markering</translation>
     </message>
     <message>
         <source>Go to Next Character with Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå till nästa tecken med markering</translation>
     </message>
     <message>
         <source>Go to Previous Word with Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå till föregående ord med markering</translation>
     </message>
     <message>
         <source>Go to Next Word with Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå till nästa ord med markering</translation>
     </message>
     <message>
         <source>&lt;line&gt;:&lt;column&gt;</source>
@@ -54396,7 +54397,7 @@ Applied to text that matched no other rule.</source>
     </message>
     <message>
         <source>Links that follow symbol under cursor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Länkar som följer symbol under markör.</translation>
     </message>
     <message>
         <source>Selection</source>
@@ -54424,7 +54425,7 @@ Applied to text that matched no other rule.</source>
     </message>
     <message>
         <source>Search Result (Alternative 1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökresultat (Alternativ 1)</translation>
     </message>
     <message>
         <source>Highlighted search results inside the editor.
@@ -54433,7 +54434,7 @@ Used to mark read accesses to C++ symbols.</source>
     </message>
     <message>
         <source>Search Result (Alternative 2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökresultat (Alternativ 2)</translation>
     </message>
     <message>
         <source>Highlighted search results inside the editor.
@@ -54487,7 +54488,7 @@ Used to mark containing function of the symbol usage.</source>
     </message>
     <message>
         <source>Line where the cursor is placed in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rad där markören placeras i.</translation>
     </message>
     <message>
         <source>Current Line Number</source>
@@ -54640,7 +54641,7 @@ Used to mark containing function of the symbol usage.</source>
     </message>
     <message>
         <source>Punctuation</source>
-        <translation type="unfinished"></translation>
+        <translation>Skiljetecken</translation>
     </message>
     <message>
         <source>Punctuation excluding operators.</source>
@@ -55198,7 +55199,7 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>Reset Remembered Definitions</source>
-        <translation type="unfinished"></translation>
+        <translation>Nollställ ihågkomna definitioner</translation>
     </message>
     <message>
         <source>Reset definitions remembered for files that can be associated with more than one highlighter definition.</source>
@@ -55530,7 +55531,7 @@ Specifies how backspace interacts with indentation.
     </message>
     <message>
         <source>Prefer single line comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Föredra enradskommentarer</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -56251,7 +56252,7 @@ Influences the indentation of continuation lines.
     </message>
     <message>
         <source>JSON Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>JSON-redigerare</translation>
     </message>
     <message>
         <source>Type Hierarchy</source>
