@@ -3016,7 +3016,7 @@ defined in &lt;b&gt;Step size&lt;/b&gt;.</source>
     </message>
     <message>
         <source>Toggles the visibility of visual effects on the component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar synligheten för visuella effekter på komponenten.</translation>
     </message>
     <message>
         <source>Layer Blur</source>
@@ -3061,11 +3061,11 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Inner Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Innerskugga</translation>
     </message>
     <message>
         <source>Toggles the visibility of the component shadow.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar synligheten för komponentens skugga.</translation>
     </message>
     <message>
         <source>Sets the softness of the component shadow. A larger value causes the edges of the shadow to appear more blurry.</source>
@@ -3081,7 +3081,7 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Only supported for Rectangles.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stöds endast för rektanglar.</translation>
     </message>
     <message>
         <source>Color</source>
@@ -5031,11 +5031,11 @@ a highlight component.</source>
     </message>
     <message>
         <source>The margin above the item.</source>
-        <translation type="unfinished"></translation>
+        <translation>Marginalen ovanför objektet.</translation>
     </message>
     <message>
         <source>The margin below the item.</source>
-        <translation type="unfinished"></translation>
+        <translation>Marginalen nedanför objektet.</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -5043,11 +5043,11 @@ a highlight component.</source>
     </message>
     <message>
         <source>The margin left of the item.</source>
-        <translation type="unfinished"></translation>
+        <translation>Marginalen till vänster om objektet.</translation>
     </message>
     <message>
         <source>The margin right of the item.</source>
-        <translation type="unfinished"></translation>
+        <translation>Marginalen till höger om objektet.</translation>
     </message>
     <message>
         <source>Margins</source>
@@ -5055,7 +5055,7 @@ a highlight component.</source>
     </message>
     <message>
         <source>The margins around the item.</source>
-        <translation type="unfinished"></translation>
+        <translation>Marginalen runt objektet.</translation>
     </message>
 </context>
 <context>
@@ -6118,7 +6118,7 @@ operation is in progress.</source>
     </message>
     <message>
         <source>Sets the category of the &lt;b&gt;Local Custom Property&lt;/b&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in kategorin för &lt;b&gt;Lokalt anpassad egenskap&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Name</source>
@@ -6126,7 +6126,7 @@ operation is in progress.</source>
     </message>
     <message>
         <source>Sets a name for the &lt;b&gt;Local Custom Property&lt;/b&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in ett namn för &lt;b&gt;Lokalt anpassad egenskap&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Value</source>
@@ -6134,7 +6134,7 @@ operation is in progress.</source>
     </message>
     <message>
         <source>Sets a valid &lt;b&gt;Local Custom Property&lt;/b&gt; value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in ett giltigt värde för &lt;b&gt;Lokalt anpassad egenskap&lt;/b&gt;.</translation>
     </message>
 </context>
 <context>
@@ -8298,7 +8298,7 @@ Kontrollera utdatapanelen för mer information.</translation>
     </message>
     <message>
         <source>Debug QML emulation layer:</source>
-        <translation type="unfinished"></translation>
+        <translation>Felsök QML-emuleringslager:</translation>
     </message>
     <message>
         <source>Parent component padding:</source>
@@ -8330,11 +8330,11 @@ Kontrollera utdatapanelen för mer information.</translation>
     </message>
     <message>
         <source>Controls style:</source>
-        <translation type="unfinished"></translation>
+        <translation>Controls-stil:</translation>
     </message>
     <message>
         <source>Controls 2 style:</source>
-        <translation type="unfinished"></translation>
+        <translation>Controls 2-stil:</translation>
     </message>
     <message>
         <source>Subcomponents</source>
@@ -8358,7 +8358,7 @@ Kontrollera utdatapanelen för mer information.</translation>
     </message>
     <message>
         <source>The made changes will take effect after a restart of the QML Emulation layer or %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gjorda ändringar tar effekt efter en omstart av QML-emuleringslagret eller %1.</translation>
     </message>
 </context>
 <context>
@@ -8530,7 +8530,7 @@ Kontrollera utdatapanelen för mer information.</translation>
     </message>
     <message>
         <source>Do you want to continue by removing incompatible properties?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vill du fortsätta genom att ta bort inkompatibla egenskaper?</translation>
     </message>
 </context>
 <context>
@@ -14886,11 +14886,11 @@ Local pulls are not applied to the master branch.</source>
     </message>
     <message>
         <source>Local filesystem:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokalt filsystem:</translation>
     </message>
     <message>
         <source>Specify URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange URL:</translation>
     </message>
     <message>
         <source>Options</source>
@@ -14914,7 +14914,7 @@ Local pulls are not applied to the master branch.</source>
     </message>
     <message>
         <source>Local</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokal</translation>
     </message>
     <message>
         <source>Pull Source</source>
@@ -14976,15 +14976,15 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Bazaar</source>
-        <translation type="unfinished"></translation>
+        <translation>Bazaar</translation>
     </message>
     <message>
         <source>Annotate Current File</source>
-        <translation type="unfinished"></translation>
+        <translation>Anteckna aktuell fil</translation>
     </message>
     <message>
         <source>Annotate &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Anteckna &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Diff Current File</source>
@@ -14996,23 +14996,23 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Meta+Z,Meta+D</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta+Z,Meta+D</translation>
     </message>
     <message>
         <source>Alt+Z,Alt+D</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+Z,Alt+D</translation>
     </message>
     <message>
         <source>Alt+Z,Alt+L</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+Z,Alt+L</translation>
     </message>
     <message>
         <source>Alt+Z,Alt+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+Z,Alt+S</translation>
     </message>
     <message>
         <source>Alt+Z,Alt+C</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+Z,Alt+C</translation>
     </message>
     <message>
         <source>Log Current File</source>
@@ -15024,7 +15024,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Meta+Z,Meta+L</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta+Z,Meta+L</translation>
     </message>
     <message>
         <source>Status Current File</source>
@@ -15036,7 +15036,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Meta+Z,Meta+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta+Z,Meta+S</translation>
     </message>
     <message>
         <source>Add</source>
@@ -15052,7 +15052,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Delete &quot;%1&quot;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort &quot;%1&quot;...</translation>
     </message>
     <message>
         <source>Revert Current File...</source>
@@ -15096,7 +15096,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Meta+Z,Meta+C</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta+Z,Meta+C</translation>
     </message>
     <message>
         <source>Uncommit...</source>
@@ -15132,7 +15132,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Bazaar Command</source>
-        <translation type="unfinished"></translation>
+        <translation>Bazaar-kommando</translation>
     </message>
     <message>
         <source>Ignore Whitespace</source>
@@ -15188,7 +15188,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>&amp;Annotate %1</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Anteckna %1</translation>
     </message>
     <message>
         <source>Annotate &amp;parent revision %1</source>
@@ -47047,31 +47047,31 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>Expected dependency definitions</source>
-        <translation type="unfinished"></translation>
+        <translation>Förväntade beroendedefinitioner</translation>
     </message>
     <message>
         <source>Expected string after colon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förväntade sträng efter kolon.</translation>
     </message>
     <message>
         <source>Expected boolean after colon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förväntade boolesk efter kolon.</translation>
     </message>
     <message>
         <source>Expected true or false after colon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förväntade true eller false efter kolon.</translation>
     </message>
     <message>
         <source>Expected numeric literal after colon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förväntade numerisk literal efter kolon.</translation>
     </message>
     <message>
         <source>Expected integer after colon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förväntade heltal efter kolon.</translation>
     </message>
     <message>
         <source>Expected array of strings after colon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förväntade array av strängar efter kolon.</translation>
     </message>
     <message>
         <source>Expected array literal with only string literal members.</source>
@@ -47083,7 +47083,7 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>Expected array of numbers after colon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förväntade array av siffror efter kolon.</translation>
     </message>
     <message>
         <source>Expected array literal with only number literal members.</source>
@@ -47103,7 +47103,7 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>Expected expression after colon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förväntade uttryck efter kolon.</translation>
     </message>
     <message>
         <source>Expected strings as enum keys.</source>
@@ -47209,7 +47209,7 @@ the QML editor know about a likely URI.</source>
     </message>
     <message>
         <source>Unreachable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inte nåbar.</translation>
     </message>
     <message>
         <source>Do not use &apos;with&apos;.</source>
@@ -47217,7 +47217,7 @@ the QML editor know about a likely URI.</source>
     </message>
     <message>
         <source>Do not use comma expressions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd inte kommauttryck.</translation>
     </message>
     <message>
         <source>Unnecessary message suppression.</source>
@@ -47229,7 +47229,7 @@ the QML editor know about a likely URI.</source>
     </message>
     <message>
         <source>Do not use stand-alone blocks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd inte fristående block.</translation>
     </message>
     <message>
         <source>Do not use void expressions.</source>
@@ -47261,7 +47261,7 @@ the QML editor know about a likely URI.</source>
     </message>
     <message>
         <source>Could not resolve the prototype &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte slå upp prototypen &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Prototype cycle, the last non-repeated component is &quot;%1&quot;.</source>
@@ -47269,7 +47269,7 @@ the QML editor know about a likely URI.</source>
     </message>
     <message>
         <source>Invalid property type &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig egenskapstyp &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>== and != perform type coercion, use === or !== to avoid it.</source>
@@ -47299,11 +47299,11 @@ For more information, see the &quot;Checking Code Syntax&quot; documentation.</s
     </message>
     <message>
         <source>Invalid property name &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltigt egenskapsnamn &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>&quot;%1&quot; does not have members.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; har inga medlemmar.</translation>
     </message>
     <message>
         <source>&quot;%1&quot; is not a member of &quot;%2&quot;.</source>
@@ -47311,11 +47311,11 @@ For more information, see the &quot;Checking Code Syntax&quot; documentation.</s
     </message>
     <message>
         <source>&quot;%1&quot; already is a formal parameter.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; är redan en formal-parameter.</translation>
     </message>
     <message>
         <source>&quot;%1&quot; already is a function.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; är redan en funktion.</translation>
     </message>
     <message>
         <source>var &quot;%1&quot; is used before its declaration.</source>
@@ -47323,7 +47323,7 @@ For more information, see the &quot;Checking Code Syntax&quot; documentation.</s
     </message>
     <message>
         <source>&quot;%1&quot; already is a var.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; är redan en var.</translation>
     </message>
     <message>
         <source>&quot;%1&quot; is declared more than once.</source>
@@ -47467,11 +47467,11 @@ For more information, see the &quot;Checking Code Syntax&quot; documentation.</s
     </message>
     <message>
         <source>Maximum number value is %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximalt nummervärde är %1.</translation>
     </message>
     <message>
         <source>Minimum number value is %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimalt nummervärde är %1.</translation>
     </message>
     <message>
         <source>Maximum number value is exclusive.</source>
@@ -47538,7 +47538,7 @@ For CMake projects, make sure QML_IMPORT_PATH variable is in CMakeCache.txt.
     </message>
     <message>
         <source>Scanning QML Imports</source>
-        <translation type="unfinished"></translation>
+        <translation>Söker igenom QML-importer</translation>
     </message>
     <message>
         <source>QML module does not contain information about components contained in plugins.
@@ -47576,7 +47576,7 @@ Check General Messages for details.</source>
     </message>
     <message>
         <source>&quot;%1&quot; timed out.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; tidsgräns överstegs.</translation>
     </message>
     <message>
         <source>I/O error running &quot;%1&quot;.</source>
@@ -47584,7 +47584,7 @@ Check General Messages for details.</source>
     </message>
     <message>
         <source>&quot;%1&quot; returned exit code %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; returnerade avslutskod %2.</translation>
     </message>
     <message>
         <source>Arguments: %1</source>
@@ -47598,7 +47598,7 @@ Fel: %2</translation>
     </message>
     <message>
         <source>Errors while reading typeinfo files:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid läsning av typeinfo-filer:</translation>
     </message>
     <message>
         <source>Could not locate the helper application for dumping type information from C++ plugins.
@@ -47611,7 +47611,7 @@ Please build the qmldump application on the Qt version options page.</source>
     </message>
     <message>
         <source>The &lt;RCC&gt; root element is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;RCC&gt;-rotelementet saknas.</translation>
     </message>
 </context>
 <context>
@@ -57828,7 +57828,7 @@ Lines starting with &quot;##&quot; will be treated as comments.</source>
     </message>
     <message>
         <source>Could not parse protocol version from &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte tolka protokollversion från &quot;%1&quot;</translation>
     </message>
     <message>
         <source>XmlProtocol version %1 not supported (supported version: 4)</source>
@@ -57968,7 +57968,7 @@ Lines starting with &quot;##&quot; will be treated as comments.</source>
     </message>
     <message>
         <source>Callgrind Profiling Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternativ för Callgrind-profilering</translation>
     </message>
     <message>
         <source>Collect global bus events</source>
@@ -57988,11 +57988,11 @@ Lines starting with &quot;##&quot; will be treated as comments.</source>
     </message>
     <message>
         <source>KCachegrind executable:</source>
-        <translation type="unfinished"></translation>
+        <translation>Körbar KCachegrind-fil:</translation>
     </message>
     <message>
         <source>KCachegrind Command</source>
-        <translation type="unfinished"></translation>
+        <translation>KCachegrind-kommando</translation>
     </message>
     <message>
         <source>&lt;p&gt;Does full cache simulation.&lt;/p&gt;
