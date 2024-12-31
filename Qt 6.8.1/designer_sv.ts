@@ -88,7 +88,7 @@
     </message>
     <message>
         <source>Connect slots by name</source>
-        <translation>Anslut platser efter namn</translation>
+        <translation>Anslut slots efter namn</translation>
     </message>
 </context>
 <context>
@@ -445,7 +445,7 @@ Please select another name.</source>
     </message>
     <message>
         <source>Show signals and slots inherited from QWidget</source>
-        <translation>Visa signaler och platser ärvda från QWidget</translation>
+        <translation>Visa signaler och slots ärvda från QWidget</translation>
     </message>
 </context>
 <context>
@@ -1187,7 +1187,7 @@ till
     <name>SelectSignalDialog</name>
     <message>
         <source>Go to slot</source>
-        <translation>Gå till plats</translation>
+        <translation>Gå till slot</translation>
     </message>
     <message>
         <source>Select signal</source>
@@ -1206,11 +1206,11 @@ till
     <name>SignalSlotDialogClass</name>
     <message>
         <source>Signals and slots</source>
-        <translation>Signaler och platser</translation>
+        <translation>Signaler och slots</translation>
     </message>
     <message>
         <source>Slots</source>
-        <translation>Platser</translation>
+        <translation>Slots</translation>
     </message>
     <message>
         <source>Add</source>
@@ -2714,7 +2714,7 @@ Klass: %2</translation>
     <name>SignalSlotConnection</name>
     <message>
         <source>SENDER(%1), SIGNAL(%2), RECEIVER(%3), SLOT(%4)</source>
-        <translation>AVSÄNDARE(%1), SIGNAL(%2), MOTTAGARE (%3), PLATS(%4)</translation>
+        <translation>AVSÄNDARE(%1), SIGNAL(%2), MOTTAGARE (%3), SLOT(%4)</translation>
     </message>
 </context>
 <context>
@@ -2725,11 +2725,11 @@ Klass: %2</translation>
     </message>
     <message>
         <source>Change slot</source>
-        <translation>Ändra plats</translation>
+        <translation>Ändra slot</translation>
     </message>
     <message>
         <source>Change signal-slot connection</source>
-        <translation>Ändra signal-plats-anslutning</translation>
+        <translation>Ändra signal-slot-anslutning</translation>
     </message>
     <message>
         <source>Change sender</source>
@@ -3020,14 +3020,14 @@ Klass: %2</translation>
     </message>
     <message>
         <source>Change signals/slots</source>
-        <translation>Ändra signaler/platser</translation>
+        <translation>Ändra signaler/slots</translation>
     </message>
 </context>
 <context>
     <name>qdesigner_internal::SignalSlotEditorPlugin</name>
     <message>
         <source>Edit Signals/Slots</source>
-        <translation>Redigera signaler/platser</translation>
+        <translation>Redigera signaler/slots</translation>
     </message>
     <message>
         <source>F4</source>
@@ -3038,7 +3038,7 @@ Klass: %2</translation>
     <name>qdesigner_internal::SignalSlotEditorTool</name>
     <message>
         <source>Edit Signals/Slots</source>
-        <translation>Redigera signaler/platser</translation>
+        <translation>Redigera signaler/slots</translation>
     </message>
 </context>
 <context>
@@ -3057,7 +3057,7 @@ Klass: %2</translation>
     </message>
     <message>
         <source>Slot</source>
-        <translation>Plats</translation>
+        <translation>Slot</translation>
     </message>
     <message>
         <source>&lt;sender&gt;</source>
@@ -3073,7 +3073,7 @@ Klass: %2</translation>
     </message>
     <message>
         <source>&lt;slot&gt;</source>
-        <translation>&lt;plats&gt;</translation>
+        <translation>&lt;slot&gt;</translation>
     </message>
     <message>
         <source>The connection already exists!&lt;br&gt;%1</source>
@@ -3081,7 +3081,7 @@ Klass: %2</translation>
     </message>
     <message>
         <source>Signal and Slot Editor</source>
-        <translation>Redigera signal och platser</translation>
+        <translation>Redigera signal och slots</translation>
     </message>
 </context>
 <context>
@@ -3096,7 +3096,7 @@ Klass: %2</translation>
     </message>
     <message>
         <source>&lt;slot&gt;</source>
-        <translation>&lt;plats&gt;</translation>
+        <translation>&lt;slot&gt;</translation>
     </message>
 </context>
 <context>
@@ -3993,7 +3993,7 @@ Anledning: %2</translation>
     </message>
     <message>
         <source>Signal/Slot Editor</source>
-        <translation>Redigera signal/plats</translation>
+        <translation>Redigera signal/slot</translation>
     </message>
     <message>
         <source>Widget Box</source>
@@ -4109,7 +4109,7 @@ Anledning: %2</translation>
     </message>
     <message>
         <source>Go to slot...</source>
-        <translation>Gå till plats...</translation>
+        <translation>Gå till slot...</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -4585,7 +4585,7 @@ Anledning: %2</translation>
     </message>
     <message>
         <source>Change signals/slots...</source>
-        <translation>Ändra signaler/platser...</translation>
+        <translation>Ändra signaler/slots...</translation>
     </message>
     <message>
         <source>Promote to</source>
@@ -4762,7 +4762,7 @@ Anledning: %2</translation>
     </message>
     <message>
         <source>Change signals/slots...</source>
-        <translation>Ändra signaler/platser...</translation>
+        <translation>Ändra signaler/slots...</translation>
     </message>
     <message>
         <source>%1 - Error</source>
@@ -4936,11 +4936,11 @@ Anledning: %2</translation>
     </message>
     <message>
         <source>Change signals/slots...</source>
-        <translation>Ändra signaler/platser...</translation>
+        <translation>Ändra signaler/slots...</translation>
     </message>
     <message>
         <source>Go to slot...</source>
-        <translation>Gå till plats...</translation>
+        <translation>Gå till slot...</translation>
     </message>
     <message>
         <source>Size Constraints</source>
@@ -5235,7 +5235,7 @@ Anledning: %2</translation>
     <name>qdesigner_internal::SignalSlotDialog</name>
     <message>
         <source>There is already a slot with the signature &apos;%1&apos;.</source>
-        <translation>Det finns redan en plats med signaturen &apos;%1&apos;.</translation>
+        <translation>Det finns redan en slot med signaturen &apos;%1&apos;.</translation>
     </message>
     <message>
         <source>There is already a signal with the signature &apos;%1&apos;.</source>
@@ -5247,7 +5247,7 @@ Anledning: %2</translation>
     </message>
     <message>
         <source>Signals/Slots of %1</source>
-        <translation>Signaler/Platser för %1</translation>
+        <translation>Signaler/Slots för %1</translation>
     </message>
 </context>
 <context>
