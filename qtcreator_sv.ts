@@ -3893,7 +3893,7 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Sets the dimensions of cells in the grid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in dimensionerna för celler i rutnätet.</translation>
     </message>
     <message>
         <source>W</source>
@@ -3917,7 +3917,7 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Sets the directions of the cells.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in riktningen för cellerna.</translation>
     </message>
     <message>
         <source>Layout direction</source>
@@ -8266,7 +8266,7 @@ Kontrollera utdatapanelen för mer information.</translation>
     </message>
     <message>
         <source>Enable Timeline editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivera Tidslinjeredigerare</translation>
     </message>
     <message>
         <source>Enable DockWidget content minimum size</source>
@@ -8278,7 +8278,7 @@ Kontrollera utdatapanelen för mer information.</translation>
     </message>
     <message>
         <source>Enable the debugging view</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivera felsökningsvyn</translation>
     </message>
     <message>
         <source>Show warn exceptions</source>
@@ -15219,7 +15219,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>The file &quot;%1&quot; is not a valid documentation file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen &quot;%1&quot; är inte en giltig dokumentationsfil.</translation>
     </message>
     <message>
         <source>Cannot read documentation file &quot;%1&quot;: %2.</source>
@@ -15243,7 +15243,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Use specific config file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd specifik konfigurationsfil:</translation>
     </message>
     <message>
         <source>AStyle (*.astylerc)</source>
@@ -15255,7 +15255,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Use customized style:</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd anpassad stil:</translation>
     </message>
     <message>
         <source>Configuration</source>
@@ -17149,7 +17149,7 @@ Make sure that CMAKE_BUILD_TYPE variable matches the &quot;Build type&quot; fiel
     <name>QtC::ClangTools</name>
     <message>
         <source>Files outside of the base directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Filer utanför baskatalogen</translation>
     </message>
     <message>
         <source>Files to Analyze</source>
@@ -17169,11 +17169,11 @@ Make sure that CMAKE_BUILD_TYPE variable matches the &quot;Build type&quot; fiel
     </message>
     <message>
         <source>Go to previous diagnostic.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå till föregående diagnostik.</translation>
     </message>
     <message>
         <source>Go to next diagnostic.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå till nästa diagnostik.</translation>
     </message>
     <message>
         <source>Load diagnostics from YAML files exported with &quot;-export-fixes&quot;.</source>
@@ -17213,7 +17213,7 @@ Make sure that CMAKE_BUILD_TYPE variable matches the &quot;Build type&quot; fiel
     </message>
     <message>
         <source>Run %1 in %2 Mode?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör %1 i %2-läget?</translation>
     </message>
     <message>
         <source>You are trying to run the tool &quot;%1&quot; on an application in %2 mode. The tool is designed to be used in Debug mode since enabled assertions can reduce the number of false positives.</source>
@@ -17249,11 +17249,11 @@ Make sure that CMAKE_BUILD_TYPE variable matches the &quot;Build type&quot; fiel
     </message>
     <message>
         <source>Project &quot;%1&quot; is not a C/C++ project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Projektet &quot;%1&quot; är inte ett C/C++-projekt.</translation>
     </message>
     <message>
         <source>Open a C/C++ project to start analyzing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna ett C/C++-projekt för att börja analysera.</translation>
     </message>
     <message>
         <source>Failed to build the project.</source>
@@ -17261,7 +17261,7 @@ Make sure that CMAKE_BUILD_TYPE variable matches the &quot;Build type&quot; fiel
     </message>
     <message>
         <source>Failed to start the analyzer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att starta analyseraren.</translation>
     </message>
     <message>
         <source>Set a valid %1 executable.</source>
@@ -17338,11 +17338,11 @@ Make sure that CMAKE_BUILD_TYPE variable matches the &quot;Build type&quot; fiel
     </message>
     <message>
         <source>Failed to create temporary directory: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att skapa temporärkatalog: %1.</translation>
     </message>
     <message>
         <source>Running %1 on %2 with configuration &quot;%3&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör %1 på %2 med konfigurationen &quot;%3&quot;.</translation>
     </message>
     <message>
         <source>Analyzing &quot;%1&quot; [%2].</source>
@@ -17387,7 +17387,7 @@ Utdata:
     </message>
     <message>
         <source>An error occurred with the %1 process.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ett fel inträffade med %1-processen.</translation>
     </message>
     <message>
         <source>%1 finished with exit code: %2.</source>
@@ -17511,7 +17511,7 @@ Utdata:
     </message>
     <message>
         <source>Scheduled</source>
-        <translation type="unfinished"></translation>
+        <translation>Schemalagd</translation>
     </message>
     <message>
         <source>Failed to Apply</source>
@@ -17715,11 +17715,11 @@ Set a valid executable first.</source>
     </message>
     <message>
         <source>Analyze open files</source>
-        <translation type="unfinished"></translation>
+        <translation>Analysera öppna filer</translation>
     </message>
     <message>
         <source>Run Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Köralternativ</translation>
     </message>
     <message>
         <source>Parallel jobs:</source>
@@ -17751,11 +17751,11 @@ Set a valid executable first.</source>
     </message>
     <message>
         <source>Generating compilation database for %1 failed: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Generering av kompileringsdatabas för %1 misslyckades: %2</translation>
     </message>
     <message>
         <source>Generating compilation database for %1 at &quot;%2&quot; ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Genererar kompileringsdatabas för %1 vid &quot;%2&quot; ...</translation>
     </message>
 </context>
 <context>
@@ -17773,7 +17773,7 @@ Set a valid executable first.</source>
     <name>QtC::ClearCase</name>
     <message>
         <source>Check Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Checka ut</translation>
     </message>
     <message>
         <source>&amp;Checkout comment:</source>
@@ -17913,11 +17913,11 @@ Set a valid executable first.</source>
     </message>
     <message>
         <source>Created by:</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapad av:</translation>
     </message>
     <message>
         <source>Created on:</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapades den:</translation>
     </message>
     <message>
         <source>Version after &amp;update</source>
@@ -17937,7 +17937,7 @@ Set a valid executable first.</source>
     </message>
     <message>
         <source>Check &amp;Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Checka &amp;ut</translation>
     </message>
     <message>
         <source>&amp;Hijack</source>
@@ -17961,11 +17961,11 @@ Set a valid executable first.</source>
     </message>
     <message>
         <source>Check Out...</source>
-        <translation type="unfinished"></translation>
+        <translation>Checka ut...</translation>
     </message>
     <message>
         <source>Check &amp;Out &quot;%1&quot;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Checka &amp;ut &quot;%1&quot;...</translation>
     </message>
     <message>
         <source>Meta+L,Meta+O</source>
@@ -17977,11 +17977,11 @@ Set a valid executable first.</source>
     </message>
     <message>
         <source>Check &amp;In...</source>
-        <translation type="unfinished"></translation>
+        <translation>Checka &amp;in...</translation>
     </message>
     <message>
         <source>Check &amp;In &quot;%1&quot;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Checka &amp;in &quot;%1&quot;...</translation>
     </message>
     <message>
         <source>Meta+L,Meta+I</source>
@@ -18089,19 +18089,19 @@ Set a valid executable first.</source>
     </message>
     <message>
         <source>Update Index</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdatera index</translation>
     </message>
     <message>
         <source>Update View</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdatera vy</translation>
     </message>
     <message>
         <source>U&amp;pdate View &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>U&amp;ppdatera vyn &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Check In All &amp;Files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Checka in alla &amp;filer...</translation>
     </message>
     <message>
         <source>Meta+L,Meta+F</source>
@@ -18126,7 +18126,7 @@ Set a valid executable first.</source>
     <message>
         <source>Check In</source>
         <extracomment>Name of the &quot;commit&quot; action of the VCS</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Checka in</translation>
     </message>
     <message>
         <source>Close Check In Editor</source>
@@ -18138,11 +18138,11 @@ Set a valid executable first.</source>
     </message>
     <message>
         <source>Cannot check in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte checka in.</translation>
     </message>
     <message>
         <source>Cannot check in: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte checka in: %1.</translation>
     </message>
     <message>
         <source>Do you want to undo the check out of &quot;%1&quot;?</source>
@@ -23074,7 +23074,7 @@ managed by the same clangd process, add them here.</source>
     </message>
     <message>
         <source>Member</source>
-        <translation type="unfinished"></translation>
+        <translation>Medlem</translation>
     </message>
     <message>
         <source>Getter</source>
@@ -23094,7 +23094,7 @@ managed by the same clangd process, add them here.</source>
     </message>
     <message>
         <source>QProperty</source>
-        <translation type="unfinished"></translation>
+        <translation>QProperty</translation>
     </message>
     <message>
         <source>Constant QProperty</source>
@@ -23186,7 +23186,7 @@ managed by the same clangd process, add them here.</source>
     </message>
     <message>
         <source>Member Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Medlemsnamn</translation>
     </message>
     <message>
         <source>Parameter Name</source>
@@ -23440,7 +23440,7 @@ e.g. name = &quot;m_test_foo_&quot;:
     </message>
     <message>
         <source>In .cpp file:</source>
-        <translation type="unfinished"></translation>
+        <translation>I .cpp-fil:</translation>
     </message>
     <message>
         <source>Types:</source>
@@ -23894,7 +23894,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Shift+F2</source>
-        <translation type="unfinished"></translation>
+        <translation>Shift+F2</translation>
     </message>
     <message>
         <source>Additional Preprocessor Directives...</source>
@@ -23930,7 +23930,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>The license template.</source>
-        <translation type="unfinished"></translation>
+        <translation>Licensmallen.</translation>
     </message>
     <message>
         <source>The configured path to the license template</source>
@@ -23990,11 +23990,11 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Meta+Shift+I</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta+Shift+I</translation>
     </message>
     <message>
         <source>Ctrl+Shift+I</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+I</translation>
     </message>
     <message>
         <source>Inspect C++ Code Model...</source>
@@ -24002,11 +24002,11 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Meta+Shift+F12</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta+Shift+F12</translation>
     </message>
     <message>
         <source>Ctrl+Shift+F12</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+F12</translation>
     </message>
     <message>
         <source>Reparse Externally Changed Files</source>
@@ -24098,7 +24098,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Synchronize with Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Synkronisera med redigerare</translation>
     </message>
     <message>
         <source>Include Hierarchy</source>
@@ -24122,11 +24122,11 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>The file name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Filnamnet.</translation>
     </message>
     <message>
         <source>The class name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klassnamnet.</translation>
     </message>
     <message>
         <source>Diagnostic configuration:</source>
@@ -24186,7 +24186,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>New name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nytt namn:</translation>
     </message>
     <message>
         <source>Option &quot;%1&quot; is invalid.</source>
@@ -24214,11 +24214,11 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Normal Priority</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal prioritet</translation>
     </message>
     <message>
         <source>Low Priority</source>
-        <translation type="unfinished"></translation>
+        <translation>Låg prioritet</translation>
     </message>
     <message>
         <source>Off</source>
@@ -24234,7 +24234,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Try Both</source>
-        <translation type="unfinished"></translation>
+        <translation>Prova båda</translation>
     </message>
     <message>
         <source>Decision Forest</source>
@@ -24246,7 +24246,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>&lt;b&gt;Warning&lt;/b&gt;: This file is not part of any project. The code model might have issues parsing this file properly.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Varning&lt;/b&gt;: Denna fil är inte en del av något projekt.  Kodmodellen kan ha problem med att tolka denna fil korrekt.</translation>
     </message>
     <message>
         <source>Note: Multiple parse contexts are available for this file. Choose the preferred one from the editor toolbar.</source>
@@ -24333,7 +24333,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Create New</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa ny</translation>
     </message>
     <message>
         <source>Custom settings are saved in a file. If you use the global settings, you can delete that file.</source>
@@ -31185,11 +31185,11 @@ Reason: %3</source>
     </message>
     <message>
         <source>Configure Repository</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurera förråd</translation>
     </message>
     <message>
         <source>Existing user to become an author of changes made to the repository.</source>
-        <translation type="unfinished"></translation>
+        <translation>Befintlig användare blir upphovsman för ändringar gjorda i förrådet.</translation>
     </message>
     <message>
         <source>SSL/TLS Identity Key</source>
@@ -31209,7 +31209,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Repository User</source>
-        <translation type="unfinished"></translation>
+        <translation>Förrådsanvändare</translation>
     </message>
     <message>
         <source>User:</source>
@@ -31217,7 +31217,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Repository Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Förrådsinställningar</translation>
     </message>
     <message>
         <source>SSL/TLS identity:</source>
@@ -31237,7 +31237,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>List Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista versioner</translation>
     </message>
     <message>
         <source>Ancestors</source>
@@ -31261,7 +31261,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Show files changed in each revision</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa filer som ändrats i varje revision</translation>
     </message>
     <message>
         <source>All Items</source>
@@ -31293,7 +31293,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Private</source>
-        <translation type="unfinished"></translation>
+        <translation>Privat</translation>
     </message>
     <message>
         <source>Create a private check-in that is never synced. Children of private check-ins are automatically private. Private check-ins are not pushed to the remote repository by default.</source>
@@ -31305,11 +31305,11 @@ Reason: %3</source>
     </message>
     <message>
         <source>Current Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuell information</translation>
     </message>
     <message>
         <source>Local root:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokal rot:</translation>
     </message>
     <message>
         <source>Branch:</source>
@@ -31337,7 +31337,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>&amp;Annotate %1</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Anteckna %1</translation>
     </message>
     <message>
         <source>Annotate &amp;Parent Revision %1</source>
@@ -31349,11 +31349,11 @@ Reason: %3</source>
     </message>
     <message>
         <source>Annotate Current File</source>
-        <translation type="unfinished"></translation>
+        <translation>Anteckna aktuell fil</translation>
     </message>
     <message>
         <source>Annotate &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Anteckna &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Diff Current File</source>
@@ -31365,7 +31365,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Meta+I,Meta+D</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta+I,Meta+D</translation>
     </message>
     <message>
         <source>Timeline Current File</source>
@@ -31377,23 +31377,23 @@ Reason: %3</source>
     </message>
     <message>
         <source>Meta+I,Meta+L</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta+I,Meta+L</translation>
     </message>
     <message>
         <source>Status Current File</source>
-        <translation type="unfinished"></translation>
+        <translation>Status aktuell fil</translation>
     </message>
     <message>
         <source>Status &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Status &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Meta+I,Meta+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta+I,Meta+S</translation>
     </message>
     <message>
         <source>Add Current File</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till aktuell fil</translation>
     </message>
     <message>
         <source>Add &quot;%1&quot;</source>
@@ -31401,7 +31401,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Delete Current File...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort aktuell fil...</translation>
     </message>
     <message>
         <source>Delete &quot;%1&quot;...</source>
@@ -31425,7 +31425,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Meta+I,Meta+T</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta+I,Meta+T</translation>
     </message>
     <message>
         <source>Revert...</source>
@@ -31445,19 +31445,19 @@ Reason: %3</source>
     </message>
     <message>
         <source>Alt+I,Alt+D</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+I,Alt+D</translation>
     </message>
     <message>
         <source>Alt+I,Alt+L</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+I,Alt+L</translation>
     </message>
     <message>
         <source>Alt+I,Alt+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+I,Alt+S</translation>
     </message>
     <message>
         <source>Alt+I,Alt+T</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+I,Alt+T</translation>
     </message>
     <message>
         <source>Pull...</source>
@@ -31473,7 +31473,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Meta+I,Meta+U</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta+I,Meta+U</translation>
     </message>
     <message>
         <source>Commit...</source>
@@ -31481,19 +31481,19 @@ Reason: %3</source>
     </message>
     <message>
         <source>Meta+I,Meta+C</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta+I,Meta+C</translation>
     </message>
     <message>
         <source>Alt+I,Alt+U</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+I,Alt+U</translation>
     </message>
     <message>
         <source>Alt+I,Alt+C</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+I,Alt+C</translation>
     </message>
     <message>
         <source>Settings...</source>
-        <translation type="unfinished"></translation>
+        <translation>Inställningar...</translation>
     </message>
     <message>
         <source>Create Repository...</source>
@@ -31525,15 +31525,15 @@ Reason: %3</source>
     </message>
     <message>
         <source>Choose Checkout Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj utcheckningskatalog</translation>
     </message>
     <message>
         <source>The directory &quot;%1&quot; is already managed by a version control system (%2). Would you like to specify another directory?</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalogen &quot;%1&quot; är redan hanterad av ett versionskontrollsystem (%2). Vill du ange en annan katalog?</translation>
     </message>
     <message>
         <source>Repository already under version control</source>
-        <translation type="unfinished"></translation>
+        <translation>Förrådet är redan under versionskontroll</translation>
     </message>
     <message>
         <source>Repository Created</source>
@@ -31541,7 +31541,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>A version control repository has been created in %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ett versionskontrollerat förråd har skapats i %1.</translation>
     </message>
     <message>
         <source>Repository Creation Failed</source>
@@ -31549,7 +31549,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>A version control repository could not be created in %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ett versionskontrollerat förråd kunde inte skapas i %1.</translation>
     </message>
     <message>
         <source>Fossil</source>
@@ -31565,7 +31565,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Revision</source>
-        <translation type="unfinished"></translation>
+        <translation>Revision</translation>
     </message>
     <message>
         <source>Fossil Command</source>
@@ -31581,19 +31581,19 @@ Reason: %3</source>
     </message>
     <message>
         <source>Default path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Standardsökväg:</translation>
     </message>
     <message>
         <source>Directory to store local repositories by default.</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalog att lagra lokala förråd i som standard.</translation>
     </message>
     <message>
         <source>Default user:</source>
-        <translation type="unfinished"></translation>
+        <translation>Standardanvändare:</translation>
     </message>
     <message>
         <source>Log width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Loggbredd:</translation>
     </message>
     <message>
         <source>The width of log entry line (&gt;20). Choose 0 to see a single line per entry.</source>
@@ -31621,11 +31621,11 @@ Reason: %3</source>
     </message>
     <message>
         <source>Local Repositories</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokala förråd</translation>
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished"></translation>
+        <translation>Användare</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
@@ -31645,19 +31645,19 @@ Reason: %3</source>
     </message>
     <message>
         <source>Local filesystem:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokalt filsystem:</translation>
     </message>
     <message>
         <source>Specify URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange URL:</translation>
     </message>
     <message>
         <source>For example: &quot;https://[user[:pass]@]host[:port]/[path]&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Till exempel: &quot;https://[användare[:lösenord]@]värd[:port]/[sökväg]&quot;.</translation>
     </message>
     <message>
         <source>Remember specified location as default</source>
-        <translation type="unfinished"></translation>
+        <translation>Kom ihåg angiven plats som standard</translation>
     </message>
     <message>
         <source>Include private branches</source>
@@ -31669,7 +31669,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Remote Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjärrplats</translation>
     </message>
     <message>
         <source>Options</source>
@@ -35005,7 +35005,7 @@ Vill du skriva över dem?</translation>
     </message>
     <message>
         <source>Enter the appropriate arguments to your build command.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange de lämpliga argumenten till ditt byggkommando.</translation>
     </message>
     <message>
         <source>Make sure the build command&apos;s multi-job parameter value is large enough (such as -j200 for the JOM or Make build tools).</source>
@@ -35161,7 +35161,7 @@ Vill du skriva över dem?</translation>
     </message>
     <message>
         <source>Additional Arguments:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ytterligare argument:</translation>
     </message>
     <message>
         <source>Add additional buildconsole arguments manually. The value of this field will be concatenated to the final buildconsole command line.</source>
@@ -35181,7 +35181,7 @@ Vill du skriva över dem?</translation>
     </message>
     <message>
         <source>Custom Command</source>
-        <translation type="unfinished"></translation>
+        <translation>Anpassat kommando</translation>
     </message>
     <message>
         <source>Command Helper:</source>
@@ -61143,7 +61143,7 @@ This is used for calculating the total implicit size.</source>
     <name>SpatialSoundSection</name>
     <message>
         <source>Spatial Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Spatialt ljud</translation>
     </message>
     <message>
         <source>Source</source>
@@ -61151,7 +61151,7 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>The source file for the sound to be played.</source>
-        <translation type="unfinished"></translation>
+        <translation>Källfilen för ljudet som ska spelas upp.</translation>
     </message>
     <message>
         <source>Volume</source>
@@ -61506,7 +61506,7 @@ it reaches the start or end.</source>
     </message>
     <message>
         <source>When</source>
-        <translation type="unfinished"></translation>
+        <translation>När</translation>
     </message>
     <message>
         <source>Sets when the state should be applied.</source>
@@ -61518,11 +61518,11 @@ it reaches the start or end.</source>
     </message>
     <message>
         <source>The name of the state.</source>
-        <translation type="unfinished"></translation>
+        <translation>Namnet på tillståndet.</translation>
     </message>
     <message>
         <source>Extend</source>
-        <translation type="unfinished"></translation>
+        <translation>Utöka</translation>
     </message>
     <message>
         <source>The state that this state extends.</source>
@@ -62404,7 +62404,7 @@ This is used for calculating the total implicit size.</source>
     <name>TimelineKeyframeItem</name>
     <message>
         <source>Delete Keyframe</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort nyckelbild</translation>
     </message>
     <message>
         <source>Edit Easing Curve...</source>
@@ -62412,7 +62412,7 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>Edit Keyframe...</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera nyckelbild...</translation>
     </message>
 </context>
 <context>
