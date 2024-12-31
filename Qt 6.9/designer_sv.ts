@@ -48,7 +48,7 @@
     </message>
     <message>
         <source>&amp;Pixmap Function</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pixmap-funktion</translation>
     </message>
     <message>
         <source>&amp;Author</source>
@@ -60,7 +60,7 @@
     </message>
     <message>
         <source>Layout &amp;Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg ut s&amp;tandard</translation>
     </message>
     <message>
         <source>&amp;Spacing:</source>
@@ -72,7 +72,7 @@
     </message>
     <message>
         <source>&amp;Layout Function</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Lägg ut funktion</translation>
     </message>
     <message>
         <source>Ma&amp;rgin:</source>
@@ -122,7 +122,7 @@
     </message>
     <message>
         <source>horizontalSpacer</source>
-        <translation type="unfinished"></translation>
+        <translation>horizontalSpacer</translation>
     </message>
     <message>
         <source>Property Type</source>
@@ -135,12 +135,14 @@
     <message>
         <source>The current object already has a property named &apos;%1&apos;.
 Please select another, unique one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det aktuella objektet har redan ett egenskap med namnet &quot;%1&quot;.
+Välj ett annat namn, unikt namn.</translation>
     </message>
     <message>
         <source>The &apos;_q_&apos; prefix is reserved for the Qt library.
 Please select another name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prefixet &apos;_q_&apos; är reserverat för Qt-biblioteket.
+Välj ett annat namn.</translation>
     </message>
 </context>
 <context>
@@ -1035,11 +1037,11 @@ Vill du ersätta den?</translation>
     </message>
     <message>
         <source>newPrefix</source>
-        <translation type="unfinished"></translation>
+        <translation>nyttPrefix</translation>
     </message>
     <message>
         <source>&lt;p&gt;&lt;b&gt;Warning:&lt;/b&gt; The file&lt;/p&gt;&lt;p&gt;%1&lt;/p&gt;&lt;p&gt;is outside of the current resource file&apos;s parent directory.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;Varning:&lt;/b&gt; Filen&lt;/p&gt;&lt;p&gt;%1&lt;/p&gt;&lt;p&gt;är utanför den aktuella resursfilens föräldrakatalog.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;To resolve the issue, press:&lt;/p&gt;&lt;table&gt;&lt;tr&gt;&lt;th align=&quot;left&quot;&gt;Copy&lt;/th&gt;&lt;td&gt;to copy the file to the resource file&apos;s parent directory.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th align=&quot;left&quot;&gt;Copy As...&lt;/th&gt;&lt;td&gt;to copy the file into a subdirectory of the resource file&apos;s parent directory.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th align=&quot;left&quot;&gt;Keep&lt;/th&gt;&lt;td&gt;to use its current location.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</source>
@@ -1076,7 +1078,8 @@ Vill du ersätta den?</translation>
     <message>
         <source>Enter the suffix which you want to add to the names of the cloned files.
 This could for example be a language extension like &quot;_de&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange suffixet som du vill lägga till namnen för de klonade filerna.
+Detta kan till exempel vara en språkändelse som &quot;_sv&quot;.</translation>
     </message>
     <message>
         <source>Copy As</source>
@@ -1084,7 +1087,7 @@ This could for example be a language extension like &quot;_de&quot;.</source>
     </message>
     <message>
         <source>&lt;p&gt;The selected file:&lt;/p&gt;&lt;p&gt;%1&lt;/p&gt;&lt;p&gt;is outside of the current resource file&apos;s directory:&lt;/p&gt;&lt;p&gt;%2&lt;/p&gt;&lt;p&gt;Please select another path within this directory.&lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Den markerade filen:&lt;/p&gt;&lt;p&gt;%1&lt;/p&gt;&lt;p&gt;är utanför den aktuella resursfilens katalog:&lt;/p&gt;&lt;p&gt;%2&lt;/p&gt;&lt;p&gt;Välj en annan sökväg inom denna katalog.&lt;p&gt;</translation>
     </message>
     <message>
         <source>Could not overwrite %1.</source>
@@ -1176,7 +1179,7 @@ till
     </message>
     <message>
         <source>&lt;html&gt;&lt;p&gt;&lt;b&gt;Warning:&lt;/b&gt; There have been problems while reloading the resources:&lt;/p&gt;&lt;pre&gt;%1&lt;/pre&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;p&gt;&lt;b&gt;Varning:&lt;/b&gt; Det har varit problem vid omläsning av resurserna:&lt;/p&gt;&lt;pre&gt;%1&lt;/pre&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Resource Warning</source>
@@ -1269,7 +1272,7 @@ till
     </message>
     <message>
         <source>This area shows a preview of the gradient being edited. It also allows you to edit parameters specific to the gradient&apos;s type such as start and final point, radius, etc. by drag &amp; drop.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denna yta visar en förhandsvisning av gradienten som redigeras. Den låter dig redigera parametrar specifika till gradientens typ såsom start- och slutpunkt, radie, etc. med dra och släpp.</translation>
     </message>
     <message>
         <source>1</source>
@@ -1293,11 +1296,11 @@ till
     </message>
     <message>
         <source>Gradient Stops Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigerare för gradientstopp</translation>
     </message>
     <message>
         <source>This area allows you to edit gradient stops. Double click on the existing stop handle to duplicate it. Double click outside of the existing stop handles to create a new stop. Drag &amp; drop the handle to reposition it. Use right mouse button to popup context menu with extra actions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denna yta låter dig att redigera gradientstopp. Dubbelklicka på befintligt stopphandtag för att duplicera det. Dubbelklicka utanför befintligt stopphandtag för att skapa ett nytt stopp. Dra och släpp handtag för att positionera om det. Använd höger musknapp för att visa en kontextmeny med extraåtgärder.</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -1357,7 +1360,7 @@ till
     </message>
     <message>
         <source>Spread</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprid</translation>
     </message>
     <message>
         <source>Color</source>
@@ -1365,7 +1368,7 @@ till
     </message>
     <message>
         <source>Current stop&apos;s color</source>
-        <translation type="unfinished"></translation>
+        <translation>Färg för aktuellt stopp</translation>
     </message>
     <message>
         <source>Show HSV specification</source>
@@ -1385,7 +1388,7 @@ till
     </message>
     <message>
         <source>Current stop&apos;s position</source>
-        <translation type="unfinished"></translation>
+        <translation>Position för aktuellt stopp</translation>
     </message>
     <message>
         <source>%</source>
@@ -1401,7 +1404,7 @@ till
     </message>
     <message>
         <source>Toggle details extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Växla detaljutökning</translation>
     </message>
     <message>
         <source>&gt;</source>
@@ -1425,15 +1428,15 @@ till
     </message>
     <message>
         <source>Pad Spread</source>
-        <translation type="unfinished"></translation>
+        <translation>Fyll sprid</translation>
     </message>
     <message>
         <source>Repeat Spread</source>
-        <translation type="unfinished"></translation>
+        <translation>Upprepa sprid</translation>
     </message>
     <message>
         <source>Reflect Spread</source>
-        <translation type="unfinished"></translation>
+        <translation>Reflektera sprid</translation>
     </message>
     <message>
         <source>Linear</source>
@@ -1449,7 +1452,7 @@ till
     </message>
     <message>
         <source>Pad</source>
-        <translation type="unfinished"></translation>
+        <translation>Fyll</translation>
     </message>
     <message>
         <source>Repeat</source>
@@ -1469,27 +1472,27 @@ till
     </message>
     <message>
         <source>Final X</source>
-        <translation type="unfinished"></translation>
+        <translation>Slut X</translation>
     </message>
     <message>
         <source>Final Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Slut Y</translation>
     </message>
     <message>
         <source>Central X</source>
-        <translation type="unfinished"></translation>
+        <translation>Central X</translation>
     </message>
     <message>
         <source>Central Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Central Y</translation>
     </message>
     <message>
         <source>Focal X</source>
-        <translation type="unfinished"></translation>
+        <translation>Fokal X</translation>
     </message>
     <message>
         <source>Focal Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Fokal Y</translation>
     </message>
     <message>
         <source>Radius</source>
@@ -1847,15 +1850,15 @@ till
     </message>
     <message>
         <source>Object Naming Convention</source>
-        <translation type="unfinished"></translation>
+        <translation>Namnkonvention för objekt</translation>
     </message>
     <message>
         <source>Naming convention used for generating action object names from their text</source>
-        <translation type="unfinished"></translation>
+        <translation>Namnkonvention att använda för att generera namn för åtgärdsobjekt från deras text</translation>
     </message>
     <message>
         <source>Camel Case</source>
-        <translation type="unfinished"></translation>
+        <translation>Kamelnotation</translation>
     </message>
     <message>
         <source>Underscore</source>
@@ -2258,39 +2261,39 @@ Container pages should only be added by specifying them in XML returned by the d
     <name>BrushPropertyManager</name>
     <message>
         <source>No brush</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen borste</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation type="unfinished"></translation>
+        <translation>Fast</translation>
     </message>
     <message>
         <source>Dense 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tät 1</translation>
     </message>
     <message>
         <source>Dense 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Tät 2</translation>
     </message>
     <message>
         <source>Dense 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Tät 3</translation>
     </message>
     <message>
         <source>Dense 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Tät 4</translation>
     </message>
     <message>
         <source>Dense 5</source>
-        <translation type="unfinished"></translation>
+        <translation>Tät 5</translation>
     </message>
     <message>
         <source>Dense 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Tät 6</translation>
     </message>
     <message>
         <source>Dense 7</source>
-        <translation type="unfinished"></translation>
+        <translation>Tät 7</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -2302,19 +2305,19 @@ Container pages should only be added by specifying them in XML returned by the d
     </message>
     <message>
         <source>Cross</source>
-        <translation type="unfinished"></translation>
+        <translation>Kors</translation>
     </message>
     <message>
         <source>Backward diagonal</source>
-        <translation type="unfinished"></translation>
+        <translation>Bakvänd diagonal</translation>
     </message>
     <message>
         <source>Forward diagonal</source>
-        <translation type="unfinished"></translation>
+        <translation>Framåt diagonal</translation>
     </message>
     <message>
         <source>Crossing diagonal</source>
-        <translation type="unfinished"></translation>
+        <translation>Korsande diagonal</translation>
     </message>
     <message>
         <source>Style</source>
@@ -2352,31 +2355,31 @@ Container pages should only be added by specifying them in XML returned by the d
     </message>
     <message>
         <source>AlignLeft</source>
-        <translation>JusteraVänster</translation>
+        <translation>AlignLeft</translation>
     </message>
     <message>
         <source>AlignHCenter</source>
-        <translation type="unfinished"></translation>
+        <translation>AlignHCenter</translation>
     </message>
     <message>
         <source>AlignRight</source>
-        <translation type="unfinished"></translation>
+        <translation>AlignRight</translation>
     </message>
     <message>
         <source>AlignJustify</source>
-        <translation type="unfinished"></translation>
+        <translation>AlignJustify</translation>
     </message>
     <message>
         <source>AlignTop</source>
-        <translation type="unfinished"></translation>
+        <translation>AlignTop</translation>
     </message>
     <message>
         <source>AlignVCenter</source>
-        <translation type="unfinished"></translation>
+        <translation>AlignVCenter</translation>
     </message>
     <message>
         <source>AlignBottom</source>
-        <translation type="unfinished"></translation>
+        <translation>AlignBottom</translation>
     </message>
     <message>
         <source>%1, %2</source>
@@ -2465,35 +2468,35 @@ Container pages should only be added by specifying them in XML returned by the d
     <name>FontPropertyManager</name>
     <message>
         <source>PreferDefault</source>
-        <translation type="unfinished"></translation>
+        <translation>PreferDefault</translation>
     </message>
     <message>
         <source>NoAntialias</source>
-        <translation type="unfinished"></translation>
+        <translation>NoAntialias</translation>
     </message>
     <message>
         <source>PreferAntialias</source>
-        <translation type="unfinished"></translation>
+        <translation>PreferAntialias</translation>
     </message>
     <message>
         <source>PreferDefaultHinting</source>
         <comment>QFont::StyleStrategy combo</comment>
-        <translation type="unfinished"></translation>
+        <translation>PreferDefaultHinting</translation>
     </message>
     <message>
         <source>PreferNoHinting</source>
         <comment>QFont::StyleStrategy combo</comment>
-        <translation type="unfinished"></translation>
+        <translation>PreferNoHinting</translation>
     </message>
     <message>
         <source>PreferVerticalHinting</source>
         <comment>QFont::StyleStrategy combo</comment>
-        <translation type="unfinished"></translation>
+        <translation>PreferVerticalHinting</translation>
     </message>
     <message>
         <source>PreferFullHinting</source>
         <comment>QFont::StyleStrategy combo</comment>
-        <translation type="unfinished"></translation>
+        <translation>PreferFullHinting</translation>
     </message>
     <message>
         <source>Antialiasing</source>
@@ -2501,7 +2504,7 @@ Container pages should only be added by specifying them in XML returned by the d
     </message>
     <message>
         <source>HintingPreference</source>
-        <translation type="unfinished"></translation>
+        <translation>HintingPreference</translation>
     </message>
     <message>
         <source>Thin</source>
@@ -2511,7 +2514,7 @@ Container pages should only be added by specifying them in XML returned by the d
     <message>
         <source>ExtraLight</source>
         <comment>QFont::Weight combo</comment>
-        <translation type="unfinished"></translation>
+        <translation>ExtraLight</translation>
     </message>
     <message>
         <source>Light</source>
@@ -2531,7 +2534,7 @@ Container pages should only be added by specifying them in XML returned by the d
     <message>
         <source>DemiBold</source>
         <comment>QFont::Weight combo</comment>
-        <translation type="unfinished"></translation>
+        <translation>DemiBold</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -2541,7 +2544,7 @@ Container pages should only be added by specifying them in XML returned by the d
     <message>
         <source>ExtraBold</source>
         <comment>QFont::Weight combo</comment>
-        <translation type="unfinished"></translation>
+        <translation>ExtraBold</translation>
     </message>
     <message>
         <source>Black</source>
@@ -2637,7 +2640,7 @@ Container pages should only be added by specifying them in XML returned by the d
     </message>
     <message>
         <source>%1 (fallback)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (fall tillbaka)</translation>
     </message>
 </context>
 <context>
@@ -2816,7 +2819,7 @@ Klass: %2</translation>
     </message>
     <message>
         <source>Reparent &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny förälder för &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Promote to custom widget</source>
@@ -3284,15 +3287,15 @@ Klass: %2</translation>
     </message>
     <message>
         <source>DragEnabled</source>
-        <translation type="unfinished"></translation>
+        <translation>DragEnabled</translation>
     </message>
     <message>
         <source>DropEnabled</source>
-        <translation type="unfinished"></translation>
+        <translation>DropEnabled</translation>
     </message>
     <message>
         <source>UserCheckable</source>
-        <translation type="unfinished"></translation>
+        <translation>UserCheckable</translation>
     </message>
     <message>
         <source>Enabled</source>
@@ -3300,15 +3303,15 @@ Klass: %2</translation>
     </message>
     <message>
         <source>Tristate</source>
-        <translation type="unfinished"></translation>
+        <translation>Tristate</translation>
     </message>
     <message>
         <source>Unchecked</source>
-        <translation type="unfinished"></translation>
+        <translation>Avmarkerad</translation>
     </message>
     <message>
         <source>PartiallyChecked</source>
-        <translation type="unfinished"></translation>
+        <translation>PartiallyChecked</translation>
     </message>
     <message>
         <source>Checked</source>
@@ -4292,7 +4295,7 @@ Anledning: %2</translation>
     </message>
     <message>
         <source>&lt;p&gt;This file contains top level spacers.&lt;br/&gt;They will &lt;b&gt;not&lt;/b&gt; be saved.&lt;/p&gt;&lt;p&gt;Perhaps you forgot to create a layout?&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Denna fil innehåller toppnivå-spacers.&lt;br/&gt;De kommer &lt;b&gt;inte&lt;/b&gt; att sparas.&lt;/p&gt;&lt;p&gt;Kanske du glömde att skapa en layout?&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -4735,7 +4738,7 @@ Anledning: %2</translation>
     </message>
     <message>
         <source>Indicates that the header file is a global header file. Does not have any effect on Qt for Python.</source>
-        <translation type="unfinished"></translation>
+        <translation>Indikerar att header-filen är en global header-fil. Har inte någon effekt på Qt for Python.</translation>
     </message>
     <message>
         <source>Global include</source>
@@ -5479,38 +5482,38 @@ Detta indikerar en inkonsistens i ui-filen.</translation>
     <name>QDesignerAxWidget</name>
     <message>
         <source>Reset control</source>
-        <translation type="unfinished"></translation>
+        <translation>Nollställ kontroll</translation>
     </message>
     <message>
         <source>Set control</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställ in kontroll</translation>
     </message>
     <message>
         <source>Control loaded</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontroll inläst</translation>
     </message>
     <message>
         <source>A COM exception occurred when executing a meta call of type %1, index %2 of &quot;%3&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ett COM-undantag inträffade vid körning av en meta call av typen %1, index %2 av &quot;%3&quot;.</translation>
     </message>
 </context>
 <context>
     <name>QAxWidgetTaskMenu</name>
     <message>
         <source>Set Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställ in kontroll</translation>
     </message>
     <message>
         <source>Reset Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Nollställ kontroll</translation>
     </message>
     <message>
         <source>Licensed Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Licensierad kontroll</translation>
     </message>
     <message>
         <source>The control requires a design-time license</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontroller kräver en designtidslicens</translation>
     </message>
 </context>
 <context>
