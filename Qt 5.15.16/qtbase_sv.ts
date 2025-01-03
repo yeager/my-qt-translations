@@ -1239,23 +1239,23 @@ Tryck ESC för att avbryta</translation>
     <message>
         <source>%1 already exists.
 Do you want to replace it?</source>
-        <translation>%1 finns redan. 
+        <translation>%1 finns redan.
 Vill du ersätta den?</translation>
     </message>
     <message>
         <source>%1
 Directory not found.
 Please verify the correct directory name was given.</source>
-        <translation>%1 
-Katalogen hittades inte. 
+        <translation>%1
+Katalogen hittades inte.
 Kontrollera att det korrekta katalognamnet angavs.</translation>
     </message>
     <message>
         <source>%1
 File not found.
 Please verify the correct file name was given.</source>
-        <translation>%1 
-Filen hittades inte. 
+        <translation>%1
+Filen hittades inte.
 Kontrollera att det korrekta filnamnet angavs.</translation>
     </message>
     <message>
@@ -1269,7 +1269,7 @@ Kontrollera att det korrekta filnamnet angavs.</translation>
     <message>
         <source>&apos;%1&apos; is write protected.
 Do you want to delete it anyway?</source>
-        <translation>\&quot;%1\&quot; är skrivskyddad. 
+        <translation>\&quot;%1\&quot; är skrivskyddad.
 Vill du ta bort den ändå?</translation>
     </message>
     <message>
@@ -3836,13 +3836,13 @@ Välj ett annat filnamn.</translation>
     <message>
         <source>File %1 is not writable.
 Please choose a different file name.</source>
-        <translation>Filen %1 är inte skrivbar. 
+        <translation>Filen %1 är inte skrivbar.
 Välj ett annat filnamn.</translation>
     </message>
     <message>
         <source>%1 already exists.
 Do you want to overwrite it?</source>
-        <translation>%1 finns redan. 
+        <translation>%1 finns redan.
 Vill du skriva över den?</translation>
     </message>
     <message>
