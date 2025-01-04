@@ -17,10 +17,8 @@ Updating 'linguist_sv.qm'...
     
 Updating 'qtbase_sv.qm'...
 
-    Genererade 1710 översättningar (1710 slutförda och 0 oavslutade)
+    Genererade 1799 översättningar (1799 slutförda och 0 oavslutade)
     
-    Ignorerade 89 oöversatta källtexter
-
     
 Updating 'qtconnectivity_sv.qm'...
 
