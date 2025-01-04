@@ -12571,7 +12571,7 @@ inställningar. Tillåt denna åsidosättning?</translation>
     </message>
     <message>
         <source>Re&amp;scan Tests</source>
-        <translation type="unfinished"></translation>
+        <translation>Sök i&amp;genom tester igen</translation>
     </message>
     <message>
         <source>Ctrl+Meta+T, Ctrl+Meta+S</source>
@@ -17205,7 +17205,7 @@ Make sure that CMAKE_BUILD_TYPE variable matches the &quot;Build type&quot; fiel
     </message>
     <message>
         <source>Clang-Tidy and Clazy use a customized Clang executable from the Clang project to search for diagnostics.</source>
-        <translation type="unfinished"></translation>
+        <translation>Clang-Tidy och Clazy använder en anpassad körbar Clang-fil från Clang-projektet för att söka efter diagnostik.</translation>
     </message>
     <message>
         <source>Diagnostics</source>
@@ -17249,7 +17249,7 @@ Make sure that CMAKE_BUILD_TYPE variable matches the &quot;Build type&quot; fiel
     </message>
     <message>
         <source>Error Loading Diagnostics</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid inläsning av diagnostik</translation>
     </message>
     <message>
         <source>Project &quot;%1&quot; is not a C/C++ project.</source>
@@ -17307,9 +17307,9 @@ Make sure that CMAKE_BUILD_TYPE variable matches the &quot;Build type&quot; fiel
     </message>
     <message numerus="yes">
         <source>Finished processing %n file(s).</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Färdig med behandling av%n fil.</numerusform>
+            <numerusform>Färdig med behandling av%n filer.</numerusform>
         </translation>
     </message>
     <message>
@@ -17334,11 +17334,11 @@ Make sure that CMAKE_BUILD_TYPE variable matches the &quot;Build type&quot; fiel
     </message>
     <message>
         <source>No code model data available for project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inget kodmodelldata tillgängligt för projektet.</translation>
     </message>
     <message>
         <source>The project configuration changed since the start of the %1. Please re-run with current configuration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Projektkonfigurationen har ändrats sedan starten av %1. Kör igen med aktuell konfiguration.</translation>
     </message>
     <message>
         <source>Failed to create temporary directory: %1.</source>
@@ -17373,11 +17373,11 @@ Make sure that CMAKE_BUILD_TYPE variable matches the &quot;Build type&quot; fiel
     </message>
     <message>
         <source>%1 finished: Processed %2 files successfully, %3 failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 färdig: Behandlade %2 filer, %3 misslyckades.</translation>
     </message>
     <message>
         <source>%1 produced stderr output:</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 producerade stderr-utdata:</translation>
     </message>
     <message>
         <source>Command line: %1
@@ -17459,11 +17459,11 @@ Utdata:
     </message>
     <message>
         <source>Clang Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Clang-verktyg</translation>
     </message>
     <message>
         <source>Issues that Clang-Tidy and Clazy found when analyzing code.</source>
-        <translation type="unfinished"></translation>
+        <translation>Problem som Clang-Tidy och Clazy hittade vid analys av koden.</translation>
     </message>
     <message>
         <source>Analyze File...</source>
@@ -17555,7 +17555,7 @@ Utdata:
     </message>
     <message>
         <source>Info About Build the Project Before Analysis</source>
-        <translation type="unfinished"></translation>
+        <translation>Information om Bygg projektet innan analys</translation>
     </message>
     <message>
         <source>Default Clang-Tidy and Clazy checks</source>
@@ -17621,7 +17621,7 @@ Set a valid executable first.</source>
     </message>
     <message>
         <source>&lt;new option&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;nytt alternativ&gt;</translation>
     </message>
     <message>
         <source>Options</source>
@@ -17691,7 +17691,7 @@ Set a valid executable first.</source>
     </message>
     <message>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrollera</translation>
     </message>
     <message>
         <source>Select All</source>
@@ -17707,15 +17707,15 @@ Set a valid executable first.</source>
     </message>
     <message>
         <source>Select the diagnostics to display.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj den diagnostik att visa.</translation>
     </message>
     <message>
         <source>Prefer .clang-tidy file, if present</source>
-        <translation type="unfinished"></translation>
+        <translation>Föredra .clang-tidy-fil, om den finns</translation>
     </message>
     <message>
         <source>Build the project before analysis</source>
-        <translation type="unfinished"></translation>
+        <translation>Bygg projektet innan analys</translation>
     </message>
     <message>
         <source>Analyze open files</source>
@@ -17731,11 +17731,11 @@ Set a valid executable first.</source>
     </message>
     <message>
         <source>Clang-Tidy Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Körbar Clang-Tidy-fil</translation>
     </message>
     <message>
         <source>Clazy Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Körbar Clazy-fil</translation>
     </message>
     <message>
         <source>Executables</source>
@@ -20759,7 +20759,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>&lt;html&gt;&lt;body style=&quot;color:#909090; font-size:14px&quot;&gt;&lt;div align=&apos;center&apos;&gt;&lt;div style=&quot;font-size:20px&quot;&gt;Open a document&lt;/div&gt;&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;hr/&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull; File &gt; Open File or Project (%1)&lt;/div&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull; File &gt; Recent Files&lt;/div&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull; Tools &gt; Locate (%2) and&lt;/div&gt;&lt;div style=&quot;margin-left: 1em&quot;&gt;- type to open file from any open project&lt;/div&gt;%4%5&lt;div style=&quot;margin-left: 1em&quot;&gt;- type &lt;code&gt;%3&amp;lt;space&amp;gt;&amp;lt;filename&amp;gt;&lt;/code&gt; to open file from file system&lt;/div&gt;&lt;div style=&quot;margin-left: 1em&quot;&gt;- select one of the other filters for jumping to a location&lt;/div&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull; Drag and drop files here&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;body style=&quot;color:#909090; font-size:14px&quot;&gt;&lt;div align=&apos;center&apos;&gt;&lt;div style=&quot;font-size:20px&quot;&gt;Öppna ett dokument&lt;/div&gt;&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;hr/&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull; Arkiv &gt; Öppna fil eller projekt (%1)&lt;/div&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull; Arkiv &gt; Tidigare filer&lt;/div&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull; Verktyg &gt; Hitta (%2) och&lt;/div&gt;&lt;div style=&quot;margin-left: 1em&quot;&gt;- skriv för att öppna fil från något öppet projekt&lt;/div&gt;%4%5&lt;div style=&quot;margin-left: 1em&quot;&gt;- skriv &lt;code&gt;%3&amp;lt;blanksteg&amp;gt;&amp;lt;filnamn&amp;gt;&lt;/code&gt; för att öppna fil från filsystemet&lt;/div&gt;&lt;div style=&quot;margin-left: 1em&quot;&gt;- välj en av de andra filtren för att hoppa till en plats&lt;/div&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull; Dra och släpp filer här&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;body style=&quot;color:#909090; font-size:14px&quot;&gt;&lt;div align=&apos;center&apos;&gt;&lt;div style=&quot;font-size:20px&quot;&gt;Öppna ett dokument&lt;/div&gt;&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;hr/&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull; Arkiv &gt; Öppna fil eller projekt (%1)&lt;/div&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull; Arkiv &gt; Tidigare filer&lt;/div&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull; Verktyg &gt; Hitta (%2) och&lt;/div&gt;&lt;div style=&quot;margin-left: 1em&quot;&gt;- skriv för att öppna fil från något öppet projekt&lt;/div&gt;%4%5&lt;div style=&quot;margin-left: 1em&quot;&gt;- skriv &lt;code&gt;%3&amp;lt;blanksteg&amp;gt;&amp;lt;filnamn&amp;gt;&lt;/code&gt; för att öppna fil från filsystemet&lt;/div&gt;&lt;div style=&quot;margin-left: 1em&quot;&gt;- välj ett av de andra filtren för att hoppa till en plats&lt;/div&gt;&lt;div style=&quot;margin-top: 5px&quot;&gt;&amp;bull; Dra och släpp filer här&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&lt;div style=&quot;margin-left: 1em&quot;&gt;- type &lt;code&gt;%1&amp;lt;space&amp;gt;&amp;lt;pattern&amp;gt;&lt;/code&gt; to jump to a class definition&lt;/div&gt;</source>
@@ -36020,7 +36020,7 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Find References with %1 for:</source>
-        <translation type="unfinished"></translation>
+        <translation>Hitta referenser med %1 för:</translation>
     </message>
     <message>
         <source>Renaming is not supported with %1</source>
@@ -36044,7 +36044,7 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Inspect Language Clients</source>
-        <translation type="unfinished"></translation>
+        <translation>Inspektera språkklienter</translation>
     </message>
     <message>
         <source>Manage...</source>
@@ -53821,19 +53821,19 @@ A value less than 100% can result in overlapping and misaligned graphics.</sourc
     </message>
     <message>
         <source>Number of lines visible in current document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Antal rader synliga i aktuellt dokument.</translation>
     </message>
     <message>
         <source>Number of columns visible in current document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Antal kolumner synliga i aktuellt dokument.</translation>
     </message>
     <message>
         <source>Current document&apos;s font size in points.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuella dokumentets typsnittsstorlek i punkter.</translation>
     </message>
     <message>
         <source>Word under the current document&apos;s text cursor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ord under aktuellt dokuments textmarkör.</translation>
     </message>
     <message>
         <source>Select Encoding...</source>
@@ -53841,7 +53841,7 @@ A value less than 100% can result in overlapping and misaligned graphics.</sourc
     </message>
     <message>
         <source>Auto-&amp;indent Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Dra &amp;in markering automatiskt</translation>
     </message>
     <message>
         <source>Ctrl+I</source>
@@ -53877,7 +53877,7 @@ A value less than 100% can result in overlapping and misaligned graphics.</sourc
     </message>
     <message>
         <source>Enable Text &amp;Wrapping</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivera text&amp;brytning</translation>
     </message>
     <message>
         <source>Meta+E, Meta+W</source>
@@ -53885,7 +53885,7 @@ A value less than 100% can result in overlapping and misaligned graphics.</sourc
     </message>
     <message>
         <source>Toggle Comment &amp;Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Växla kommentars&amp;markering</translation>
     </message>
     <message>
         <source>Copy &amp;Line</source>
@@ -53989,7 +53989,7 @@ A value less than 100% can result in overlapping and misaligned graphics.</sourc
     </message>
     <message>
         <source>Delete Word up to Cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort ord fram till markör</translation>
     </message>
     <message>
         <source>Delete Word Camel Case up to Cursor</source>
@@ -54009,11 +54009,11 @@ A value less than 100% can result in overlapping and misaligned graphics.</sourc
     </message>
     <message>
         <source>Go to Block Start with Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå till blockstart med markering</translation>
     </message>
     <message>
         <source>Go to Block End with Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå till blockslut med markering</translation>
     </message>
     <message>
         <source>Ctrl+}</source>
@@ -54021,7 +54021,7 @@ A value less than 100% can result in overlapping and misaligned graphics.</sourc
     </message>
     <message>
         <source>Select Block Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj block upp</translation>
     </message>
     <message>
         <source>Ctrl+U</source>
@@ -54029,7 +54029,7 @@ A value less than 100% can result in overlapping and misaligned graphics.</sourc
     </message>
     <message>
         <source>Select Block Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj block ner</translation>
     </message>
     <message>
         <source>Join Lines</source>
@@ -54081,7 +54081,7 @@ A value less than 100% can result in overlapping and misaligned graphics.</sourc
     </message>
     <message>
         <source>Follow Type Under Cursor in Next Split</source>
-        <translation type="unfinished"></translation>
+        <translation>Följ typen under markör i nästa delning</translation>
     </message>
     <message>
         <source>Meta+E, Shift+F2</source>
@@ -54093,7 +54093,7 @@ A value less than 100% can result in overlapping and misaligned graphics.</sourc
     </message>
     <message>
         <source>Find References to Symbol Under Cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>Hitta referenser till symbol under markör</translation>
     </message>
     <message>
         <source>Rename Symbol Under Cursor</source>
@@ -54109,7 +54109,7 @@ A value less than 100% can result in overlapping and misaligned graphics.</sourc
     </message>
     <message>
         <source>Jump to File Under Cursor in Next Split</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoppa till fil under markör i nästa delning</translation>
     </message>
     <message>
         <source>Open Call Hierarchy</source>
@@ -54129,7 +54129,7 @@ A value less than 100% can result in overlapping and misaligned graphics.</sourc
     </message>
     <message>
         <source>Move the View a Page Up and Keep the Cursor Position</source>
-        <translation type="unfinished"></translation>
+        <translation>Flytta vyn en sida upp och behåll markörposition</translation>
     </message>
     <message>
         <source>Ctrl+PgUp</source>
@@ -54137,7 +54137,7 @@ A value less than 100% can result in overlapping and misaligned graphics.</sourc
     </message>
     <message>
         <source>Move the View a Page Down and Keep the Cursor Position</source>
-        <translation type="unfinished"></translation>
+        <translation>Flytta vyn en sida ner och behåll markörposition</translation>
     </message>
     <message>
         <source>Ctrl+PgDown</source>
@@ -54145,7 +54145,7 @@ A value less than 100% can result in overlapping and misaligned graphics.</sourc
     </message>
     <message>
         <source>Move the View a Line Up and Keep the Cursor Position</source>
-        <translation type="unfinished"></translation>
+        <translation>Flytta vyn en rad upp och behåll markörens position</translation>
     </message>
     <message>
         <source>Ctrl+Up</source>
@@ -54153,7 +54153,7 @@ A value less than 100% can result in overlapping and misaligned graphics.</sourc
     </message>
     <message>
         <source>Move the View a Line Down and Keep the Cursor Position</source>
-        <translation type="unfinished"></translation>
+        <translation>Flytta vyn en rad ner och behåll markörens position</translation>
     </message>
     <message>
         <source>Ctrl+Down</source>
@@ -54169,7 +54169,7 @@ A value less than 100% can result in overlapping and misaligned graphics.</sourc
     </message>
     <message>
         <source>Auto-&amp;format Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatera markering a&amp;utomatiskt</translation>
     </message>
     <message>
         <source>Ctrl+;</source>
@@ -54177,7 +54177,7 @@ A value less than 100% can result in overlapping and misaligned graphics.</sourc
     </message>
     <message>
         <source>Copy With Highlighting</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera med framhävning</translation>
     </message>
     <message>
         <source>Create Cursors at Selected Line Ends</source>
@@ -54229,19 +54229,19 @@ A value less than 100% can result in overlapping and misaligned graphics.</sourc
     </message>
     <message>
         <source>Go to Previous Word (Camel Case)</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå till föregående ord (kamelnotation)</translation>
     </message>
     <message>
         <source>Go to Next Word (Camel Case)</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå till nästa ord (kamelnotation)</translation>
     </message>
     <message>
         <source>Go to Previous Word (Camel Case) with Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå till föregående ord (kamelnotation) med markering</translation>
     </message>
     <message>
         <source>Go to Next Word (Camel Case) with Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå till nästa ord (kamelnotation) med markering</translation>
     </message>
     <message>
         <source>Ctrl+Shift+Alt+U</source>
@@ -54281,7 +54281,7 @@ A value less than 100% can result in overlapping and misaligned graphics.</sourc
     </message>
     <message>
         <source>Follow Symbol Under Cursor in Next Split</source>
-        <translation type="unfinished"></translation>
+        <translation>Följ symbol under markör i nästa delning</translation>
     </message>
     <message>
         <source>Meta+E, F2</source>
@@ -54426,7 +54426,7 @@ Applied to text that matched no other rule.</source>
     </message>
     <message>
         <source>Line numbers located on the left side of the editor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Radnummer på vänstra sidan av redigeraren.</translation>
     </message>
     <message>
         <source>Search Result</source>
@@ -54465,7 +54465,7 @@ Used to mark containing function of the symbol usage.</source>
     </message>
     <message>
         <source>Search Scope</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökintervall</translation>
     </message>
     <message>
         <source>Section where the pattern is searched in.</source>
@@ -54481,7 +54481,7 @@ Used to mark containing function of the symbol usage.</source>
     </message>
     <message>
         <source>Mismatched Parentheses</source>
-        <translation type="unfinished"></translation>
+        <translation>Paranteser stämmer inte</translation>
     </message>
     <message>
         <source>Displayed when mismatched parentheses, square brackets, or curly brackets are found.</source>
@@ -54489,7 +54489,7 @@ Used to mark containing function of the symbol usage.</source>
     </message>
     <message>
         <source>Auto Complete</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisk komplettering</translation>
     </message>
     <message>
         <source>Displayed when a character is automatically inserted like brackets or quotes.</source>
@@ -54566,7 +54566,7 @@ Used to mark containing function of the symbol usage.</source>
     </message>
     <message>
         <source>Name of a type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Namnet på en typ.</translation>
     </message>
     <message>
         <source>Concept</source>
@@ -54634,7 +54634,7 @@ Used to mark containing function of the symbol usage.</source>
     </message>
     <message>
         <source>Function Definition</source>
-        <translation type="unfinished"></translation>
+        <translation>Funktionsdefinition</translation>
     </message>
     <message>
         <source>Name of function at its definition.</source>
@@ -54812,7 +54812,7 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>Warning Context</source>
-        <translation type="unfinished"></translation>
+        <translation>Varningskontext</translation>
     </message>
     <message>
         <source>Underline color of the contexts of warning diagnostics.</source>
@@ -54912,7 +54912,7 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>Name of a function.</source>
-        <translation type="unfinished"></translation>
+        <translation>Namnet på en funktion.</translation>
     </message>
     <message>
         <source>QML item id within a QML file.</source>
@@ -54936,7 +54936,7 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>QML Binding</source>
-        <translation type="unfinished"></translation>
+        <translation>QML-bindning</translation>
     </message>
     <message>
         <source>QML item property, that allows a binding to another property.</source>
@@ -54996,7 +54996,7 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>JavaScript Import</source>
-        <translation type="unfinished"></translation>
+        <translation>JavaScript-import</translation>
     </message>
     <message>
         <source>Name of a JavaScript import inside a QML file.</source>
@@ -55044,15 +55044,15 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>Doxygen Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Doxygen-kommentar</translation>
     </message>
     <message>
         <source>Doxygen comments.</source>
-        <translation type="unfinished"></translation>
+        <translation>Doxygen-kommentarer.</translation>
     </message>
     <message>
         <source>Doxygen Tag</source>
-        <translation type="unfinished"></translation>
+        <translation>Doxygen-tagg</translation>
     </message>
     <message>
         <source>Visual Whitespace</source>
@@ -55068,7 +55068,7 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>Added Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillagd rad</translation>
     </message>
     <message>
         <source>Applied to added lines in differences (in diff editor).</source>
@@ -55076,7 +55076,7 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>Removed Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Borttagen rad</translation>
     </message>
     <message>
         <source>Applied to removed lines in differences (in diff editor).</source>
@@ -55424,7 +55424,7 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>Code style name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kodstilsnamn:</translation>
     </message>
     <message>
         <source>%1 (Copy)</source>
@@ -55614,7 +55614,7 @@ Specifies how backspace interacts with indentation.
     </message>
     <message>
         <source>Hide mouse cursor while typing</source>
-        <translation type="unfinished"></translation>
+        <translation>Dölj muspekare vid skrivning</translation>
     </message>
     <message>
         <source>Enable smart selection changing</source>
@@ -55670,7 +55670,7 @@ Specifies how backspace interacts with indentation.
     </message>
     <message>
         <source>In entire &amp;document</source>
-        <translation type="unfinished"></translation>
+        <translation>I hela &amp;dokumentet</translation>
     </message>
     <message>
         <source>Clean indentation</source>
@@ -55690,7 +55690,7 @@ Specifies how backspace interacts with indentation.
     </message>
     <message>
         <source>Add If Encoding Is UTF-8</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till om kodning är UTF-8</translation>
     </message>
     <message>
         <source>Keep If Already Present</source>
@@ -55734,7 +55734,7 @@ Specifies how backspace interacts with indentation.
     </message>
     <message>
         <source>Default line endings:</source>
-        <translation type="unfinished"></translation>
+        <translation>Radslut som standard:</translation>
     </message>
     <message>
         <source>Show help tooltips using the mouse:</source>
@@ -55850,11 +55850,11 @@ Specifies how backspace interacts with indentation.
     </message>
     <message>
         <source>Wrapping</source>
-        <translation type="unfinished"></translation>
+        <translation>Brytning</translation>
     </message>
     <message>
         <source>Enable text &amp;wrapping</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivera text&amp;brytning</translation>
     </message>
     <message>
         <source>Display right &amp;margin at column:</source>
@@ -55862,7 +55862,7 @@ Specifies how backspace interacts with indentation.
     </message>
     <message>
         <source>Visualize indent</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualisera indrag</translation>
     </message>
     <message>
         <source>Display file line ending</source>
@@ -56084,12 +56084,12 @@ Influences the indentation of continuation lines.
     <message>
         <source>Test Case</source>
         <comment>group:&apos;C++&apos; trigger:&apos;BOOST_AUTO_TEST_CASE&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Testfall</translation>
     </message>
     <message>
         <source>Test Suite</source>
         <comment>group:&apos;C++&apos; trigger:&apos;BOOST_AUTO_TEST_SUITE&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Testsvit</translation>
     </message>
     <message>
         <source>Catch Test Case</source>
@@ -56221,7 +56221,7 @@ Influences the indentation of continuation lines.
     </message>
     <message>
         <source>Diff Against Current File</source>
-        <translation type="unfinished"></translation>
+        <translation>Diff mot aktuell fil</translation>
     </message>
     <message>
         <source>Opening File</source>
@@ -56261,7 +56261,7 @@ Influences the indentation of continuation lines.
     </message>
     <message>
         <source>Swap Views</source>
-        <translation type="unfinished"></translation>
+        <translation>Växla vyer</translation>
     </message>
     <message>
         <source>JSON Editor</source>
@@ -56269,11 +56269,11 @@ Influences the indentation of continuation lines.
     </message>
     <message>
         <source>Type Hierarchy</source>
-        <translation type="unfinished"></translation>
+        <translation>Typhierarki</translation>
     </message>
     <message>
         <source>No type hierarchy available</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen typhierarki tillgänglig</translation>
     </message>
     <message>
         <source>Reloads the type hierarchy for the symbol under the cursor.</source>
@@ -57910,7 +57910,7 @@ Lines starting with &quot;##&quot; will be treated as comments.</source>
     </message>
     <message>
         <source>Valgrind executable:</source>
-        <translation type="unfinished"></translation>
+        <translation>Körbar Valgrind-fil:</translation>
     </message>
     <message>
         <source>Backtrace frame count:</source>
@@ -58070,7 +58070,7 @@ With cache simulation, further event counters are enabled:
     </message>
     <message>
         <source>Valgrind Function Profiler</source>
-        <translation type="unfinished"></translation>
+        <translation>Valgrind-funktionsprofilerare</translation>
     </message>
     <message>
         <source>Callers</source>
@@ -58086,11 +58086,11 @@ With cache simulation, further event counters are enabled:
     </message>
     <message>
         <source>Valgrind Function Profiler uses the Callgrind tool to record function calls when a program runs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Valgrind-funktionsprofilerare använder Callgrind-verktyget för att spela in funktionsanrop när ett program kör.</translation>
     </message>
     <message>
         <source>Valgrind Function Profiler (External Application)</source>
-        <translation type="unfinished"></translation>
+        <translation>Valgrind-funktionsprofilerare (externt program)</translation>
     </message>
     <message>
         <source>Visualization</source>
@@ -58098,7 +58098,7 @@ With cache simulation, further event counters are enabled:
     </message>
     <message>
         <source>Load External XML Log File</source>
-        <translation type="unfinished"></translation>
+        <translation>Läs in extern XML-loggfil</translation>
     </message>
     <message>
         <source>Load External Log File</source>
@@ -58106,7 +58106,7 @@ With cache simulation, further event counters are enabled:
     </message>
     <message>
         <source>Open results in KCachegrind.</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna resultat i KCachegrind.</translation>
     </message>
     <message>
         <source>Request the dumping of profile information. This will update the Callgrind visualization.</source>
@@ -58254,7 +58254,7 @@ With cache simulation, further event counters are enabled:
     </message>
     <message>
         <source>Memcheck</source>
-        <translation type="unfinished"></translation>
+        <translation>Memcheck</translation>
     </message>
     <message>
         <source>External Errors</source>
@@ -58306,16 +58306,17 @@ With cache simulation, further event counters are enabled:
     </message>
     <message>
         <source>Valgrind Analyze Memory uses the Memcheck tool to find memory leaks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Valgrind minnesanalyserare använder Memcheck-verktyget för att hitta minnesläckor.</translation>
     </message>
     <message>
         <source>Valgrind Memory Analyzer with GDB</source>
-        <translation type="unfinished"></translation>
+        <translation>Valgrind minnesanalyserare med GDB</translation>
     </message>
     <message>
         <source>Valgrind Analyze Memory with GDB uses the Memcheck tool to find memory leaks.
 When a problem is detected, the application is interrupted and can be debugged.</source>
-        <translation type="unfinished"></translation>
+        <translation>Valgrind minnesanalyserare med GDB använder Memcheck-verktyget för att hitta minnesläckor.
+När ett problem upptäcks kommer programmet att avbrytas och kan felsökas.</translation>
     </message>
     <message>
         <source>Heob</source>
@@ -58327,7 +58328,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
     </message>
     <message>
         <source>Valgrind Memory Analyzer (External Application)</source>
-        <translation type="unfinished"></translation>
+        <translation>Valgrind minnesanalyserare (externt program)</translation>
     </message>
     <message>
         <source>Heob: No local run configuration available.</source>
@@ -58359,15 +58360,15 @@ When a problem is detected, the application is interrupted and can be debugged.<
     </message>
     <message>
         <source>A Valgrind Memcheck analysis is still in progress.</source>
-        <translation type="unfinished"></translation>
+        <translation>En Valgrind Memcheck-analys pågår fortfarande.</translation>
     </message>
     <message>
         <source>Start a Valgrind Memcheck analysis.</source>
-        <translation type="unfinished"></translation>
+        <translation>Starta en Valgrind Memcheck-analys.</translation>
     </message>
     <message>
         <source>Start a Valgrind Memcheck with GDB analysis.</source>
-        <translation type="unfinished"></translation>
+        <translation>Starta en Valgrind Memcheck med GDB-analys.</translation>
     </message>
     <message>
         <source>Open Memcheck XML Log File</source>
@@ -58379,24 +58380,24 @@ When a problem is detected, the application is interrupted and can be debugged.<
     </message>
     <message>
         <source>Memcheck: Failed to open file for reading: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Memcheck: Misslyckades med att öppna filen för läsning: %1</translation>
     </message>
     <message>
         <source>Memcheck: Error occurred parsing Valgrind output: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Memcheck: Fel inträffade vid tolkning av Valgrind-utdata: %1</translation>
     </message>
     <message numerus="yes">
         <source>Memory Analyzer Tool finished. %n issues were found.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Minnesanalysverktyget är färdigt. %n problem hittades.</numerusform>
+            <numerusform>Minnesanalysverktyget är färdigt. %n problem hittades.</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Log file processed. %n issues were found.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Loggfilen behandlad. %n problem hittades.</numerusform>
+            <numerusform>Loggfilen behandlad. %n problem hittades.</numerusform>
         </translation>
     </message>
     <message>
@@ -58545,7 +58546,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
     </message>
     <message>
         <source>Process finished with exit code %1 (0x%2).</source>
-        <translation type="unfinished"></translation>
+        <translation>Processen färdigställdes med avslutskod %1 (0x%2).</translation>
     </message>
     <message>
         <source>Unknown argument: -%1</source>
@@ -58565,7 +58566,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
     </message>
     <message>
         <source>Only works with dynamically linked CRT.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fungerar endast med dynamiskt länkad CRT.</translation>
     </message>
     <message>
         <source>Process stopped with unhandled exception code 0x%1.</source>
@@ -58573,7 +58574,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
     </message>
     <message>
         <source>Not enough memory to keep track of allocations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inte tillräckligt med minne för att hålla koll på allokeringar.</translation>
     </message>
     <message>
         <source>Application stopped unexpectedly.</source>
@@ -58649,7 +58650,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
     </message>
     <message>
         <source>Failed opening temp file...</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att öppna temporärfil...</translation>
     </message>
     <message>
         <source>Function:</source>
@@ -58736,7 +58737,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
     </message>
     <message>
         <source>Cache</source>
-        <translation type="unfinished"></translation>
+        <translation>Cache</translation>
     </message>
     <message>
         <source>Conditional branches</source>
@@ -58752,11 +58753,11 @@ When a problem is detected, the application is interrupted and can be debugged.<
     </message>
     <message>
         <source>read</source>
-        <translation>Läs</translation>
+        <translation>läs</translation>
     </message>
     <message>
         <source>write</source>
-        <translation type="unfinished"></translation>
+        <translation>skriv</translation>
     </message>
     <message>
         <source>mispredicted</source>
@@ -58772,7 +58773,7 @@ When a problem is detected, the application is interrupted and can be debugged.<
     </message>
     <message>
         <source>access</source>
-        <translation type="unfinished"></translation>
+        <translation>åtkomst</translation>
     </message>
     <message>
         <source>Line:</source>
@@ -58834,7 +58835,7 @@ Check settings or ensure Valgrind is installed and available in PATH.</source>
     </message>
     <message>
         <source>Valgrind Memory Analyzer</source>
-        <translation type="unfinished"></translation>
+        <translation>Valgrind minnesanalyserare</translation>
     </message>
     <message>
         <source>Profile Costs of This Function and Its Callees</source>
