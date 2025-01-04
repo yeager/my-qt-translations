@@ -2218,19 +2218,19 @@ Vill du ta bort den ändå?</translation>
     </message>
     <message>
         <source>unimplemented: PN_XNUM program headers</source>
-        <translation type="unfinished"></translation>
+        <translation>inte implementerat: PN_XNUM-programrubriker</translation>
     </message>
     <message>
         <source>program header table extends past the end of the file</source>
-        <translation type="unfinished"></translation>
+        <translation>programrubrikstabell sträcker sig över filens slut</translation>
     </message>
     <message>
         <source>a program header entry extends past the end of the file</source>
-        <translation type="unfinished"></translation>
+        <translation>en programrubrikspost sträcker sig över slutet på filen</translation>
     </message>
     <message>
         <source>a note segment start is not properly aligned (offset 0x%1, alignment %2)</source>
-        <translation type="unfinished"></translation>
+        <translation>en note-segmentstart är inte korrekt justerad (offset 0x%1, justering %2)</translation>
     </message>
     <message>
         <source>section table extends past the end of the file</source>
@@ -2238,7 +2238,7 @@ Vill du ta bort den ändå?</translation>
     </message>
     <message>
         <source>section header string table extends past the end of the file</source>
-        <translation type="unfinished"></translation>
+        <translation>strängtabell för sektionshuvud sträcker sig över filens slut</translation>
     </message>
     <message>
         <source>a section name extends past the end of the file</source>
@@ -2250,7 +2250,7 @@ Vill du ta bort den ändå?</translation>
     </message>
     <message>
         <source>unexpected program header entry size (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>oväntad storlek för programrubrikpost (%1)</translation>
     </message>
     <message>
         <source>unexpected section entry size (%1)</source>
@@ -2282,7 +2282,7 @@ Vill du ta bort den ändå?</translation>
     </message>
     <message>
         <source>entrypoint to query the plugin meta data not found</source>
-        <translation type="unfinished"></translation>
+        <translation>ingångspunkt för fråga efter insticksmodulens metadata hittades inte</translation>
     </message>
     <message>
         <source>The file &apos;%1&apos; is not a valid Qt plugin.</source>
@@ -4321,27 +4321,27 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>numbers out of order in {} quantifier</source>
-        <translation type="unfinished"></translation>
+        <translation>antalet är i fel ordning i {}-kvantifierare</translation>
     </message>
     <message>
         <source>number too big in {} quantifier</source>
-        <translation type="unfinished"></translation>
+        <translation>antal för stort i {}-kvantifierare</translation>
     </message>
     <message>
         <source>missing terminating ] for character class</source>
-        <translation type="unfinished"></translation>
+        <translation>saknar avslutande ] för teckenklass</translation>
     </message>
     <message>
         <source>escape sequence is invalid in character class</source>
-        <translation type="unfinished"></translation>
+        <translation>escape-sekvens är ogiltig i teckenklass</translation>
     </message>
     <message>
         <source>range out of order in character class</source>
-        <translation type="unfinished"></translation>
+        <translation>intervallet är i fel ordning i teckenklass</translation>
     </message>
     <message>
         <source>quantifier does not follow a repeatable item</source>
-        <translation type="unfinished"></translation>
+        <translation>kvantifierare följer inte ett upprepande objekt</translation>
     </message>
     <message>
         <source>internal error: unexpected repeat</source>
@@ -4357,7 +4357,7 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>POSIX collating elements are not supported</source>
-        <translation type="unfinished"></translation>
+        <translation>POSIX sammanställande element stöds inte</translation>
     </message>
     <message>
         <source>missing closing parenthesis</source>
@@ -4373,7 +4373,7 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>unrecognised compile-time option bit(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>okänd compile-time option bit(ar)</translation>
     </message>
     <message>
         <source>missing ) after (?# comment</source>
@@ -4389,7 +4389,7 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>failed to allocate heap memory</source>
-        <translation type="unfinished"></translation>
+        <translation>misslyckades med att allokera heap-minne</translation>
     </message>
     <message>
         <source>unmatched closing parenthesis</source>
@@ -4405,7 +4405,7 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>lookbehind assertion is not fixed length</source>
-        <translation type="unfinished"></translation>
+        <translation>lookbehind-assertion har ingen fast längd</translation>
     </message>
     <message>
         <source>a relative value of zero is not allowed</source>
@@ -4413,11 +4413,11 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>conditional subpattern contains more than two branches</source>
-        <translation type="unfinished"></translation>
+        <translation>villkorligt undermönster innehåller fler än två grenar</translation>
     </message>
     <message>
         <source>assertion expected after (?( or (?(?C)</source>
-        <translation type="unfinished"></translation>
+        <translation>assertion förväntades efter (?( eller (?(?C)</translation>
     </message>
     <message>
         <source>digit expected after (?+ or (?-</source>
@@ -4437,11 +4437,11 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>parentheses are too deeply nested (stack check)</source>
-        <translation type="unfinished"></translation>
+        <translation>parenteser är för djupt nästlade (stackkontroll)</translation>
     </message>
     <message>
         <source>character code point value in \x{} or \o{} is too large</source>
-        <translation type="unfinished"></translation>
+        <translation>värdet för teckenkodpunkt i \x{} eller \o{} är för stort</translation>
     </message>
     <message>
         <source>lookbehind is too complicated</source>
@@ -4449,7 +4449,7 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>\C is not allowed in a lookbehind assertion in UTF-16 mode</source>
-        <translation type="unfinished"></translation>
+        <translation>\C är inte tillåtet i en lookbehind-assertion i UTF-16-läget</translation>
     </message>
     <message>
         <source>PCRE2 does not support \F, \L, \l, \N{name}, \U, or \u</source>
@@ -4457,15 +4457,15 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>number after (?C is greater than 255</source>
-        <translation type="unfinished"></translation>
+        <translation>tal efter (?C är större än 255</translation>
     </message>
     <message>
         <source>closing parenthesis for (?C expected</source>
-        <translation type="unfinished"></translation>
+        <translation>avslutande parentes för (?C förväntades</translation>
     </message>
     <message>
         <source>invalid escape sequence in (*VERB) name</source>
-        <translation type="unfinished"></translation>
+        <translation>ogiltig escape-sekvens i (*VERB)-namn</translation>
     </message>
     <message>
         <source>unrecognized character after (?P</source>
@@ -4473,7 +4473,7 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>syntax error in subpattern name (missing terminator?)</source>
-        <translation type="unfinished"></translation>
+        <translation>syntaxfel i undermönsternamnet (saknar avslut?)</translation>
     </message>
     <message>
         <source>two named subpatterns have the same name (PCRE2_DUPNAMES not set)</source>
@@ -4513,19 +4513,19 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>internal error: overran compiling workspace</source>
-        <translation type="unfinished"></translation>
+        <translation>internt fel: överskridit kompileringsarbetsytan</translation>
     </message>
     <message>
         <source>internal error: previously-checked referenced subpattern not found</source>
-        <translation type="unfinished"></translation>
+        <translation>internt fel: tidigare kontrollerat refererande undermönster hittades inte</translation>
     </message>
     <message>
         <source>DEFINE subpattern contains more than one branch</source>
-        <translation type="unfinished"></translation>
+        <translation>DEFINE-undermönster innehåller fler än en gren</translation>
     </message>
     <message>
         <source>missing opening brace after \o</source>
-        <translation type="unfinished"></translation>
+        <translation>saknar öppnande klammer efter \o</translation>
     </message>
     <message>
         <source>internal error: unknown newline setting</source>
@@ -4533,11 +4533,11 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>\g is not followed by a braced, angle-bracketed, or quoted name/number or by a plain number</source>
-        <translation type="unfinished"></translation>
+        <translation>\g följs inte av en klammer, vinkelparentes eller citerat namn/nummer eller av ett vanligt nummer</translation>
     </message>
     <message>
         <source>(?R (recursive pattern call) must be followed by a closing parenthesis</source>
-        <translation type="unfinished"></translation>
+        <translation>(?R (rekursivt mönsteranrop) måste efterföljas av en stängande parentes</translation>
     </message>
     <message>
         <source>obsolete error (should not occur)</source>
@@ -4549,7 +4549,7 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>subpattern number is too big</source>
-        <translation type="unfinished"></translation>
+        <translation>undermönsternummer är för stort</translation>
     </message>
     <message>
         <source>subpattern name expected</source>
@@ -4573,7 +4573,7 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>non-hex character in \x{} (closing brace missing?)</source>
-        <translation type="unfinished"></translation>
+        <translation>icke-hexadecimalt tecken i \x{} (saknas stängande klammer?)</translation>
     </message>
     <message>
         <source>\c must be followed by a printable ASCII character</source>
@@ -4585,7 +4585,7 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>\k is not followed by a braced, angle-bracketed, or quoted name</source>
-        <translation type="unfinished"></translation>
+        <translation>\k efterföljs inte av en klammer-, vinkelparentes eller citerat namn</translation>
     </message>
     <message>
         <source>internal error: unknown meta code in check_lookbehinds()</source>
@@ -4597,11 +4597,11 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>callout string is too long</source>
-        <translation type="unfinished"></translation>
+        <translation>callout-sträng är för lång</translation>
     </message>
     <message>
         <source>disallowed Unicode code point (&gt;= 0xd800 &amp;&amp; &lt;= 0xdfff)</source>
-        <translation type="unfinished"></translation>
+        <translation>otillåten Unicode-kodpunkt (&gt;= 0xd800 &amp;&amp; &lt;= 0xdfff)</translation>
     </message>
     <message>
         <source>using UTF is disabled by the application</source>
@@ -4617,7 +4617,7 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>character code point value in \u.... sequence is too large</source>
-        <translation type="unfinished"></translation>
+        <translation>värdet för teckenkodpunkt i \u....-sekvensen är för stort</translation>
     </message>
     <message>
         <source>digits missing in \x{} or \o{} or \N{U+}</source>
@@ -4633,11 +4633,11 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>missing terminating delimiter for callout with string argument</source>
-        <translation type="unfinished"></translation>
+        <translation>saknar avslutande avgränsare för callout med strängargument</translation>
     </message>
     <message>
         <source>unrecognized string delimiter follows (?C</source>
-        <translation type="unfinished"></translation>
+        <translation>okänd strängavgränsare följer (?C</translation>
     </message>
     <message>
         <source>using \C is disabled by the application</source>
@@ -4657,11 +4657,11 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>lookbehind assertion is too long</source>
-        <translation type="unfinished"></translation>
+        <translation>lookbehind-assertion är för lång</translation>
     </message>
     <message>
         <source>pattern string is longer than the limit set by the application</source>
-        <translation type="unfinished"></translation>
+        <translation>mönstersträng är längre än gränsen inställd av programmet</translation>
     </message>
     <message>
         <source>internal error: unknown code in parsed pattern</source>
@@ -4669,7 +4669,7 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>internal error: bad code value in parsed_skip()</source>
-        <translation type="unfinished"></translation>
+        <translation>internt fel: felaktigt kodvärde i parsed_skip()</translation>
     </message>
     <message>
         <source>PCRE2_EXTRA_ALLOW_SURROGATE_ESCAPES is not allowed in UTF-16 mode</source>
@@ -4677,7 +4677,7 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>invalid option bits with PCRE2_LITERAL</source>
-        <translation type="unfinished"></translation>
+        <translation>ogiltiga option-bitar med PCRE2_LITERAL</translation>
     </message>
     <message>
         <source>\N{U+dddd} is supported only in Unicode (UTF) mode</source>
@@ -4685,7 +4685,7 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>invalid hyphen in option setting</source>
-        <translation type="unfinished"></translation>
+        <translation>ogiltigt bindestreck i option-inställning</translation>
     </message>
     <message>
         <source>(*alpha_assertion) not recognized</source>
@@ -4697,11 +4697,11 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>too many capturing groups (maximum 65535)</source>
-        <translation type="unfinished"></translation>
+        <translation>för många fångade grupper (maximalt 65535)</translation>
     </message>
     <message>
         <source>atomic assertion expected after (?( or (?(?C)</source>
-        <translation type="unfinished"></translation>
+        <translation>atomic assertion förväntades efter (?( eller (?(?C)</translation>
     </message>
     <message>
         <source>no match</source>
@@ -4733,87 +4733,87 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>UTF-8 error: byte 2 top bits not 0x80</source>
-        <translation type="unfinished"></translation>
+        <translation>UTF-8-fel: byte 2 top bits inte 0x80</translation>
     </message>
     <message>
         <source>UTF-8 error: byte 3 top bits not 0x80</source>
-        <translation type="unfinished"></translation>
+        <translation>UTF-8-fel: byte 3 top bits inte 0x80</translation>
     </message>
     <message>
         <source>UTF-8 error: byte 4 top bits not 0x80</source>
-        <translation type="unfinished"></translation>
+        <translation>UTF-8-fel: byte 4 top bits inte 0x80</translation>
     </message>
     <message>
         <source>UTF-8 error: byte 5 top bits not 0x80</source>
-        <translation type="unfinished"></translation>
+        <translation>UTF-8-fel: byte 5 top bits inte 0x80</translation>
     </message>
     <message>
         <source>UTF-8 error: byte 6 top bits not 0x80</source>
-        <translation type="unfinished"></translation>
+        <translation>UTF-8-fel: byte 6 top bits inte 0x80</translation>
     </message>
     <message>
         <source>UTF-8 error: 5-byte character is not allowed (RFC 3629)</source>
-        <translation type="unfinished"></translation>
+        <translation>UTF-8-fel: 5-byte-tecken tillåts inte (RFC 3629)</translation>
     </message>
     <message>
         <source>UTF-8 error: 6-byte character is not allowed (RFC 3629)</source>
-        <translation type="unfinished"></translation>
+        <translation>UTF-8-fel: 6-byte-tecken tillåts inte (RFC 3629)</translation>
     </message>
     <message>
         <source>UTF-8 error: code points greater than 0x10ffff are not defined</source>
-        <translation type="unfinished"></translation>
+        <translation>UTF-8-fel: kodpunkter större än 0x10ffff är inte definierade</translation>
     </message>
     <message>
         <source>UTF-8 error: code points 0xd800-0xdfff are not defined</source>
-        <translation type="unfinished"></translation>
+        <translation>UTF-8-fel: kodpunkterna 0xd800-0xdfff är inte definierade</translation>
     </message>
     <message>
         <source>UTF-8 error: overlong 2-byte sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>UTF-8-fel: overlong 2-byte-sekvens</translation>
     </message>
     <message>
         <source>UTF-8 error: overlong 3-byte sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>UTF-8-fel: overlong 3-byte-sekvens</translation>
     </message>
     <message>
         <source>UTF-8 error: overlong 4-byte sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>UTF-8-fel: overlong 4-byte-sekvens</translation>
     </message>
     <message>
         <source>UTF-8 error: overlong 5-byte sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>UTF-8-fel: overlong 5-byte-sekvens</translation>
     </message>
     <message>
         <source>UTF-8 error: overlong 6-byte sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>UTF-8-fel: overlong 6-byte-sekvens</translation>
     </message>
     <message>
         <source>UTF-8 error: isolated byte with 0x80 bit set</source>
-        <translation type="unfinished"></translation>
+        <translation>UTF-8-fel: isolerad byte med 0x80 bit inställd</translation>
     </message>
     <message>
         <source>UTF-8 error: illegal byte (0xfe or 0xff)</source>
-        <translation type="unfinished"></translation>
+        <translation>UTF-8-fel: otillåten byte (0xfe eller 0xff)</translation>
     </message>
     <message>
         <source>UTF-16 error: missing low surrogate at end</source>
-        <translation type="unfinished"></translation>
+        <translation>UTF-16-fel: saknar låg surrogat på slutet</translation>
     </message>
     <message>
         <source>UTF-16 error: invalid low surrogate</source>
-        <translation type="unfinished"></translation>
+        <translation>UTF-16-fel: ogiltig låg surrogat</translation>
     </message>
     <message>
         <source>UTF-16 error: isolated low surrogate</source>
-        <translation type="unfinished"></translation>
+        <translation>UTF-16-fel: isolerad låg surrogat</translation>
     </message>
     <message>
         <source>UTF-32 error: code points 0xd800-0xdfff are not defined</source>
-        <translation type="unfinished"></translation>
+        <translation>UTF-32-fel: kodpunkterna 0xd800-0xdfff är inte definierade</translation>
     </message>
     <message>
         <source>UTF-32 error: code points greater than 0x10ffff are not defined</source>
-        <translation type="unfinished"></translation>
+        <translation>UTF-32-fel: kodpunkter större än 0x10ffff är inte definierade</translation>
     </message>
     <message>
         <source>bad data value</source>
@@ -4825,7 +4825,7 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>magic number missing</source>
-        <translation type="unfinished"></translation>
+        <translation>magic number saknas</translation>
     </message>
     <message>
         <source>pattern compiled in wrong mode: 8/16/32-bit error</source>
@@ -4833,11 +4833,11 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>bad offset value</source>
-        <translation type="unfinished"></translation>
+        <translation>felaktigt offset-värde</translation>
     </message>
     <message>
         <source>bad option value</source>
-        <translation type="unfinished"></translation>
+        <translation>felaktigt option-värde</translation>
     </message>
     <message>
         <source>invalid replacement string</source>
@@ -4845,15 +4845,15 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>bad offset into UTF string</source>
-        <translation type="unfinished"></translation>
+        <translation>felaktig offset till UTF-sträng</translation>
     </message>
     <message>
         <source>callout error code</source>
-        <translation type="unfinished"></translation>
+        <translation>callout-felkod</translation>
     </message>
     <message>
         <source>invalid data in workspace for DFA restart</source>
-        <translation type="unfinished"></translation>
+        <translation>ogiltigt data i arbetsyta för DFA-omstart</translation>
     </message>
     <message>
         <source>too much recursion for DFA matching</source>
@@ -4861,7 +4861,7 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>backreference condition or recursion test is not supported for DFA matching</source>
-        <translation type="unfinished"></translation>
+        <translation>backreference-villkor eller rekursionstest stöds inte för DFA-matchning</translation>
     </message>
     <message>
         <source>function is not supported for DFA matching</source>
@@ -4869,11 +4869,11 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>pattern contains an item that is not supported for DFA matching</source>
-        <translation type="unfinished"></translation>
+        <translation>mönster innehåller ett objekt som inte stöds för DFA-matchning</translation>
     </message>
     <message>
         <source>workspace size exceeded in DFA matching</source>
-        <translation type="unfinished"></translation>
+        <translation>arbetsytans storlek överstigs i DFA-matchning</translation>
     </message>
     <message>
         <source>internal error - pattern overwritten?</source>
@@ -4881,11 +4881,11 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>bad JIT option</source>
-        <translation type="unfinished"></translation>
+        <translation>felaktigt JIT-alternativ</translation>
     </message>
     <message>
         <source>JIT stack limit reached</source>
-        <translation type="unfinished"></translation>
+        <translation>gräns för JIT-stack nåddes</translation>
     </message>
     <message>
         <source>match limit exceeded</source>
@@ -4905,11 +4905,11 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>NULL argument passed</source>
-        <translation type="unfinished"></translation>
+        <translation>NULL-argument skickades</translation>
     </message>
     <message>
         <source>nested recursion at the same subject position</source>
-        <translation type="unfinished"></translation>
+        <translation>nästlad rekursion på samma ämnesposition</translation>
     </message>
     <message>
         <source>matching depth limit exceeded</source>
@@ -4925,19 +4925,19 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>offset limit set without PCRE2_USE_OFFSET_LIMIT</source>
-        <translation type="unfinished"></translation>
+        <translation>offset-gräns inställd utan PCRE2_USE_OFFSET_LIMIT</translation>
     </message>
     <message>
         <source>bad escape sequence in replacement string</source>
-        <translation type="unfinished"></translation>
+        <translation>felaktig escape-sekvens i ersättningssträng</translation>
     </message>
     <message>
         <source>expected closing curly bracket in replacement string</source>
-        <translation type="unfinished"></translation>
+        <translation>förväntade stängande klammerparentes i ersättningssträng</translation>
     </message>
     <message>
         <source>bad substitution in replacement string</source>
-        <translation type="unfinished"></translation>
+        <translation>felaktig ersättning i ersättningssträng</translation>
     </message>
     <message>
         <source>match with end before start or start moved backwards is not supported</source>
@@ -4949,11 +4949,11 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>bad serialized data</source>
-        <translation type="unfinished"></translation>
+        <translation>felaktigt serialiserat data</translation>
     </message>
     <message>
         <source>heap limit exceeded</source>
-        <translation type="unfinished"></translation>
+        <translation>heap-gräns överstegs</translation>
     </message>
     <message>
         <source>invalid syntax</source>
@@ -4961,7 +4961,7 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>internal error - duplicate substitution match</source>
-        <translation type="unfinished"></translation>
+        <translation>internt fel - dubblett av ersättningsmatchning</translation>
     </message>
     <message>
         <source>PCRE2_MATCH_INVALID_UTF is not supported for DFA matching</source>
@@ -4969,7 +4969,7 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>INTERNAL ERROR: invalid substring offset</source>
-        <translation type="unfinished"></translation>
+        <translation>INTERNT FEL: ogiltig substring-offset</translation>
     </message>
 </context>
 <context>
