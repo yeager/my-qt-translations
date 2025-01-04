@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="sv">
+<TS version="2.1" language="sv_SE">
 <context>
     <name>AbstractButtonSection</name>
     <message>
@@ -182,7 +182,7 @@
     </message>
     <message>
         <source>Current</source>
-        <translation type="unfinished">Aktuell</translation>
+        <translation>Aktuell</translation>
     </message>
     <message>
         <source>The index of the current item.</source>
@@ -330,7 +330,7 @@
     </message>
     <message>
         <source>Title</source>
-        <translation type="unfinished">Titel</translation>
+        <translation>Titel</translation>
     </message>
     <message>
         <source>The title of the group box.</source>
@@ -426,7 +426,7 @@
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished">Vänster</translation>
+        <translation>Vänster</translation>
     </message>
     <message>
         <source>Padding between the content and the left edge of the control.</source>
@@ -434,7 +434,7 @@
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished">Höger</translation>
+        <translation>Höger</translation>
     </message>
     <message>
         <source>Padding between the content and the right edge of the control.</source>
@@ -465,7 +465,7 @@
     </message>
     <message>
         <source>Current</source>
-        <translation type="unfinished">Aktuell</translation>
+        <translation>Aktuell</translation>
     </message>
     <message>
         <source>The index of the current page.</source>
@@ -964,7 +964,7 @@
     </message>
     <message>
         <source>Position</source>
-        <translation type="unfinished"></translation>
+        <translation>Position</translation>
     </message>
     <message>
         <source>Position of the toolbar.</source>

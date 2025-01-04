@@ -52,7 +52,7 @@
     </message>
     <message>
         <source>Cannot create empty component specification</source>
-        <translation type="unfinished">Kan inte skapa tom komponentspecifikation</translation>
+        <translation>Kan inte skapa tom komponentspecifikation</translation>
     </message>
     <message>
         <source>Component elements may not contain properties other than id</source>
@@ -64,7 +64,7 @@
     </message>
     <message>
         <source>id is not unique</source>
-        <translation type="unfinished">id är inte unikt</translation>
+        <translation>id är inte unikt</translation>
     </message>
     <message>
         <source>Circular alias reference detected</source>
@@ -76,7 +76,7 @@
     </message>
     <message>
         <source>Invalid alias target location: %1</source>
-        <translation type="unfinished">Ogiltig alias target location: %1</translation>
+        <translation>Ogiltig alias target location: %1</translation>
     </message>
 </context>
 <context>
@@ -1447,31 +1447,31 @@ Install a driver providing OpenGL 2.0 or higher, or, if this is not possible, ma
     <name>SignalHandlerConverter</name>
     <message>
         <source>Non-existent attached object</source>
-        <translation type="unfinished">Icke-existerande fäst objekt</translation>
+        <translation>Icke-existerande fäst objekt</translation>
     </message>
     <message>
         <source>Signal uses unnamed parameter followed by named parameter.</source>
-        <translation type="unfinished">Signal använder namnlös parameter följt av namngiven parameter.</translation>
+        <translation>Signal använder namnlös parameter följt av namngiven parameter.</translation>
     </message>
     <message>
         <source>Signal parameter &quot;%1&quot; hides global variable.</source>
-        <translation type="unfinished">Signalparameter &quot;%1&quot; döljer global variabel.</translation>
+        <translation>Signalparameter &quot;%1&quot; döljer global variabel.</translation>
     </message>
     <message>
         <source>&quot;%1.%2&quot; is not available in %3 %4.%5.</source>
-        <translation type="unfinished">&quot;%1.%2&quot; är inte tillgänglig i %3 %4.%5.</translation>
+        <translation>&quot;%1.%2&quot; är inte tillgänglig i %3 %4.%5.</translation>
     </message>
     <message>
         <source>&quot;%1.%2&quot; is not available due to component versioning.</source>
-        <translation type="unfinished">&quot;%1.%2&quot; är inte tillgängliga på grund av component versioning.</translation>
+        <translation>&quot;%1.%2&quot; är inte tillgängliga på grund av component versioning.</translation>
     </message>
     <message>
         <source>Cannot assign a value to a signal (expecting a script to be run)</source>
-        <translation type="unfinished">Kan inte tilldela ett värde till en signal (förväntar ett skript att köras)</translation>
+        <translation>Kan inte tilldela ett värde till en signal (förväntar ett skript att köras)</translation>
     </message>
     <message>
         <source>Incorrectly specified signal assignment</source>
-        <translation type="unfinished">Felaktigt angiven signaltilldelning</translation>
+        <translation>Felaktigt angiven signaltilldelning</translation>
     </message>
 </context>
 <context>
