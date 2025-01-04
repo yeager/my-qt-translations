@@ -5,7 +5,7 @@
     <name>%1: key is empty</name>
     <message>
         <source>QSystemSemaphore</source>
-        <translation type="unfinished"></translation>
+        <translation>QSystemSemaphore</translation>
     </message>
 </context>
 <context>
@@ -232,7 +232,7 @@
     <name>QApplication</name>
     <message>
         <source>Executable &apos;%1&apos; requires Qt %2, found Qt %3.</source>
-        <translation type="unfinished"></translation>
+        <translation>Körbara filen &quot;%1&quot; kräver Qt %2, hittade Qt %3.</translation>
     </message>
     <message>
         <source>Incompatible Qt Library Error</source>
@@ -389,7 +389,7 @@ Tryck ESC för att avbryta</translation>
     </message>
     <message>
         <source>Displays help including Qt specific options.</source>
-        <translation type="unfinished"></translation>
+        <translation>Visar hjälp inklusive Qt-specifika alternativ.</translation>
     </message>
     <message>
         <source>Unknown option &apos;%1&apos;.</source>
@@ -429,17 +429,17 @@ Tryck ESC för att avbryta</translation>
     <message>
         <source>%1: key is empty</source>
         <comment>QSystemSemaphore</comment>
-        <translation type="unfinished">%1: nyckeln är tom</translation>
+        <translation>%1: nyckeln är tom</translation>
     </message>
     <message>
         <source>%1: unable to make key</source>
         <comment>QSystemSemaphore</comment>
-        <translation type="unfinished">%1: kunde inte skapa nyckel</translation>
+        <translation>%1: kunde inte skapa nyckel</translation>
     </message>
     <message>
         <source>%1: ftok failed</source>
         <comment>QSystemSemaphore</comment>
-        <translation type="unfinished">%1: ftok misslyckades</translation>
+        <translation>%1: ftok misslyckades</translation>
     </message>
 </context>
 <context>
@@ -626,19 +626,19 @@ Tryck ESC för att avbryta</translation>
     <name>QDateTimeParser</name>
     <message>
         <source>AM</source>
-        <translation type="unfinished"></translation>
+        <translation>AM</translation>
     </message>
     <message>
         <source>am</source>
-        <translation type="unfinished"></translation>
+        <translation>am</translation>
     </message>
     <message>
         <source>PM</source>
-        <translation type="unfinished"></translation>
+        <translation>PM</translation>
     </message>
     <message>
         <source>pm</source>
-        <translation type="unfinished"></translation>
+        <translation>pm</translation>
     </message>
 </context>
 <context>
@@ -659,25 +659,25 @@ Tryck ESC för att avbryta</translation>
     <name>QDirModel</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Namn</translation>
+        <translation>Namn</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Storlek</translation>
+        <translation>Storlek</translation>
     </message>
     <message>
         <source>Kind</source>
         <comment>Match OS X Finder</comment>
-        <translation type="unfinished">Typ</translation>
+        <translation>Typ</translation>
     </message>
     <message>
         <source>Type</source>
         <comment>All other platforms</comment>
-        <translation type="unfinished">Typ</translation>
+        <translation>Typ</translation>
     </message>
     <message>
         <source>Date Modified</source>
-        <translation type="unfinished">Datum ändrad</translation>
+        <translation>Datum ändrad</translation>
     </message>
 </context>
 <context>
@@ -691,99 +691,99 @@ Tryck ESC för att avbryta</translation>
     <name>QDnsLookupRunnable</name>
     <message>
         <source>IPv6 addresses for nameservers are currently not supported</source>
-        <translation type="unfinished"></translation>
+        <translation>IPv6-adresser för namnservrar stöds för närvarande inte</translation>
     </message>
     <message>
         <source>Invalid domain name</source>
-        <translation type="unfinished">Ogiltigt domännamn</translation>
+        <translation>Ogiltigt domännamn</translation>
     </message>
     <message>
         <source>Not yet supported on Android</source>
-        <translation type="unfinished"></translation>
+        <translation>Stöds ännu inte på Android</translation>
     </message>
     <message>
         <source>Resolver functions not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppslagsfunktioner hittades inte</translation>
     </message>
     <message>
         <source>Resolver initialization failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Initiering av uppslag misslyckades</translation>
     </message>
     <message>
         <source>Server could not process query</source>
-        <translation type="unfinished">Servern kunde inte behandla frågesats</translation>
+        <translation>Servern kunde inte behandla frågesats</translation>
     </message>
     <message>
         <source>Server failure</source>
-        <translation type="unfinished">Serverfel</translation>
+        <translation>Serverfel</translation>
     </message>
     <message>
         <source>Non existent domain</source>
-        <translation type="unfinished">Icke-existerande domän</translation>
+        <translation>Icke-existerande domän</translation>
     </message>
     <message>
         <source>Server refused to answer</source>
-        <translation type="unfinished">Servern vägrade svara</translation>
+        <translation>Servern vägrade svara</translation>
     </message>
     <message>
         <source>Invalid reply received</source>
-        <translation type="unfinished">Ogiltigt svar togs emot</translation>
+        <translation>Ogiltigt svar togs emot</translation>
     </message>
     <message>
         <source>Could not expand domain name</source>
-        <translation type="unfinished">Kunde inte expandera domännamn</translation>
+        <translation>Kunde inte expandera domännamn</translation>
     </message>
     <message>
         <source>Invalid IPv4 address record</source>
-        <translation type="unfinished">Ogiltig IPv4-adresspost</translation>
+        <translation>Ogiltig IPv4-adresspost</translation>
     </message>
     <message>
         <source>Invalid IPv6 address record</source>
-        <translation type="unfinished">Ogiltig IPv6-adresspost</translation>
+        <translation>Ogiltig IPv6-adresspost</translation>
     </message>
     <message>
         <source>Invalid canonical name record</source>
-        <translation type="unfinished">Ogiltig kanonisk namnpost</translation>
+        <translation>Ogiltig kanonisk namnpost</translation>
     </message>
     <message>
         <source>Invalid name server record</source>
-        <translation type="unfinished">Ogiltig namnserverpost</translation>
+        <translation>Ogiltig namnserverpost</translation>
     </message>
     <message>
         <source>Invalid pointer record</source>
-        <translation type="unfinished">Ogiltig pekarpost</translation>
+        <translation>Ogiltig pekarpost</translation>
     </message>
     <message>
         <source>Invalid mail exchange record</source>
-        <translation type="unfinished">Ogiltig e-postserverpost</translation>
+        <translation>Ogiltig e-postserverpost</translation>
     </message>
     <message>
         <source>Invalid service record</source>
-        <translation type="unfinished">Ogiltig tjänstepost</translation>
+        <translation>Ogiltig tjänstepost</translation>
     </message>
     <message>
         <source>Invalid text record</source>
-        <translation type="unfinished">Ogiltig textpost</translation>
+        <translation>Ogiltig textpost</translation>
     </message>
     <message>
         <source>Resolver library can&apos;t be loaded: No runtime library loading support</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppslagsbibliotek kan inte läsas in: Inget inläsningsstöd för körtidsbibliotek</translation>
     </message>
     <message>
         <source>No hostname given</source>
-        <translation type="unfinished"></translation>
+        <translation>Inget värdnamn angavs</translation>
     </message>
     <message>
         <source>Invalid hostname</source>
-        <translation type="unfinished">Ogiltigt värdnamn</translation>
+        <translation>Ogiltigt värdnamn</translation>
     </message>
     <message>
         <source>Host %1 could not be found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Värden %1 kunde inte hittas.</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation type="unfinished">Okänt fel</translation>
+        <translation>Okänt fel</translation>
     </message>
 </context>
 <context>
@@ -994,7 +994,7 @@ Tryck ESC för att avbryta</translation>
     </message>
     <message>
         <source>A valid UDP socket, non-empty datagram, valid address/port were expected</source>
-        <translation type="unfinished"></translation>
+        <translation>Ett giltigt UDP-uttag, icke-tomt datagram, giltig adress/port förväntades</translation>
     </message>
 </context>
 <context>
@@ -1072,11 +1072,11 @@ Tryck ESC för att avbryta</translation>
     </message>
     <message>
         <source>Failure to write block</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att skriva block</translation>
     </message>
     <message>
         <source>Cannot create %1 for output</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte skapa %1 för utdata</translation>
     </message>
 </context>
 <context>
@@ -1290,55 +1290,55 @@ Vill du ta bort den ändå?</translation>
     </message>
     <message>
         <source>My Computer</source>
-        <translation type="unfinished">Min dator</translation>
+        <translation>Min dator</translation>
     </message>
     <message>
         <source>Drive</source>
-        <translation type="unfinished">Enhet</translation>
+        <translation>Enhet</translation>
     </message>
     <message>
         <source>%1 File</source>
         <extracomment>%1 is a file name suffix, for example txt</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1-fil</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished">Fil</translation>
+        <translation>Fil</translation>
     </message>
     <message>
         <source>File Folder</source>
         <comment>Match Windows Explorer</comment>
-        <translation type="unfinished">Filmapp</translation>
+        <translation>Filmapp</translation>
     </message>
     <message>
         <source>Folder</source>
         <comment>All other platforms</comment>
-        <translation type="unfinished">Mapp</translation>
+        <translation>Mapp</translation>
     </message>
     <message>
         <source>Alias</source>
         <comment>OS X Finder</comment>
-        <translation type="unfinished">Alias</translation>
+        <translation>Alias</translation>
     </message>
     <message>
         <source>Shortcut</source>
         <comment>All other platforms</comment>
-        <translation type="unfinished">Genväg</translation>
+        <translation>Genväg</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Okänt</translation>
+        <translation>Okänt</translation>
     </message>
 </context>
 <context>
     <name>QFileSystemModel</name>
     <message>
         <source>&lt;b&gt;The name &quot;%1&quot; cannot be used.&lt;/b&gt;&lt;p&gt;Try using another name, with fewer characters or no punctuation marks.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Namnet &quot;%1&quot; kan inte användas.&lt;/b&gt;&lt;p&gt;Försök använda ett annat namn med mindre antal tecken eller inga skiljetecken.</translation>
     </message>
     <message>
         <source>Invalid filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltigt filnamn</translation>
     </message>
     <message>
         <source>Name</source>
@@ -1609,80 +1609,89 @@ Vill du ta bort den ändå?</translation>
     <name>QFtp</name>
     <message>
         <source>Not connected</source>
-        <translation type="unfinished"></translation>
+        <translation>Inte ansluten</translation>
     </message>
     <message>
         <source>Host %1 not found</source>
-        <translation type="unfinished">Värden %1 hittades inte</translation>
+        <translation>Värden %1 hittades inte</translation>
     </message>
     <message>
         <source>Connection refused to host %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Anslutning vägrades till värden %1</translation>
     </message>
     <message>
         <source>Connection timed out to host %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Anslutningens tidsgräns överstegs till värden %1</translation>
     </message>
     <message>
         <source>Connected to host %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ansluten till värden %1</translation>
     </message>
     <message>
         <source>Data Connection refused</source>
-        <translation type="unfinished"></translation>
+        <translation>Dataanslutning nekades</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation type="unfinished">Okänt fel</translation>
+        <translation>Okänt fel</translation>
     </message>
     <message>
         <source>Connecting to host failed:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Anslutning till värden misslyckades:
+%1</translation>
     </message>
     <message>
         <source>Login failed:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Inloggning misslyckades:
+%1</translation>
     </message>
     <message>
         <source>Listing directory failed:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kataloglistning misslyckades:
+%1</translation>
     </message>
     <message>
         <source>Changing directory failed:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Byte av katalog misslyckades:
+%1</translation>
     </message>
     <message>
         <source>Downloading file failed:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Hämtning av fil misslyckades:
+%1</translation>
     </message>
     <message>
         <source>Uploading file failed:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sändning av fil misslyckades:
+%1</translation>
     </message>
     <message>
         <source>Removing file failed:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Borttagning av fil misslyckades:
+%1</translation>
     </message>
     <message>
         <source>Creating directory failed:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapandet av katalog misslyckades:
+%1</translation>
     </message>
     <message>
         <source>Removing directory failed:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Borttagning av katalog misslyckades:
+%1</translation>
     </message>
     <message>
         <source>Connection closed</source>
-        <translation type="unfinished">Anslutningen stängd</translation>
+        <translation>Anslutningen stängd</translation>
     </message>
 </context>
 <context>
@@ -2153,62 +2162,62 @@ Vill du ta bort den ändå?</translation>
     </message>
     <message>
         <source>&apos;%1&apos; is not an ELF object (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; är inte ett ELF-objekt (%2)</translation>
     </message>
     <message>
         <source>&apos;%1&apos; is not an ELF object</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; är inte ett ELF-objekt</translation>
     </message>
     <message>
         <source>&apos;%1&apos; is an invalid ELF object (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; är ett ogiltigt ELF-objekt (%2)</translation>
     </message>
     <message>
         <source>odd cpu architecture</source>
-        <translation type="unfinished"></translation>
+        <translation>udda cpu-arkitektur</translation>
     </message>
     <message>
         <source>wrong cpu architecture</source>
-        <translation type="unfinished"></translation>
+        <translation>felaktig cpu-arkitektur</translation>
     </message>
     <message>
         <source>odd endianness</source>
-        <translation type="unfinished"></translation>
+        <translation>udda byteordning</translation>
     </message>
     <message>
         <source>unexpected e_shsize</source>
-        <translation type="unfinished"></translation>
+        <translation>oväntad e_shsize</translation>
     </message>
     <message>
         <source>unexpected e_shentsize</source>
-        <translation type="unfinished"></translation>
+        <translation>oväntad e_shentsize</translation>
     </message>
     <message numerus="yes">
         <source>announced %n section(s), each %1 byte(s), exceed file size</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>annonserade %n sektion, varje på %1 byte, översteg filstorlek</numerusform>
+            <numerusform>annonserade %n sektioner, varje på %1 byte, översteg filstorlek</numerusform>
         </translation>
     </message>
     <message>
         <source>shstrtab section header seems to be at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>shstrtab-sektionrubrik verkar vara vid %1</translation>
     </message>
     <message>
         <source>string table seems to be at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>strängtabell verkar vara vid %1</translation>
     </message>
     <message>
         <source>section name %1 of %2 behind end of file</source>
-        <translation type="unfinished"></translation>
+        <translation>sektionsnamnet %1 för %2 är bakom filslutet</translation>
     </message>
     <message>
         <source>empty .rodata. not a library.</source>
-        <translation type="unfinished"></translation>
+        <translation>tom .rodata. inte ett bibliotek.</translation>
     </message>
     <message>
         <source>missing section data. This is not a library.</source>
-        <translation type="unfinished"></translation>
+        <translation>saknar sektionsdata. Detta är inte ett bibliotek.</translation>
     </message>
     <message>
         <source>&apos;%1&apos; is not a Qt plugin</source>
@@ -2220,7 +2229,7 @@ Vill du ta bort den ändå?</translation>
     </message>
     <message>
         <source>Failed to extract plugin meta data from &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att extrahera insticksmodulens metadata från &quot;%1&quot;</translation>
     </message>
     <message>
         <source>The file &apos;%1&apos; is not a valid Qt plugin.</source>
@@ -2557,7 +2566,7 @@ Vill du ta bort den ändå?</translation>
     <message>
         <source>&lt;p&gt;Qt is a C++ toolkit for cross-platform application development.&lt;/p&gt;&lt;p&gt;Qt provides single-source portability across all major desktop operating systems. It is also available for embedded Linux and other embedded and mobile operating systems.&lt;/p&gt;&lt;p&gt;Qt is available under multiple licensing options designed to accommodate the needs of our various users.&lt;/p&gt;&lt;p&gt;Qt licensed under our commercial license agreement is appropriate for development of proprietary/commercial software where you do not want to share any source code with third parties or otherwise cannot comply with the terms of GNU (L)GPL.&lt;/p&gt;&lt;p&gt;Qt licensed under GNU (L)GPL is appropriate for the development of Qt&amp;nbsp;applications provided you can comply with the terms and conditions of the respective licenses.&lt;/p&gt;&lt;p&gt;Please see &lt;a href=&quot;http://%2/&quot;&gt;%2&lt;/a&gt; for an overview of Qt licensing.&lt;/p&gt;&lt;p&gt;Copyright (C) %1 The Qt Company Ltd and other contributors.&lt;/p&gt;&lt;p&gt;Qt and the Qt logo are trademarks of The Qt Company Ltd.&lt;/p&gt;&lt;p&gt;Qt is The Qt Company Ltd product developed as an open source project. See &lt;a href=&quot;http://%3/&quot;&gt;%3&lt;/a&gt; for more information.&lt;/p&gt;</source>
         <extracomment>Leave this text untranslated or include a verbatim copy of it below and note that it is the authoritative version in case of doubt.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Qt is a C++ toolkit for cross-platform application development.&lt;/p&gt;&lt;p&gt;Qt provides single-source portability across all major desktop operating systems. It is also available for embedded Linux and other embedded and mobile operating systems.&lt;/p&gt;&lt;p&gt;Qt is available under multiple licensing options designed to accommodate the needs of our various users.&lt;/p&gt;&lt;p&gt;Qt licensed under our commercial license agreement is appropriate for development of proprietary/commercial software where you do not want to share any source code with third parties or otherwise cannot comply with the terms of GNU (L)GPL.&lt;/p&gt;&lt;p&gt;Qt licensed under GNU (L)GPL is appropriate for the development of Qt&amp;nbsp;applications provided you can comply with the terms and conditions of the respective licenses.&lt;/p&gt;&lt;p&gt;Please see &lt;a href=&quot;http://%2/&quot;&gt;%2&lt;/a&gt; for an overview of Qt licensing.&lt;/p&gt;&lt;p&gt;Copyright (C) %1 The Qt Company Ltd and other contributors.&lt;/p&gt;&lt;p&gt;Qt and the Qt logo are trademarks of The Qt Company Ltd.&lt;/p&gt;&lt;p&gt;Qt is The Qt Company Ltd product developed as an open source project. See &lt;a href=&quot;http://%3/&quot;&gt;%3&lt;/a&gt; for more information.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>About Qt</source>
@@ -2739,23 +2748,23 @@ Vill du ta bort den ändå?</translation>
     <name>QNetworkAccessFtpBackend</name>
     <message>
         <source>No suitable proxy found</source>
-        <translation type="unfinished">Ingen lämplig proxy hittades</translation>
+        <translation>Ingen lämplig proxy hittades</translation>
     </message>
     <message>
         <source>Cannot open %1: is a directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte öppna %1: är en katalog</translation>
     </message>
     <message>
         <source>Logging in to %1 failed: authentication required</source>
-        <translation type="unfinished"></translation>
+        <translation>Inloggning till %1 misslyckades: autentisering krävs</translation>
     </message>
     <message>
         <source>Error while downloading %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid hämtning av %1: %2</translation>
     </message>
     <message>
         <source>Error while uploading %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid sändning av %1: %2</translation>
     </message>
 </context>
 <context>
@@ -2770,11 +2779,11 @@ Vill du ta bort den ändå?</translation>
     </message>
     <message>
         <source>Network session error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel i nätverkssession.</translation>
     </message>
     <message>
         <source>Background request not allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bakgrundsbegäran tillåts inte.</translation>
     </message>
     <message>
         <source>backend start error.</source>
@@ -2782,7 +2791,7 @@ Vill du ta bort den ändå?</translation>
     </message>
     <message>
         <source>Temporary network failure.</source>
-        <translation type="unfinished"></translation>
+        <translation>Temporärt nätverksfel.</translation>
     </message>
 </context>
 <context>
@@ -2807,30 +2816,30 @@ Vill du ta bort den ändå?</translation>
     <name>QNetworkSession</name>
     <message>
         <source>Invalid configuration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig konfiguration.</translation>
     </message>
 </context>
 <context>
     <name>QNetworkSessionPrivateImpl</name>
     <message>
         <source>Unknown session error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Okänt sessionsfel.</translation>
     </message>
     <message>
         <source>The session was aborted by the user or system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sessionen avbröts av användaren eller systemet.</translation>
     </message>
     <message>
         <source>The requested operation is not supported by the system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Begärd operation stöds inte av systemet.</translation>
     </message>
     <message>
         <source>The specified configuration cannot be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Angiven konfiguration kan inte användas.</translation>
     </message>
     <message>
         <source>Roaming was aborted or is not possible.</source>
-        <translation type="unfinished"></translation>
+        <translation>Roaming avbröts eller är inte möjlig.</translation>
     </message>
 </context>
 <context>
@@ -3857,7 +3866,7 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Ok</translation>
+        <translation>Ok</translation>
     </message>
 </context>
 <context>
@@ -4173,51 +4182,51 @@ Stäng av ett av alternativen.</translation>
     <name>QRegExp</name>
     <message>
         <source>no error occurred</source>
-        <translation type="unfinished">inga fel inträffade</translation>
+        <translation>inga fel inträffade</translation>
     </message>
     <message>
         <source>disabled feature used</source>
-        <translation type="unfinished"></translation>
+        <translation>inaktiverad funktion användes</translation>
     </message>
     <message>
         <source>bad char class syntax</source>
-        <translation type="unfinished"></translation>
+        <translation>fel syntax för teckenklass</translation>
     </message>
     <message>
         <source>bad lookahead syntax</source>
-        <translation type="unfinished"></translation>
+        <translation>felaktig lookahead-syntax</translation>
     </message>
     <message>
         <source>lookbehinds not supported, see QTBUG-2371</source>
-        <translation type="unfinished"></translation>
+        <translation>lookbehinds stöds inte, se QTBUG-2371</translation>
     </message>
     <message>
         <source>bad repetition syntax</source>
-        <translation type="unfinished"></translation>
+        <translation>felaktig upprepningssyntax</translation>
     </message>
     <message>
         <source>invalid octal value</source>
-        <translation type="unfinished"></translation>
+        <translation>ogiltigt oktalt värde</translation>
     </message>
     <message>
         <source>missing left delim</source>
-        <translation type="unfinished"></translation>
+        <translation>saknar vänster avgränsare</translation>
     </message>
     <message>
         <source>unexpected end</source>
-        <translation type="unfinished"></translation>
+        <translation>oväntat slut</translation>
     </message>
     <message>
         <source>met internal limit</source>
-        <translation type="unfinished"></translation>
+        <translation>nådde intern gräns</translation>
     </message>
     <message>
         <source>invalid interval</source>
-        <translation type="unfinished"></translation>
+        <translation>ogiltigt intervall</translation>
     </message>
     <message>
         <source>invalid category</source>
-        <translation type="unfinished"></translation>
+        <translation>ogiltig kategori</translation>
     </message>
 </context>
 <context>
@@ -4240,27 +4249,27 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>numbers out of order in {} quantifier</source>
-        <translation type="unfinished"></translation>
+        <translation>antalet är i fel ordning i {}-kvantifierare</translation>
     </message>
     <message>
         <source>number too big in {} quantifier</source>
-        <translation type="unfinished"></translation>
+        <translation>antal för stort i {}-kvantifierare</translation>
     </message>
     <message>
         <source>missing terminating ] for character class</source>
-        <translation type="unfinished"></translation>
+        <translation>saknar avslutande ] för teckenklass</translation>
     </message>
     <message>
         <source>escape sequence is invalid in character class</source>
-        <translation type="unfinished"></translation>
+        <translation>escape-sekvens är ogiltig i teckenklass</translation>
     </message>
     <message>
         <source>range out of order in character class</source>
-        <translation type="unfinished"></translation>
+        <translation>intervallet är i fel ordning i teckenklass</translation>
     </message>
     <message>
         <source>quantifier does not follow a repeatable item</source>
-        <translation type="unfinished"></translation>
+        <translation>kvantifierare följer inte ett upprepande objekt</translation>
     </message>
     <message>
         <source>internal error: unexpected repeat</source>
@@ -4276,7 +4285,7 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>POSIX collating elements are not supported</source>
-        <translation type="unfinished"></translation>
+        <translation>POSIX sammanställande element stöds inte</translation>
     </message>
     <message>
         <source>missing closing parenthesis</source>
@@ -4292,7 +4301,7 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>unrecognised compile-time option bit(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>okänd compile-time option bit(ar)</translation>
     </message>
     <message>
         <source>missing ) after (?# comment</source>
@@ -4308,7 +4317,7 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>failed to allocate heap memory</source>
-        <translation type="unfinished"></translation>
+        <translation>misslyckades med att allokera heap-minne</translation>
     </message>
     <message>
         <source>unmatched closing parenthesis</source>
@@ -4324,7 +4333,7 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>lookbehind assertion is not fixed length</source>
-        <translation type="unfinished"></translation>
+        <translation>lookbehind-assertion har ingen fast längd</translation>
     </message>
     <message>
         <source>a relative value of zero is not allowed</source>
@@ -4332,11 +4341,11 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>conditional subpattern contains more than two branches</source>
-        <translation type="unfinished"></translation>
+        <translation>villkorligt undermönster innehåller fler än två grenar</translation>
     </message>
     <message>
         <source>assertion expected after (?( or (?(?C)</source>
-        <translation type="unfinished"></translation>
+        <translation>assertion förväntades efter (?( eller (?(?C)</translation>
     </message>
     <message>
         <source>digit expected after (?+ or (?-</source>
@@ -4356,11 +4365,11 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>parentheses are too deeply nested (stack check)</source>
-        <translation type="unfinished"></translation>
+        <translation>parenteser är för djupt nästlade (stackkontroll)</translation>
     </message>
     <message>
         <source>character code point value in \x{} or \o{} is too large</source>
-        <translation type="unfinished"></translation>
+        <translation>värdet för teckenkodpunkt i \x{} eller \o{} är för stort</translation>
     </message>
     <message>
         <source>lookbehind is too complicated</source>
@@ -4368,7 +4377,7 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>\C is not allowed in a lookbehind assertion in UTF-16 mode</source>
-        <translation type="unfinished"></translation>
+        <translation>\C är inte tillåtet i en lookbehind-assertion i UTF-16-läget</translation>
     </message>
     <message>
         <source>PCRE2 does not support \F, \L, \l, \N{name}, \U, or \u</source>
@@ -4376,15 +4385,15 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>number after (?C is greater than 255</source>
-        <translation type="unfinished"></translation>
+        <translation>tal efter (?C är större än 255</translation>
     </message>
     <message>
         <source>closing parenthesis for (?C expected</source>
-        <translation type="unfinished"></translation>
+        <translation>avslutande parentes för (?C förväntades</translation>
     </message>
     <message>
         <source>invalid escape sequence in (*VERB) name</source>
-        <translation type="unfinished"></translation>
+        <translation>ogiltig escape-sekvens i (*VERB)-namn</translation>
     </message>
     <message>
         <source>unrecognized character after (?P</source>
@@ -4392,7 +4401,7 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>syntax error in subpattern name (missing terminator?)</source>
-        <translation type="unfinished"></translation>
+        <translation>syntaxfel i undermönsternamnet (saknar avslut?)</translation>
     </message>
     <message>
         <source>two named subpatterns have the same name (PCRE2_DUPNAMES not set)</source>
@@ -4432,19 +4441,19 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>internal error: overran compiling workspace</source>
-        <translation type="unfinished"></translation>
+        <translation>internt fel: överskridit kompileringsarbetsytan</translation>
     </message>
     <message>
         <source>internal error: previously-checked referenced subpattern not found</source>
-        <translation type="unfinished"></translation>
+        <translation>internt fel: tidigare kontrollerat refererande undermönster hittades inte</translation>
     </message>
     <message>
         <source>DEFINE subpattern contains more than one branch</source>
-        <translation type="unfinished"></translation>
+        <translation>DEFINE-undermönster innehåller fler än en gren</translation>
     </message>
     <message>
         <source>missing opening brace after \o</source>
-        <translation type="unfinished"></translation>
+        <translation>saknar öppnande klammer efter \o</translation>
     </message>
     <message>
         <source>internal error: unknown newline setting</source>
@@ -4452,11 +4461,11 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>\g is not followed by a braced, angle-bracketed, or quoted name/number or by a plain number</source>
-        <translation type="unfinished"></translation>
+        <translation>\g följs inte av en klammer, vinkelparentes eller citerat namn/nummer eller av ett vanligt nummer</translation>
     </message>
     <message>
         <source>(?R (recursive pattern call) must be followed by a closing parenthesis</source>
-        <translation type="unfinished"></translation>
+        <translation>(?R (rekursivt mönsteranrop) måste efterföljas av en stängande parentes</translation>
     </message>
     <message>
         <source>obsolete error (should not occur)</source>
@@ -4468,7 +4477,7 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>subpattern number is too big</source>
-        <translation type="unfinished"></translation>
+        <translation>undermönsternummer är för stort</translation>
     </message>
     <message>
         <source>subpattern name expected</source>
@@ -4492,7 +4501,7 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>non-hex character in \x{} (closing brace missing?)</source>
-        <translation type="unfinished"></translation>
+        <translation>icke-hexadecimalt tecken i \x{} (saknas stängande klammer?)</translation>
     </message>
     <message>
         <source>\c must be followed by a printable ASCII character</source>
@@ -4504,7 +4513,7 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>\k is not followed by a braced, angle-bracketed, or quoted name</source>
-        <translation type="unfinished"></translation>
+        <translation>\k efterföljs inte av en klammer-, vinkelparentes eller citerat namn</translation>
     </message>
     <message>
         <source>internal error: unknown meta code in check_lookbehinds()</source>
@@ -4516,11 +4525,11 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>callout string is too long</source>
-        <translation type="unfinished"></translation>
+        <translation>callout-sträng är för lång</translation>
     </message>
     <message>
         <source>disallowed Unicode code point (&gt;= 0xd800 &amp;&amp; &lt;= 0xdfff)</source>
-        <translation type="unfinished"></translation>
+        <translation>otillåten Unicode-kodpunkt (&gt;= 0xd800 &amp;&amp; &lt;= 0xdfff)</translation>
     </message>
     <message>
         <source>using UTF is disabled by the application</source>
@@ -4536,7 +4545,7 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>character code point value in \u.... sequence is too large</source>
-        <translation type="unfinished"></translation>
+        <translation>värdet för teckenkodpunkt i \u....-sekvensen är för stort</translation>
     </message>
     <message>
         <source>digits missing in \x{} or \o{} or \N{U+}</source>
@@ -4552,11 +4561,11 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>missing terminating delimiter for callout with string argument</source>
-        <translation type="unfinished"></translation>
+        <translation>saknar avslutande avgränsare för callout med strängargument</translation>
     </message>
     <message>
         <source>unrecognized string delimiter follows (?C</source>
-        <translation type="unfinished"></translation>
+        <translation>okänd strängavgränsare följer (?C</translation>
     </message>
     <message>
         <source>using \C is disabled by the application</source>
@@ -4576,11 +4585,11 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>lookbehind assertion is too long</source>
-        <translation type="unfinished"></translation>
+        <translation>lookbehind-assertion är för lång</translation>
     </message>
     <message>
         <source>pattern string is longer than the limit set by the application</source>
-        <translation type="unfinished"></translation>
+        <translation>mönstersträng är längre än gränsen inställd av programmet</translation>
     </message>
     <message>
         <source>internal error: unknown code in parsed pattern</source>
@@ -4588,7 +4597,7 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>internal error: bad code value in parsed_skip()</source>
-        <translation type="unfinished"></translation>
+        <translation>internt fel: felaktigt kodvärde i parsed_skip()</translation>
     </message>
     <message>
         <source>PCRE2_EXTRA_ALLOW_SURROGATE_ESCAPES is not allowed in UTF-16 mode</source>
@@ -4596,7 +4605,7 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>invalid option bits with PCRE2_LITERAL</source>
-        <translation type="unfinished"></translation>
+        <translation>ogiltiga option-bitar med PCRE2_LITERAL</translation>
     </message>
     <message>
         <source>\N{U+dddd} is supported only in Unicode (UTF) mode</source>
@@ -4604,7 +4613,7 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>invalid hyphen in option setting</source>
-        <translation type="unfinished"></translation>
+        <translation>ogiltigt bindestreck i option-inställning</translation>
     </message>
     <message>
         <source>(*alpha_assertion) not recognized</source>
@@ -4616,11 +4625,11 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>too many capturing groups (maximum 65535)</source>
-        <translation type="unfinished"></translation>
+        <translation>för många fångade grupper (maximalt 65535)</translation>
     </message>
     <message>
         <source>atomic assertion expected after (?( or (?(?C)</source>
-        <translation type="unfinished"></translation>
+        <translation>atomic assertion förväntades efter (?( eller (?(?C)</translation>
     </message>
     <message>
         <source>no match</source>
@@ -4652,87 +4661,87 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>UTF-8 error: byte 2 top bits not 0x80</source>
-        <translation type="unfinished"></translation>
+        <translation>UTF-8-fel: byte 2 top bits inte 0x80</translation>
     </message>
     <message>
         <source>UTF-8 error: byte 3 top bits not 0x80</source>
-        <translation type="unfinished"></translation>
+        <translation>UTF-8-fel: byte 3 top bits inte 0x80</translation>
     </message>
     <message>
         <source>UTF-8 error: byte 4 top bits not 0x80</source>
-        <translation type="unfinished"></translation>
+        <translation>UTF-8-fel: byte 4 top bits inte 0x80</translation>
     </message>
     <message>
         <source>UTF-8 error: byte 5 top bits not 0x80</source>
-        <translation type="unfinished"></translation>
+        <translation>UTF-8-fel: byte 5 top bits inte 0x80</translation>
     </message>
     <message>
         <source>UTF-8 error: byte 6 top bits not 0x80</source>
-        <translation type="unfinished"></translation>
+        <translation>UTF-8-fel: byte 6 top bits inte 0x80</translation>
     </message>
     <message>
         <source>UTF-8 error: 5-byte character is not allowed (RFC 3629)</source>
-        <translation type="unfinished"></translation>
+        <translation>UTF-8-fel: 5-byte-tecken tillåts inte (RFC 3629)</translation>
     </message>
     <message>
         <source>UTF-8 error: 6-byte character is not allowed (RFC 3629)</source>
-        <translation type="unfinished"></translation>
+        <translation>UTF-8-fel: 6-byte-tecken tillåts inte (RFC 3629)</translation>
     </message>
     <message>
         <source>UTF-8 error: code points greater than 0x10ffff are not defined</source>
-        <translation type="unfinished"></translation>
+        <translation>UTF-8-fel: kodpunkter större än 0x10ffff är inte definierade</translation>
     </message>
     <message>
         <source>UTF-8 error: code points 0xd800-0xdfff are not defined</source>
-        <translation type="unfinished"></translation>
+        <translation>UTF-8-fel: kodpunkterna 0xd800-0xdfff är inte definierade</translation>
     </message>
     <message>
         <source>UTF-8 error: overlong 2-byte sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>UTF-8-fel: overlong 2-byte-sekvens</translation>
     </message>
     <message>
         <source>UTF-8 error: overlong 3-byte sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>UTF-8-fel: overlong 3-byte-sekvens</translation>
     </message>
     <message>
         <source>UTF-8 error: overlong 4-byte sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>UTF-8-fel: overlong 4-byte-sekvens</translation>
     </message>
     <message>
         <source>UTF-8 error: overlong 5-byte sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>UTF-8-fel: overlong 5-byte-sekvens</translation>
     </message>
     <message>
         <source>UTF-8 error: overlong 6-byte sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>UTF-8-fel: overlong 6-byte-sekvens</translation>
     </message>
     <message>
         <source>UTF-8 error: isolated byte with 0x80 bit set</source>
-        <translation type="unfinished"></translation>
+        <translation>UTF-8-fel: isolerad byte med 0x80 bit inställd</translation>
     </message>
     <message>
         <source>UTF-8 error: illegal byte (0xfe or 0xff)</source>
-        <translation type="unfinished"></translation>
+        <translation>UTF-8-fel: otillåten byte (0xfe eller 0xff)</translation>
     </message>
     <message>
         <source>UTF-16 error: missing low surrogate at end</source>
-        <translation type="unfinished"></translation>
+        <translation>UTF-16-fel: saknar låg surrogat på slutet</translation>
     </message>
     <message>
         <source>UTF-16 error: invalid low surrogate</source>
-        <translation type="unfinished"></translation>
+        <translation>UTF-16-fel: ogiltig låg surrogat</translation>
     </message>
     <message>
         <source>UTF-16 error: isolated low surrogate</source>
-        <translation type="unfinished"></translation>
+        <translation>UTF-16-fel: isolerad låg surrogat</translation>
     </message>
     <message>
         <source>UTF-32 error: code points 0xd800-0xdfff are not defined</source>
-        <translation type="unfinished"></translation>
+        <translation>UTF-32-fel: kodpunkterna 0xd800-0xdfff är inte definierade</translation>
     </message>
     <message>
         <source>UTF-32 error: code points greater than 0x10ffff are not defined</source>
-        <translation type="unfinished"></translation>
+        <translation>UTF-32-fel: kodpunkter större än 0x10ffff är inte definierade</translation>
     </message>
     <message>
         <source>bad data value</source>
@@ -4744,7 +4753,7 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>magic number missing</source>
-        <translation type="unfinished"></translation>
+        <translation>magic number saknas</translation>
     </message>
     <message>
         <source>pattern compiled in wrong mode: 8/16/32-bit error</source>
@@ -4752,11 +4761,11 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>bad offset value</source>
-        <translation type="unfinished"></translation>
+        <translation>felaktigt offset-värde</translation>
     </message>
     <message>
         <source>bad option value</source>
-        <translation type="unfinished"></translation>
+        <translation>felaktigt option-värde</translation>
     </message>
     <message>
         <source>invalid replacement string</source>
@@ -4764,15 +4773,15 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>bad offset into UTF string</source>
-        <translation type="unfinished"></translation>
+        <translation>felaktig offset till UTF-sträng</translation>
     </message>
     <message>
         <source>callout error code</source>
-        <translation type="unfinished"></translation>
+        <translation>callout-felkod</translation>
     </message>
     <message>
         <source>invalid data in workspace for DFA restart</source>
-        <translation type="unfinished"></translation>
+        <translation>ogiltigt data i arbetsyta för DFA-omstart</translation>
     </message>
     <message>
         <source>too much recursion for DFA matching</source>
@@ -4780,7 +4789,7 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>backreference condition or recursion test is not supported for DFA matching</source>
-        <translation type="unfinished"></translation>
+        <translation>backreference-villkor eller rekursionstest stöds inte för DFA-matchning</translation>
     </message>
     <message>
         <source>function is not supported for DFA matching</source>
@@ -4788,11 +4797,11 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>pattern contains an item that is not supported for DFA matching</source>
-        <translation type="unfinished"></translation>
+        <translation>mönster innehåller ett objekt som inte stöds för DFA-matchning</translation>
     </message>
     <message>
         <source>workspace size exceeded in DFA matching</source>
-        <translation type="unfinished"></translation>
+        <translation>arbetsytans storlek överstigs i DFA-matchning</translation>
     </message>
     <message>
         <source>internal error - pattern overwritten?</source>
@@ -4800,11 +4809,11 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>bad JIT option</source>
-        <translation type="unfinished"></translation>
+        <translation>felaktigt JIT-alternativ</translation>
     </message>
     <message>
         <source>JIT stack limit reached</source>
-        <translation type="unfinished"></translation>
+        <translation>gräns för JIT-stack nåddes</translation>
     </message>
     <message>
         <source>match limit exceeded</source>
@@ -4824,11 +4833,11 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>NULL argument passed</source>
-        <translation type="unfinished"></translation>
+        <translation>NULL-argument skickades</translation>
     </message>
     <message>
         <source>nested recursion at the same subject position</source>
-        <translation type="unfinished"></translation>
+        <translation>nästlad rekursion på samma ämnesposition</translation>
     </message>
     <message>
         <source>matching depth limit exceeded</source>
@@ -4844,19 +4853,19 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>offset limit set without PCRE2_USE_OFFSET_LIMIT</source>
-        <translation type="unfinished"></translation>
+        <translation>offset-gräns inställd utan PCRE2_USE_OFFSET_LIMIT</translation>
     </message>
     <message>
         <source>bad escape sequence in replacement string</source>
-        <translation type="unfinished"></translation>
+        <translation>felaktig escape-sekvens i ersättningssträng</translation>
     </message>
     <message>
         <source>expected closing curly bracket in replacement string</source>
-        <translation type="unfinished"></translation>
+        <translation>förväntade stängande klammerparentes i ersättningssträng</translation>
     </message>
     <message>
         <source>bad substitution in replacement string</source>
-        <translation type="unfinished"></translation>
+        <translation>felaktig ersättning i ersättningssträng</translation>
     </message>
     <message>
         <source>match with end before start or start moved backwards is not supported</source>
@@ -4868,11 +4877,11 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>bad serialized data</source>
-        <translation type="unfinished"></translation>
+        <translation>felaktigt serialiserat data</translation>
     </message>
     <message>
         <source>heap limit exceeded</source>
-        <translation type="unfinished"></translation>
+        <translation>heap-gräns överstegs</translation>
     </message>
     <message>
         <source>invalid syntax</source>
@@ -4880,7 +4889,7 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>internal error - duplicate substitution match</source>
-        <translation type="unfinished"></translation>
+        <translation>internt fel - dubblett av ersättningsmatchning</translation>
     </message>
     <message>
         <source>PCRE2_MATCH_INVALID_UTF is not supported for DFA matching</source>
@@ -4891,30 +4900,30 @@ Stäng av ett av alternativen.</translation>
     <name>QSQLite2Driver</name>
     <message>
         <source>Error opening database</source>
-        <translation type="unfinished">Fel vid öppnade av databas</translation>
+        <translation>Fel vid öppnade av databas</translation>
     </message>
     <message>
         <source>Unable to begin transaction</source>
-        <translation type="unfinished">Kunde inte påbörja transaktion</translation>
+        <translation>Kunde inte påbörja transaktion</translation>
     </message>
     <message>
         <source>Unable to commit transaction</source>
-        <translation type="unfinished">Kunde inte verkställa transaktion</translation>
+        <translation>Kunde inte verkställa transaktion</translation>
     </message>
     <message>
         <source>Unable to rollback transaction</source>
-        <translation type="unfinished">Kunde inte rulla tillbaka transaktion</translation>
+        <translation>Kunde inte rulla tillbaka transaktion</translation>
     </message>
 </context>
 <context>
     <name>QSQLite2Result</name>
     <message>
         <source>Unable to fetch results</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte hämta resultat</translation>
     </message>
     <message>
         <source>Unable to execute statement</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte köra villkor</translation>
     </message>
 </context>
 <context>
@@ -5056,7 +5065,7 @@ Stäng av ett av alternativen.</translation>
     <name>QSharedMemory</name>
     <message>
         <source>%1: unable to set key on lock</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: kunde inte ställa in nyckel på lås</translation>
     </message>
     <message>
         <source>%1: create size is less then 0</source>
@@ -5088,7 +5097,7 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>%1: unknown error %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: okänt fel %2</translation>
     </message>
     <message>
         <source>%1: key is empty</source>
@@ -5100,11 +5109,11 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>%1: UNIX key file doesn&apos;t exist</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: UNIX-nyckelfil finns inte</translation>
     </message>
     <message>
         <source>%1: ftok failed</source>
-        <translation type="unfinished">%1: ftok misslyckades</translation>
+        <translation>%1: ftok misslyckades</translation>
     </message>
     <message>
         <source>%1: unable to make key</source>
@@ -6786,7 +6795,7 @@ Role of an accessible object</extracomment>
     </message>
     <message>
         <source>Cannot provide a certificate with no key, %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte tillhandahålla ett certifikat utan nyckel, %1</translation>
     </message>
     <message>
         <source>Error loading local certificate, %1</source>
@@ -7096,23 +7105,23 @@ Role of an accessible object</extracomment>
     <name>QStateMachine</name>
     <message>
         <source>Missing initial state in compound state &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Saknar initialt tillstånd i compound-tillstånd &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Missing default state in history state &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Saknar standardtillstånd i historiskt tillstånd &quot;%1&quot;</translation>
     </message>
     <message>
         <source>No common ancestor for targets and source of transition from state &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen gemensam ättling för mål och källa för övergång från tillståndet &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Child mode of state machine &apos;%1&apos; is not &apos;ExclusiveStates&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Barnläget för tillståndsmaskin &quot;%1&quot; är inte &apos;ExclusiveStates&apos;.</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation type="unfinished">Okänt fel</translation>
+        <translation>Okänt fel</translation>
     </message>
 </context>
 <context>
@@ -7135,18 +7144,18 @@ Role of an accessible object</extracomment>
     </message>
     <message>
         <source>%1: unknown error %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: okänt fel %2</translation>
     </message>
 </context>
 <context>
     <name>QTDSDriver</name>
     <message>
         <source>Unable to open connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte öppna anslutning</translation>
     </message>
     <message>
         <source>Unable to use database</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte använda databas</translation>
     </message>
 </context>
 <context>
@@ -7456,95 +7465,95 @@ Minsta Direct2D-versionen som krävs är %1. Direct2D-versionen på detta system
     <name>QXml</name>
     <message>
         <source>no error occurred</source>
-        <translation type="unfinished">inga fel inträffade</translation>
+        <translation>inga fel inträffade</translation>
     </message>
     <message>
         <source>error triggered by consumer</source>
-        <translation type="unfinished"></translation>
+        <translation>fel utlöst av konsument</translation>
     </message>
     <message>
         <source>unexpected end of file</source>
-        <translation type="unfinished"></translation>
+        <translation>oväntat filslut</translation>
     </message>
     <message>
         <source>more than one document type definition</source>
-        <translation type="unfinished"></translation>
+        <translation>fler än en dokumenttypsdefinition</translation>
     </message>
     <message>
         <source>error occurred while parsing element</source>
-        <translation type="unfinished"></translation>
+        <translation>fel inträffade vid tolkning av element</translation>
     </message>
     <message>
         <source>tag mismatch</source>
-        <translation type="unfinished"></translation>
+        <translation>tagg stämmer inte</translation>
     </message>
     <message>
         <source>error occurred while parsing content</source>
-        <translation type="unfinished"></translation>
+        <translation>fel inträffade vid tolkning av innehåll</translation>
     </message>
     <message>
         <source>unexpected character</source>
-        <translation type="unfinished"></translation>
+        <translation>oväntat tecken</translation>
     </message>
     <message>
         <source>invalid name for processing instruction</source>
-        <translation type="unfinished"></translation>
+        <translation>ogiltigt namn för behandlande instruktion</translation>
     </message>
     <message>
         <source>version expected while reading the XML declaration</source>
-        <translation type="unfinished"></translation>
+        <translation>version förväntades vid läsning av XML-deklarationen</translation>
     </message>
     <message>
         <source>wrong value for standalone declaration</source>
-        <translation type="unfinished"></translation>
+        <translation>fel värde för fristående deklaration</translation>
     </message>
     <message>
         <source>encoding declaration or standalone declaration expected while reading the XML declaration</source>
-        <translation type="unfinished"></translation>
+        <translation>kodningdeklaration eller friståend deklaration förväntades vid läsning av XML-deklaration</translation>
     </message>
     <message>
         <source>standalone declaration expected while reading the XML declaration</source>
-        <translation type="unfinished"></translation>
+        <translation>fristående deklaration förväntades vid läsning av XML-deklarationen</translation>
     </message>
     <message>
         <source>error occurred while parsing document type definition</source>
-        <translation type="unfinished"></translation>
+        <translation>fel inträffade vid tolkning av dokumentets typdefinition</translation>
     </message>
     <message>
         <source>letter is expected</source>
-        <translation type="unfinished"></translation>
+        <translation>bokstav förväntades</translation>
     </message>
     <message>
         <source>error occurred while parsing comment</source>
-        <translation type="unfinished"></translation>
+        <translation>fel inträffade vid tolkning av kommentar</translation>
     </message>
     <message>
         <source>error occurred while parsing reference</source>
-        <translation type="unfinished"></translation>
+        <translation>fel inträffade vid tolkning av referens</translation>
     </message>
     <message>
         <source>internal general entity reference not allowed in DTD</source>
-        <translation type="unfinished"></translation>
+        <translation>intern allmän entitetsreferens tillåts inte i DTD</translation>
     </message>
     <message>
         <source>external parsed general entity reference not allowed in attribute value</source>
-        <translation type="unfinished"></translation>
+        <translation>externt tolkad allmän entitetsreferens tillåts inte i attributvärden</translation>
     </message>
     <message>
         <source>external parsed general entity reference not allowed in DTD</source>
-        <translation type="unfinished"></translation>
+        <translation>externt tolkad allmän entitetsreferens tillåts inte i DTD</translation>
     </message>
     <message>
         <source>unparsed entity reference in wrong context</source>
-        <translation type="unfinished"></translation>
+        <translation>otolkad entitetsreferens i fel kontext</translation>
     </message>
     <message>
         <source>recursive entities</source>
-        <translation type="unfinished"></translation>
+        <translation>rekursiva entiteter</translation>
     </message>
     <message>
         <source>error in the text declaration of an external entity</source>
-        <translation type="unfinished"></translation>
+        <translation>fel i textdeklarationen för en extern entitet</translation>
     </message>
 </context>
 <context>
@@ -7611,7 +7620,7 @@ Minsta Direct2D-versionen som krävs är %1. Direct2D-versionen på detta system
     </message>
     <message>
         <source>Invalid attribute in XML declaration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltigt attribut i XML-deklaration.</translation>
     </message>
     <message>
         <source>Premature end of document.</source>
