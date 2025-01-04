@@ -17,11 +17,8 @@ Updating 'linguist_sv.qm'...
     
 Updating 'qtbase_sv.qm'...
 
-    Genererade 1599 översättningar (1553 slutförda och 46 oavslutade)
-    
-    Ignorerade 191 oöversatta källtexter
-
-    
+    Genererade 1790 översättningar (1790 slutförda och 46 oavslutade)
+        
 Updating 'qtconnectivity_sv.qm'...
 
     Genererade 154 översättningar (154 slutförda och 0 oavslutade)
@@ -31,9 +28,9 @@ Updating 'qtconnectivity_sv.qm'...
     
 Updating 'qtdeclarative_sv.qm'...
 
-    Genererade 244 översättningar (236 slutförda och 8 oavslutade)
+    Genererade 246 översättningar (246 slutförda och 0 oavslutade)
     
-    Ignorerade 95 oöversatta källtexter
+    Ignorerade 93 oöversatta källtexter
 
     
 Updating 'qt_help_sv.qm'...
@@ -55,9 +52,9 @@ Updating 'qtmultimedia_sv.qm'...
     
 Updating 'qtquickcontrols2_sv.qm'...
 
-    Genererade 34 översättningar (29 slutförda och 5 oavslutade)
+    Genererade 35 översättningar (35 slutförda och 0 oavslutade)
     
-    Ignorerade 193 oöversatta källtexter
+    Ignorerade 192 oöversatta källtexter
 
     
 Updating 'qtquickcontrols_sv.qm'...
