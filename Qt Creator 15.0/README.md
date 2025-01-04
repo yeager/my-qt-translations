@@ -5,3 +5,5 @@ Updating 'qtcreator_sv.qm'...
     Ignorerade 4883 oöversatta källtexter
 
 .
+
+![image](https://github.com/user-attachments/assets/7d0fe944-7cec-46df-97f4-69c592842a91)
