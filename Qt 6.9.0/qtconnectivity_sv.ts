@@ -352,7 +352,7 @@
     </message>
     <message>
         <source>Generic Networking</source>
-        <translation type="unfinished">Allmänt nätverk</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Generic File Transfer</source>
@@ -380,7 +380,7 @@
     </message>
     <message>
         <source>Health Device</source>
-        <translation>Hälsoenhet</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Health Device Source</source>
@@ -396,7 +396,7 @@
     </message>
     <message>
         <source>Generic Attribute</source>
-        <translation>Allmänt attribut</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Immediate Alert</source>
@@ -428,7 +428,7 @@
     </message>
     <message>
         <source>Health Thermometer</source>
-        <translation>Hälsotermometer</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Device Information</source>
@@ -436,7 +436,7 @@
     </message>
     <message>
         <source>Heart Rate</source>
-        <translation>Puls</translation>
+        <translation>Hjärtfrekvens</translation>
     </message>
     <message>
         <source>Phone Alert Status Service</source>
@@ -472,7 +472,7 @@
     </message>
     <message>
         <source>Location and Navigation</source>
-        <translation>Plats och navigering</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Environmental Sensing</source>
@@ -662,7 +662,7 @@
     </message>
     <message>
         <source>Local Time Information</source>
-        <translation>Lokal tidsinformation</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Time With DST</source>
@@ -698,7 +698,7 @@
     </message>
     <message>
         <source>Temperature Measurement</source>
-        <translation>Temperaturmätning</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Temperature Type</source>
@@ -778,7 +778,7 @@
     </message>
     <message>
         <source>Heart Rate Measurement</source>
-        <translation>Hjärtfrekvensmätning</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Body Sensor Location</source>
@@ -786,7 +786,7 @@
     </message>
     <message>
         <source>Heart Rate Control Point</source>
-        <translation>Pulskontrollpunkt</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Alert Status</source>
@@ -917,7 +917,7 @@
     </message>
     <message>
         <source>Location And Speed</source>
-        <translation>Plats och hastighet</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Navigation</source>
@@ -955,42 +955,42 @@
     </message>
     <message>
         <source>Humidity</source>
-        <translation>Luftfuktighet</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>True Wind Speed</source>
         <extracomment>Wind speed while standing</extracomment>
-        <translation>Sann vindhastighet</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>True Wind Direction</source>
-        <translation>Sann vindriktning</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Apparent Wind Speed</source>
         <extracomment>Wind speed while observer is moving</extracomment>
-        <translation>Skenbar vindhastighet</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Apparent Wind Direction</source>
-        <translation>Skenbar vindriktning</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Gust Factor</source>
         <extracomment>Factor by which wind gust is stronger than average wind</extracomment>
-        <translation>Vindfaktor</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pollen Concentration</source>
-        <translation>Pollenkoncentration</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>UV Index</source>
-        <translation>UV-index</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Irradiance</source>
-        <translation>Bestrålning</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Rainfall</source>
@@ -998,15 +998,15 @@
     </message>
     <message>
         <source>Wind Chill</source>
-        <translation>Vindkyla</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Heat Index</source>
-        <translation>Värmeindex</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Dew Point</source>
-        <translation>Daggpunkt</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Descriptor Value Changed</source>
@@ -1076,7 +1076,7 @@
     </message>
     <message>
         <source>Heart Rate Maximum</source>
-        <translation>Puls maximal</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Height</source>
@@ -1085,7 +1085,7 @@
     </message>
     <message>
         <source>Hip Circumference</source>
-        <translation>Höftomkrets</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Last Name</source>
@@ -1097,7 +1097,7 @@
     </message>
     <message>
         <source>Resting Heart Rate</source>
-        <translation>Vilopuls</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sport Type For Aerobic/Anaerobic Thresholds</source>
@@ -1113,11 +1113,11 @@
     </message>
     <message>
         <source>Oxygen Uptake</source>
-        <translation>Syreupptagning</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Waist Circumference</source>
-        <translation>Midjeomkrets</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Weight</source>
@@ -1198,11 +1198,11 @@
     </message>
     <message>
         <source>External Report Reference</source>
-        <translation>Extern rapportreferens</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Report Reference</source>
-        <translation>Rapportreferens</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Environmental Sensing Configuration</source>
