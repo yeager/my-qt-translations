@@ -39734,7 +39734,7 @@ Title of a the cloned RunConfiguration window, text of the window</extracomment>
     </message>
     <message>
         <source>Clean Project</source>
-        <translation>Töm projektet</translation>
+        <translation>Rensa projektet</translation>
     </message>
     <message>
         <source>Build Without Dependencies</source>
@@ -39746,7 +39746,7 @@ Title of a the cloned RunConfiguration window, text of the window</extracomment>
     </message>
     <message>
         <source>Clean Without Dependencies</source>
-        <translation>Töm utan beroenden</translation>
+        <translation>Rensa utan beroenden</translation>
     </message>
     <message>
         <source>Sessions</source>
@@ -40820,11 +40820,11 @@ Försök igen.</translation>
         <extracomment>Displayed name for a &quot;cleaning&quot; build step
 ----------
 Display name of the clean build step list. Used as part of the labels in the project window.</extracomment>
-        <translation>Töm</translation>
+        <translation>Rensa</translation>
     </message>
     <message>
         <source>Clear system environment</source>
-        <translation>Töm systemmiljö</translation>
+        <translation>Rensa systemmiljö</translation>
     </message>
     <message>
         <source>Build Environment</source>
@@ -42430,7 +42430,7 @@ The name of the build configuration created by default for a generic project.</e
     </message>
     <message>
         <source>Partially Incompatible Kit</source>
-        <translation type="unfinished"></translation>
+        <translation>Delvis inkompatibelt kit</translation>
     </message>
     <message>
         <source>Some configurations could not be copied.</source>
@@ -42499,15 +42499,15 @@ The name of the build configuration created by default for a generic project.</e
     <message>
         <source>%1 Steps</source>
         <extracomment>%1 is the name returned by BuildStepList::displayName</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1-steg</translation>
     </message>
     <message>
         <source>No %1 Steps</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga %1-steg</translation>
     </message>
     <message>
         <source>Add %1 Step</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till %1-steg</translation>
     </message>
     <message>
         <source>Move Up</source>
@@ -43156,7 +43156,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Sysroot</source>
-        <translation type="unfinished"></translation>
+        <translation>Sysroot</translation>
     </message>
     <message>
         <source>Sys Root &quot;%1&quot; does not exist in the file system.</source>
@@ -43192,7 +43192,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Compiler executable for different languages</source>
-        <translation type="unfinished"></translation>
+        <translation>Körbar kompilatorfil för andra språk</translation>
     </message>
     <message>
         <source>Run device type</source>
@@ -43288,7 +43288,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>The environment setting value is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Miljöns inställningsvärde är ogiltigt.</translation>
     </message>
     <message>
         <source>None</source>
@@ -43320,7 +43320,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>The type of device to run applications on.</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ av enhet att köra program på.</translation>
     </message>
     <message>
         <source>The device to run the applications on.</source>
@@ -43472,7 +43472,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>&amp;Qt mkspecs:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Qt mkspecs:</translation>
     </message>
     <message>
         <source>&amp;Error parser:</source>
@@ -43580,7 +43580,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>No build device is set for the kit &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen byggenhet inställd för kitet &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>You can try mounting the folder in your device settings.</source>
@@ -43729,7 +43729,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>%1 does not exist. If you built %2 yourself, check out https://code.qt.io/cgit/qt-creator/binary-artifacts.git/.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 finns inte. Om du byggt %2 själv så checka ut https://code.qt.io/cgit/qt-creator/binary-artifacts.git/.</translation>
     </message>
     <message>
         <source>Cannot start %1. Check src\tools\win64interrupt\win64interrupt.c for more information.</source>
@@ -43934,7 +43934,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>The build directory is not reachable from the build device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Byggkatalogen är inte nåbar från byggenheten.</translation>
     </message>
     <message>
         <source>Shadow build:</source>
@@ -43974,9 +43974,9 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message numerus="yes">
         <source>There are %n custom parsers active</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Det finns %n anpassad tolkare aktiva</numerusform>
+            <numerusform>Det finns %n anpassade tolkare aktiva</numerusform>
         </translation>
     </message>
     <message>
@@ -44152,7 +44152,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Spacer (&quot;%1&quot;) data is not an object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Spacer (&quot;%1&quot;) data är inte ett objekt.</translation>
     </message>
     <message>
         <source>Spacer (&quot;%1&quot;) property &quot;factor&quot; is no integer value.</source>
@@ -44160,7 +44160,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>LineEdit (&quot;%1&quot;) data is not an object.</source>
-        <translation type="unfinished"></translation>
+        <translation>LineEdit (&quot;%1&quot;) data är inte ett objekt.</translation>
     </message>
     <message>
         <source>LineEdit (&quot;%1&quot;) has an invalid regular expression &quot;%2&quot; in &quot;validator&quot;.</source>
@@ -44220,7 +44220,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>At least one required feature is not present.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minst en nödvändig funktion finns inte.</translation>
     </message>
     <message>
         <source>Platform is not supported.</source>
@@ -44228,7 +44228,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>At least one preferred feature is not present.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minst en föredragen funktion finns inte.</translation>
     </message>
     <message>
         <source>Feature list is set and not of type list.</source>
@@ -44257,16 +44257,18 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     <message>
         <source>Failed to add subproject &quot;%1&quot;
 to project &quot;%2&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att lägga till underprojektet &quot;%1&quot;
+till projektet &quot;%2&quot;.</translation>
     </message>
     <message>
         <source>Failed to add one or more files to project
 &quot;%1&quot; (%2).</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att lägga till en eller flera filer till projektet
+&quot;%1&quot; (%2).</translation>
     </message>
     <message>
         <source>Subproject &quot;%1&quot; outside of &quot;%2&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Underprojektet &quot;%1&quot; är utanför &quot;%2&quot;.</translation>
     </message>
     <message>
         <source>Project File</source>
@@ -44278,7 +44280,7 @@ to project &quot;%2&quot;.</source>
     </message>
     <message>
         <source>The project contains more than one project file. Select the one you would like to use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Projektet innehåller fler än en projektfil. Välj den som du vill använda.</translation>
     </message>
     <message>
         <source>Check whether a variable exists.&lt;br&gt;Returns &quot;true&quot; if it does and an empty string if not.</source>
@@ -44379,7 +44381,8 @@ to project &quot;%2&quot;.</source>
     <message>
         <source>* Did not find a JSON object in &quot;%1&quot;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>* Hittade inte ett JSON-objekt i &quot;%1&quot;.
+</translation>
     </message>
     <message>
         <source>JsonWizard: &quot;%1&quot; not found.</source>
@@ -44387,7 +44390,7 @@ to project &quot;%2&quot;.</source>
     </message>
     <message>
         <source>* Did not find a JSON object in &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>* Hittade inte ett JSON-objekt i &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>* Configuration found and parsed.</source>
@@ -44423,11 +44426,11 @@ to project &quot;%2&quot;.</source>
     </message>
     <message>
         <source>Expected an object or a list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förväntade ett objekt eller en lista.</translation>
     </message>
     <message>
         <source>The platform selected for the wizard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Plattformen vald för denna guide.</translation>
     </message>
     <message>
         <source>The features available to this wizard.</source>
@@ -44435,7 +44438,7 @@ to project &quot;%2&quot;.</source>
     </message>
     <message>
         <source>The plugins loaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Insticksmodulerna inlästa.</translation>
     </message>
     <message>
         <source>&quot;kind&quot; value &quot;%1&quot; is not &quot;class&quot; (deprecated), &quot;file&quot; or &quot;project&quot;.</source>
@@ -44447,11 +44450,11 @@ to project &quot;%2&quot;.</source>
     </message>
     <message>
         <source>No id set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inget id inställt.</translation>
     </message>
     <message>
         <source>No category is set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen category är inställd.</translation>
     </message>
     <message>
         <source>Icon file &quot;%1&quot; not found.</source>
@@ -44463,11 +44466,11 @@ to project &quot;%2&quot;.</source>
     </message>
     <message>
         <source>No displayName set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inget displayName inställt.</translation>
     </message>
     <message>
         <source>No displayCategory set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inget displayCategory inställt.</translation>
     </message>
     <message>
         <source>No description set.</source>
@@ -44508,7 +44511,8 @@ to project &quot;%2&quot;.</source>
     <message>
         <source>The directory %1 contains files which cannot be overwritten:
 %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalogen %1 innehåller filer som inte kan skrivas över:
+%2.</translation>
     </message>
     <message>
         <source>When parsing fields of page &quot;%1&quot;: %2</source>
@@ -44536,7 +44540,7 @@ to project &quot;%2&quot;.</source>
     </message>
     <message>
         <source>Invalid regular expression &quot;%1&quot; in &quot;%2&quot;. %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltigt reguljärt uttryck &quot;%1&quot; i &quot;%2&quot;. %3</translation>
     </message>
     <message>
         <source>&quot;data&quot; for a &quot;Summary&quot; page can be unset or needs to be an object.</source>
@@ -44613,7 +44617,7 @@ Please close all running instances of your application before starting a build.<
     </message>
     <message>
         <source>No kits are enabled for this project. Enable kits in the &quot;Projects&quot; mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga kit är aktiverade för detta projekt. Aktivera kit i &quot;Projekt&quot;-läget.</translation>
     </message>
     <message>
         <source>Rename More Files?</source>
@@ -44632,7 +44636,8 @@ Please close all running instances of your application before starting a build.<
     <message>
         <source>You just dragged some files from one project node to another.
 What should %1 do now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Du har dragit några filer från en projektnod till en annan.
+Vad ska %1 göra nu?</translation>
     </message>
     <message>
         <source>Copy Only File References</source>
@@ -44684,7 +44689,7 @@ What should %1 do now?</source>
     </message>
     <message>
         <source>A version control operation failed for the following files. Please check your repository.</source>
-        <translation type="unfinished"></translation>
+        <translation>En versionskontrollåtgärd misslyckades för följande filer. Kontrollera ditt förråd.</translation>
     </message>
     <message>
         <source>Failure Updating Project</source>
@@ -44736,7 +44741,7 @@ What should %1 do now?</source>
     </message>
     <message>
         <source>Alternate executable on device:</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternativ körbar fil på enheten:</translation>
     </message>
     <message>
         <source>Use this command instead</source>
@@ -44788,11 +44793,11 @@ What should %1 do now?</source>
     </message>
     <message>
         <source>Select files matching:</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj filer som matchar:</translation>
     </message>
     <message>
         <source>Hide files matching:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dölj filer som matchar:</translation>
     </message>
     <message>
         <source>Apply Filters</source>
@@ -44849,7 +44854,7 @@ These files are preserved.</source>
     </message>
     <message>
         <source>Imports existing projects that do not use qmake, CMake, Qbs, Meson, or Autotools.&lt;p&gt;This creates a project file that allows you to use %1 as a code editor and as a launcher for debugging and analyzing tools. If you want to build the project, you might need to edit the generated project file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Importerar befintliga projekt som inte använder qmake, CMake, Qbs, Meson eller Autotools.&lt;p&gt;Detta skapar en projektfil som låter dig använda %1 som en kodredigerare och som en startare för felsökning och analysverktyg. Om du vill bygga projektet så kommer du behöver redigera den genererade projektfilen.</translation>
     </message>
     <message>
         <source>Unknown build system &quot;%1&quot;</source>
@@ -44942,7 +44947,7 @@ These files are preserved.</source>
     </message>
     <message>
         <source>Clone the configuration to change it. Or, make the changes in the .qtcreator/project.json file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klona konfigurationen för att ändra den. Eller gör ändringarna i filen .qtcreator/project.json.</translation>
     </message>
     <message>
         <source>Workspace Manager</source>
@@ -44954,7 +44959,7 @@ These files are preserved.</source>
     </message>
     <message>
         <source>Rescan Workspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Sök igenom arbetsytan igen</translation>
     </message>
     <message>
         <source>You will need at least one port for QML debugging.</source>
@@ -46077,7 +46082,7 @@ Berörda filer är:
     </message>
     <message>
         <source>Clean</source>
-        <translation>Töm</translation>
+        <translation>Rensa</translation>
     </message>
     <message>
         <source>Build &amp;Subproject</source>
@@ -46113,7 +46118,7 @@ Berörda filer är:
     </message>
     <message>
         <source>Cannot find Makefile. Check your build settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte hitta Makefile. Kontrollera dina bygginställningar.</translation>
     </message>
     <message>
         <source>The build directory is not at the same level as the source directory, which could be the reason for the build failure.</source>
@@ -46126,7 +46131,7 @@ Berörda filer är:
     </message>
     <message>
         <source>Configuration unchanged, skipping qmake step.</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurationen inte ändrad, hoppar över qmake-steget.</translation>
     </message>
     <message>
         <source>No Qt version configured.</source>
@@ -46134,7 +46139,7 @@ Berörda filer är:
     </message>
     <message>
         <source>Could not determine which &quot;make&quot; command to run. Check the &quot;make&quot; step in the build configuration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte bestämma vilket &quot;make&quot;-kommando att köra. Kontrollera &quot;make&quot;-steget i byggkonfigurationen.</translation>
     </message>
     <message>
         <source>&lt;no Qt version&gt;</source>
@@ -46158,7 +46163,7 @@ Berörda filer är:
     </message>
     <message>
         <source>Separate Debug Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Separat felsökningsinformation</translation>
     </message>
     <message>
         <source>The option will only take effect if the project is recompiled. Do you want to recompile now?</source>
@@ -46350,7 +46355,7 @@ Berörda filer är:
     </message>
     <message>
         <source>Cannot parse project &quot;%1&quot;: The currently selected kit &quot;%2&quot; does not have a valid Qt.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte tolka projektet &quot;%1&quot;: Det aktuellt valda kitet &quot;%2&quot; har inte en giltig Qt.</translation>
     </message>
     <message>
         <source>Cannot parse project &quot;%1&quot;: No kit selected.</source>
@@ -46387,7 +46392,7 @@ Please update your kit (%3) or choose a mkspec for qmake that matches your targe
     </message>
     <message>
         <source>qmake generator failed: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>qmake-generator misslyckades: %1.</translation>
     </message>
     <message>
         <source>No Qt in kit</source>
@@ -46399,7 +46404,7 @@ Please update your kit (%3) or choose a mkspec for qmake that matches your targe
     </message>
     <message>
         <source>No qmake step in active build configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Inget qmake-steg i aktiv byggkonfiguration</translation>
     </message>
     <message>
         <source>Cannot create output directory &quot;%1&quot;.</source>
@@ -46419,7 +46424,7 @@ Please update your kit (%3) or choose a mkspec for qmake that matches your targe
     </message>
     <message>
         <source>Include path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Include-sökväg:</translation>
     </message>
     <message>
         <source>Linux</source>
@@ -46443,11 +46448,11 @@ Please update your kit (%3) or choose a mkspec for qmake that matches your targe
     </message>
     <message>
         <source>Static</source>
-        <translation type="unfinished"></translation>
+        <translation>Statisk</translation>
     </message>
     <message>
         <source>Mac:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mac:</translation>
     </message>
     <message>
         <source>Library</source>
@@ -46455,11 +46460,11 @@ Please update your kit (%3) or choose a mkspec for qmake that matches your targe
     </message>
     <message>
         <source>Framework</source>
-        <translation type="unfinished"></translation>
+        <translation>Ramverk</translation>
     </message>
     <message>
         <source>Windows:</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows:</translation>
     </message>
     <message>
         <source>File does not exist.</source>
@@ -46467,7 +46472,7 @@ Please update your kit (%3) or choose a mkspec for qmake that matches your targe
     </message>
     <message>
         <source>File does not match filter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen matchar inte filtret.</translation>
     </message>
     <message>
         <source>Platform:</source>
@@ -46602,15 +46607,15 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>Creates a qmake-based subdirs project. This allows you to group your projects in a tree structure.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapar ett qmake-baserat subdirs-projekt. Detta låter dig gruppera dina projekt i en trädstruktur.</translation>
     </message>
     <message>
         <source>Done &amp;&amp; Add Subproject</source>
-        <translation type="unfinished"></translation>
+        <translation>Klar och lägg till underprojekt</translation>
     </message>
     <message>
         <source>Finish &amp;&amp; Add Subproject</source>
-        <translation type="unfinished"></translation>
+        <translation>Färdig och lägg till underprojekt</translation>
     </message>
     <message>
         <source>New Subproject</source>
@@ -46619,7 +46624,7 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>Error while parsing file %1. Giving up.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid tolkning av filen %1. Ger upp.</translation>
     </message>
     <message>
         <source>Headers</source>
@@ -46647,7 +46652,7 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>Other files</source>
-        <translation type="unfinished"></translation>
+        <translation>Andra filer</translation>
     </message>
     <message>
         <source>Generated Files</source>
@@ -46695,7 +46700,7 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>Mkspec not found for Qt version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mkspec hittades inte för Qt-version.</translation>
     </message>
     <message>
         <source>mkspec</source>
@@ -46703,7 +46708,7 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>Mkspec configured for qmake by the kit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mkspec konfigurerad för qmake av kitet.</translation>
     </message>
     <message>
         <source>Warn if a project&apos;s source and build directories are not at the same level</source>
@@ -46715,7 +46720,7 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>Run qmake on every build</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör qmake för varje byggnation</translation>
     </message>
     <message>
         <source>This option can help to prevent failures on incremental builds, but might slow them down unnecessarily in the general case.</source>
