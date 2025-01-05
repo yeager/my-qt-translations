@@ -1604,23 +1604,23 @@ It should be a relative path.</source>
     <name>CheckSection</name>
     <message>
         <source>Check Box</source>
-        <translation>Kryssruta</translation>
+        <translation>Markeringsruta</translation>
     </message>
     <message>
         <source>Check state</source>
-        <translation type="unfinished"></translation>
+        <translation>Markeringstillstånd</translation>
     </message>
     <message>
         <source>Sets the state of the check box.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in tillståndet för markeringsrutan.</translation>
     </message>
     <message>
         <source>Toggles if the check box can have an intermediate state.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar om markeringsrutan kan ha ett mellanliggande tillstånd.</translation>
     </message>
     <message>
         <source>Tri-state</source>
-        <translation type="unfinished"></translation>
+        <translation>Trippeltillstånd</translation>
     </message>
 </context>
 <context>
@@ -4503,7 +4503,7 @@ be rendered into the texture.</source>
     </message>
     <message>
         <source>Alignment of a component within the cells it occupies.</source>
-        <translation type="unfinished"></translation>
+        <translation>Justering för en komponent inom cellerna den ockuperar.</translation>
     </message>
     <message>
         <source>Fill layout</source>
@@ -4547,7 +4547,7 @@ be rendered into the texture.</source>
     </message>
     <message>
         <source>Minimum size of a component in a layout.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minsta storlek för en komponent i en layout.</translation>
     </message>
     <message>
         <source>Maximum size</source>
@@ -4555,7 +4555,7 @@ be rendered into the texture.</source>
     </message>
     <message>
         <source>Maximum size of a component in a layout.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximal storlek för en komponent i en layout.</translation>
     </message>
     <message>
         <source>Row span</source>
@@ -6279,7 +6279,7 @@ operation is in progress.</source>
     </message>
     <message>
         <source>Entry not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Posten hittades inte</translation>
     </message>
     <message>
         <source>Unsupported entry type &apos;Map&apos;</source>
@@ -6840,7 +6840,7 @@ Exporterar tillgångar: %2</translation>
     <name>QmlDesigner::BackgroundAction</name>
     <message>
         <source>Set the color of the canvas.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställ in färgen för kanvasen.</translation>
     </message>
 </context>
 <context>
@@ -7372,7 +7372,7 @@ Exporterar tillgångar: %2</translation>
     </message>
     <message>
         <source>Bake Lights</source>
-        <translation type="unfinished"></translation>
+        <translation>Bakade ljus</translation>
     </message>
     <message>
         <source>Select Parent</source>
@@ -7400,7 +7400,7 @@ Exporterar tillgångar: %2</translation>
     </message>
     <message>
         <source>Rendering occurs as normal.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendering fungerar som normalt.</translation>
     </message>
     <message>
         <source>Base Color</source>
@@ -8165,15 +8165,15 @@ Kontrollera utdatapanelen för mer information.</translation>
     </message>
     <message>
         <source>Canvas</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanvas</translation>
     </message>
     <message>
         <source>If you select this radio button, Qt Design Studio always uses the QML emulation layer (QML Puppet) located at the following path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Om du väljer denna radioknapp kommer Qt Design Studio alltid använda QML-emuleringslagret (QML Pupper) som finns i följande sökväg.</translation>
     </message>
     <message>
         <source>Warns about QML features that are not properly supported by the Qt Design Studio.</source>
-        <translation type="unfinished"></translation>
+        <translation>Varna om QML-funktioner som inte helt stöds av Qt Design Studio.</translation>
     </message>
     <message>
         <source>Debugging</source>
@@ -8181,7 +8181,7 @@ Kontrollera utdatapanelen för mer information.</translation>
     </message>
     <message>
         <source>Show the debugging view</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa felsökningsvyn</translation>
     </message>
     <message>
         <source>Enable smooth rendering in the 2D view.</source>
@@ -8205,7 +8205,7 @@ Kontrollera utdatapanelen för mer information.</translation>
     </message>
     <message>
         <source>Path to the QML emulation layer executable (qmlpuppet).</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökväg till körbar fil för QML-emuleringslagret (qmlpuppet).</translation>
     </message>
     <message>
         <source>Reset Path</source>
@@ -8213,11 +8213,11 @@ Kontrollera utdatapanelen för mer information.</translation>
     </message>
     <message>
         <source>Resets the path to the built-in QML emulation layer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nollställer sökvägen till det inbyggda QML-emuleringslagret.</translation>
     </message>
     <message>
         <source>Use QML emulation layer that is built with the selected Qt</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd QML-emuleringslagret som är byggt med vald Qt</translation>
     </message>
     <message>
         <source>Always save when leaving subcomponent in bread crumb</source>
@@ -8225,23 +8225,23 @@ Kontrollera utdatapanelen för mer information.</translation>
     </message>
     <message>
         <source>Warn about unsupported features of .ui.qml files in code editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Varna om funktioner som inte stöds för .ui.qml-filer i kodredigeraren</translation>
     </message>
     <message>
         <source>Also warns in the code editor about QML features that are not properly supported by the Qt Quick Designer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Varnar även i kodredigeraren om QML-funktioner som inte helt stöds av Qt Quick Designer.</translation>
     </message>
     <message>
         <source>Warn about unsupported features in .ui.qml files</source>
-        <translation type="unfinished"></translation>
+        <translation>Varna om funktioner som inte stöds i .ui.qml-filer</translation>
     </message>
     <message>
         <source>Warn about using .qml files instead of .ui.qml files</source>
-        <translation type="unfinished"></translation>
+        <translation>Varna om användning av .qml-filer istället för .ui.qml-filer</translation>
     </message>
     <message>
         <source>Qt Quick Designer will propose to open .ui.qml files instead of opening a .qml file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt Quick Designer kommer att föreslå att öppna .ui.qml-filer istället för att öppna en .qml-fil.</translation>
     </message>
     <message>
         <source>qsTr()</source>
@@ -8257,7 +8257,7 @@ Kontrollera utdatapanelen för mer information.</translation>
     </message>
     <message>
         <source>Always open ui.qml files in Design mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna alltid ui.qml-filer i Design-läget</translation>
     </message>
     <message>
         <source>Ask for confirmation before deleting asset</source>
@@ -8273,11 +8273,11 @@ Kontrollera utdatapanelen för mer information.</translation>
     </message>
     <message>
         <source>Enable DockWidget content minimum size</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivera minsta storlek för DockWidget-innehåll</translation>
     </message>
     <message>
         <source>Show property editor warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa varningar för egenskapsredigerare</translation>
     </message>
     <message>
         <source>Enable the debugging view</source>
@@ -8285,7 +8285,7 @@ Kontrollera utdatapanelen för mer information.</translation>
     </message>
     <message>
         <source>Show warn exceptions</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa varningsundantag</translation>
     </message>
     <message>
         <source>Path:</source>
@@ -8297,7 +8297,7 @@ Kontrollera utdatapanelen för mer information.</translation>
     </message>
     <message>
         <source>Forward QML emulation layer output:</source>
-        <translation type="unfinished"></translation>
+        <translation>Skickar vidare utdata från QML-emuleringslagret:</translation>
     </message>
     <message>
         <source>Debug QML emulation layer:</source>
@@ -14831,7 +14831,7 @@ Local commits are not pushed to the master branch until a normal commit is perfo
     </message>
     <message>
         <source>Default username:</source>
-        <translation type="unfinished"></translation>
+        <translation>Användarnamn som standard:</translation>
     </message>
     <message>
         <source>Email to use by default on commit.</source>
@@ -14839,7 +14839,7 @@ Local commits are not pushed to the master branch until a normal commit is perfo
     </message>
     <message>
         <source>Default email:</source>
-        <translation type="unfinished"></translation>
+        <translation>E-postadress som standard:</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
@@ -14942,7 +14942,7 @@ This flag will allow push to proceed.</source>
     </message>
     <message>
         <source>Specify a revision other than the default?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange en revision annan än standard?</translation>
     </message>
     <message>
         <source>Revision:</source>
@@ -14954,7 +14954,7 @@ This flag will allow push to proceed.</source>
     </message>
     <message>
         <source>Keep tags that point to removed revisions</source>
-        <translation type="unfinished"></translation>
+        <translation>Behåll taggar som pekar på borttagna revisioner</translation>
     </message>
     <message>
         <source>Only remove the commits from the local branch when in a checkout</source>
@@ -14995,11 +14995,11 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Diff Current File</source>
-        <translation type="unfinished"></translation>
+        <translation>Diff aktuell fil</translation>
     </message>
     <message>
         <source>Diff &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Diff &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Meta+Z,Meta+D</source>
@@ -15071,7 +15071,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Diff</source>
-        <translation type="unfinished"></translation>
+        <translation>Diff</translation>
     </message>
     <message>
         <source>Log</source>
@@ -15151,7 +15151,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Show files changed in each revision.</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa filer som ändrats i varje revision.</translation>
     </message>
     <message>
         <source>Show from oldest to newest.</source>
@@ -15159,11 +15159,11 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Include Merges</source>
-        <translation type="unfinished"></translation>
+        <translation>Inkludera sammanslagningar</translation>
     </message>
     <message>
         <source>Show merged revisions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa sammanslagna revisioner.</translation>
     </message>
     <message>
         <source>Moderately Short</source>
@@ -29806,7 +29806,7 @@ Det kan hjälpa att bygga om projektet.</translation>
     </message>
     <message>
         <source>Failed to retrieve docker networks. Exit code: %1. Error: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att hämta docker-nätverk. Avslutskod: %1. Fel: %2</translation>
     </message>
     <message>
         <source>Path &quot;%1&quot; is not a directory or does not exist.</source>
@@ -29818,7 +29818,7 @@ Det kan hjälpa att bygga om projektet.</translation>
     </message>
     <message>
         <source>Failed starting Docker container. Exit code: %1, output: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att starta Docker-container. Avslutskod: %1, utdata: %2</translation>
     </message>
     <message>
         <source>Failed to start container: %1</source>
@@ -29830,15 +29830,15 @@ Det kan hjälpa att bygga om projektet.</translation>
     </message>
     <message>
         <source>Run as outside user:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör som utsideanvändare:</translation>
     </message>
     <message>
         <source>Do not modify entry point:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra inte ingångspunkt:</translation>
     </message>
     <message>
         <source>Enable flags needed for LLDB:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivera flaggor som behövs för LLDB:</translation>
     </message>
     <message>
         <source>Extra arguments:</source>
@@ -29846,7 +29846,7 @@ Det kan hjälpa att bygga om projektet.</translation>
     </message>
     <message>
         <source>Extra arguments to pass to docker create.</source>
-        <translation type="unfinished"></translation>
+        <translation>Extraargument att skicka till docker create.</translation>
     </message>
     <message>
         <source>Network:</source>
@@ -29866,7 +29866,7 @@ Det kan hjälpa att bygga om projektet.</translation>
     </message>
     <message>
         <source>Error starting remote shell. No container.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid start av fjärrskal. Ingen container.</translation>
     </message>
     <message>
         <source>Open Shell in Container</source>
@@ -29878,11 +29878,11 @@ Det kan hjälpa att bygga om projektet.</translation>
     </message>
     <message>
         <source>Failed creating Docker container. Exit code: %1, output: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att skapa Docker-container. Avslutskod: %1, utdata: %2</translation>
     </message>
     <message>
         <source>Failed creating Docker container. No container ID received.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att skapa Docker-container. Inget container-id togs emot.</translation>
     </message>
     <message>
         <source>Device is shut down</source>
@@ -29890,7 +29890,7 @@ Det kan hjälpa att bygga om projektet.</translation>
     </message>
     <message>
         <source>Docker system is not reachable</source>
-        <translation type="unfinished"></translation>
+        <translation>Docker-systemet är inte nåbart</translation>
     </message>
     <message>
         <source>Running</source>
@@ -29898,7 +29898,7 @@ Det kan hjälpa att bygga om projektet.</translation>
     </message>
     <message>
         <source>Docker Image Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Avbildsval för Docker</translation>
     </message>
     <message>
         <source>Show Unnamed Images</source>
@@ -29930,15 +29930,15 @@ Det kan hjälpa att bygga om projektet.</translation>
     </message>
     <message>
         <source>Failed to inspect image: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att inspektera avbild: %1</translation>
     </message>
     <message>
         <source>Could not parse image inspect output: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte tolka avbildsinspektionens utdata: %1</translation>
     </message>
     <message>
         <source>localSource: No mount point found for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>localSource: Ingen monteringspunkt hittades för %1</translation>
     </message>
     <message>
         <source>Repository:</source>
@@ -29950,15 +29950,15 @@ Det kan hjälpa att bygga om projektet.</translation>
     </message>
     <message>
         <source>Image ID:</source>
-        <translation type="unfinished"></translation>
+        <translation>Avbildens id:</translation>
     </message>
     <message>
         <source>Daemon state:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillstånd för demonen:</translation>
     </message>
     <message>
         <source>Clears detected daemon state. It will be automatically re-evaluated next time access is needed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tömmer upptäckta demontillstånd. Det kommer automatiskt att återevalueras nästa gång åtkomst behövs.</translation>
     </message>
     <message>
         <source>Clangd Executable:</source>
@@ -29970,27 +29970,27 @@ Det kan hjälpa att bygga om projektet.</translation>
     </message>
     <message>
         <source>Source directory list should not be empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Listan över källkataloger bör inte vara tom.</translation>
     </message>
     <message>
         <source>Host directories to mount into the container.</source>
-        <translation type="unfinished"></translation>
+        <translation>Värdkataloger för montering inne i containern.</translation>
     </message>
     <message>
         <source>Maps paths in this list one-to-one to the docker container.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mappar sökvägar i denna lista en till en till docker-containern.</translation>
     </message>
     <message>
         <source>Auto-detect Kit Items</source>
-        <translation type="unfinished"></translation>
+        <translation>Upptäck kitobjekt automatiskt</translation>
     </message>
     <message>
         <source>Remove Auto-Detected Kit Items</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta automatiskt bort upptäckta kitobjekt</translation>
     </message>
     <message>
         <source>List Auto-Detected Kit Items</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista automatiskt upptäckta kitobjekt</translation>
     </message>
     <message>
         <source>Search in PATH</source>
@@ -30006,11 +30006,11 @@ Det kan hjälpa att bygga om projektet.</translation>
     </message>
     <message>
         <source>Semicolon-separated list of directories</source>
-        <translation type="unfinished"></translation>
+        <translation>Semikolonseparerad lista över kataloger</translation>
     </message>
     <message>
         <source>Select the paths in the Docker image that should be scanned for kit entries.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj sökvägarna i Docker-avbilden som ska sökas igenom efter kitposter.</translation>
     </message>
     <message>
         <source>Failed to start container.</source>
@@ -30018,15 +30018,15 @@ Det kan hjälpa att bygga om projektet.</translation>
     </message>
     <message>
         <source>Docker daemon appears to be stopped.</source>
-        <translation type="unfinished"></translation>
+        <translation>Docker-demonen verkar vara stoppad.</translation>
     </message>
     <message>
         <source>Docker daemon appears to be running.</source>
-        <translation type="unfinished"></translation>
+        <translation>Docker-demonen verkar vara igång.</translation>
     </message>
     <message>
         <source>Detection complete.</source>
-        <translation type="unfinished"></translation>
+        <translation>Upptäckten är färdig.</translation>
     </message>
     <message>
         <source>Search Locations:</source>
@@ -30034,7 +30034,7 @@ Det kan hjälpa att bygga om projektet.</translation>
     </message>
     <message>
         <source>Detection log:</source>
-        <translation type="unfinished"></translation>
+        <translation>Upptäcktslogg:</translation>
     </message>
     <message>
         <source>Container state:</source>
@@ -30046,19 +30046,19 @@ Det kan hjälpa att bygga om projektet.</translation>
     </message>
     <message>
         <source>Daemon state not evaluated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Demonens tillstånd är inte evaluerat.</translation>
     </message>
     <message>
         <source>Docker daemon running.</source>
-        <translation type="unfinished"></translation>
+        <translation>Docker-demonen är igång.</translation>
     </message>
     <message>
         <source>Docker daemon not running.</source>
-        <translation type="unfinished"></translation>
+        <translation>Docker-demonen är inte igång.</translation>
     </message>
     <message>
         <source>Docker CLI</source>
-        <translation type="unfinished"></translation>
+        <translation>Dockers kommandoradsgränssnitt</translation>
     </message>
     <message>
         <source>Command:</source>
@@ -48060,7 +48060,7 @@ Please build the qmldump application on the Qt version options page.</source>
     </message>
     <message>
         <source>The QML Profiler can be used to find performance bottlenecks in applications using QML.</source>
-        <translation type="unfinished"></translation>
+        <translation>QML-profileraren kan användas för att hitta prestandaflaskhalsar i program som använder QML.</translation>
     </message>
     <message>
         <source>QML Profiler Options</source>
@@ -48109,7 +48109,7 @@ Please use the stop button instead.</source>
     </message>
     <message>
         <source>The application finished before a connection could be established. No data was loaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Programmet färdigställdes innan en anslutning kunde etableras. Inget data lästes in.</translation>
     </message>
     <message>
         <source>Could not connect to the in-process QML profiler within %1 s.
@@ -48143,12 +48143,13 @@ Vill du försöka igen och vänta %2 s?</translation>
     </message>
     <message>
         <source>You are about to discard the profiling data, including unsaved notes. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Du är på väg att förkasta profileringsdata, inklusive osparade noteringar. Vill du fortsätta?</translation>
     </message>
     <message>
         <source>Starting a new profiling session will discard the previous data, including unsaved notes.
 Do you want to save the data first?</source>
-        <translation type="unfinished"></translation>
+        <translation>Starta en ny profileringssession kommer att förkasta tidigare data, inklusive osparade noteringar.
+Vill du spara datat först?</translation>
     </message>
     <message>
         <source>Discard data</source>
@@ -48343,7 +48344,7 @@ Do you want to save the data first?</source>
     </message>
     <message>
         <source>Could not re-read events from temporary trace file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>`Kunde inte läsa om händelser från temporär spårningsfil: %1</translation>
     </message>
     <message>
         <source>Create</source>
@@ -60899,11 +60900,11 @@ This is used for calculating the total implicit size.</source>
     <name>ShowCameraFrustumAction</name>
     <message>
         <source>Always Show Camera Frustums</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa alltid kamerafrustum</translation>
     </message>
     <message>
         <source>Toggle between always showing the camera frustum visualization and only showing it when the camera is selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växla mellan att alltid visa visualisering av kamerafrustum och alltid visa den när kameran väljs.</translation>
     </message>
 </context>
 <context>
