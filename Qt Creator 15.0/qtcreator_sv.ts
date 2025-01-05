@@ -15665,11 +15665,11 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Edit the current kit&apos;s CMake configuration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera CMake-konfiguration för aktuellt kit.</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrera</translation>
     </message>
     <message>
         <source>&amp;Add</source>
@@ -15713,11 +15713,11 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>&amp;Unset</source>
-        <translation>&amp;Ta bort</translation>
+        <translation>Avi&amp;nställ</translation>
     </message>
     <message>
         <source>Unset a value in the CMake configuration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Avinställ ett värde i CMake-konfigurationen.</translation>
     </message>
     <message>
         <source>&amp;Reset</source>
@@ -15725,7 +15725,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Reset all unapplied changes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nollställ alla otillämpade ändringar.</translation>
     </message>
     <message>
         <source>Batch Edit...</source>
@@ -15741,7 +15741,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>&lt;UNSET&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;AVINSTÄLL&gt;</translation>
     </message>
     <message>
         <source>Edit CMake Configuration</source>
@@ -15749,7 +15749,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Enter one CMake &lt;a href=&quot;variable&quot;&gt;variable&lt;/a&gt; per line.&lt;br/&gt;To set or change a variable, use -D&amp;lt;variable&amp;gt;:&amp;lt;type&amp;gt;=&amp;lt;value&amp;gt;.&lt;br/&gt;&amp;lt;type&amp;gt; can have one of the following values: FILEPATH, PATH, BOOL, INTERNAL, or STRING.&lt;br/&gt;To unset a variable, use -U&amp;lt;variable&amp;gt;.&lt;br/&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange en CMake-&lt;a href=&quot;variable&quot;&gt;variabel&lt;/a&gt; per rad.&lt;br/&gt;För att ställa in eller ändra en variabel, använd -D&amp;lt;variabel&amp;gt;:&amp;lt;typ&amp;gt;=&amp;lt;värde&amp;gt;.&lt;br/&gt;&amp;lt;typ&amp;gt; kan ha ett av följande värden: FILEPATH, PATH, BOOL, INTERNAL eller STRING.&lt;br/&gt;För att avinställa en variabel, använd -U&amp;lt;variabel&amp;gt;.&lt;br/&gt;</translation>
     </message>
     <message>
         <source>Re-configure with Initial Parameters</source>
@@ -15805,7 +15805,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Apply Initial Configuration Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillämpa initialt konfigurationsvärde</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -15817,23 +15817,23 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Change the build directory to &quot;%1&quot; and start with a basic CMake configuration?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra byggkatalogen till &quot;%1&quot; och starta med en grundläggande CMake-konfiguration?</translation>
     </message>
     <message>
         <source>The CMake flag for the development team</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake-flaggan för utvecklingsteamet</translation>
     </message>
     <message>
         <source>The CMake flag for the provisioning profile</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake-flaggan för provisioneringsprofilen</translation>
     </message>
     <message>
         <source>The CMake flag for the architecture on macOS</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake-flaggan för arkitekturen på macOS</translation>
     </message>
     <message>
         <source>The CMake flag for QML debugging, if enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake-flaggan för QML-felsökning, om aktiverad</translation>
     </message>
     <message>
         <source>Minimum Size Release</source>
@@ -15849,7 +15849,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Additional CMake &lt;a href=&quot;options&quot;&gt;options&lt;/a&gt;:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ytterligare CMake-&lt;a href=&quot;options&quot;&gt;alternativ&lt;/a&gt;:</translation>
     </message>
     <message>
         <source>Build type:</source>
@@ -15973,7 +15973,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Toolset</source>
-        <translation type="unfinished"></translation>
+        <translation>Verktygsuppsättning</translation>
     </message>
     <message>
         <source>CMake Generator</source>
@@ -15989,7 +15989,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Toolset:</source>
-        <translation type="unfinished"></translation>
+        <translation>Verktygsuppsättning:</translation>
     </message>
     <message>
         <source>CMake &lt;a href=&quot;generator&quot;&gt;generator&lt;/a&gt;</source>
@@ -15997,7 +15997,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>CMake generator defines how a project is built when using CMake.&lt;br&gt;This setting is ignored when using other build systems.</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake-generatorn definierar hur ett projekt byggs när man använder CMake.&lt;br&gt;Denna inställning ignoreras när du använder andra byggsystem.</translation>
     </message>
     <message>
         <source>CMake Tool is unconfigured, CMake generator will be ignored.</source>
@@ -16005,7 +16005,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>CMake Tool does not support the configured generator.</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake-verktyget har inte stöd för konfigurerad generator.</translation>
     </message>
     <message>
         <source>Platform is not supported by the selected CMake generator.</source>
@@ -16013,11 +16013,11 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Toolset is not supported by the selected CMake generator.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verktygsuppsättning stöds inte av vald CMake-generator.</translation>
     </message>
     <message>
         <source>The selected CMake binary does not support file-api. %1 will not be able to parse CMake projects.</source>
-        <translation type="unfinished"></translation>
+        <translation>Den valda CMake-binären har inte stöd för file-api. %1 kommer inte kunna tolka CMake-projekt.</translation>
     </message>
     <message>
         <source>&lt;Use Default Generator&gt;</source>
@@ -16033,11 +16033,11 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Toolset: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Verktygsuppsättning: %1</translation>
     </message>
     <message>
         <source>Enter one CMake &lt;a href=&quot;variable&quot;&gt;variable&lt;/a&gt; per line.&lt;br/&gt;To set a variable, use -D&amp;lt;variable&amp;gt;:&amp;lt;type&amp;gt;=&amp;lt;value&amp;gt;.&lt;br/&gt;&amp;lt;type&amp;gt; can have one of the following values: FILEPATH, PATH, BOOL, INTERNAL, or STRING.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange en CMake-&lt;a href=&quot;variable&quot;&gt;variabel&lt;/a&gt; per rad.&lt;br/&gt;För att ställa in en variabel, använd -D&amp;lt;variabel&amp;gt;:&amp;lt;typ&amp;gt;=&amp;lt;värde&amp;gt;.&lt;br/&gt;&amp;lt;typ&amp;gt; kan ha en av följande värden: FILEPATH, PATH, BOOL, INTERNAL eller STRING.</translation>
     </message>
     <message>
         <source>CMake Configuration</source>
@@ -16073,19 +16073,19 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>CMake configuration has a path to a C compiler set that does not match the compiler path configured in the tool chain of the kit.</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake-konfigurationen har en sökväg till en C-kompilator inställd som inte matchar kompilatorsökvägen konfigurerad i verktygskedjan för kitet.</translation>
     </message>
     <message>
         <source>CMake configuration has no path to a C++ compiler set, even though the kit has a valid tool chain.</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake-konfigurationen har ingen sökväg till en C++-kompilator inställd, även om kitet har en giltig verktygskedja.</translation>
     </message>
     <message>
         <source>CMake configuration has a path to a C++ compiler set, even though the kit has no valid tool chain.</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake-konfigurationen har en sökväg till en C++-kompilator inställd, även om kitet inte har en giltig verktygskedja.</translation>
     </message>
     <message>
         <source>CMake configuration has a path to a C++ compiler set that does not match the compiler path configured in the tool chain of the kit.</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake-konfigurationen har en sökväg till en C++-kompilator inställd som inte matchar kompilatorsökvägen konfigurerad i verktygskedjan för kitet.</translation>
     </message>
     <message>
         <source>Run CMake</source>
@@ -16117,11 +16117,11 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>A CMake tool must be set up for building. Configure a CMake tool in the kit options.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ett CMake-verktyg måste konfigureras för byggnation. Konfigurera ett CMake-verktyg i kitalternativen.</translation>
     </message>
     <message>
         <source>There is a CMakeCache.txt file in &quot;%1&quot;, which suggest an in-source build was done before. You are now building in &quot;%2&quot;, and the CMakeCache.txt file might confuse CMake.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det finns en CMakeCache.txt-fil i &quot;%1&quot;, som föreslår en i-källkoden-byggnation har gjorts tidigare. Du bygger nu i &quot;%2&quot; och CMakeCache.txt-filen kan förvirra CMake.</translation>
     </message>
     <message>
         <source>The kit needs to define a CMake tool to parse this project.</source>
@@ -16137,7 +16137,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>&lt;b&gt;CMake configuration failed&lt;b&gt;&lt;p&gt;The backup of the previous configuration has been restored.&lt;/p&gt;&lt;p&gt;Issues and &quot;Projects &gt; Build&quot; settings show more information about the failure.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;CMake-konfiguration misslyckades&lt;b&gt;&lt;p&gt;Säkerhetskopian av tidigare konfiguration har återställts.&lt;/p&gt;&lt;p&gt;Problem och &quot;Projekt &gt; Bygg&quot;-inställningar visar mer information om misslyckandet.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;b&gt;Failed to load project&lt;b&gt;&lt;p&gt;Issues and &quot;Projects &gt; Build&quot; settings show more information about the failure.&lt;/p&gt;</source>
@@ -43949,7 +43949,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Build directory contains potentially problematic character &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Byggkatalogen innehåller potentiellt problematiska tecknet &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>This warning can be suppressed &lt;a href=&quot;dummy&quot;&gt;here&lt;/a&gt;.</source>
@@ -43957,7 +43957,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Separate debug info:</source>
-        <translation type="unfinished"></translation>
+        <translation>Separat felsökningsinfo:</translation>
     </message>
     <message>
         <source>The project is currently being parsed.</source>
