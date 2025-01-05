@@ -203,27 +203,27 @@
     </message>
     <message>
         <source>Align left edges.</source>
-        <translation type="unfinished"></translation>
+        <translation>Justera vänstra kanter.</translation>
     </message>
     <message>
         <source>Align horizontal centers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Justera horisontella centrum.</translation>
     </message>
     <message>
         <source>Align right edges.</source>
-        <translation type="unfinished"></translation>
+        <translation>Justera högra kanter.</translation>
     </message>
     <message>
         <source>Align top edges.</source>
-        <translation type="unfinished"></translation>
+        <translation>Justera övre kanter.</translation>
     </message>
     <message>
         <source>Align vertical centers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Justera vertikala centrum.</translation>
     </message>
     <message>
         <source>Align bottom edges.</source>
-        <translation type="unfinished"></translation>
+        <translation>Justera nedre kanter.</translation>
     </message>
     <message>
         <source>Distribute objects</source>
@@ -231,59 +231,59 @@
     </message>
     <message>
         <source>Distribute left edges.</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuera vänstra kanter.</translation>
     </message>
     <message>
         <source>Distribute horizontal centers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuera horisontella centrum.</translation>
     </message>
     <message>
         <source>Distribute right edges.</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuera högra kanter.</translation>
     </message>
     <message>
         <source>Distribute top edges.</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuera övre kanter.</translation>
     </message>
     <message>
         <source>Distribute vertical centers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuera vertikala centrum.</translation>
     </message>
     <message>
         <source>Distribute bottom edges.</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuera nedre kanter.</translation>
     </message>
     <message>
         <source>Distribute spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuera mellanrum</translation>
     </message>
     <message>
         <source>Distribute spacing horizontally.</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuera mellanrum horisontellt.</translation>
     </message>
     <message>
         <source>Distribute spacing vertically.</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuera mellanrum vertikalt.</translation>
     </message>
     <message>
         <source>Disables the distribution of spacing in pixels.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inaktiverar distributionen av mellanrum i bildpunkter.</translation>
     </message>
     <message>
         <source>Sets the left or top border of the target area or item as the starting point, depending on the distribution orientation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in vänster eller övre ram för målytan eller objekt som startpunkt, beroende på distributionsorienteringen.</translation>
     </message>
     <message>
         <source>Sets the horizontal or vertical center of the target area or item as the starting point, depending on the distribution orientation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in horisontellt eller vertikalt centrum för målytan eller objekt som startpunkt, beroende på distributionsorienteringen.</translation>
     </message>
     <message>
         <source>Sets the bottom or right border of the target area or item as the starting point, depending on the distribution orientation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in nedre eller höger ram för målytan eller objekt som startpunkt, beroende på distributionsorienteringen.</translation>
     </message>
     <message>
         <source>Pixel spacing</source>
-        <translation>Pixelavstånd</translation>
+        <translation>Bildpunktsmellanrum</translation>
     </message>
     <message>
         <source>Align to</source>
@@ -299,15 +299,15 @@
     </message>
     <message>
         <source>- The selection contains the root component.</source>
-        <translation type="unfinished"></translation>
+        <translation>- Markeringen innehåller rotkomponenten.</translation>
     </message>
     <message>
         <source>- The selection contains a non-visual component.</source>
-        <translation type="unfinished"></translation>
+        <translation>- Markeringen innehåller en icke-visuell komponent.</translation>
     </message>
     <message>
         <source>- A component in the selection uses anchors.</source>
-        <translation type="unfinished"></translation>
+        <translation>- En komponent i markeringen använder ankare.</translation>
     </message>
 </context>
 <context>
@@ -321,7 +321,7 @@
     <name>AmbientSoundSection</name>
     <message>
         <source>Ambient Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Bakgrundsljud</translation>
     </message>
     <message>
         <source>Source</source>
@@ -338,7 +338,8 @@
     <message>
         <source>Set the overall volume for this sound source.
 Values between 0 and 1 will attenuate the sound, while values above 1 provide an additional gain boost.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in övergripande volym för denna ljudkälla.
+Värden mellan 0 och 1 kommer att dämpa ljudet medans värden över 1 ger en ytterligare förstärkning.</translation>
     </message>
     <message>
         <source>Loops</source>
@@ -347,7 +348,8 @@ Values between 0 and 1 will attenuate the sound, while values above 1 provide an
     <message>
         <source>Sets how often the sound is played before the player stops.
 Bind to AmbientSound.Infinite to loop the current sound forever.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in hur ofta ljudet spelas upp innan uppspelaren stoppar.
+Bind till AmbientSound.Infinite för att spela upp ljudet utan stopp.</translation>
     </message>
     <message>
         <source>Auto Play</source>
@@ -1167,51 +1169,51 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Tile mode H</source>
-        <translation type="unfinished"></translation>
+        <translation>Brickläge H</translation>
     </message>
     <message>
         <source>Sets the horizontal tiling mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in horisontellt brickläge.</translation>
     </message>
     <message>
         <source>Tile mode V</source>
-        <translation type="unfinished"></translation>
+        <translation>Brickläge V</translation>
     </message>
     <message>
         <source>Sets the vertical tiling mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in vertikalt brickläge.</translation>
     </message>
     <message>
         <source>Border left</source>
-        <translation type="unfinished"></translation>
+        <translation>Ram vänster</translation>
     </message>
     <message>
         <source>Sets the left border.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in vänster ram.</translation>
     </message>
     <message>
         <source>Border right</source>
-        <translation type="unfinished"></translation>
+        <translation>Ram höger</translation>
     </message>
     <message>
         <source>Sets the right border.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in höger ram.</translation>
     </message>
     <message>
         <source>Border top</source>
-        <translation type="unfinished"></translation>
+        <translation>Ram övre</translation>
     </message>
     <message>
         <source>Sets the top border.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in övre ram.</translation>
     </message>
     <message>
         <source>Border bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Ram nedre</translation>
     </message>
     <message>
         <source>Sets the bottom border.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in nedre ram.</translation>
     </message>
     <message>
         <source>Mirror</source>
@@ -1223,15 +1225,15 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Toggles if the image is saved to the cache memory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar om bilden är sparad till cacheminnet.</translation>
     </message>
     <message>
         <source>Toggles if the image is loaded after all the components in the design.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar om bilden läses in efter alla komponenterna i designen.</translation>
     </message>
     <message>
         <source>Cache</source>
-        <translation type="unfinished"></translation>
+        <translation>Cache</translation>
     </message>
     <message>
         <source>Asynchronous</source>
@@ -1661,7 +1663,7 @@ It should be a relative path.</source>
     <name>ColorEditorPopup</name>
     <message>
         <source>Solid</source>
-        <translation>Fast</translation>
+        <translation>Solid</translation>
     </message>
     <message>
         <source>Linear</source>
@@ -2041,7 +2043,7 @@ Detta går inte att ångra.</translation>
     </message>
     <message>
         <source>Sets an interaction method that connects to the &lt;b&gt;Target&lt;/b&gt; component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in en interaktionsmetod som ansluter till &lt;b&gt;Mål&lt;/b&gt;-komponenten.</translation>
     </message>
     <message>
         <source>Action</source>
@@ -2049,7 +2051,7 @@ Detta går inte att ångra.</translation>
     </message>
     <message>
         <source>Sets an action that is associated with the selected &lt;b&gt;Target&lt;/b&gt; component&apos;s &lt;b&gt;Signal&lt;/b&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in en åtgärd som associeras med vald &lt;b&gt;Mål&lt;/b&gt;-komponents &lt;b&gt;Signal&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Call Function</source>
@@ -2081,7 +2083,7 @@ Detta går inte att ångra.</translation>
     </message>
     <message>
         <source>Sets a logical condition for the selected &lt;b&gt;Signal&lt;/b&gt;. It works with the properties of the &lt;b&gt;Target&lt;/b&gt; component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in ett logiskt villkor för vald &lt;b&gt;Signal&lt;/b&gt;. Den arbetar med egenskaperna för &lt;b&gt;Mål&lt;/b&gt;-komponenten.</translation>
     </message>
     <message>
         <source>Remove Condition</source>
@@ -2089,27 +2091,27 @@ Detta går inte att ångra.</translation>
     </message>
     <message>
         <source>Removes the logical condition for the &lt;b&gt;Target&lt;/b&gt; component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tar bort logiska villkoret för &lt;b&gt;Mål&lt;/b&gt;-komponenten.</translation>
     </message>
     <message>
         <source>Add Else Statement</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till Else-villkor</translation>
     </message>
     <message>
         <source>Sets an alternate condition for the previously defined logical condition.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in ett alternativt villkor för tidigare definierat logiskt villkor.</translation>
     </message>
     <message>
         <source>Remove Else Statement</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort Else-villkor</translation>
     </message>
     <message>
         <source>Removes the alternate logical condition for the previously defined logical condition.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tar bort alternativa logiska villkoret för tidigare definierat logiskt villkor.</translation>
     </message>
     <message>
         <source>Write the conditions for the components and the signals manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv villkoren för komponenterna och signalerna manuellt.</translation>
     </message>
     <message>
         <source>Jump to the code.</source>
@@ -2468,7 +2470,7 @@ Detta går inte att ångra.</translation>
     </message>
     <message>
         <source>Toggles if the component can receive hover events.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar om komponenten kan ta emot hovringshändelser.</translation>
     </message>
     <message>
         <source>Sets focus method.</source>
@@ -2476,11 +2478,11 @@ Detta går inte att ångra.</translation>
     </message>
     <message>
         <source>Sets the spacing between internal elements of the component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in avståndet mellan interna element för komponenten.</translation>
     </message>
     <message>
         <source>Toggles if the component supports mouse wheel events.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar om komponenten har stöd för mushjulshändelser.</translation>
     </message>
     <message>
         <source>Hover</source>
@@ -2843,7 +2845,7 @@ defined in &lt;b&gt;Step size&lt;/b&gt;.</source>
     </message>
     <message>
         <source>This property allows explicit control of current animation time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denna egenskap tillåter uttrycklig kontroll av aktuell animeringstid.</translation>
     </message>
     <message>
         <source>Frame</source>
@@ -2851,7 +2853,7 @@ defined in &lt;b&gt;Step size&lt;/b&gt;.</source>
     </message>
     <message>
         <source>This property allows explicit control of current animation frame.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denna egenskap tillåter uttrycklig kontroll för aktuell animeringsbild.</translation>
     </message>
     <message>
         <source>General</source>
@@ -2859,11 +2861,11 @@ defined in &lt;b&gt;Step size&lt;/b&gt;.</source>
     </message>
     <message>
         <source>Extra Margin</source>
-        <translation type="unfinished"></translation>
+        <translation>Extra marginal</translation>
     </message>
     <message>
         <source>This property specifies how much of extra space is reserved for the effect outside the parent geometry.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denna egenskap anger hur mycket extra utrymme som reserverats för effekten utanför föräldrageometrin.</translation>
     </message>
 </context>
 <context>
@@ -3020,32 +3022,33 @@ defined in &lt;b&gt;Step size&lt;/b&gt;.</source>
     </message>
     <message>
         <source>Layer Blur</source>
-        <translation type="unfinished"></translation>
+        <translation>Lageroskärpa</translation>
     </message>
     <message>
         <source>Toggles the visibility of the &lt;b&gt;Layer Blur&lt;/b&gt; on the component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar synligheten för &lt;b&gt;Lageroskärpa&lt;/b&gt; på komponenten.</translation>
     </message>
     <message>
         <source>Blur</source>
-        <translation type="unfinished"></translation>
+        <translation>Oskarp</translation>
     </message>
     <message>
         <source>Sets the intensity of the &lt;b&gt;Layer Blur&lt;/b&gt; on the component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in intensiteten för &lt;b&gt;Lageroskärpa&lt;/b&gt; på komponenten.</translation>
     </message>
     <message>
         <source>Background Blur</source>
-        <translation type="unfinished"></translation>
+        <translation>Oskarp bakgrund</translation>
     </message>
     <message>
         <source>Toggles the visibility of blur on the selected background component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar synligheten för oskärpan på vald bakgrundskomponent.</translation>
     </message>
     <message>
         <source>Sets the intensity of blur on the selected background component.
 The foreground component should be transparent, and the background component should be opaque.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ställer in intensitet av oskärpa på vald bakgrundskomponent.
+Förgrundskomponenten bör vara transparent och bakgrundskomponenten bör vara opak.</translation>
     </message>
     <message>
         <source>Background</source>
@@ -3053,11 +3056,11 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Sets a component as the background of a transparent component.The &lt;b&gt;Background Blur&lt;/b&gt; works only on this component. The component should be solid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in en komponent som bakgrunden för en transparent komponent. &lt;b&gt;Oskarp bakgrund&lt;/b&gt; fungerar endast på denna komponent. Komponenten bör vara solid.</translation>
     </message>
     <message>
         <source>Drop Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Skuggkastning</translation>
     </message>
     <message>
         <source>Inner Shadow</source>
@@ -3097,7 +3100,7 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Moves the shadow with respect to the component in X and Y coordinates by pixels.</source>
-        <translation type="unfinished"></translation>
+        <translation>Flyttar skuggan med tanke på komponenten i X och Y-koordinater med bildpunkter.</translation>
     </message>
     <message>
         <source>X-coordinate</source>
@@ -3113,7 +3116,7 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Toggles the visibility of the shadow behind a transparent component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar synligheten för skuggan bakom en transparent komponent.</translation>
     </message>
     <message>
         <source>Add Shadow Effect</source>
@@ -3121,7 +3124,7 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Adds &lt;b&gt;Drop Shadow&lt;/b&gt; or &lt;b&gt;Inner Shadow&lt;/b&gt; effects to a component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägger till effekterna &lt;b&gt;Skuggkastning&lt;/b&gt; eller &lt;b&gt;Innerskugga&lt;/b&gt; till en komponent.</translation>
     </message>
 </context>
 <context>
@@ -3395,7 +3398,7 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Toggles if the component is being moved by complete pixel length.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar om komponenten flyttas med hela bildpunktslängden.</translation>
     </message>
     <message>
         <source>Toggles if the content should move instantly or not when the mouse or touchpoint is dragged to a new position.</source>
@@ -3445,11 +3448,11 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Sets the spacing between flow items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in avståndet mellan flödesobjekt.</translation>
     </message>
     <message>
         <source>Sets the direction of flow items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in riktningen för flödesobjekt.</translation>
     </message>
     <message>
         <source>Layout direction</source>
@@ -3457,7 +3460,7 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Sets in which direction items in the flow are placed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in vilken riktning som objekt i flödet placeras.</translation>
     </message>
     <message>
         <source>Spacing</source>
@@ -3535,7 +3538,7 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Sets the font size in pixels or points.</source>
-        <translation>Ställer in typsnittsstorleken i pixlar eller punkter.</translation>
+        <translation>Ställer in typsnittsstorleken i bildpunkter eller punkter.</translation>
     </message>
     <message>
         <source>Emphasis</source>
@@ -3787,7 +3790,7 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Sets the space between the items in pixels in the rows and columns in the &lt;b&gt;Grid Layout&lt;/b&gt;.</source>
-        <translation>Ställer in avståndet mellan objekt i pixlar för kolumner och rader i &lt;b&gt;Rutnätslayout&lt;/b&gt;.</translation>
+        <translation>Ställer in avståndet mellan objekt i bildpunkter för kolumner och rader i &lt;b&gt;Rutnätslayout&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Flow</source>
@@ -3965,7 +3968,7 @@ a highlight component.</source>
     </message>
     <message>
         <source>Sets in pixels how far the components are kept loaded outside the view&apos;s visible area.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in i bildpunkter hur långt bort komponenterna hålls inlästa utanför vyns synliga område.</translation>
     </message>
     <message>
         <source>Navigation wraps</source>
@@ -4431,7 +4434,7 @@ Idn måste börja med en gemen bokstav.</translation>
     </message>
     <message>
         <source>Sets the requested pixel size of the layer&apos;s texture.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in begärd bildpunktsstorlek för lagrets textur.</translation>
     </message>
     <message>
         <source>W</source>
@@ -4641,7 +4644,7 @@ be rendered into the texture.</source>
     </message>
     <message>
         <source>Sets in pixels how far the components are kept loaded outside the view&apos;s visible area.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in i bildpunkter hur långt bort komponenterna hålls inlästa utanför vyns synliga område.</translation>
     </message>
     <message>
         <source>Toggles if the grid wraps key navigation.</source>
@@ -6503,7 +6506,7 @@ Vill du redigera denna effekt?</translation>
     </message>
     <message>
         <source>These objects cannot be distributed to equal pixel values. Do you want to distribute to the nearest possible values?</source>
-        <translation>Dessa objekt kan inte distribueras till lika pixelvärden. Vill du distribuera till närmaste möjliga värden?</translation>
+        <translation>Dessa objekt kan inte distribueras till lika bildpunktsvärden. Vill du distribuera till närmaste möjliga värden?</translation>
     </message>
 </context>
 <context>
@@ -51066,11 +51069,11 @@ The local and remote ports are determined automatically.</source>
     <name>QtC::ScreenRecorder</name>
     <message>
         <source>Save current, cropped frame as image file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara aktuella, beskärda bildrutan som bildfil.</translation>
     </message>
     <message>
         <source>Copy current, cropped frame as image to the clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera aktuella, beskärda bildrutan som bild till urklipp.</translation>
     </message>
     <message>
         <source>X:</source>
@@ -51102,7 +51105,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Trimming</source>
-        <translation type="unfinished"></translation>
+        <translation>Optimerar</translation>
     </message>
     <message>
         <source>Range:</source>
@@ -51110,7 +51113,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Crop and Trim</source>
-        <translation type="unfinished"></translation>
+        <translation>Beskär och optimera</translation>
     </message>
     <message>
         <source>Cropping</source>
@@ -51118,7 +51121,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Crop and Trim...</source>
-        <translation type="unfinished"></translation>
+        <translation>Beskär och optimera...</translation>
     </message>
     <message>
         <source>Crop to %1x%2px.</source>
@@ -51126,7 +51129,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Complete area.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hela området.</translation>
     </message>
     <message>
         <source>Frames %1 to %2.</source>
@@ -51134,7 +51137,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Complete clip.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hela klippet.</translation>
     </message>
     <message>
         <source>Video</source>
@@ -51146,7 +51149,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Lossy</source>
-        <translation type="unfinished"></translation>
+        <translation>Förlust</translation>
     </message>
     <message>
         <source>Lossless</source>
@@ -51162,11 +51165,11 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Exporting Screen Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporterar skärminspelning</translation>
     </message>
     <message>
         <source>Width and height are not both divisible by 2. The video export for some of the lossy formats will not work.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bredd och höjd är inte båda delbara med 2. Videoexporten för några av de format med förlust kommer inte fungera.</translation>
     </message>
     <message>
         <source>Screen Recording Options</source>
@@ -51182,11 +51185,11 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Recorded screen area:</source>
-        <translation type="unfinished"></translation>
+        <translation>Inspelat skärmområde:</translation>
     </message>
     <message>
         <source>Open Mov/qtrle rgb24 File</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna Mov/qtrle rgb24-fil</translation>
     </message>
     <message>
         <source>Cannot Open Clip</source>
@@ -51198,11 +51201,11 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Clip Not Supported</source>
-        <translation type="unfinished"></translation>
+        <translation>Klippet stöds inte</translation>
     </message>
     <message>
         <source>Choose a clip with the &quot;qtrle&quot; codec and pixel format &quot;rgb24&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj ett klipp med &quot;qtrle&quot;-kodeken och bildpunktsformatet &quot;rgb24&quot;.</translation>
     </message>
     <message>
         <source>Record Screen</source>
@@ -51230,31 +51233,31 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Capture device/filter:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fångstenhet/filter:</translation>
     </message>
     <message>
         <source>Size limit for intermediate output file</source>
-        <translation type="unfinished"></translation>
+        <translation>Storleksgräns för mellanliggade utdatafil</translation>
     </message>
     <message>
         <source>RAM buffer for real-time frames</source>
-        <translation type="unfinished"></translation>
+        <translation>RAM-buffert för realtidsbilder</translation>
     </message>
     <message>
         <source>Write command line of FFmpeg calls to General Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv kommandorad för FFmpeg-anrop till Allmänna meddelanden</translation>
     </message>
     <message>
         <source>Export animated images as infinite loop</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportera animerade bilder som ändlös slinga</translation>
     </message>
     <message>
         <source>Recording frame rate:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildfrekvens för inspelning:</translation>
     </message>
     <message>
         <source>Screen ID:</source>
-        <translation type="unfinished"></translation>
+        <translation>Skärm-id:</translation>
     </message>
     <message>
         <source>FFmpeg Installation</source>
@@ -51289,7 +51292,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Theme ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Tema-id</translation>
     </message>
     <message>
         <source>Cannot Create Theme</source>
@@ -51381,7 +51384,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Export Canvas to Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportera kanvas till bild</translation>
     </message>
     <message>
         <source>Export Failed</source>
@@ -51433,7 +51436,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Count</source>
-        <translation type="unfinished"></translation>
+        <translation>Antal</translation>
     </message>
     <message>
         <source>yyyy/MM/dd hh:mm:ss</source>
@@ -51457,7 +51460,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Common states</source>
-        <translation type="unfinished"></translation>
+        <translation>Vanliga tillstånd</translation>
     </message>
     <message>
         <source>Metadata</source>
@@ -51465,7 +51468,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Other tags</source>
-        <translation type="unfinished"></translation>
+        <translation>Andra taggar</translation>
     </message>
     <message>
         <source>Unknown tags</source>
@@ -51473,7 +51476,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Remove items</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort objekt</translation>
     </message>
     <message>
         <source>Structure</source>
@@ -51735,7 +51738,7 @@ Beskrivning:	  %4</translation>
     </message>
     <message>
         <source>Missing ID.</source>
-        <translation type="unfinished"></translation>
+        <translation>Saknar id.</translation>
     </message>
     <message>
         <source>Duplicate ID (%1).</source>
@@ -51795,7 +51798,7 @@ Beskrivning:	  %4</translation>
     </message>
     <message>
         <source>Premature end of document.</source>
-        <translation type="unfinished"></translation>
+        <translation>För tidigt dokumentslut.</translation>
     </message>
     <message>
         <source>Custom error.</source>
@@ -51860,7 +51863,7 @@ Row: %4, Column: %5
     </message>
     <message>
         <source>Set as Initial</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställ in som initial</translation>
     </message>
     <message>
         <source>Zoom to State</source>
