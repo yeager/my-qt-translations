@@ -961,11 +961,11 @@ A positive value will increase reverb for higher frequencies and dampen lower fr
     <name>BakeLights</name>
     <message>
         <source>Bake Lights</source>
-        <translation type="unfinished"></translation>
+        <translation>Bakade lampor</translation>
     </message>
     <message>
         <source>Bake lights for the current 3D scene.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bakade lampor för aktuella 3D-scenen.</translation>
     </message>
 </context>
 <context>
@@ -3653,7 +3653,7 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Sets the position of the component relative to its parent.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in positionen för komponenten relativ till sin förälder.</translation>
     </message>
     <message>
         <source>X-coordinate</source>
@@ -3669,7 +3669,7 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Sets the width and height of the component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in bredd och höjd för komponenten.</translation>
     </message>
     <message>
         <source>W</source>
@@ -3697,7 +3697,7 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Rotate the component at an angle.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotera komponenten med en vinkel.</translation>
     </message>
     <message>
         <source>Angle (in degree)</source>
@@ -3709,7 +3709,7 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Sets the scale of the component by percentage.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in skalan för komponenten med procenttal.</translation>
     </message>
     <message>
         <source>Percentage</source>
@@ -3725,11 +3725,11 @@ The foreground component should be transparent, and the background component sho
     </message>
     <message>
         <source>Origin</source>
-        <translation type="unfinished"></translation>
+        <translation>Ursprung</translation>
     </message>
     <message>
         <source>Sets the modification point of the component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in ändringspunkten för komponenten.</translation>
     </message>
 </context>
 <context>
@@ -6364,7 +6364,7 @@ operation is in progress.</source>
     </message>
     <message>
         <source>Exposed Custom Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Exponerade anpassade egenskaper</translation>
     </message>
     <message>
         <source>UntitledProject</source>
@@ -6382,11 +6382,12 @@ operation is in progress.</source>
     <message>
         <source>Ensure that you have saved it in the Effect Composer.
 Do you want to edit this effect?</source>
-        <translation type="unfinished"></translation>
+        <translation>Försäkra dig om att du har sparat den i Effektkompositör.
+Vill du redigera denna effekt?</translation>
     </message>
     <message>
         <source>Entry not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Posten hittades inte</translation>
     </message>
     <message>
         <source>Minimize</source>
@@ -6394,31 +6395,31 @@ Do you want to edit this effect?</source>
     </message>
     <message>
         <source>ID cannot start with an uppercase character (%1).</source>
-        <translation type="unfinished"></translation>
+        <translation>ID kan inte börja med en versal bokstav (%1).</translation>
     </message>
     <message>
         <source>ID cannot start with a number (%1).</source>
-        <translation type="unfinished"></translation>
+        <translation>ID kan inte börja med en siffra (%1).</translation>
     </message>
     <message>
         <source>ID cannot include whitespace (%1).</source>
-        <translation type="unfinished"></translation>
+        <translation>ID får inte inkludera blanksteg (%1).</translation>
     </message>
     <message>
         <source>%1 is a reserved QML keyword.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 är ett reserverat QML-nyckelord.</translation>
     </message>
     <message>
         <source>%1 is a reserved Qml type.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 är en reserverad Qml-typ.</translation>
     </message>
     <message>
         <source>%1 is a reserved property keyword.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 är ett reserverat egenskapsnyckelord.</translation>
     </message>
     <message>
         <source>ID includes invalid characters (%1).</source>
-        <translation type="unfinished"></translation>
+        <translation>ID inkluderar ogiltiga tecken (%1).</translation>
     </message>
     <message>
         <source>Empty document</source>
@@ -6426,11 +6427,11 @@ Do you want to edit this effect?</source>
     </message>
     <message>
         <source>Unsupported bundle file</source>
-        <translation type="unfinished"></translation>
+        <translation>Bundle-filen stöds inte</translation>
     </message>
     <message>
         <source>The chosen bundle was created with an incompatible version of Qt Design Studio</source>
-        <translation type="unfinished"></translation>
+        <translation>Vald bundle skapades med en inkompatibel version av Qt Design Studio</translation>
     </message>
     <message>
         <source>Component Exists</source>
@@ -6438,7 +6439,7 @@ Do you want to edit this effect?</source>
     </message>
     <message>
         <source>A component with the same name &apos;%1&apos; already exists in the project, are you sure you want to overwrite it?</source>
-        <translation type="unfinished"></translation>
+        <translation>En komponent med samma namn &quot;%1&quot; finns redan i projektet. Är du säker på att du vill skriva över den?</translation>
     </message>
     <message>
         <source>Import Component</source>
@@ -6846,19 +6847,19 @@ Exporterar tillgångar: %2</translation>
     <name>QmlDesigner::BakeLights</name>
     <message>
         <source>Invalid root node, baking aborted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig rotnod, bakning avbröts.</translation>
     </message>
     <message>
         <source>Baking process crashed, baking aborted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bakningsprocessen kraschade, bakning avbröts.</translation>
     </message>
     <message>
         <source>Lights Baking Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurera ljusbakning</translation>
     </message>
     <message>
         <source>Lights Baking Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Förlopp för ljusbakning</translation>
     </message>
 </context>
 <context>
@@ -11247,7 +11248,7 @@ in the system&apos;s browser for manual download.</source>
     </message>
     <message>
         <source>Warning: Signing a debug or profile package.</source>
-        <translation type="unfinished"></translation>
+        <translation>Varning: Signerar ett felsökning- eller profilpaket.</translation>
     </message>
     <message>
         <source>The Qt version for kit %1 is invalid.</source>
@@ -13502,7 +13503,8 @@ Maybe raise the timeout?</source>
     <message>
         <source>Project is null. Canceling test run.
 Only desktop kits are supported. Make sure the currently active kit is a desktop kit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Projektet är null. Avbryter testkörning.
+Endast skrivbordskit stöds. Försäkra dig om att aktuellt aktiva kitet är ett skrivbordskit.</translation>
     </message>
     <message>
         <source>Project is not configured. Canceling test run.</source>
@@ -16542,7 +16544,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>&lt;Other Locations&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Andra platser&gt;</translation>
     </message>
     <message>
         <source>&lt;Generated Files&gt;</source>
@@ -16554,76 +16556,76 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Invalid reply file created by CMake.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig svarsfil skapades av CMake.</translation>
     </message>
     <message>
         <source>Invalid cache file generated by CMake.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig cachefil genererades av CMake.</translation>
     </message>
     <message>
         <source>Invalid cmakeFiles file generated by CMake.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig cmakeFiles-fil genererades av CMake.</translation>
     </message>
     <message>
         <source>Invalid codemodel file generated by CMake: No directories.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig kodmodellsfil genererades av CMake: Inga kataloger.</translation>
     </message>
     <message>
         <source>Invalid codemodel file generated by CMake: Empty directory object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig kodmodellsfil genererades av CMake: Tomt katalogobjekt.</translation>
     </message>
     <message>
         <source>Invalid codemodel file generated by CMake: No projects.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig kodmodellsfil genererades av CMake: Inga projekt.</translation>
     </message>
     <message>
         <source>Invalid codemodel file generated by CMake: Empty project object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig kodmodellsfil genererades av CMake: Tomt projektobjekt.</translation>
     </message>
     <message>
         <source>Invalid codemodel file generated by CMake: Broken project data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig kodmodellsfil genererades av CMake: Trasigt projektdata.</translation>
     </message>
     <message>
         <source>Invalid codemodel file generated by CMake: Empty target object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig kodmodellsfil genererades av CMake: Tomt målobjekt.</translation>
     </message>
     <message>
         <source>Invalid codemodel file generated by CMake: Broken target data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig kodmodellsfil genererades av CMake: Trasigt måldata.</translation>
     </message>
     <message>
         <source>Invalid codemodel file generated by CMake: No configurations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig kodmodellsfil genererades av CMake: Inga konfigurationer.</translation>
     </message>
     <message>
         <source>Invalid codemodel file generated by CMake: Empty configuration object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig kodmodellsfil genererades av CMake: Tomt konfigurationsobjekt.</translation>
     </message>
     <message>
         <source>Invalid codemodel file generated by CMake: Broken indexes in directories, projects, or targets.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig kodmodellsfil genererades av CMake: Trasiga index i kataloger, projekt eller mål.</translation>
     </message>
     <message>
         <source>Invalid codemodel file generated by CMake.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig kodmodellsfil genererades av CMake.</translation>
     </message>
     <message>
         <source>Invalid target file: Information is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig målfil: Information saknas.</translation>
     </message>
     <message>
         <source>Invalid target file generated by CMake: Broken indexes in target details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig målfil genererades av CMake: Trasiga index i måldetaljer.</translation>
     </message>
     <message>
         <source>CMake parsing was canceled.</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake-tolkningen avbröts.</translation>
     </message>
     <message>
         <source>CMake project configuration failed. No CMake configuration for build type &quot;%1&quot; found. Check General Messages for more information.</source>
         <extracomment>General Messages refers to the output view</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>CMake-projektets konfiguration misslyckades. Ingen CMake-konfiguration för byggtypen &quot;%1&quot; hittades. Kontrollera Allmänna meddelanden för mer information.</translation>
     </message>
     <message>
         <source>No &quot;%1&quot; CMake configuration found. Available configurations: &quot;%2&quot;.
@@ -19210,11 +19212,11 @@ Otherwise you need to specify the path to the %2 file from the Copilot neovim pl
     </message>
     <message>
         <source>X-coordinate of the current editor&apos;s upper left corner, relative to screen.</source>
-        <translation type="unfinished"></translation>
+        <translation>X-koordinaten för aktuella redigerarens övre vänstra hörn, relativt till skärmen.</translation>
     </message>
     <message>
         <source>Y-coordinate of the current editor&apos;s upper left corner, relative to screen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Y-koordinaten för aktuella redigerarens övre vänstra hörn, relativt till skärmen.</translation>
     </message>
     <message>
         <source>Continue Opening Huge Text File?</source>
@@ -19343,7 +19345,7 @@ Fortsätta?</translation>
     </message>
     <message>
         <source>Re-enable warnings that were suppressed by selecting &quot;Do Not Show Again&quot; (for example, missing highlighter).</source>
-        <translation type="unfinished"></translation>
+        <translation>Återaktiva varningar som tidigare tystades genom att välja &quot;Visa inte igen&quot; (till exempel, saknad framhävare).</translation>
     </message>
     <message>
         <source>Theme:</source>
@@ -19520,7 +19522,7 @@ If the system cursors for resizing views are not displayed properly, you can use
     </message>
     <message>
         <source>Maximum number of entries in &quot;Recent Files&quot;:</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximalt antal poster i &quot;Tidigare filer&quot;:</translation>
     </message>
     <message>
         <source>Command used for reverting diff chunks.</source>
@@ -19553,7 +19555,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Crash reports are saved in &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kraschrapporter sparas i &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Crash Reporting</source>
@@ -20017,7 +20019,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Auto Scroll</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisk rullning</translation>
     </message>
     <message>
         <source>Timestamps</source>
@@ -20037,7 +20039,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Entry is missing data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Posten saknar data.</translation>
     </message>
     <message>
         <source>Invalid level: %1</source>
@@ -21061,7 +21063,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>Error output:</source>
-        <translation type="unfinished"></translation>
+        <translation>Felutdata:</translation>
     </message>
     <message>
         <source>Text to pass to the executable via standard input. Leave empty if the executable should not receive any input.</source>
@@ -21247,7 +21249,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>Error: External tool in %1 has duplicate id</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel: Externt verktyg i %1 har ett dubblett-id</translation>
     </message>
     <message>
         <source>Add Magic Header</source>
@@ -21789,23 +21791,23 @@ Vill du döda det?</translation>
     </message>
     <message>
         <source>Version control state: added.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillstånd för versionskontroll: tillagd.</translation>
     </message>
     <message>
         <source>Version control state: modified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillstånd för versionskontroll: ändrad.</translation>
     </message>
     <message>
         <source>Version control state: deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillstånd för versionskontroll: borttagen.</translation>
     </message>
     <message>
         <source>Version control state: renamed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillstånd för versionskontroll: namnbytt.</translation>
     </message>
     <message>
         <source>Version control state: untracked.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillstånd för versionskontroll: spåras inte.</translation>
     </message>
     <message>
         <source>Files Without Write Permissions</source>
@@ -21865,7 +21867,7 @@ Vill du döda det?</translation>
     </message>
     <message>
         <source>%1 file %2 from version control system %3 failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 filen %2 från versionskontrollsystem %3 misslyckades.</translation>
     </message>
     <message>
         <source>Cannot open file %1 from version control system.
@@ -21883,7 +21885,7 @@ Inget versionskontrollsystem hittades.</translation>
     </message>
     <message>
         <source>Canceled Changing Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Avbröt rättighetsändringen</translation>
     </message>
     <message>
         <source>Could Not Change Permissions on Some Files</source>
@@ -21892,7 +21894,8 @@ Inget versionskontrollsystem hittades.</translation>
     <message>
         <source>The following files are not checked out yet.
 Do you want to check them out now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Följande filer är inte utcheckade ännu.
+Vill du checka ut dem nu?</translation>
     </message>
     <message>
         <source>Configure...</source>
@@ -21983,7 +21986,7 @@ Do you want to check them out now?</source>
     </message>
     <message>
         <source>The plugin %1 requires you to accept the following terms and conditions:</source>
-        <translation type="unfinished"></translation>
+        <translation>Insticksmodulen %1 kräver att du godkänner följande villkor:</translation>
     </message>
     <message>
         <source>Do you wish to accept?</source>
@@ -22043,7 +22046,7 @@ Do you want to check them out now?</source>
     </message>
     <message>
         <source>The path list separator for the platform.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökväglistans avgränsare för plattformen.</translation>
     </message>
     <message>
         <source>The platform executable suffix.</source>
@@ -22055,7 +22058,7 @@ Do you want to check them out now?</source>
     </message>
     <message>
         <source>The directory where %1 finds its pre-installed resources.</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalogen där %1 kan hitta sina förinstallerade resurser.</translation>
     </message>
     <message>
         <source>The directory where %1 puts custom user data.</source>
@@ -26786,7 +26789,7 @@ Please select a 64 bit Debugger in the kit settings for this kit.</source>
     </message>
     <message>
         <source>QML debugging needs to be enabled both in the Build and the Run settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>QML-felsökning behöver aktiveras både i Bygg och Kör-inställningarna.</translation>
     </message>
     <message>
         <source>Debugging %1 ...</source>
@@ -26794,19 +26797,19 @@ Please select a 64 bit Debugger in the kit settings for this kit.</source>
     </message>
     <message>
         <source>Debugging of %1 has finished with exit code %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Felsökning av %1 är färdig med avslutskod %2.</translation>
     </message>
     <message>
         <source>Debugging of %1 has finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>Felsökningen av %1 är färdig.</translation>
     </message>
     <message>
         <source>A debugging session is still in progress. Terminating the session in the current state can leave the target in an inconsistent state. Would you still like to terminate it?</source>
-        <translation type="unfinished"></translation>
+        <translation>En felsökningssession pågår fortfarande. Avslutning av sessionen i aktuellt tillstånd kan lämna målet i ett inkonsekvent tillstånd. Vill du fortfarande avsluta den?</translation>
     </message>
     <message>
         <source>Close Debugging Session</source>
-        <translation type="unfinished"></translation>
+        <translation>Stäng felsökningssession</translation>
     </message>
     <message>
         <source>Clear Contents</source>
@@ -26818,7 +26821,7 @@ Please select a 64 bit Debugger in the kit settings for this kit.</source>
     </message>
     <message>
         <source>Debugger &amp;Log</source>
-        <translation type="unfinished"></translation>
+        <translation>Felsökar&amp;logg</translation>
     </message>
     <message>
         <source>Note: This log contains possibly confidential information about your machine, environment variables, in-memory data of the processes you are debugging, and more. It is never transferred over the internet by %1, and only stored to disk if you manually use the respective option from the context menu, or through mechanisms that are not under the control of %1&apos;s Debugger plugin, for instance in swap files, or other plugins you might use.
@@ -29136,7 +29139,7 @@ Stepping into the module or setting breakpoints by file and line is expected to 
     </message>
     <message>
         <source>Not a Desktop Device Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Inte en skrivbordsenhetstyp</translation>
     </message>
     <message>
         <source>It is only possible to attach to a locally running process.</source>
@@ -30598,7 +30601,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Disable plugins permanently in %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inaktivera insticksmoduler permanent i %1.</translation>
     </message>
     <message>
         <source>The last time you started %1, it seems to have closed because of a problem with the &quot;%2&quot; plugin. Temporarily disable the plugin?</source>
@@ -30635,7 +30638,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Cannot request scenario &quot;%1&quot; as it was already requested.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte begära scenariet &quot;%1&quot; eftersom det redan begärts.</translation>
     </message>
     <message>
         <source>Unknown option %1</source>
@@ -30663,7 +30666,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Could not resolve dependency &apos;%1(%2)&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte slå upp beroendet &apos;%1(%2)&apos;</translation>
     </message>
     <message>
         <source>Cannot open file</source>
@@ -30691,7 +30694,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Value &quot;%2&quot; for key &quot;%1&quot; has invalid format</source>
-        <translation type="unfinished"></translation>
+        <translation>Värdet &quot;%2&quot; för nyckeln &quot;%1&quot; har ett ogiltigt format</translation>
     </message>
     <message>
         <source>No IID found</source>
@@ -30699,11 +30702,11 @@ Reason: %3</source>
     </message>
     <message>
         <source>Expected IID &quot;%1&quot;, but found &quot;%2&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Förväntade IID &quot;%1&quot;, men fick &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Plugin meta data not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Insticksmodulens metadata hittades inte</translation>
     </message>
     <message>
         <source>Plugin id &quot;%1&quot; must be lowercase</source>
@@ -30739,7 +30742,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Internal error: have no plugin instance to initialize</source>
-        <translation type="unfinished"></translation>
+        <translation>Internt fel: har ingen insticksinstans att initiera</translation>
     </message>
     <message>
         <source>Plugin initialization failed: %1</source>
@@ -30747,11 +30750,11 @@ Reason: %3</source>
     </message>
     <message>
         <source>Internal error: have no plugin instance to perform extensionsInitialized</source>
-        <translation type="unfinished"></translation>
+        <translation>Internt fel: har ingen insticksinstans för att genomföra extensionsInitialized</translation>
     </message>
     <message>
         <source>Internal error: have no plugin instance to perform delayedInitialize</source>
-        <translation type="unfinished"></translation>
+        <translation>Internt fel: har ingen insticksinstans för att genomföra delayedInitialize</translation>
     </message>
     <message>
         <source>None</source>
@@ -34176,7 +34179,7 @@ Observera: Detta kan utsätta dig för ett attack.</translation>
     </message>
     <message>
         <source>Remote host does not match chosen GitLab configuration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjärrvärden matchar inte vald GitLab-konfiguration.</translation>
     </message>
     <message>
         <source>Accessible (%1).</source>
@@ -37686,7 +37689,7 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>Exporting the selected elements of the current diagram into file&lt;br&gt;&quot;%1&quot;&lt;br&gt;failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Export av valda element för aktuella diagrammet till filen&lt;br&gt;&quot;%1&quot;&lt;br&gt;misslyckades.</translation>
     </message>
     <message>
         <source>Exporting Diagram Failed</source>
@@ -39050,11 +39053,11 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>No conflict with &lt;code&gt;MAKEFLAGS&lt;/code&gt; environment variable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen konflikt med miljövariabeln &lt;code&gt;MAKEFLAGS&lt;/code&gt;.</translation>
     </message>
     <message>
         <source>Configuration is faulty. Check the Issues view for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurationen är felaktig. Kontrollera Problem-vyn för detaljer.</translation>
     </message>
     <message>
         <source>Could not create directory &quot;%1&quot;</source>
@@ -39136,7 +39139,7 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>The kit %1 has configuration issues which might be the root cause for this problem.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kitet %1 har konfigurationsproblem som kan vara orsaken till detta problem.</translation>
     </message>
     <message>
         <source>When executing step &quot;%1&quot;</source>
@@ -39347,7 +39350,7 @@ Title of a the cloned RunConfiguration window, text of the window</extracomment>
     </message>
     <message>
         <source>Discarded excessive compile output.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förkasta överdriven kompileringsutdata.</translation>
     </message>
     <message>
         <source>Open Compile Output when building</source>
@@ -39492,7 +39495,7 @@ Title of a the cloned RunConfiguration window, text of the window</extracomment>
     </message>
     <message>
         <source>Focus Document in Project Tree</source>
-        <translation type="unfinished"></translation>
+        <translation>Fokusera dokument i projektträd</translation>
     </message>
     <message>
         <source>Meta+Shift+L</source>
@@ -40123,7 +40126,7 @@ Do you want to ignore them?</source>
     </message>
     <message>
         <source>Failed opening project &quot;%1&quot;: No plugin can open project type &quot;%2&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att öppna projektet &quot;%1&quot;: Ingen insticksmodul kan öppna projekttypen &quot;%2&quot;.</translation>
     </message>
     <message>
         <source>The following files could not be renamed: %1</source>
@@ -40131,11 +40134,11 @@ Do you want to ignore them?</source>
     </message>
     <message>
         <source>The following files were renamed, but their project files could not be updated accordingly: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Följande filer bytte namn men deras projektfiler kunde inte uppdateras enligt detta: %1</translation>
     </message>
     <message>
         <source>Renaming Did Not Fully Succeed</source>
-        <translation type="unfinished"></translation>
+        <translation>Namnbytet lyckades inte helt</translation>
     </message>
     <message>
         <source>Ignore All Errors?</source>
@@ -40147,7 +40150,7 @@ Do you want to ignore them?</source>
     </message>
     <message>
         <source>The configuration that was supposed to run is no longer available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurationen som var tänkt att köras finns inte längre tillgänglig.</translation>
     </message>
     <message>
         <source>Open Project in &quot;%1&quot;</source>
@@ -40159,7 +40162,7 @@ Do you want to ignore them?</source>
     </message>
     <message>
         <source>The file &quot;%1&quot; was renamed to &quot;%2&quot;, but the following projects could not be automatically changed: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen &quot;%1&quot; bytte namn till &quot;%2&quot; men följande projekt kunde inte automatiskt ändras: %3</translation>
     </message>
     <message>
         <source>The following projects failed to automatically remove the file: %1</source>
@@ -40199,7 +40202,7 @@ Do you want to ignore them?</source>
     </message>
     <message>
         <source>A run action is already scheduled for the active project.</source>
-        <translation type="unfinished"></translation>
+        <translation>En köråtgärd är redan schemalagt för det aktiva projektet.</translation>
     </message>
     <message>
         <source>%1 in %2</source>
@@ -40207,11 +40210,11 @@ Do you want to ignore them?</source>
     </message>
     <message>
         <source>The following subprojects could not be added to project &quot;%1&quot;:</source>
-        <translation type="unfinished"></translation>
+        <translation>Följande underprojekt kunde inte läggas till i projektet &quot;%1&quot;:</translation>
     </message>
     <message>
         <source>Adding Subproject Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilläggning av underprojekt misslyckades</translation>
     </message>
     <message>
         <source>Failed opening terminal.
@@ -40369,7 +40372,7 @@ Försök igen.</translation>
     </message>
     <message>
         <source>Error while restoring session</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid återställning av session</translation>
     </message>
     <message>
         <source>Could not restore session %1</source>
@@ -40528,7 +40531,7 @@ Försök igen.</translation>
     </message>
     <message>
         <source>Warn against build directories with spaces or non-ASCII characters</source>
-        <translation type="unfinished"></translation>
+        <translation>Varna för byggkataloger med blanksteg eller icke-ASCII-tecken</translation>
     </message>
     <message>
         <source>Some legacy build tools do not deal well with paths that contain &quot;special&quot; characters such as spaces, potentially resulting in spurious build errors.&lt;p&gt;Uncheck this option if you do not work with such tools.</source>
@@ -40576,7 +40579,7 @@ Försök igen.</translation>
     </message>
     <message>
         <source>Show all kits in &quot;Build &amp; Run&quot; in &quot;Projects&quot; mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa alla kit i &quot;Bygg och kör&quot; i &quot;Projekt&quot;-läget</translation>
     </message>
     <message>
         <source>Show also inactive kits in &quot;Build &amp; Run&quot; in &quot;Projects&quot; mode.</source>
@@ -40612,7 +40615,7 @@ Försök igen.</translation>
     </message>
     <message>
         <source>Always deploy project before running it</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuera alltid projekt innan de körs</translation>
     </message>
     <message>
         <source>Always ask before stopping applications</source>
@@ -40672,7 +40675,7 @@ Försök igen.</translation>
     </message>
     <message>
         <source>Process unexpectedly did not finish.</source>
-        <translation type="unfinished"></translation>
+        <translation>Processen färdigställdes inte vilket var oväntat.</translation>
     </message>
     <message>
         <source>Connectivity lost?</source>
@@ -43313,7 +43316,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>The root directory of the system image to use.&lt;br&gt;Leave empty when building for the desktop.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotkatalogen för systemavbilden att använda.&lt;br&gt;Lämna tom vid byggnation för skrivbordet.</translation>
     </message>
     <message>
         <source>The compiler to use for building.&lt;br&gt;Make sure the compiler will produce binaries compatible with the target device, Qt version and other libraries used.</source>
@@ -48914,7 +48917,7 @@ the program.</source>
     </message>
     <message>
         <source>Non-desktop Qt is used with a desktop device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt för icke-skrivbordsenhet används med en skrivbordsenhet.</translation>
     </message>
     <message>
         <source>No Qt version set in kit.</source>
@@ -48930,7 +48933,7 @@ the program.</source>
     </message>
     <message>
         <source>Override device QML viewer:</source>
-        <translation type="unfinished"></translation>
+        <translation>Åsidosätt enhetens QML-visare:</translation>
     </message>
     <message>
         <source>System Environment</source>
@@ -48963,7 +48966,7 @@ the program.</source>
     </message>
     <message>
         <source>QML Runtime</source>
-        <translation type="unfinished"></translation>
+        <translation>QML-körtid</translation>
     </message>
     <message>
         <source>No Qt Design Studio installation found</source>
@@ -48995,7 +48998,7 @@ the program.</source>
     </message>
     <message>
         <source>No QML project file found - Would you like to create one?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen QML-projektfil hittades - Vill du skapa en?</translation>
     </message>
     <message>
         <source>Generate</source>
@@ -49063,7 +49066,7 @@ the program.</source>
     </message>
     <message>
         <source>Project file must be placed in a parent directory of the QML files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Projektfilen måste placeras i en föräldrakatalog till QML-filerna.</translation>
     </message>
     <message>
         <source>Problem</source>
@@ -49073,7 +49076,9 @@ the program.</source>
         <source>Selected directory is far away from the QML file. This can cause unexpected results.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vald katalog är långt bort från QML-filen. Detta kan orsaka oväntade resultat.
+
+Är du säker?</translation>
     </message>
     <message>
         <source>Failed to start Qt Design Studio.</source>
@@ -49119,7 +49124,7 @@ Qt Design Studio kräver en .qmlproject-baserat projekt för att öppna .ui.qml-
     </message>
     <message>
         <source>You cannot use the selected kit to preview Qt for MCUs applications.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du kan inte använda valt kit för att förhandsvisa Qt for MCUer-program.</translation>
     </message>
     <message>
         <source>Cannot find a valid Qt for MCUs kit.</source>
@@ -49470,7 +49475,7 @@ Are you sure you want to continue?</source>
     <message>
         <source>Desktop</source>
         <comment>Qt Version is meant for the desktop</comment>
-        <translation>Skrivbord</translation>
+        <translation>Skrivbordsenhet</translation>
     </message>
     <message>
         <source>Embedded Linux</source>
@@ -53444,7 +53449,7 @@ Failed to open file &quot;%1&quot;.</source>
     </message>
     <message>
         <source>Autocomplete common &amp;prefix</source>
-        <translation type="unfinished"></translation>
+        <translation>Komplettera automatiskt vanliga &amp;prefix</translation>
     </message>
     <message>
         <source>&amp;Case-sensitivity:</source>
@@ -53452,7 +53457,7 @@ Failed to open file &quot;%1&quot;.</source>
     </message>
     <message>
         <source>Full</source>
-        <translation type="unfinished"></translation>
+        <translation>Fullständig</translation>
     </message>
     <message>
         <source>First Letter</source>
@@ -53464,7 +53469,7 @@ Failed to open file &quot;%1&quot;.</source>
     </message>
     <message>
         <source>Character threshold:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tröskelvärde för tecken:</translation>
     </message>
     <message>
         <source>Inserts the common prefix of available completion items.</source>
@@ -53486,7 +53491,7 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     </message>
     <message>
         <source>Insert closing quote</source>
-        <translation type="unfinished"></translation>
+        <translation>Infoga avslutande citattecken</translation>
     </message>
     <message>
         <source>Surround text selection with brackets</source>
@@ -53502,7 +53507,7 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     </message>
     <message>
         <source>Surround text selection with quotes</source>
-        <translation type="unfinished"></translation>
+        <translation>Omslut textmarkering med citattecken</translation>
     </message>
     <message>
         <source>When typing a matching quote and there is a text selection, instead of removing the selection, surrounds it with the corresponding characters.</source>
@@ -53522,7 +53527,7 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     </message>
     <message>
         <source>Skip automatically inserted character when typing</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoppa automatiskt över infogade tecken vid skrivning</translation>
     </message>
     <message>
         <source>Skip automatically inserted character if re-typed manually after completion or by pressing tab.</source>
@@ -53538,11 +53543,11 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     </message>
     <message>
         <source>Overwrite closing punctuation</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv över avslutande skiljetecken</translation>
     </message>
     <message>
         <source>Automatically overwrite closing parentheses and quotes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv automatiskt över avslutande paranteser och citattecken.</translation>
     </message>
     <message>
         <source>Enable Doxygen blocks</source>
@@ -53550,7 +53555,7 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     </message>
     <message>
         <source>Automatically creates a Doxygen comment upon pressing enter after a &apos;/**&apos;, &apos;/*!&apos;, &apos;//!&apos; or &apos;///&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapar automatiskt en Doxygen-kommentar när Enter trycks efter ett &apos;/**&apos;, &apos;/*!&apos;, &apos;//!&apos; eller &apos;///&apos;.</translation>
     </message>
     <message>
         <source>Generate brief description</source>
@@ -53562,7 +53567,7 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     </message>
     <message>
         <source>Add leading asterisks</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till inledande asterisker</translation>
     </message>
     <message>
         <source>Adds leading asterisks when continuing C/C++ &quot;/*&quot;, Qt &quot;/*!&quot; and Java &quot;/**&quot; style comments on new lines.</source>
@@ -53570,7 +53575,7 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     </message>
     <message>
         <source>Doxygen command prefix:</source>
-        <translation type="unfinished"></translation>
+        <translation>Prefix för Doxygen-kommando:</translation>
     </message>
     <message>
         <source>Doxygen allows &quot;@&quot; and &quot;\&quot; to start commands.
@@ -53584,11 +53589,11 @@ if the comment starts with &quot;/*!&quot; or &quot;//!&quot;.</source>
     </message>
     <message>
         <source>Completion</source>
-        <translation type="unfinished"></translation>
+        <translation>Komplettering</translation>
     </message>
     <message>
         <source>Activate completion:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivera komplettering:</translation>
     </message>
     <message>
         <source>Manually</source>
@@ -53626,7 +53631,7 @@ if the comment starts with &quot;/*!&quot; or &quot;//!&quot;.</source>
     </message>
     <message>
         <source>Aborting replace.</source>
-        <translation type="unfinished"></translation>
+        <translation>Avbryter ersättning.</translation>
     </message>
     <message>
         <source>Line: %1, Col: %2</source>
@@ -53754,7 +53759,7 @@ A value less than 100% can result in overlapping and misaligned graphics.</sourc
     </message>
     <message>
         <source>Jumps to the given line in the current document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoppar till angiven rad i aktuella dokumentet.</translation>
     </message>
     <message>
         <source>Line %1, Column %2</source>
@@ -53786,7 +53791,7 @@ A value less than 100% can result in overlapping and misaligned graphics.</sourc
     </message>
     <message>
         <source>Display Function Hint</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa funktionstips</translation>
     </message>
     <message>
         <source>Meta+Shift+D</source>
@@ -53819,11 +53824,11 @@ A value less than 100% can result in overlapping and misaligned graphics.</sourc
     </message>
     <message>
         <source>Line number of the text cursor position in current document (starts with 1).</source>
-        <translation type="unfinished"></translation>
+        <translation>Radnummer för textmarkörens position i aktuella dokumentet (börjar med 1).</translation>
     </message>
     <message>
         <source>Column number of the text cursor position in current document (starts with 0).</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolumnnumret för textmarkörens position i aktuella dokumentet (börjar med 0).</translation>
     </message>
     <message>
         <source>Number of lines visible in current document.</source>
@@ -54211,7 +54216,7 @@ A value less than 100% can result in overlapping and misaligned graphics.</sourc
     </message>
     <message>
         <source>Uppercase Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Versal markering</translation>
     </message>
     <message>
         <source>Alt+Shift+U</source>
@@ -54223,7 +54228,7 @@ A value less than 100% can result in overlapping and misaligned graphics.</sourc
     </message>
     <message>
         <source>Lowercase Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Gemen markering</translation>
     </message>
     <message>
         <source>Alt+U</source>
@@ -54462,7 +54467,7 @@ Used to mark write accesses to C++ symbols.</source>
     </message>
     <message>
         <source>Search Result Containing function</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökresultat innehåller funktion</translation>
     </message>
     <message>
         <source>Highlighted search results inside the editor.
@@ -54528,7 +54533,7 @@ Used to mark containing function of the symbol usage.</source>
     </message>
     <message>
         <source>Unused Occurrence</source>
-        <translation type="unfinished"></translation>
+        <translation>Oanvänd förekomst</translation>
     </message>
     <message>
         <source>Occurrences of unused variables.</source>
@@ -54536,11 +54541,11 @@ Used to mark containing function of the symbol usage.</source>
     </message>
     <message>
         <source>Renaming Occurrence</source>
-        <translation type="unfinished"></translation>
+        <translation>Byt namn på förekomst</translation>
     </message>
     <message>
         <source>Occurrences of a symbol that will be renamed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förekomster av en symbol som kommer att namnbytas.</translation>
     </message>
     <message>
         <source>Number</source>
@@ -54624,7 +54629,7 @@ Used to mark containing function of the symbol usage.</source>
     </message>
     <message>
         <source>Enumeration</source>
-        <translation type="unfinished"></translation>
+        <translation>Enumerering</translation>
     </message>
     <message>
         <source>Applied to enumeration items.</source>
@@ -54974,7 +54979,7 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>Name of a QML type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Namn på en QML-typ.</translation>
     </message>
     <message>
         <source>QML External Id</source>
@@ -60050,7 +60055,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Relations:</source>
-        <translation type="unfinished"></translation>
+        <translation>Relationer:</translation>
     </message>
     <message>
         <source>Model</source>
@@ -60903,18 +60908,18 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>Toggle the visibility of the helper grid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växla synligheten för hjälprutnätet.</translation>
     </message>
 </context>
 <context>
     <name>ShowIconGizmoAction</name>
     <message>
         <source>Show Icon Gizmos</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa ikongizmos</translation>
     </message>
     <message>
         <source>Toggle the visibility of icon gizmos, such as light and camera icons.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växla synligheten för ikongizmos, såsom ljus- och kameraikoner.</translation>
     </message>
 </context>
 <context>
