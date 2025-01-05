@@ -7,18 +7,19 @@ Updating 'assistant_sv.qm'...
     
 Updating 'designer_sv.qm'...
 
-    Genererade 1297 översättningar (1297 slutförda och 1 oavslutade)
-    
+    Genererade 1297 översättningar (1297 slutförda och 0 oavslutade)
+
     
 Updating 'linguist_sv.qm'...
 
     Genererade 397 översättningar (397 slutförda och 0 oavslutade)
-        
+
     
 Updating 'qtbase_sv.qm'...
 
-    Genererade 1790 översättningar (1790 slutförda och 46 oavslutade)
-        
+    Genererade 1790 översättningar (1790 slutförda och 0 oavslutade)
+
+    
 Updating 'qtconnectivity_sv.qm'...
 
     Genererade 154 översättningar (154 slutförda och 0 oavslutade)
@@ -35,7 +36,7 @@ Updating 'qtdeclarative_sv.qm'...
     
 Updating 'qt_help_sv.qm'...
 
-    Genererade 55 översättningar (54 slutförda och 1 oavslutade)
+    Genererade 55 översättningar (55 slutförda och 0 oavslutade)
 
     
 Updating 'qtlocation_sv.qm'...
@@ -45,9 +46,7 @@ Updating 'qtlocation_sv.qm'...
     
 Updating 'qtmultimedia_sv.qm'...
 
-    Genererade 80 översättningar (80 slutförda och 0 oavslutade)
-    
-    Ignorerade 19 oöversatta källtexter
+    Genererade 99 översättningar (99 slutförda och 0 oavslutade)
 
     
 Updating 'qtquickcontrols2_sv.qm'...
@@ -71,6 +70,7 @@ Updating 'qtserialport_sv.qm'...
 
     Genererade 16 översättningar (16 slutförda och 0 oavslutade)
     
+
     
 Updating 'qt_sv.qm'...
 
@@ -80,7 +80,7 @@ Updating 'qt_sv.qm'...
 Updating 'qtwebengine_sv.qm'...
 
     Genererade 124 översättningar (124 slutförda och 0 oavslutade)
-    
+
     
 Updating 'qtwebsockets_sv.qm'...
 
