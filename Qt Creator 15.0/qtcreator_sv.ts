@@ -1693,7 +1693,7 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Eye Dropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Pipett</translation>
     </message>
     <message>
         <source>Original</source>
@@ -1733,11 +1733,11 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Defines the start point for color interpolation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Definierar startpunkten för färginterpolation.</translation>
     </message>
     <message>
         <source>Defines the end point for color interpolation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Definierar slutpunkten för färginterpolation.</translation>
     </message>
     <message>
         <source>Defines the center point.</source>
@@ -1749,15 +1749,15 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Defines the center radius.</source>
-        <translation type="unfinished"></translation>
+        <translation>Definierar centrumradie.</translation>
     </message>
     <message>
         <source>Defines the focal radius. Set to 0 for simple radial gradients.</source>
-        <translation type="unfinished"></translation>
+        <translation>Definierar fokalradie. Ställ in till 0 för enkla radiala gradienter.</translation>
     </message>
     <message>
         <source>Defines the start angle for the conical gradient. The value is in degrees (0-360).</source>
-        <translation type="unfinished"></translation>
+        <translation>Definierar startvinkeln för den koniska gradienten. Värdet är i grader (0-360).</translation>
     </message>
 </context>
 <context>
@@ -4248,11 +4248,12 @@ a highlight component.</source>
     <message>
         <source>Only alphanumeric characters and underscore allowed.
 Ids must begin with a lowercase letter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Endast alfanumeriska tecken och understreck tillåtna.
+Idn måste börja med en gemen bokstav.</translation>
     </message>
     <message>
         <source>Ids have to be unique.</source>
-        <translation type="unfinished"></translation>
+        <translation>Idn måste vara unika.</translation>
     </message>
     <message>
         <source>Invalid Id: %1
@@ -8575,7 +8576,7 @@ Kontrollera utdatapanelen för mer information.</translation>
     </message>
     <message>
         <source>Toggles whether this component is exported as an alias property of the root component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar huruvida denna komponent exporteras som en alias-egenskap för rotkomponenten.</translation>
     </message>
     <message>
         <source>Toggles the visibility of this component in the 2D and 3D views.
@@ -10954,7 +10955,7 @@ Install them manually after the current operation is done.
     </message>
     <message>
         <source>Add the selected custom NDK. The toolchains and debuggers will be created automatically.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till vald anpassad NDK. Verktygskedjor och felsökare kommer att skapas automatiskt.</translation>
     </message>
     <message>
         <source>Remove the selected NDK if it has been added manually.</source>
@@ -11114,7 +11115,7 @@ in the system&apos;s browser for manual download.</source>
     </message>
     <message>
         <source>The selected path has an invalid NDK. This might mean that the path contains space characters, or that it does not have a &quot;toolchains&quot; sub-directory, or that the NDK version could not be retrieved because of a missing &quot;source.properties&quot; or &quot;RELEASE.TXT&quot; file</source>
-        <translation type="unfinished"></translation>
+        <translation>Valda sökvägen har en ogiltig NDK. Detta kan betyda att sökvägen innehåller blanksteg eller att den inte har en &quot;toolchains&quot;-underkatalog, eller att NDK-versionen inte kunde hämtas på grund av en saknad &quot;source.properties&quot; eller &quot;RELEASE.TXT&quot;-fil</translation>
     </message>
     <message>
         <source>OpenSSL Cloning</source>
@@ -11629,7 +11630,7 @@ This cannot be undone.</source>
     </message>
     <message>
         <source>&quot;%1&quot; step has an invalid C++ toolchain.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot;-steget har en ogiltig C++-verktygskedja.</translation>
     </message>
     <message>
         <source>Product type is not an application, not running the Make install step.</source>
@@ -13806,7 +13807,7 @@ Warning: this is an experimental feature and might lead to failing to execute th
     </message>
     <message>
         <source>Total rows:</source>
-        <translation type="unfinished"></translation>
+        <translation>Totalt rader:</translation>
     </message>
     <message>
         <source>Open Preferences...</source>
@@ -13830,7 +13831,7 @@ Warning: this is an experimental feature and might lead to failing to execute th
     </message>
     <message>
         <source>Issue Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Problemdetaljer</translation>
     </message>
     <message>
         <source>Reload</source>
@@ -13910,7 +13911,7 @@ User: %2</source>
     </message>
     <message>
         <source>Axivion Server Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Lösenord för Axivion-server</translation>
     </message>
     <message>
         <source>The stored ApiToken is not valid anymore, removing it.</source>
@@ -15595,7 +15596,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Tool arguments:</source>
-        <translation type="unfinished"></translation>
+        <translation>Verktygsargument:</translation>
     </message>
     <message>
         <source>Stage for installation</source>
@@ -15632,7 +15633,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <source>Stage at %2 for %3</source>
         <extracomment>Stage (for installation) at &lt;staging_dir&gt; for &lt;installation_dir&gt;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Steg i %2 för %3</translation>
     </message>
     <message>
         <source>Build</source>
@@ -15678,11 +15679,11 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>&amp;Boolean</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Boolesk</translation>
     </message>
     <message>
         <source>&amp;String</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sträng</translation>
     </message>
     <message>
         <source>&amp;Directory</source>
@@ -15702,7 +15703,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>&amp;Set</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ställ in</translation>
     </message>
     <message>
         <source>Set a value in the CMake configuration.</source>
@@ -15710,7 +15711,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>&amp;Unset</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ta bort</translation>
     </message>
     <message>
         <source>Unset a value in the CMake configuration.</source>
@@ -15758,7 +15759,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Kit CMake Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake-konfiguration för kit</translation>
     </message>
     <message>
         <source>Configure</source>
@@ -15771,7 +15772,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <source>bool</source>
         <comment>display string for cmake type BOOLEAN</comment>
-        <translation type="unfinished"></translation>
+        <translation>bool</translation>
     </message>
     <message>
         <source>file</source>
@@ -15798,7 +15799,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Apply Kit Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillämpa kitvärde</translation>
     </message>
     <message>
         <source>Apply Initial Configuration Value</source>
@@ -15854,7 +15855,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Clean Environment</source>
-        <translation type="unfinished"></translation>
+        <translation>Rensa miljö</translation>
     </message>
     <message>
         <source>Base environment for the CMake configure step:</source>
@@ -15874,11 +15875,11 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Rescan Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Sök igenom projektet igen</translation>
     </message>
     <message>
         <source>Reload CMake Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Läs om CMake-förval</translation>
     </message>
     <message>
         <source>CMake Profiler</source>
@@ -15938,11 +15939,11 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>&lt;No CMake Tool available&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Inget CMake-verktyg tillgängligt&gt;</translation>
     </message>
     <message>
         <source>CMake Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake-verktyg</translation>
     </message>
     <message>
         <source>The CMake Tool to use when building a project with CMake.&lt;br&gt;This setting is ignored when using other build systems.</source>
@@ -15950,7 +15951,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Unconfigured</source>
-        <translation type="unfinished"></translation>
+        <translation>Inte konfigurerad</translation>
     </message>
     <message>
         <source>Path to the cmake executable</source>
@@ -15998,7 +15999,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>CMake Tool is unconfigured, CMake generator will be ignored.</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake-verktyget är inte konfigurerat, CMake-generator kommer att ignoreras.</translation>
     </message>
     <message>
         <source>CMake Tool does not support the configured generator.</source>
@@ -16006,7 +16007,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Platform is not supported by the selected CMake generator.</source>
-        <translation type="unfinished"></translation>
+        <translation>Plattformen stöds inte av vald CMake-generator.</translation>
     </message>
     <message>
         <source>Toolset is not supported by the selected CMake generator.</source>
@@ -16018,11 +16019,11 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>&lt;Use Default Generator&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Använd standardgenerator&gt;</translation>
     </message>
     <message>
         <source>Generator: %1&lt;br&gt;Extra generator: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Generator: %1&lt;br&gt;Extra generator: %2</translation>
     </message>
     <message>
         <source>Platform: %1</source>
@@ -16042,31 +16043,31 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Default configuration passed to CMake when setting up a project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Standardkonfiguration som skickas till CMake när projektet konfigureras.</translation>
     </message>
     <message>
         <source>CMake configuration has no path to qmake binary set, even though the kit has a valid Qt version.</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake-konfigurationen har ingen sökväg till qmake-binären inställd, även om kitet har en giltig Qt-version.</translation>
     </message>
     <message>
         <source>CMake configuration has a path to a qmake binary set, even though the kit has no valid Qt version.</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake-konfigurationen har en sökväg till en qmake-binär inställd, även om kitet inte har en giltig Qt-version.</translation>
     </message>
     <message>
         <source>CMake configuration has a path to a qmake binary set that does not match the qmake binary path configured in the Qt version.</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake-konfigurationen har en sökväg till en qmake-binär inställd som inte matchar sökvägen för qmake-binären som konfigurerats i Qt-versionen.</translation>
     </message>
     <message>
         <source>CMake configuration has no CMAKE_PREFIX_PATH set that points to the kit Qt version.</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake-konfigurationen har ingen CMAKE_PREFIX_PATH inställd som pekar på kitets Qt-version.</translation>
     </message>
     <message>
         <source>CMake configuration has no path to a C compiler set, even though the kit has a valid tool chain.</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake-konfigurationen har ingen sökväg till en C-kompilator inställd, även om kitet har en giltig verktygskedja.</translation>
     </message>
     <message>
         <source>CMake configuration has a path to a C compiler set, even though the kit has no valid tool chain.</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake-konfigurationen har en sökväg till en C-kompilator inställd, även om kitet inte har en giltig verktygskedja.</translation>
     </message>
     <message>
         <source>CMake configuration has a path to a C compiler set that does not match the compiler path configured in the tool chain of the kit.</source>
@@ -16098,7 +16099,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Builds a target of any open CMake project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bygger ett mål för öppna CMake-projekt.</translation>
     </message>
     <message>
         <source>Open CMake Target</source>
@@ -16106,7 +16107,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Locates the definition of a target of any open CMake project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hittar definitionen för ett mål för något öppet CMake-projekt.</translation>
     </message>
     <message>
         <source>The build configuration is currently disabled.</source>
@@ -16122,7 +16123,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>The kit needs to define a CMake tool to parse this project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kitet behöver definiera ett CMake-verktyg för att tolka detta projekt.</translation>
     </message>
     <message>
         <source>Apply configuration changes?</source>
@@ -16150,11 +16151,11 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>No CMake tool set up in kit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inget CMake-verktyg inställt i kitet.</translation>
     </message>
     <message>
         <source>The remote CMake executable cannot write to the local build directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Den körbara CMake-fjärrfilen kan inte skriva till lokala byggkatalogen.</translation>
     </message>
     <message>
         <source>%1 (via cmake)</source>
@@ -16162,11 +16163,11 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>cmake generator failed: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>cmake-generator misslyckades: %1.</translation>
     </message>
     <message>
         <source>Kit does not have a cmake binary set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kitet har inte en cmake-binär inställd.</translation>
     </message>
     <message>
         <source>Cannot create output directory &quot;%1&quot;.</source>
@@ -16224,11 +16225,11 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>You may need to add the project directory to the list of directories that are mounted by the build device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du kan behöva att lägga till projektkatalogen till listan över kataloger som monteras av byggenheten.</translation>
     </message>
     <message>
         <source>The source directory %1 is not reachable by the CMake executable %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Källkatalogen %1 är inte nåbar för den körbara CMake-filen %2.</translation>
     </message>
     <message>
         <source>The build directory %1 is not reachable by the CMake executable %2.</source>
@@ -25600,7 +25601,7 @@ You can choose between waiting longer or aborting debugging.</source>
     </message>
     <message>
         <source>Attached to stopped application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fäst till stoppat program.</translation>
     </message>
     <message>
         <source>Setting breakpoints...</source>
@@ -25608,7 +25609,7 @@ You can choose between waiting longer or aborting debugging.</source>
     </message>
     <message>
         <source>Stopped at breakpoint %1 in thread %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoppad på brytpunkt %1 i tråd %2.</translation>
     </message>
     <message>
         <source>Snapshot Creation Error</source>
@@ -25616,7 +25617,7 @@ You can choose between waiting longer or aborting debugging.</source>
     </message>
     <message>
         <source>Cannot create snapshot file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte skapa ögonblicksfil.</translation>
     </message>
     <message>
         <source>Value changed from %1 to %2.</source>
@@ -25652,7 +25653,7 @@ You can choose between waiting longer or aborting debugging.</source>
     </message>
     <message>
         <source>Executable Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Körbar fil misslyckades</translation>
     </message>
     <message>
         <source>Application exited with exit code %1</source>
@@ -25672,7 +25673,7 @@ You can choose between waiting longer or aborting debugging.</source>
     </message>
     <message>
         <source>Internal error: Invalid TCP/IP port specified %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Internt fel: Ogiltig TCP/IP-port angiven %1.</translation>
     </message>
     <message>
         <source>Internal error: No uVision executable specified.</source>
@@ -25684,23 +25685,23 @@ You can choose between waiting longer or aborting debugging.</source>
     </message>
     <message>
         <source>Internal error: Cannot resolve the library: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Internt fel: Kan inte slå upp biblioteket: %1.</translation>
     </message>
     <message>
         <source>UVSC Version: %1, UVSOCK Version: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>UVSC-version: %1, UVSOCK-version: %2.</translation>
     </message>
     <message>
         <source>Internal error: Cannot open the session: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Internt fel: Kan inte öppna sessionen: %1.</translation>
     </message>
     <message>
         <source>Internal error: Failed to start the debugger: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Internt fel: Misslyckades med att starta felsökaren: %1</translation>
     </message>
     <message>
         <source>UVSC: Starting execution failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>UVSC: Start av körning misslyckades.</translation>
     </message>
     <message>
         <source>UVSC: Stopping execution failed.</source>
@@ -25728,7 +25729,7 @@ You can choose between waiting longer or aborting debugging.</source>
     </message>
     <message>
         <source>Internal error: The specified uVision project options file does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Internt fel: Det angivna inställningsfilen för  uVision-projektet finns inte.</translation>
     </message>
     <message>
         <source>Internal error: The specified uVision project file does not exist.</source>
@@ -25736,7 +25737,7 @@ You can choose between waiting longer or aborting debugging.</source>
     </message>
     <message>
         <source>Internal error: Unable to open the uVision project %1: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Internt fel: Kunde inte öppna uVision-projektet %1: %2.</translation>
     </message>
     <message>
         <source>Internal error: Unable to set the uVision debug target: %1.</source>
@@ -26020,7 +26021,7 @@ markers in the source code editor.</source>
     </message>
     <message>
         <source>Load .gdbinit file on startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Läs in .gdbinit-fil vid uppstart</translation>
     </message>
     <message>
         <source>Use asynchronous mode to control the inferior</source>
@@ -28017,7 +28018,7 @@ You can choose another communication channel here, such as a serial line or cust
     </message>
     <message>
         <source>The debugger to use for this kit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Felsökaren att använda för detta kit.</translation>
     </message>
     <message>
         <source>No debugger set up.</source>
@@ -28033,11 +28034,11 @@ You can choose another communication channel here, such as a serial line or cust
     </message>
     <message>
         <source>The debugger location must be given as an absolute path (%1).</source>
-        <translation type="unfinished"></translation>
+        <translation>Felsökarens plats måste anges som en absolut sökväg (%1).</translation>
     </message>
     <message>
         <source>The ABI of the selected debugger does not match the toolchain ABI.</source>
-        <translation type="unfinished"></translation>
+        <translation>ABIn för vald felsökare matchar inte verktygskedjans ABI.</translation>
     </message>
     <message>
         <source>Name of Debugger</source>
@@ -35486,7 +35487,7 @@ Vill du skriva över dem?</translation>
     </message>
     <message>
         <source>Could not get necessary ports for the debugger connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte få nödvändiga portar för felsökaranslutningen.</translation>
     </message>
     <message>
         <source>Could not get inferior PID.</source>
@@ -36526,15 +36527,15 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Warning for target %1: invalid toolchain path (%2). Update the toolchain in Edit &gt; Preferences &gt; Kits.</source>
-        <translation type="unfinished"></translation>
+        <translation>Varning för målet %1: ogiltig sökväg för verktygskedja (%2). Uppdatera verktygskedjan i Redigera &gt; Inställningar &gt; Kit.</translation>
     </message>
     <message>
         <source>Warning for target %1: missing CMake toolchain file expected at %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Varning för målet %1: saknad CMake-verktygskedjefil förväntades vid %2.</translation>
     </message>
     <message>
         <source>Warning for target %1: missing QulGenerators expected at %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Varning för målet %1: saknad QulGenerators förväntades vid %2.</translation>
     </message>
     <message>
         <source>Kit for %1 created.</source>
@@ -36558,7 +36559,7 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>No CMake tool was detected. Add a CMake tool in Edit &gt; Preferences &gt; Kits &gt; CMake.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inget CMake-verktyg upptäcktes. Lägg till ett CMake-verktyg i Redigera &gt; Inställningar &gt; Kit &gt; CMake.</translation>
     </message>
     <message>
         <source> or </source>
@@ -36670,7 +36671,7 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Path to Renesas Flash Programmer</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökväg till Renesas Flash Programmer</translation>
     </message>
     <message>
         <source>STM32CubeProgrammer</source>
@@ -36678,7 +36679,7 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Green Hills Compiler for ARM</source>
-        <translation type="unfinished"></translation>
+        <translation>Green Hills-kompilator för ARM</translation>
     </message>
     <message>
         <source>IAR ARM Compiler</source>
@@ -36686,19 +36687,19 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Green Hills Compiler</source>
-        <translation type="unfinished"></translation>
+        <translation>Green Hills-kompilator</translation>
     </message>
     <message>
         <source>GNU Arm Embedded Toolchain</source>
-        <translation type="unfinished"></translation>
+        <translation>GNU Arm-inbäddad verktygskedja</translation>
     </message>
     <message>
         <source>GNU Toolchain</source>
-        <translation type="unfinished"></translation>
+        <translation>GNU-verktygskedja</translation>
     </message>
     <message>
         <source>MSVC Toolchain</source>
-        <translation type="unfinished"></translation>
+        <translation>MSVC-verktygskedja</translation>
     </message>
     <message>
         <source>FreeRTOS SDK for MIMXRT1050-EVK</source>
@@ -36926,19 +36927,19 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>GCC Toolchain</source>
-        <translation type="unfinished"></translation>
+        <translation>GCC-verktygskedja</translation>
     </message>
     <message>
         <source>Parsing error: the type entry in JSON kit files must be a string, defaulting to &quot;path&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Tolkningsfel: type-posten i JSON-kitfiler måste vara en sträng, faller tillbaka på &quot;path&quot;</translation>
     </message>
     <message>
         <source>Parsing error: the type entry &quot;%2&quot; in JSON kit files is not supported, defaulting to &quot;path&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Tolkningsfel: type-posten &quot;%2&quot; i JSON-kitfiler stöds inte, faller tillbaka på &quot;path&quot;</translation>
     </message>
     <message>
         <source>Qt for MCUs SDK version %1 detected, only supported by Qt Creator version %2. This version of Qt Creator requires Qt for MCUs %3 or greater.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt for MCUer SDK-version %1 upptäcktes, stöds endast av Qt Creator version %2. Denna version av Qt Creator kräver Qt for MCUs %3 eller senare.</translation>
     </message>
     <message>
         <source>Skipped %1. Unsupported version &quot;%2&quot;.</source>
@@ -36946,7 +36947,7 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Detected version &quot;%1&quot;, only supported by Qt Creator %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Upptäckte version &quot;%1&quot;, stöds endast av Qt Creator %2.</translation>
     </message>
     <message>
         <source>Unsupported version &quot;%1&quot;.</source>
@@ -36958,35 +36959,35 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Error creating kit for target %1, package %2: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid skapande av kit för målet %1, paket %2: %3</translation>
     </message>
     <message>
         <source>Warning creating kit for target %1, package %2: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Varning skapar kit för målet %1, paket %2: %3</translation>
     </message>
     <message>
         <source>the toolchain.id JSON entry is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>JSON-posten toolchain.id är tom</translation>
     </message>
     <message>
         <source>the given toolchain &quot;%1&quot; is not supported</source>
-        <translation type="unfinished"></translation>
+        <translation>angivna verktygskedjan &quot;%1&quot; stöds inte</translation>
     </message>
     <message>
         <source>the toolchain.compiler.cmakeVar JSON entry is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>JSON-posten toolchain.compiler.cmakeVar är tom</translation>
     </message>
     <message>
         <source>the toolchain.file.cmakeVar JSON entry is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>JSON-posten toolchain.file.cmakeVar är tom</translation>
     </message>
     <message>
         <source>Toolchain is invalid because %2 in file &quot;%3&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verktygskedjan är ogiltig därför att %2 i filen &quot;%3&quot;.</translation>
     </message>
     <message>
         <source>Toolchain description for &quot;%1&quot; is invalid because %2 in file &quot;%3&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verktygskedjans beskrivning för &quot;%1&quot; är ogiltig därför att %2 i filen &quot;%3&quot;.</translation>
     </message>
 </context>
 <context>
@@ -42659,7 +42660,7 @@ fails because Clang does not understand the target architecture.</source>
     </message>
     <message>
         <source>Parent toolchain:</source>
-        <translation type="unfinished"></translation>
+        <translation>Överliggande verktygskedja:</translation>
     </message>
     <message>
         <source>MinGW</source>
@@ -42716,11 +42717,11 @@ fails because Clang does not understand the target architecture.</source>
     </message>
     <message>
         <source>This toolchain is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denna verktygskedja är ogiltig.</translation>
     </message>
     <message>
         <source>Toolchain Auto-detection Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Upptäck automatiskt inställningar för verktygskedja</translation>
     </message>
     <message>
         <source>Detect x86_64 GCC compilers as x86_64 and x86</source>
@@ -43862,11 +43863,11 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Removing Qt version entries...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tar bort Qt-versionsposter...</translation>
     </message>
     <message>
         <source>Removing toolchain entries...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tar bort poster för verktygskedja...</translation>
     </message>
     <message>
         <source>Removal of previously auto-detected kit items finished.</source>
@@ -43886,7 +43887,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Toolchains:</source>
-        <translation type="unfinished"></translation>
+        <translation>Verktygskedjor:</translation>
     </message>
     <message>
         <source>Listing of previously auto-detected kit items finished.</source>
@@ -43910,19 +43911,19 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Searching toolchains...</source>
-        <translation type="unfinished"></translation>
+        <translation>Söker efter verktygskedjor...</translation>
     </message>
     <message>
         <source>Searching toolchains of type %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Söker efter verktygskedjor av typen %1</translation>
     </message>
     <message>
         <source>%1 new toolchains found.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 nya verktygskedjor hittades.</translation>
     </message>
     <message>
         <source>Starting auto-detection. This will take a while...</source>
-        <translation type="unfinished"></translation>
+        <translation>Startar automatisk upptäckt. Detta kan ta en stund...</translation>
     </message>
     <message>
         <source>Registered kit %1</source>
@@ -44552,7 +44553,7 @@ till projektet &quot;%2&quot;.</translation>
     </message>
     <message>
         <source>Pattern &quot;%1&quot; is no valid regular expression.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mönstret &quot;%1&quot; är inte ett giltigt reguljärt uttryck.</translation>
     </message>
     <message>
         <source>ScannerGenerator: Binary pattern &quot;%1&quot; not valid.</source>
@@ -44980,7 +44981,7 @@ These files are preserved.</source>
     <message>
         <source>%1 at &quot;%2&quot;</source>
         <extracomment>toolchain &apos;name&apos; at &apos;path&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 i &quot;%2&quot;</translation>
     </message>
     <message>
         <source>&amp;Compiler path</source>
@@ -45696,7 +45697,7 @@ You will rarely need to do this.</source>
     </message>
     <message>
         <source>The qbs session is not in a valid state.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qbs-sessionen är inte i ett giltigt tillstånd.</translation>
     </message>
     <message>
         <source>Failed to update files in Qbs project: %1.
@@ -47029,7 +47030,7 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>Expected a single import.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förväntade en single-import.</translation>
     </message>
     <message>
         <source>Expected import of QtQuick.tooling.</source>
@@ -47125,7 +47126,7 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>Expected strings as enum keys.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förväntade strängar som enum-nycklar.</translation>
     </message>
     <message>
         <source>Expected either array or object literal as enum definition.</source>
@@ -48021,7 +48022,7 @@ Please build the qmldump application on the Qt version options page.</source>
     </message>
     <message>
         <source>Select an externally started QML-debug enabled application.&lt;p&gt;Commonly used command-line arguments are:</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj ett externt startat QML-felsökningsaktiverat program.&lt;p&gt;Ofta vanligt använda kommandoradsargument är:</translation>
     </message>
     <message>
         <source>Kit:</source>
@@ -48188,7 +48189,7 @@ Do you want to save the data first?</source>
     </message>
     <message>
         <source>anonymous function</source>
-        <translation type="unfinished"></translation>
+        <translation>anonym funktion</translation>
     </message>
     <message>
         <source>Cannot open temporary trace file to store events.</source>
@@ -48196,7 +48197,7 @@ Do you want to save the data first?</source>
     </message>
     <message>
         <source>Failed to reset temporary trace file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att nollställa temporär spårningsfil.</translation>
     </message>
     <message>
         <source>Failed to flush temporary trace file.</source>
@@ -48224,7 +48225,7 @@ Do you want to save the data first?</source>
     </message>
     <message>
         <source>Extended Event Statistics</source>
-        <translation type="unfinished"></translation>
+        <translation>Utökad händelsestatistik</translation>
     </message>
     <message>
         <source>Location</source>
@@ -48287,11 +48288,11 @@ Do you want to save the data first?</source>
     </message>
     <message>
         <source>Time in Percent</source>
-        <translation type="unfinished"></translation>
+        <translation>Tid i procent</translation>
     </message>
     <message>
         <source>Total Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Total tid</translation>
     </message>
     <message>
         <source>Self Time in Percent</source>
@@ -48343,7 +48344,7 @@ Do you want to save the data first?</source>
     </message>
     <message>
         <source>Binding</source>
-        <translation type="unfinished"></translation>
+        <translation>Bindning</translation>
     </message>
     <message>
         <source>Signal</source>
@@ -48424,7 +48425,7 @@ Do you want to save the data first?</source>
     </message>
     <message>
         <source>JavaScript</source>
-        <translation type="unfinished"></translation>
+        <translation>JavaScript</translation>
     </message>
     <message>
         <source>Animations</source>
@@ -48440,7 +48441,7 @@ Do you want to save the data first?</source>
     </message>
     <message>
         <source>Framerate</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildfrekvens</translation>
     </message>
     <message>
         <source>Context</source>
@@ -48452,7 +48453,7 @@ Do you want to save the data first?</source>
     </message>
     <message>
         <source>Invalid magic: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig magic: %1</translation>
     </message>
     <message>
         <source>Unknown data stream version: %1</source>
@@ -48537,11 +48538,11 @@ Saving failed.</source>
     </message>
     <message>
         <source>Key Press</source>
-        <translation type="unfinished"></translation>
+        <translation>Tangenttryck</translation>
     </message>
     <message>
         <source>Key Release</source>
-        <translation type="unfinished"></translation>
+        <translation>Tangent släppt</translation>
     </message>
     <message>
         <source>Key</source>
@@ -48549,7 +48550,7 @@ Saving failed.</source>
     </message>
     <message>
         <source>Modifiers</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifierare</translation>
     </message>
     <message>
         <source>Double Click</source>
@@ -48557,11 +48558,11 @@ Saving failed.</source>
     </message>
     <message>
         <source>Mouse Press</source>
-        <translation type="unfinished"></translation>
+        <translation>Musknapp tryckt</translation>
     </message>
     <message>
         <source>Mouse Release</source>
-        <translation type="unfinished"></translation>
+        <translation>Musknapp släppt</translation>
     </message>
     <message>
         <source>Button</source>
@@ -48573,7 +48574,7 @@ Saving failed.</source>
     </message>
     <message>
         <source>Mouse Move</source>
-        <translation type="unfinished"></translation>
+        <translation>Muspekarrörelse</translation>
     </message>
     <message>
         <source>X</source>
@@ -48585,7 +48586,7 @@ Saving failed.</source>
     </message>
     <message>
         <source>Mouse Wheel</source>
-        <translation type="unfinished"></translation>
+        <translation>Mushjul används</translation>
     </message>
     <message>
         <source>Angle X</source>
@@ -48609,7 +48610,7 @@ Saving failed.</source>
     </message>
     <message>
         <source>Cache Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Cachestorlek</translation>
     </message>
     <message>
         <source>Image Cached</source>
@@ -48625,7 +48626,7 @@ Saving failed.</source>
     </message>
     <message>
         <source>Duration</source>
-        <translation type="unfinished"></translation>
+        <translation>Längd</translation>
     </message>
     <message>
         <source>File</source>
@@ -48778,7 +48779,7 @@ the program.</source>
     </message>
     <message>
         <source>Count</source>
-        <translation type="unfinished"></translation>
+        <translation>Antal</translation>
     </message>
     <message>
         <source>Draw Calls</source>
@@ -48794,7 +48795,7 @@ the program.</source>
     </message>
     <message>
         <source>Primitives</source>
-        <translation type="unfinished"></translation>
+        <translation>Primitiver</translation>
     </message>
     <message>
         <source>Instances</source>
@@ -58341,7 +58342,7 @@ När ett problem upptäcks kommer programmet att avbrytas och kan felsökas.</tr
     </message>
     <message>
         <source>Heob: No toolchain available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Heob: Ingen verktygskedja tillgänglig.</translation>
     </message>
     <message>
         <source>Heob: No executable set.</source>
@@ -59022,7 +59023,7 @@ Check settings or ensure Valgrind is installed and available in PATH.</source>
     </message>
     <message>
         <source>Version control &quot;%1&quot; is not configured.</source>
-        <translation type="unfinished"></translation>
+        <translation>Versionskontroll &quot;%1&quot; är inte konfigurerad.</translation>
     </message>
     <message>
         <source>Version control &quot;%1&quot; does not support initial checkouts.</source>
@@ -59070,7 +59071,7 @@ Check settings or ensure Valgrind is installed and available in PATH.</source>
     </message>
     <message>
         <source>There were errors when cleaning the repository %1:</source>
-        <translation type="unfinished"></translation>
+        <translation>Det uppstod fel vid rensning av förrådet %1:</translation>
     </message>
     <message>
         <source>Delete...</source>
@@ -59336,7 +59337,7 @@ Check settings or ensure Valgrind is installed and available in PATH.</source>
     </message>
     <message>
         <source>No known version control selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen känd versionskontroll vald.</translation>
     </message>
     <message>
         <source>Clean Repository</source>
@@ -59370,7 +59371,7 @@ Check settings or ensure Valgrind is installed and available in PATH.</source>
     </message>
     <message>
         <source>Reset VCS Cache</source>
-        <translation type="unfinished"></translation>
+        <translation>Nollställ VCS-cache</translation>
     </message>
     <message>
         <source>Reset information about which version control system handles which directory.</source>
@@ -62311,7 +62312,7 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>Placeholder text displayed when the editor is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Platshållartext som visas när redigeraren är tom.</translation>
     </message>
     <message>
         <source>Placeholder color</source>
@@ -62327,7 +62328,7 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>Whether text area accepts hover events.</source>
-        <translation type="unfinished"></translation>
+        <translation>Huruvida textytan accepterar hovringshändelser.</translation>
     </message>
 </context>
 <context>
