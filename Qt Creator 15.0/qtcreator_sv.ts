@@ -10592,7 +10592,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Cannot reload &quot;%1&quot;. It is not in the list of workspaces.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte läsa om &quot;%1&quot;. Den finns inte i listan över arbetsytor.</translation>
     </message>
     <message>
         <source>Could not clone &quot;%1&quot; due to: %2</source>
@@ -18928,14 +18928,16 @@ Koden har kopierats till ditt urklipp.</translation>
     </message>
     <message>
         <source>Enabling %1 is subject to your agreement and abidance with your applicable %1 terms. It is your responsibility to know and accept the requirements and parameters of using tools like %1. This may include, but is not limited to, ensuring you have the rights to allow %1 access to your code, as well as understanding any implications of your use of %1 and suggestions produced (like copyright, accuracy, etc.).</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivering av %1 är föremål för ditt samtycke och efterlevnad av dina tillämpliga villkor för %1. Det är ditt ansvar att veta och godkänna kraven samt parametrar för hur man använder verktyg som %1. Det kan inkludera, men inte begränsat till. försäkra dig om att du har behörighet att tillåta att %1 kommer åt din kod, så väl som att förstå konsekvenser av din användning av %1 och förslag som skapas (som upphovsrätt, noggrannhet, etc.).</translation>
     </message>
     <message>
         <source>The Copilot plugin requires node.js and the Copilot neovim plugin. If you install the neovim plugin as described in %1, the plugin will find the %3 file automatically.
 
 Otherwise you need to specify the path to the %2 file from the Copilot neovim plugin.</source>
         <comment>Markdown text for the copilot instruction label</comment>
-        <translation type="unfinished"></translation>
+        <translation>Copilot-insticksmodulen kräver node.js och Copilots neovim-insticksmodule. Om du installerar neovim-insticksmodulen som beskrivs i %1 så kommer insticksmodulen att hitta %3-filen automatiskt.
+
+Annars måste du ange sökvägen till %2-filen från Copilots neovim-insticksmodul.</translation>
     </message>
     <message>
         <source>Note</source>
@@ -20657,7 +20659,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>%1 Spaces</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 blanksteg</translation>
     </message>
     <message>
         <source>Tabs</source>
@@ -22240,7 +22242,7 @@ You will likely experience further problems using this instance of %3.</source>
     </message>
     <message>
         <source>Runs an external tool that you have set up in the preferences (Environment &gt; External Tools).</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör ett externt verktyg som du har konfigurerat i inställningarna (Miljö &gt; Externa verktyg).</translation>
     </message>
     <message>
         <source>Evaluate JavaScript</source>
@@ -22252,11 +22254,11 @@ You will likely experience further problems using this instance of %3.</source>
     </message>
     <message>
         <source>Reset Engine</source>
-        <translation type="unfinished"></translation>
+        <translation>Nollställ motor</translation>
     </message>
     <message>
         <source>Engine aborted after timeout.</source>
-        <translation type="unfinished"></translation>
+        <translation>Motorn avbröts efter tidsgräns.</translation>
     </message>
     <message>
         <source>The evaluation was interrupted.</source>
@@ -22264,11 +22266,11 @@ You will likely experience further problems using this instance of %3.</source>
     </message>
     <message>
         <source>Engine reinitialized properly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Motorn återinitierades korrekt.</translation>
     </message>
     <message>
         <source>Engine did not reinitialize properly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Motorn återinitierades inte korrekt.</translation>
     </message>
     <message>
         <source>Copy to clipboard: %1</source>
@@ -22296,7 +22298,7 @@ You will likely experience further problems using this instance of %3.</source>
     </message>
     <message>
         <source>File Name Index</source>
-        <translation type="unfinished"></translation>
+        <translation>Filnamnsindex</translation>
     </message>
     <message>
         <source>Locates files from a global file system index (Spotlight, Locate, Everything). Append &quot;+&lt;number&gt;&quot; or &quot;:&lt;number&gt;&quot; to jump to the given line number. Append another &quot;+&lt;number&gt;&quot; or &quot;:&lt;number&gt;&quot; to jump to the column number as well.</source>
@@ -22313,7 +22315,8 @@ You will likely experience further problems using this instance of %3.</source>
     <message>
         <source>Add &quot;%1&quot; placeholder for the query string.
 Double-click to edit item.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till &quot;%1&quot;-platshållare för frågesträngen.
+Dubbelklicka för att redigera posten.</translation>
     </message>
     <message>
         <source>Move Up</source>
@@ -22329,7 +22332,7 @@ Double-click to edit item.</source>
     </message>
     <message>
         <source>Activate %1 View</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivera %1-vyn</translation>
     </message>
     <message>
         <source>output.txt</source>
@@ -22486,7 +22489,7 @@ Double-click to edit item.</source>
     </message>
     <message>
         <source>%1 installation</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-installation</translation>
     </message>
     <message>
         <source>The plugin will be available only to this %1 installation, but for all users that can access it.</source>
@@ -22582,7 +22585,7 @@ Double-click to edit item.</source>
     </message>
     <message>
         <source>Markdown Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Markdown-redigerare</translation>
     </message>
     <message>
         <source>Secret storage is not available! Your values will be stored as plaintext in the settings!</source>
@@ -29617,7 +29620,7 @@ Det kan hjälpa att bygga om projektet.</translation>
     </message>
     <message>
         <source>Switch to Unified Diff Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Växla till enhetlig diff-redigerare</translation>
     </message>
     <message>
         <source>Waiting for data...</source>
@@ -29629,19 +29632,19 @@ Det kan hjälpa att bygga om projektet.</translation>
     </message>
     <message>
         <source>Switch to Side By Side Diff Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Växla till diff-redigerare sida vid sida</translation>
     </message>
     <message>
         <source>Synchronize Horizontal Scroll Bars</source>
-        <translation type="unfinished"></translation>
+        <translation>Synkronisera horisontella rullningslister</translation>
     </message>
     <message>
         <source>Context lines:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontextrader:</translation>
     </message>
     <message>
         <source>Reload Diff</source>
-        <translation type="unfinished"></translation>
+        <translation>Läs om diff</translation>
     </message>
     <message>
         <source>[%1] vs. [%2] %3</source>
@@ -29657,15 +29660,15 @@ Det kan hjälpa att bygga om projektet.</translation>
     </message>
     <message>
         <source>Diff Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Diff-redigerare</translation>
     </message>
     <message>
         <source>Diff</source>
-        <translation type="unfinished"></translation>
+        <translation>Diff</translation>
     </message>
     <message>
         <source>Saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Sparad</translation>
     </message>
     <message>
         <source>Modified</source>
@@ -29673,19 +29676,19 @@ Det kan hjälpa att bygga om projektet.</translation>
     </message>
     <message>
         <source>Diff Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Diff för filer</translation>
     </message>
     <message>
         <source>Diff Modified Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Diff för ändrade filer</translation>
     </message>
     <message>
         <source>&amp;Diff</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Diff</translation>
     </message>
     <message>
         <source>Diff Current File</source>
-        <translation type="unfinished"></translation>
+        <translation>Diff aktuell fil</translation>
     </message>
     <message>
         <source>Meta+H</source>
@@ -29697,7 +29700,7 @@ Det kan hjälpa att bygga om projektet.</translation>
     </message>
     <message>
         <source>Diff Open Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Diff för öppna filer</translation>
     </message>
     <message>
         <source>Meta+Shift+H</source>
@@ -29709,23 +29712,23 @@ Det kan hjälpa att bygga om projektet.</translation>
     </message>
     <message>
         <source>Diff External Files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Diff externa filer...</translation>
     </message>
     <message>
         <source>Diff &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Diff &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Select First File for Diff</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj första filen för diff</translation>
     </message>
     <message>
         <source>Select Second File for Diff</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj andra filen för diff</translation>
     </message>
     <message>
         <source>Diff &quot;%1&quot;, &quot;%2&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Diff &quot;%1&quot;, &quot;%2&quot;</translation>
     </message>
     <message numerus="yes">
         <source>Skipped %n lines...</source>
@@ -29752,7 +29755,7 @@ Det kan hjälpa att bygga om projektet.</translation>
     </message>
     <message>
         <source>Rendering diff</source>
-        <translation type="unfinished"></translation>
+        <translation>Renderar diff</translation>
     </message>
     <message>
         <source>Hide Change Description</source>
@@ -29764,7 +29767,7 @@ Det kan hjälpa att bygga om projektet.</translation>
     </message>
     <message>
         <source>Could not parse patch file &quot;%1&quot;. The content is not of unified diff format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte tolka patchfilen &quot;%1&quot;. Innehållet är inte ett enhetligt diff-format.</translation>
     </message>
     <message>
         <source>Send Chunk to CodePaster...</source>
@@ -30875,19 +30878,19 @@ Reason: %3</source>
     </message>
     <message>
         <source>Search hit BOTTOM, continuing at TOP.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökningen träffade BOTTEN, fortsätter på TOPPEN.</translation>
     </message>
     <message>
         <source>Search hit TOP, continuing at BOTTOM.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökningen träffade TOPPEN, fortsätter vid BOTTEN.</translation>
     </message>
     <message>
         <source>Search hit BOTTOM without match for: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökningen träffade BOTTEN utan matchning för: %1</translation>
     </message>
     <message>
         <source>Search hit TOP without match for: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökningen träffade TOPPEN utan matchning för: %1</translation>
     </message>
     <message numerus="yes">
         <source>%n lines indented.</source>
@@ -30912,11 +30915,11 @@ Reason: %3</source>
     </message>
     <message>
         <source>Already at oldest change.</source>
-        <translation type="unfinished"></translation>
+        <translation>Redan vid äldsta ändring.</translation>
     </message>
     <message>
         <source>Already at newest change.</source>
-        <translation type="unfinished"></translation>
+        <translation>Redan vid nyaste ändring.</translation>
     </message>
     <message>
         <source>Cannot open file %1</source>
@@ -31076,7 +31079,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Displays line numbers relative to the line containing text cursor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Visar radnummer relativt till raden som innehåller textmarkören.</translation>
     </message>
     <message>
         <source>Does not interpret key sequences like Ctrl-S in FakeVim but handles them as regular shortcuts. This gives easier access to core functionality at the price of losing some features of FakeVim.</source>
@@ -31234,7 +31237,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Ignore All Whitespace</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorera alla blanksteg</translation>
     </message>
     <message>
         <source>Strip Trailing CR</source>
@@ -31366,11 +31369,11 @@ Reason: %3</source>
     </message>
     <message>
         <source>Diff Current File</source>
-        <translation type="unfinished"></translation>
+        <translation>Diff för aktuell fil</translation>
     </message>
     <message>
         <source>Diff &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Diff för &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Meta+I,Meta+D</source>
@@ -31378,11 +31381,11 @@ Reason: %3</source>
     </message>
     <message>
         <source>Timeline Current File</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidslinje för aktuell fil</translation>
     </message>
     <message>
         <source>Timeline &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidslinje &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Meta+I,Meta+L</source>
@@ -31414,7 +31417,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Delete &quot;%1&quot;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort &quot;%1&quot;...</translation>
     </message>
     <message>
         <source>Revert Current File...</source>
@@ -31566,7 +31569,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Specify a revision other than the default?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange en revision annan än standard?</translation>
     </message>
     <message>
         <source>Checkout revision, can also be a branch or a tag name.</source>
@@ -31767,7 +31770,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrera</translation>
     </message>
     <message>
         <source>&amp;Fetch</source>
@@ -31827,7 +31830,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Would you like to delete the tag &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vill du ta bort taggen &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Would you like to delete the branch &quot;%1&quot;?</source>
@@ -31859,7 +31862,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Rename Tag</source>
-        <translation type="unfinished"></translation>
+        <translation>Byt namn på tagg</translation>
     </message>
     <message>
         <source>Re&amp;fresh</source>
@@ -31875,7 +31878,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>&amp;Diff</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Diff</translation>
     </message>
     <message>
         <source>&amp;Log</source>
@@ -31943,7 +31946,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Change:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändring:</translation>
     </message>
     <message>
         <source>HEAD</source>
@@ -34019,11 +34022,11 @@ Leave empty to search through the file system.</source>
     </message>
     <message>
         <source>Insufficient access token.</source>
-        <translation type="unfinished"></translation>
+        <translation>Otillräckligt åtkomsttoken.</translation>
     </message>
     <message>
         <source>Permission scope read_api or api needed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rättighetsomfång read_api eller api behövs.</translation>
     </message>
     <message>
         <source>Check settings for misconfiguration.</source>
@@ -34035,7 +34038,7 @@ Leave empty to search through the file system.</source>
     </message>
     <message>
         <source>Using project access token.</source>
-        <translation type="unfinished"></translation>
+        <translation>Använder projektets åtkomsttoken.</translation>
     </message>
     <message>
         <source>Logged in as %1</source>
@@ -34175,7 +34178,7 @@ Observera: Detta kan utsätta dig för ett attack.</translation>
     </message>
     <message>
         <source>Projects linked with GitLab receive event notifications in the Version Control output pane.</source>
-        <translation type="unfinished"></translation>
+        <translation>Projekt länkade med GitLab tar emot händelseaviseringar i utdatapanelen för Versionskontroll.</translation>
     </message>
     <message>
         <source>Remote host does not match chosen GitLab configuration.</source>
@@ -35767,7 +35770,7 @@ Expiration date: %3</source>
     </message>
     <message>
         <source>Reloads the call hierarchy for the symbol under cursor position.</source>
-        <translation type="unfinished"></translation>
+        <translation>Läser om anropshierarkin för symbolen under markörpositionen.</translation>
     </message>
     <message>
         <source>%1 for %2</source>
@@ -35777,7 +35780,7 @@ Expiration date: %3</source>
     <message>
         <source>uninitialized</source>
         <extracomment>language client state</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>inte initierad</translation>
     </message>
     <message>
         <source>initialize requested</source>
@@ -35792,17 +35795,17 @@ Expiration date: %3</source>
     <message>
         <source>initialized</source>
         <extracomment>language client state</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>initierad</translation>
     </message>
     <message>
         <source>shutdown requested</source>
         <extracomment>language client state</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>stäng ner begärt</translation>
     </message>
     <message>
         <source>shut down</source>
         <extracomment>language client state</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>stäng ner</translation>
     </message>
     <message>
         <source>Language Server &quot;%1&quot; Initialization Error</source>
@@ -35829,7 +35832,7 @@ Expiration date: %3</source>
     </message>
     <message>
         <source>Server Info is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Serverinfo är ogiltig.</translation>
     </message>
     <message>
         <source>No initialize result.</source>
@@ -35869,7 +35872,7 @@ Expiration date: %3</source>
     </message>
     <message>
         <source>Functions and Methods in Workspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Funktioner och metoder i arbetsyta</translation>
     </message>
     <message>
         <source>Locates functions and methods in the language server workspace.</source>
@@ -35877,7 +35880,7 @@ Expiration date: %3</source>
     </message>
     <message>
         <source>Cannot handle MIME type &quot;%1&quot; of message.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte hantera MIME-typen &quot;%1&quot; för meddelande.</translation>
     </message>
     <message>
         <source>Cannot send data to unstarted server %1</source>
@@ -35889,7 +35892,7 @@ Expiration date: %3</source>
     </message>
     <message>
         <source>Unexpectedly finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>Färdigställdes oväntat.</translation>
     </message>
     <message>
         <source>Language Server</source>
@@ -35901,11 +35904,11 @@ Expiration date: %3</source>
     </message>
     <message>
         <source>Inspect Language Clients...</source>
-        <translation type="unfinished"></translation>
+        <translation>Inspektera språkklienter...</translation>
     </message>
     <message>
         <source>Language Server Diagnostics</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagnostik för språkserver</translation>
     </message>
     <message>
         <source>Issues provided by the Language Server in the current document.</source>
@@ -36036,7 +36039,7 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Start typing to see replacements.</source>
-        <translation type="unfinished"></translation>
+        <translation>Börja skriv för att se ersättningar.</translation>
     </message>
     <message>
         <source>Show available quick fixes</source>
@@ -37037,7 +37040,7 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Default username:</source>
-        <translation type="unfinished"></translation>
+        <translation>Användarnamn som standard:</translation>
     </message>
     <message>
         <source>Email to use by default on commit.</source>
@@ -37045,7 +37048,7 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Default email:</source>
-        <translation type="unfinished"></translation>
+        <translation>E-postadress som standard:</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
@@ -37073,7 +37076,7 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Specify URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange URL:</translation>
     </message>
     <message>
         <source>For example: &quot;https://[user[:pass]@]host[:port]/[path]&quot;.</source>
@@ -37093,7 +37096,7 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Cannot parse output: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte tolka utdata: %1</translation>
     </message>
     <message>
         <source>Mercurial Diff</source>
@@ -37133,11 +37136,11 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Diff Current File</source>
-        <translation type="unfinished"></translation>
+        <translation>Diff för aktuell fil</translation>
     </message>
     <message>
         <source>Diff &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Diff &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Meta+H,Meta+D</source>
@@ -37205,7 +37208,7 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Diff</source>
-        <translation type="unfinished"></translation>
+        <translation>Diff</translation>
     </message>
     <message>
         <source>Log</source>
@@ -37340,7 +37343,7 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Wipe Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Städa projekt</translation>
     </message>
     <message>
         <source>Wipes build directory and reconfigures using previous command line options.
@@ -37385,7 +37388,7 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>Meson Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Meson-verktyg</translation>
     </message>
     <message>
         <source>The Meson tool to use when building a project with Meson.&lt;br&gt;This setting is ignored when using other build systems.</source>
@@ -37393,11 +37396,11 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>Cannot validate this meson executable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte validera denna körbara meson-fil.</translation>
     </message>
     <message>
         <source>Unconfigured</source>
-        <translation type="unfinished"></translation>
+        <translation>Inte konfigurerad</translation>
     </message>
     <message>
         <source>Build</source>
@@ -37406,7 +37409,7 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>Tool arguments:</source>
-        <translation type="unfinished"></translation>
+        <translation>Verktygsargument:</translation>
     </message>
     <message>
         <source>Targets:</source>
@@ -37418,7 +37421,7 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>Ninja Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Ninja-verktyg</translation>
     </message>
     <message>
         <source>The Ninja tool to use when building a project with Meson.&lt;br&gt;This setting is ignored when using other build systems.</source>
@@ -37426,7 +37429,7 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>Cannot validate this Ninja executable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte validera denna körbara Ninja-fil.</translation>
     </message>
     <message>
         <source>Ninja</source>
@@ -37470,7 +37473,7 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>New Meson or Ninja tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Nytt Meson eller Ninja-verktyg</translation>
     </message>
     <message>
         <source>Tools</source>
@@ -37605,7 +37608,7 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>Update Include Dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdatera include-beroenden</translation>
     </message>
     <message>
         <source>Select Custom Configuration Folder</source>
@@ -37613,7 +37616,7 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>Config path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurationssökväg:</translation>
     </message>
     <message>
         <source>Select File Target</source>
@@ -38017,7 +38020,7 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>No Trace Points Found</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga spårningspunkter hittades</translation>
     </message>
     <message>
         <source>Trace points can be defined with &quot;perf probe -a&quot;.</source>
@@ -38033,7 +38036,7 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>perfparser failed to start.</source>
-        <translation type="unfinished"></translation>
+        <translation>perfparser misslyckades med att starta.</translation>
     </message>
     <message>
         <source>Could not start the perfparser utility program. Make sure a working Perf parser is available at the location given by the PERFPROFILER_PARSER_FILEPATH environment variable.</source>
@@ -38081,7 +38084,7 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>Directory of &amp;executable:</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalog för &amp;körbar fil:</translation>
     </message>
     <message>
         <source>B&amp;rowse...</source>
@@ -38133,7 +38136,7 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>Binary Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Binärplats</translation>
     </message>
     <message>
         <source>Caller</source>
@@ -38153,7 +38156,7 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>Recursion in Percent</source>
-        <translation type="unfinished"></translation>
+        <translation>Rekursion i procent</translation>
     </message>
     <message>
         <source>Samples in Percent</source>
@@ -38485,7 +38488,7 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>Error: No device available for active target.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel: Ingen enhet tillgänglig för aktivt mål.</translation>
     </message>
     <message>
         <source>Error: Failed to load trace point script %1: %2.</source>
@@ -38501,7 +38504,7 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>Failed to create trace points.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att skapa spårningspunkter.</translation>
     </message>
     <message>
         <source>Created trace points for: %1</source>
@@ -41112,7 +41115,7 @@ Du bör inte blanda flera testramverk i ett projekt.</translation>
     </message>
     <message>
         <source>Test Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Testinformation</translation>
     </message>
     <message>
         <source>Creates a source file that you can add to an existing test project.</source>
@@ -41124,11 +41127,11 @@ Du bör inte blanda flera testramverk i ett projekt.</translation>
     </message>
     <message>
         <source>Creates a markdown file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapar en markdown-fil.</translation>
     </message>
     <message>
         <source>Markdown File</source>
-        <translation type="unfinished"></translation>
+        <translation>Markdown-fil</translation>
     </message>
     <message>
         <source>Creates a project containing a single main.cpp file with a stub implementation and no graphical UI.
@@ -48111,7 +48114,8 @@ Please use the stop button instead.</source>
     <message>
         <source>Could not connect to the in-process QML profiler within %1 s.
 Do you want to retry and wait %2 s?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte ansluta till in-process QML-profileraren inom %1 s.
+Vill du försöka igen och vänta %2 s?</translation>
     </message>
     <message>
         <source>Failed to connect.</source>
@@ -48208,7 +48212,7 @@ Do you want to save the data first?</source>
     </message>
     <message>
         <source>Could not re-open temporary trace file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte återöppna temporär spårningsfil.</translation>
     </message>
     <message>
         <source>Read past end in temporary trace file.</source>
@@ -48371,7 +48375,7 @@ Do you want to save the data first?</source>
     </message>
     <message>
         <source>&lt;bytecode&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;bytekod&gt;</translation>
     </message>
     <message>
         <source>Main Program</source>
@@ -50445,7 +50449,7 @@ Kontrollprocessen misslyckades att starta.</translation>
     </message>
     <message>
         <source>Basic connectivity test failed, device is considered unusable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Grundläggande anslutningstest misslyckades, enheten anses inte vara användbar.</translation>
     </message>
     <message>
         <source>Checking if specified ports are available...</source>
@@ -50615,7 +50619,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Emulator</source>
-        <translation type="unfinished"></translation>
+        <translation>Emulator</translation>
     </message>
     <message>
         <source>You will need at least one port.</source>
@@ -50731,7 +50735,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>The install root &quot;%1&quot; could not be created.</source>
-        <translation type="unfinished"></translation>
+        <translation>Installationsroten &quot;%1&quot; kunde inte skapas.</translation>
     </message>
     <message>
         <source>The &quot;make install&quot; step should probably not be last in the list of deploy steps. Consider moving it up.</source>
@@ -50739,11 +50743,11 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>You need to add an install statement to your CMakeLists.txt file for deployment to work.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du behöver lägga till ett install-villkor till din CMakeLists.txt-fil för att distribution ska fungera.</translation>
     </message>
     <message>
         <source>Remote executable:</source>
-        <translation type="unfinished"></translation>
+        <translation>Körbar fjärrfil:</translation>
     </message>
     <message>
         <source>Local executable:</source>
@@ -50783,7 +50787,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Transfer method was downgraded from &quot;%1&quot; to &quot;%2&quot;. If this is unexpected, please re-test device &quot;%3&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Överföringsmetoden nergraderades från &quot;%1&quot; till &quot;%2&quot;. Om detta är oväntat, testa enheten &quot;%3&quot; igen.</translation>
     </message>
     <message>
         <source>%1 failed to start: %2</source>
@@ -51101,7 +51105,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Range:</source>
-        <translation type="unfinished"></translation>
+        <translation>Intervall:</translation>
     </message>
     <message>
         <source>Crop and Trim</source>
@@ -51125,7 +51129,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Frames %1 to %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildrutor %1 till %2.</translation>
     </message>
     <message>
         <source>Complete clip.</source>
@@ -51221,7 +51225,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Capture the screen mouse clicks</source>
-        <translation type="unfinished"></translation>
+        <translation>Fånga skärmens musklick</translation>
     </message>
     <message>
         <source>Capture device/filter:</source>
@@ -52052,11 +52056,11 @@ Row: %4, Column: %5
     </message>
     <message>
         <source>Failed to write &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att skriva &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Incomplete Squish settings. Missing Squish installation path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Okompletta Squish-inställningar. Saknar installationssökväg till Squish.</translation>
     </message>
     <message>
         <source>objectmaptool not found.</source>
@@ -52064,7 +52068,7 @@ Row: %4, Column: %5
     </message>
     <message>
         <source>Failure while parsing objects.map content.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid tolkning av innehållet i objects.map.</translation>
     </message>
     <message>
         <source>Squish Object Map Editor</source>
@@ -52188,7 +52192,7 @@ Row: %4, Column: %5
     </message>
     <message>
         <source>&lt;No Application&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Inget program&gt;</translation>
     </message>
     <message>
         <source>Arguments:</source>
@@ -52205,7 +52209,8 @@ Row: %4, Column: %5
     <message>
         <source>A test suite with the name &quot;%1&quot; is already open.
 Close the opened test suite and replace it with the new one?</source>
-        <translation type="unfinished"></translation>
+        <translation>En testsvit med namnet &quot;%1&quot; är redan öppnat.
+Stäng den öppnade testsviten och ersätt den med denna?</translation>
     </message>
     <message>
         <source>Confirm Delete</source>
@@ -52252,7 +52257,7 @@ Refusing to record test case &quot;%2&quot;.</source>
     </message>
     <message>
         <source>Failed to open objects.map file at &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att öppna objects.map-filen i &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Error</source>
@@ -52373,7 +52378,7 @@ Refusing to record test case &quot;%2&quot;.</source>
     </message>
     <message>
         <source>&lt;b&gt;Test summary:&lt;/b&gt;&amp;nbsp;&amp;nbsp; %1 passes, %2 fails, %3 fatals, %4 errors, %5 warnings.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Testsammandrag:&lt;/b&gt;&amp;nbsp;&amp;nbsp; %1 lyckades, %2 misslyckades, %3 ödesdigra fel, %4 fel, %5 varningar.</translation>
     </message>
     <message>
         <source>Expand All</source>
@@ -52385,7 +52390,7 @@ Refusing to record test case &quot;%2&quot;.</source>
     </message>
     <message>
         <source>Filter Test Results</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrera testresultat</translation>
     </message>
     <message>
         <source>Pass</source>
@@ -52493,7 +52498,7 @@ Refusing to record test case &quot;%2&quot;.</source>
     </message>
     <message>
         <source>Could not get Squish license from server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte få Squish-licens från servern.</translation>
     </message>
     <message>
         <source>Squish path:</source>
@@ -52676,7 +52681,8 @@ Squish server finished with process error %1.</source>
     <message>
         <source>&quot;%1&quot; could not be found or is not executable.
 Check the settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; kunde inte hittas eller är inte en körbar fil.
+Kontrollera inställningarna.</translation>
     </message>
     <message>
         <source>Squish Server Error</source>
@@ -52770,7 +52776,7 @@ Wait until it has finished and try again.</source>
     </message>
     <message>
         <source>Key is not an object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nyckeln är inte ett objekt.</translation>
     </message>
     <message>
         <source>Key &apos;mode&apos; is not set.</source>
@@ -52792,7 +52798,7 @@ Failed to open file &quot;%1&quot;.</source>
     </message>
     <message>
         <source>Error while parsing first test result.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid tolkning av första testresultatet.</translation>
     </message>
 </context>
 <context>
