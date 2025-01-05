@@ -5,11 +5,11 @@
     <name>AudioContainerControl</name>
     <message>
         <source>RAW (headerless) file format</source>
-        <translation type="unfinished"></translation>
+        <translation>RAW-filformat (saknar header)</translation>
     </message>
     <message>
         <source>WAV file format</source>
-        <translation type="unfinished"></translation>
+        <translation>WAV-filformat</translation>
     </message>
 </context>
 <context>
@@ -67,7 +67,7 @@
     </message>
     <message>
         <source>Failed to get stream control</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att få strömkontroll</translation>
     </message>
     <message>
         <source>Failed to start</source>
@@ -91,11 +91,11 @@
     </message>
     <message>
         <source>Failed to create graph builder</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att skapa grafbyggare</translation>
     </message>
     <message>
         <source>Failed to connect capture graph and filter graph</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att ansluta fångstgraf och filtergraf</translation>
     </message>
     <message>
         <source>No capture device found</source>
@@ -103,7 +103,7 @@
     </message>
     <message>
         <source>Failed to create null renderer</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att skapa null-renderare</translation>
     </message>
 </context>
 <context>
@@ -247,34 +247,34 @@
     <name>QAndroidMediaContainerControl</name>
     <message>
         <source>MPEG4 media file format</source>
-        <translation type="unfinished"></translation>
+        <translation>MPEG4-mediafilformat</translation>
     </message>
     <message>
         <source>3GPP media file format</source>
-        <translation type="unfinished"></translation>
+        <translation>3GPP-mediafilformat</translation>
     </message>
     <message>
         <source>AMR NB file format</source>
-        <translation type="unfinished"></translation>
+        <translation>AMR NB-filformat</translation>
     </message>
     <message>
         <source>AMR WB file format</source>
-        <translation type="unfinished"></translation>
+        <translation>AMR WB-filformat</translation>
     </message>
 </context>
 <context>
     <name>QAndroidVideoEncoderSettingsControl</name>
     <message>
         <source>H.263 compression</source>
-        <translation type="unfinished"></translation>
+        <translation>H.263-komprimering</translation>
     </message>
     <message>
         <source>H.264 compression</source>
-        <translation type="unfinished"></translation>
+        <translation>H.264-komprimering</translation>
     </message>
     <message>
         <source>MPEG-4 SP compression</source>
-        <translation type="unfinished"></translation>
+        <translation>MPEG-4 SP-komprimering</translation>
     </message>
 </context>
 <context>
@@ -366,7 +366,7 @@
     </message>
     <message>
         <source>UDP source timeout</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidsgräns överstegs för UDP-källa</translation>
     </message>
 </context>
 <context>
@@ -456,23 +456,23 @@
     <name>QPlaylistFileParser</name>
     <message>
         <source>%1 playlist type is unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 spellistetypen är okänd</translation>
     </message>
     <message>
         <source>invalid line in playlist file</source>
-        <translation type="unfinished"></translation>
+        <translation>ogiltig rad i spellistefilen</translation>
     </message>
     <message>
         <source>Invalid stream</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig ström</translation>
     </message>
     <message>
         <source>%1 does not exist</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 finns inte</translation>
     </message>
     <message>
         <source>Empty file provided</source>
-        <translation type="unfinished"></translation>
+        <translation>Tom fil tillhandahölls</translation>
     </message>
 </context>
 <context>
