@@ -3047,7 +3047,7 @@ defined in &lt;b&gt;Step size&lt;/b&gt;.</source>
     <message>
         <source>Sets the intensity of blur on the selected background component.
 The foreground component should be transparent, and the background component should be opaque.</source>
-        <translation type="unfinished">Ställer in intensitet av oskärpa på vald bakgrundskomponent.
+        <translation>Ställer in intensitet av oskärpa på vald bakgrundskomponent.
 Förgrundskomponenten bör vara transparent och bakgrundskomponenten bör vara opak.</translation>
     </message>
     <message>
@@ -3072,15 +3072,15 @@ Förgrundskomponenten bör vara transparent och bakgrundskomponenten bör vara o
     </message>
     <message>
         <source>Sets the softness of the component shadow. A larger value causes the edges of the shadow to appear more blurry.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in mjukheten för komponentskuggan. Ett större värde orsakar att kanterna för skuggan kan verkar mer oskarpa.</translation>
     </message>
     <message>
         <source>Spread</source>
-        <translation type="unfinished"></translation>
+        <translation>Spridning</translation>
     </message>
     <message>
         <source>Resizes the base shadow of the component by pixels.</source>
-        <translation type="unfinished"></translation>
+        <translation>Storleksändrar basskuggan för komponenten med bildpunkter.</translation>
     </message>
     <message>
         <source>Only supported for Rectangles.</source>
@@ -3096,7 +3096,7 @@ Förgrundskomponenten bör vara transparent och bakgrundskomponenten bör vara o
     </message>
     <message>
         <source>Offset</source>
-        <translation type="unfinished"></translation>
+        <translation>Offset</translation>
     </message>
     <message>
         <source>Moves the shadow with respect to the component in X and Y coordinates by pixels.</source>
@@ -3303,7 +3303,7 @@ Förgrundskomponenten bör vara transparent och bakgrundskomponenten bör vara o
     </message>
     <message>
         <source>Sets the current position of the component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in aktuella positionen för komponenten.</translation>
     </message>
     <message>
         <source>Horizontal position.</source>
@@ -3315,11 +3315,11 @@ Förgrundskomponenten bör vara transparent och bakgrundskomponenten bör vara o
     </message>
     <message>
         <source>Origin</source>
-        <translation type="unfinished"></translation>
+        <translation>Ursprung</translation>
     </message>
     <message>
         <source>Sets the origin point of the content.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in ursprungspunkten för innehållet.</translation>
     </message>
     <message>
         <source>Left margin</source>
@@ -3582,11 +3582,11 @@ Förgrundskomponenten bör vara transparent och bakgrundskomponenten bör vara o
     </message>
     <message>
         <source>Resolves the gap between texts if turned true.</source>
-        <translation type="unfinished"></translation>
+        <translation>Löser avståndet mellan texter om växlad till sant.</translation>
     </message>
     <message>
         <source>Toggles the disables font-specific special features.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar inaktivering av typsnittsspecifika specialfunktioner.</translation>
     </message>
     <message>
         <source>Weight</source>
@@ -3720,11 +3720,11 @@ Förgrundskomponenten bör vara transparent och bakgrundskomponenten bör vara o
     </message>
     <message>
         <source>Z stack</source>
-        <translation type="unfinished"></translation>
+        <translation>Z-stack</translation>
     </message>
     <message>
         <source>Sets the stacking order of the component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in stackningsordning för komponenten.</translation>
     </message>
     <message>
         <source>Origin</source>
@@ -3798,7 +3798,7 @@ Förgrundskomponenten bör vara transparent och bakgrundskomponenten bör vara o
     </message>
     <message>
         <source>Set the direction of dynamic items to flow in rows or columns in the &lt;b&gt;Grid Layout&lt;/b&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in riktningen för dynamiska objekt i rader eller kolumner i &lt;b&gt;Rutnätslayout&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Layout direction</source>
@@ -3806,7 +3806,7 @@ Förgrundskomponenten bör vara transparent och bakgrundskomponenten bör vara o
     </message>
     <message>
         <source>Sets the direction of the dynamic items left to right or right to left in the &lt;b&gt;Grid Layout&lt;/b&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in riktningen för dynamiska objekt vänster till höger eller höger till vänster i &lt;b&gt;Rutnätslayout&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Uniform cell sizes</source>
@@ -3928,7 +3928,7 @@ Förgrundskomponenten bör vara transparent och bakgrundskomponenten bör vara o
     </message>
     <message>
         <source>Sets in which direction items in the grid view are placed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in vilken riktning som objekt i rutnätsvyn placeras.</translation>
     </message>
     <message>
         <source>Sets how the view scrolling will settle following a drag or flick.</source>
@@ -3936,7 +3936,7 @@ Förgrundskomponenten bör vara transparent och bakgrundskomponenten bör vara o
     </message>
     <message>
         <source>Cache</source>
-        <translation type="unfinished"></translation>
+        <translation>Cache</translation>
     </message>
     <message>
         <source>Sets the highlight range mode.</source>
@@ -3960,7 +3960,7 @@ a highlight component.</source>
     </message>
     <message>
         <source>Toggles if the view manages the highlight.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar om vyn hanterar framhävningen.</translation>
     </message>
     <message>
         <source>Flow</source>
@@ -4004,7 +4004,7 @@ a highlight component.</source>
     </message>
     <message>
         <source>Follows current</source>
-        <translation type="unfinished"></translation>
+        <translation>Följer aktuell</translation>
     </message>
 </context>
 <context>
@@ -4157,27 +4157,27 @@ a highlight component.</source>
     </message>
     <message>
         <source>Auto transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformera automatiskt</translation>
     </message>
     <message>
         <source>Automatically applies image transformation metadata such as EXIF orientation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillämpar automatiskt metadata för bildtransformation såsom EXIF-orientering.</translation>
     </message>
     <message>
         <source>Cache</source>
-        <translation type="unfinished"></translation>
+        <translation>Cache</translation>
     </message>
     <message>
         <source>Caches the image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mellanlagrar bilden.</translation>
     </message>
     <message>
         <source>Mipmap</source>
-        <translation type="unfinished"></translation>
+        <translation>Mipmap</translation>
     </message>
     <message>
         <source>Uses mipmap filtering when the image is scaled or transformed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Använder mipmap-filtrering när bilden skalas eller transformeras.</translation>
     </message>
     <message>
         <source>Mirror</source>
@@ -4200,7 +4200,7 @@ a highlight component.</source>
     </message>
     <message>
         <source>Sets the space from the top and bottom of the area to the background top and bottom.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stället in ytan från topp och botten för området till bakgrundens topp och botten.</translation>
     </message>
     <message>
         <source>Top inset for the background.</source>
@@ -4216,7 +4216,7 @@ a highlight component.</source>
     </message>
     <message>
         <source>Sets the space from the left and right of the area to the background left and right.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in ytan från vänster och höger av området till bakgrundens vänster och höger.</translation>
     </message>
     <message>
         <source>Left inset for the background.</source>
@@ -4406,7 +4406,7 @@ Idn måste börja med en gemen bokstav.</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Format</translation>
     </message>
     <message>
         <source>Texture size</source>
@@ -4418,7 +4418,7 @@ Idn måste börja med en gemen bokstav.</translation>
     </message>
     <message>
         <source>Sets the name of the effect&apos;s source texture property.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in namnet för effektens källtexturegenskap.</translation>
     </message>
     <message>
         <source>Sets the number of multisample renderings in the layer.</source>
@@ -4430,7 +4430,7 @@ Idn måste börja med en gemen bokstav.</translation>
     </message>
     <message>
         <source>Sets the internal OpenGL format for the texture.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in internt OpenGL-format för texturen.</translation>
     </message>
     <message>
         <source>Sets the requested pixel size of the layer&apos;s texture.</source>
@@ -4462,7 +4462,7 @@ Idn måste börja med en gemen bokstav.</translation>
     </message>
     <message>
         <source>Sets how the generated OpenGL texture should be mirrored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in hur genererad OpenGL-textur ska speglas.</translation>
     </message>
     <message>
         <source>Wrap mode</source>
@@ -4474,20 +4474,21 @@ Idn måste börja med en gemen bokstav.</translation>
     </message>
     <message>
         <source>Toggles if mipmaps are generated for the texture.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar om mipmaps genereras för texturen.</translation>
     </message>
     <message>
         <source>Toggles if the layer transforms smoothly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar om lagret transformerar mjukt.</translation>
     </message>
     <message>
         <source>Sets the rectangular area of the component that should
 be rendered into the texture.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in den rektangulära ytan av komponenten
+som ska renderas till texturen.</translation>
     </message>
     <message>
         <source>Mipmap</source>
-        <translation type="unfinished"></translation>
+        <translation>Mipmap</translation>
     </message>
     <message>
         <source>Smooth</source>
@@ -4495,7 +4496,7 @@ be rendered into the texture.</source>
     </message>
     <message>
         <source>Source rectangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Källrektangel</translation>
     </message>
 </context>
 <context>
@@ -4596,7 +4597,7 @@ be rendered into the texture.</source>
     </message>
     <message>
         <source>Cache</source>
-        <translation type="unfinished"></translation>
+        <translation>Cache</translation>
     </message>
     <message>
         <source>Navigation wraps</source>
@@ -4620,11 +4621,11 @@ be rendered into the texture.</source>
     </message>
     <message>
         <source>Move velocity</source>
-        <translation type="unfinished"></translation>
+        <translation>Flyttningshastighet</translation>
     </message>
     <message>
         <source>Resize velocity</source>
-        <translation type="unfinished"></translation>
+        <translation>Hastighet för storleksändring</translation>
     </message>
     <message>
         <source>Sets the orientation of the list.</source>
@@ -4632,7 +4633,7 @@ be rendered into the texture.</source>
     </message>
     <message>
         <source>Sets the direction that the cells flow inside a list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in riktningen som celler flödar inne i en lista.</translation>
     </message>
     <message>
         <source>Sets how the view scrolling settles following a drag or flick.</source>
@@ -4640,7 +4641,7 @@ be rendered into the texture.</source>
     </message>
     <message>
         <source>Sets the spacing between components.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in avståndet mellan komponenter.</translation>
     </message>
     <message>
         <source>Sets in pixels how far the components are kept loaded outside the view&apos;s visible area.</source>
@@ -4700,7 +4701,7 @@ a highlight component.</source>
     </message>
     <message>
         <source>Toggles if the view manages the highlight.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar om vyn hanterar framhävningen.</translation>
     </message>
     <message>
         <source>Resize duration</source>
@@ -4731,7 +4732,7 @@ a highlight component.</source>
     </message>
     <message>
         <source>Whether the loader is currently active.</source>
-        <translation type="unfinished"></translation>
+        <translation>Huruvida inläsaren är aktiv för närvarande.</translation>
     </message>
     <message>
         <source>Source</source>
@@ -4739,7 +4740,7 @@ a highlight component.</source>
     </message>
     <message>
         <source>URL of the component to instantiate.</source>
-        <translation type="unfinished"></translation>
+        <translation>URLen för komponenten att instansiera.</translation>
     </message>
     <message>
         <source>Source component</source>
@@ -4747,7 +4748,7 @@ a highlight component.</source>
     </message>
     <message>
         <source>Component to instantiate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Komponent att instansiera.</translation>
     </message>
     <message>
         <source>Asynchronous</source>
@@ -4755,7 +4756,7 @@ a highlight component.</source>
     </message>
     <message>
         <source>Whether the component will be instantiated asynchronously.</source>
-        <translation type="unfinished"></translation>
+        <translation>Huruvida komponenten kommer att instansieras asynkront.</translation>
     </message>
 </context>
 <context>
@@ -5298,7 +5299,7 @@ a highlight component.</source>
     </message>
     <message>
         <source>Asset import data file &quot;%1&quot; is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Datafilen &quot;%1&quot; för tillgångsimport är ogiltig.</translation>
     </message>
     <message>
         <source>Unable to locate source scene &quot;%1&quot;.</source>
@@ -5306,11 +5307,11 @@ a highlight component.</source>
     </message>
     <message>
         <source>Opening asset import data file &quot;%1&quot; failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppnandet av datafilen &quot;%1&quot; för tillgångsimport misslyckades.</translation>
     </message>
     <message>
         <source>Unable to resolve asset import path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte slå upp sökväg för tillgångsimport.</translation>
     </message>
     <message>
         <source>Import Update Failed</source>
@@ -5459,7 +5460,7 @@ Fel:
     </message>
     <message>
         <source>Reparenting the component %1 here will cause the component %2 to be deleted. Do you want to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilldela ny förälder för komponenten %1 här kommer att orsaka att komponenten %2 tas bort. Vill du fortsätta?</translation>
     </message>
 </context>
 <context>
@@ -5587,7 +5588,7 @@ Fel:
     </message>
     <message>
         <source>Sets the local opacity value of the node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in lokalt opacitetsvärde för noden.</translation>
     </message>
     <message>
         <source>Transform</source>
@@ -5603,11 +5604,11 @@ Fel:
     </message>
     <message>
         <source>Rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotering</translation>
     </message>
     <message>
         <source>Sets the rotation of the node in degrees.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in rotering av noden i grader.</translation>
     </message>
     <message>
         <source>Scale</source>
@@ -5755,7 +5756,9 @@ Fel:
     <message>
         <source>Sets the size of the page. This is used to
 calculate the total implicit size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in storleken för sidan. Detta
+används för att beräkna totala
+implicita storleken.</translation>
     </message>
     <message>
         <source>W</source>
@@ -5765,7 +5768,7 @@ calculate the total implicit size.</source>
     </message>
     <message>
         <source>Content width used for calculating the total implicit width.</source>
-        <translation type="unfinished"></translation>
+        <translation>Innehållsbredd som används för att beräkna totala implicita bredden.</translation>
     </message>
     <message>
         <source>H</source>
@@ -5775,7 +5778,7 @@ calculate the total implicit size.</source>
     </message>
     <message>
         <source>Content height used for calculating the total implicit height.</source>
-        <translation type="unfinished"></translation>
+        <translation>Innehållshöjd som används för att beräkna totala implicita höjden.</translation>
     </message>
 </context>
 <context>
@@ -7083,11 +7086,11 @@ Exporterar tillgångar: %2</translation>
     </message>
     <message>
         <source>Unsupported bundle file</source>
-        <translation type="unfinished"></translation>
+        <translation>Bundle-filen stöds inte</translation>
     </message>
     <message>
         <source>The chosen bundle was created with an incompatible version of Qt Design Studio</source>
-        <translation type="unfinished"></translation>
+        <translation>Den valda bundlen skapades med en inkompatibel version av Qt Design Studio</translation>
     </message>
 </context>
 <context>
@@ -7626,7 +7629,7 @@ Exporterar tillgångar: %2</translation>
     </message>
     <message>
         <source>Show Bounds</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa gränser</translation>
     </message>
     <message>
         <source>Override Width</source>
@@ -7919,15 +7922,15 @@ Kontrollera utdatapanelen för mer information.</translation>
     </message>
     <message>
         <source>Attempted to reimport no assets.</source>
-        <translation type="unfinished"></translation>
+        <translation>Försökte att återimporta inga tillgångar.</translation>
     </message>
     <message>
         <source>Attempted to reimport non-existing asset: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Försökte att återimporta icke-existerande tillgång: %1</translation>
     </message>
     <message>
         <source>Could not access temporary asset directory: &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte komma åt temporär tillgångskatalog: &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Import process crashed.</source>
@@ -7939,7 +7942,7 @@ Kontrollera utdatapanelen för mer information.</translation>
     </message>
     <message>
         <source>Asset import process failed: &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Process för tillgångsimport misslyckades: &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Parsing files.</source>
@@ -7947,19 +7950,19 @@ Kontrollera utdatapanelen för mer information.</translation>
     </message>
     <message>
         <source>Skipped import of duplicate asset: &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoppade över import av duplikat tillgång: &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Skipped import of existing asset: &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoppade över import av befintlig tillgång: &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>No files selected for overwrite, skipping import: &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga filer valda för överskrivning, hoppar över import: &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Failed to create qmldir file for asset: &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att skapa qmldir-fil för tillgång: &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Removing old overwritten assets.</source>
@@ -7993,7 +7996,7 @@ Kontrollera utdatapanelen för mer information.</translation>
     </message>
     <message>
         <source>Failed to start import 3D asset process.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att starta importprocess av 3D-tillgång.</translation>
     </message>
     <message>
         <source>Updating data model.</source>
@@ -8001,7 +8004,7 @@ Kontrollera utdatapanelen för mer information.</translation>
     </message>
     <message>
         <source>Failed to insert import statement into qml document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att infoga importvillkor i qml-dokument.</translation>
     </message>
     <message>
         <source>Failed to update imports: %1</source>
@@ -8114,7 +8117,7 @@ Kontrollera utdatapanelen för mer information.</translation>
     <name>QmlDesigner::Internal::MetaInfoReader</name>
     <message>
         <source>Illegal state while parsing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Otillåtet tillstånd vid tolkning.</translation>
     </message>
     <message>
         <source>No property definition allowed.</source>
@@ -8146,7 +8149,7 @@ Kontrollera utdatapanelen för mer information.</translation>
     </message>
     <message>
         <source>Invalid or duplicate library entry %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig eller duplikat bibliotekspost %1</translation>
     </message>
 </context>
 <context>
@@ -23220,7 +23223,7 @@ managed by the same clangd process, add them here.</source>
     </message>
     <message>
         <source>Parameters without default value must come before parameters with default value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametrar utan standardvärde måste komma före parametrar med standardvärde.</translation>
     </message>
     <message>
         <source>Initialize all members</source>
@@ -23253,7 +23256,7 @@ Use drag and drop to change the order of the parameters.</source>
     </message>
     <message>
         <source>Add %1 Declaration</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till %1-deklaration</translation>
     </message>
     <message>
         <source>Add Definition in %1</source>
@@ -23265,11 +23268,11 @@ Use drag and drop to change the order of the parameters.</source>
     </message>
     <message>
         <source>Add Definition Inside Class</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till definition innanför klass</translation>
     </message>
     <message>
         <source>Add Definition Outside Class</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till definition utanför klass</translation>
     </message>
     <message>
         <source>No type hierarchy available</source>
@@ -23398,7 +23401,7 @@ e.g. name = &quot;m_test_foo_&quot;:
     </message>
     <message>
         <source>Rewrite types to match the existing namespaces</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv om typer för att matcha befintliga namnrymder</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Uncheck this to make Qt Creator try to derive the type of expression in the &amp;quot;Assign to Local Variable&amp;quot; quickfix.&lt;/p&gt;&lt;p&gt;Note that this might fail for more complex types.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -23406,7 +23409,7 @@ e.g. name = &quot;m_test_foo_&quot;:
     </message>
     <message>
         <source>Use type &quot;auto&quot; when creating new variables</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd type &quot;auto&quot; när nya variabler skapas</translation>
     </message>
     <message>
         <source>Template</source>
@@ -23502,7 +23505,7 @@ e.g. name = &quot;m_test_foo_&quot;:
     </message>
     <message>
         <source>Reset name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nollställ namn:</translation>
     </message>
     <message>
         <source>Signal name:</source>
@@ -23522,7 +23525,7 @@ e.g. name = &quot;m_test_foo_&quot;:
     </message>
     <message>
         <source>Value Types</source>
-        <translation type="unfinished"></translation>
+        <translation>Värdestyper</translation>
     </message>
     <message>
         <source>Projects only</source>
@@ -24351,7 +24354,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Custom settings are saved in a file. If you use the global settings, you can delete that file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anpassade inställningar sparas i en fil. Om du vill använda globala inställningar så kan du ta bort den filen.</translation>
     </message>
     <message>
         <source>Delete Custom Settings File</source>
