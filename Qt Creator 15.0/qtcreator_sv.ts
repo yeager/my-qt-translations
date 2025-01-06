@@ -16418,7 +16418,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Set as the default CMake Tool to use when creating a new kit or when no value is set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställ in som standard för CMake-verktyg att använda när ett nytt kit skapas eller när inget värde är inställt.</translation>
     </message>
     <message>
         <source>Clone of %1</source>
@@ -16434,11 +16434,11 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Autorun CMake</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör CMake automatiskt</translation>
     </message>
     <message>
         <source>Automatically run CMake after changes to CMake project files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör automatiskt CMake efter ändringar i CMake-projektfiler.</translation>
     </message>
     <message>
         <source>Package manager auto setup</source>
@@ -16450,15 +16450,15 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Ask before re-configuring with initial parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Fråga innan omkonfigurering med initiala parametrar</translation>
     </message>
     <message>
         <source>Ask before reloading CMake Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Fråga innan ominläsning av CMake-förval</translation>
     </message>
     <message>
         <source>Show subfolders inside source group folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa undermappar inne i källans gruppmappar</translation>
     </message>
     <message>
         <source>Show advanced options by default</source>
@@ -16490,7 +16490,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Removing CMake entries...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tar bort CMake-poster...</translation>
     </message>
     <message>
         <source>Removed &quot;%1&quot;</source>
@@ -16502,7 +16502,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>System CMake at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Systemets CMake i %1</translation>
     </message>
     <message>
         <source>Key</source>
@@ -16558,7 +16558,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Failed to set up CMake file API support. %1 cannot extract project information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att konfigurera API-stöd för CMake-fil. %1 kan inte extrahera projektinformation.</translation>
     </message>
     <message>
         <source>Invalid reply file created by CMake.</source>
@@ -16636,12 +16636,14 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     <message>
         <source>No &quot;%1&quot; CMake configuration found. Available configurations: &quot;%2&quot;.
 Make sure that CMAKE_CONFIGURATION_TYPES variable contains the &quot;Build type&quot; field.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen &quot;%1&quot; CMake-konfiguration hittades. Tillgängliga konfigurationer: &quot;%2&quot;.
+Försäkra dig om att variabeln CMAKE_CONFIGURATION_TYPES innehåller fältet &quot;Build type&quot;.</translation>
     </message>
     <message>
         <source>No &quot;%1&quot; CMake configuration found. Available configuration: &quot;%2&quot;.
 Make sure that CMAKE_BUILD_TYPE variable matches the &quot;Build type&quot; field.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen &quot;%1&quot; CMake-konfiguration hittades. Tillgänglig konfiguration: &quot;%2&quot;.
+Försäkra dig om att variabeln CMAKE_BUILD_TYPE innehåller fältet &quot;Build type&quot;.</translation>
     </message>
     <message>
         <source>CMake returned error code: %1</source>
@@ -20285,7 +20287,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>&amp;Save Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Spara markerade</translation>
     </message>
     <message>
         <source>&amp;Diff Selected &amp;&amp; Cancel</source>
@@ -20337,7 +20339,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Key sequence has potential conflicts. &lt;a href=&quot;#conflicts&quot;&gt;Show.&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Tangentsekvensen har potentiella konflikter. &lt;a href=&quot;#conflicts&quot;&gt;Visa.&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Shortcut</source>
@@ -20373,7 +20375,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Sco&amp;pe:</source>
-        <translation type="unfinished"></translation>
+        <translation>Omfå&amp;ng:</translation>
     </message>
     <message>
         <source>Empty search term.</source>
@@ -20584,7 +20586,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>%1 filter update: canceled</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 filteruppdatering: avbröts</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -22058,7 +22060,7 @@ Vill du checka ut dem nu?</translation>
     </message>
     <message>
         <source>The platform executable suffix.</source>
-        <translation type="unfinished"></translation>
+        <translation>Plattformens körbara filändelse.</translation>
     </message>
     <message>
         <source>The path to the running %1 itself.</source>
@@ -31001,11 +31003,11 @@ Reason: %3</source>
     </message>
     <message>
         <source>Highlight search results</source>
-        <translation type="unfinished"></translation>
+        <translation>Framhäv sökresultat</translation>
     </message>
     <message>
         <source>Incremental search</source>
-        <translation type="unfinished"></translation>
+        <translation>Inkrementell sökning</translation>
     </message>
     <message>
         <source>Shift width:</source>
