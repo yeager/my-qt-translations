@@ -13133,7 +13133,7 @@ See Google Test documentation for further information on GTest filters.</source>
     </message>
     <message>
         <source>Event counter</source>
-        <translation type="unfinished"></translation>
+        <translation>Händelseräknare</translation>
     </message>
     <message>
         <source>Uses event counter when executing benchmarks.</source>
@@ -26432,7 +26432,7 @@ markers in the source code editor.</source>
     </message>
     <message>
         <source>An unknown error in the DAP process occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ett okänt fel i DAP-processen inträffade.</translation>
     </message>
     <message>
         <source>DAP I/O Error</source>
@@ -26440,7 +26440,7 @@ markers in the source code editor.</source>
     </message>
     <message>
         <source>&quot;%1&quot; could not be started. Error message: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; kunde inte startas. Felmeddelande: %2</translation>
     </message>
     <message>
         <source>The Pdb process failed to start. Either the invoked program &quot;%1&quot; is missing, or you may have insufficient permissions to invoke the program.</source>
@@ -26456,7 +26456,7 @@ markers in the source code editor.</source>
     </message>
     <message>
         <source>An unknown error in the Pdb process occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ett okänt fel i Pdb-processen inträffade.</translation>
     </message>
     <message>
         <source>Function Name</source>
@@ -26484,7 +26484,7 @@ markers in the source code editor.</source>
     </message>
     <message>
         <source>&amp;Enabled:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Aktiverad:</translation>
     </message>
     <message>
         <source>&amp;Address:</source>
@@ -26590,7 +26590,7 @@ If you build %2 from sources and want to use a CDB executable with another bitne
     </message>
     <message>
         <source>Debugger encountered an exception: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Felsökaren påträffade ett undantag: %1</translation>
     </message>
     <message>
         <source>The installed %1 is missing debug information files.
@@ -39019,7 +39019,7 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>Runs this step only for a top-level build.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör detta steg endast för en toppnivåbyggnation.</translation>
     </message>
     <message>
         <source>Targets:</source>
@@ -39128,7 +39128,7 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>Issues from the build system, such as CMake or qmake.</source>
-        <translation type="unfinished"></translation>
+        <translation>Problem från byggsystemet, såsom CMake eller qmake.</translation>
     </message>
     <message>
         <source>Deployment</source>
@@ -39162,7 +39162,7 @@ You might find further explanations in the Application Output view.</source>
     <message>
         <source>Autotests</source>
         <comment>Category for autotest issues listed under &apos;Issues&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Autotester</translation>
     </message>
     <message>
         <source>Error while building/deploying project %1 (kit: %2)</source>
@@ -39202,11 +39202,11 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>Append Path...</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till sökväg efter...</translation>
     </message>
     <message>
         <source>Prepend Path...</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till sökväg före...</translation>
     </message>
     <message>
         <source>Open &amp;Terminal</source>
@@ -39226,11 +39226,11 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>Append &lt;b&gt;%2&lt;/b&gt; to &lt;a href=&quot;%1&quot;&gt;&lt;b&gt;%1&lt;/b&gt;&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till &lt;b&gt;%2&lt;/b&gt; efter &lt;a href=&quot;%1&quot;&gt;&lt;b&gt;%1&lt;/b&gt;&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Prepend &lt;b&gt;%2&lt;/b&gt; to &lt;a href=&quot;%1&quot;&gt;&lt;b&gt;%1&lt;/b&gt;&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till &lt;b&gt;%2&lt;/b&gt; före &lt;a href=&quot;%1&quot;&gt;&lt;b&gt;%1&lt;/b&gt;&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Set &lt;a href=&quot;%1&quot;&gt;&lt;b&gt;%1&lt;/b&gt;&lt;/a&gt; to &lt;b&gt;%2&lt;/b&gt; [disabled]</source>
@@ -39485,7 +39485,7 @@ Title of a the cloned RunConfiguration window, text of the window</extracomment>
     </message>
     <message>
         <source>Version Control Failure</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel i versionskontroll</translation>
     </message>
     <message>
         <source>Simplify Tree</source>
@@ -39644,11 +39644,11 @@ Title of a the cloned RunConfiguration window, text of the window</extracomment>
     </message>
     <message>
         <source>The deploy configuration &lt;b&gt;%1&lt;/b&gt; is currently being built.</source>
-        <translation type="unfinished"></translation>
+        <translation>Distributionskonfigurationen &lt;b&gt;%1&lt;/b&gt; byggs för närvarande.</translation>
     </message>
     <message>
         <source>Do you want to cancel the build process and remove the Deploy Configuration anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vill du avbryta byggprocessen och ta bort distributionskonfigurationen ändå?</translation>
     </message>
     <message>
         <source>Remove Deploy Configuration?</source>
@@ -39784,11 +39784,11 @@ Title of a the cloned RunConfiguration window, text of the window</extracomment>
     </message>
     <message>
         <source>Do Not Unload</source>
-        <translation type="unfinished"></translation>
+        <translation>Läs inte ur</translation>
     </message>
     <message>
         <source>Unload Project %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>Läs ur projektet %1?</translation>
     </message>
     <message>
         <source>The project %1 is currently being built.</source>
@@ -39796,7 +39796,7 @@ Title of a the cloned RunConfiguration window, text of the window</extracomment>
     </message>
     <message>
         <source>Do you want to cancel the build process and unload the project anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vill du avbryta byggprocessen och läsa ur projektet ändå?</translation>
     </message>
     <message>
         <source>A build is still in progress.</source>
@@ -39824,7 +39824,7 @@ Title of a the cloned RunConfiguration window, text of the window</extracomment>
     </message>
     <message>
         <source>VCS Log Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>VCS-loggkatalog</translation>
     </message>
     <message>
         <source>Add New...</source>
@@ -40035,7 +40035,7 @@ Do you want to ignore them?</source>
     </message>
     <message>
         <source>Open Build and Run Kit Selector...</source>
-        <translation type="unfinished"></translation>
+        <translation>Öpppna kitväljare för Bygg och kör...</translation>
     </message>
     <message>
         <source>Quick Switch Kit Selector</source>
@@ -40059,11 +40059,11 @@ Do you want to ignore them?</source>
     </message>
     <message>
         <source>&lt;b&gt;Warning:&lt;/b&gt; This file is inside the build directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Varning:&lt;/b&gt; Denna fil finns inne i byggkatalogen.</translation>
     </message>
     <message>
         <source>&lt;b&gt;Warning:&lt;/b&gt; This file is outside the project directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Varning:&lt;/b&gt; Denna fil finns utanför projektkatalogen.</translation>
     </message>
     <message>
         <source>Currently building the active project.</source>
@@ -40274,7 +40274,7 @@ Försök igen.</translation>
     </message>
     <message>
         <source>%1 Log Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-loggkatalog</translation>
     </message>
     <message>
         <source>Locates files from all project directories. Append &quot;+&lt;number&gt;&quot; or &quot;:&lt;number&gt;&quot; to jump to the given line number. Append another &quot;+&lt;number&gt;&quot; or &quot;:&lt;number&gt;&quot; to jump to the column number as well.</source>
@@ -40350,7 +40350,7 @@ Försök igen.</translation>
     </message>
     <message>
         <source>Adding Files to Project Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilläggning av filer till projekt misslyckades</translation>
     </message>
     <message>
         <source>Removing File Failed</source>
@@ -40589,11 +40589,11 @@ Försök igen.</translation>
     </message>
     <message>
         <source>Show also inactive kits in &quot;Build &amp; Run&quot; in &quot;Projects&quot; mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa även inaktiva kit i &quot;Bygg och kör&quot; i &quot;Projekt&quot;-läget.</translation>
     </message>
     <message>
         <source>Environment changes to apply to run configurations, but not build configurations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Miljöändringar att tillämpa på körkonfigurationer, men inte byggkonfigurationer.</translation>
     </message>
     <message>
         <source>Application environment:</source>
@@ -40617,7 +40617,7 @@ Försök igen.</translation>
     </message>
     <message>
         <source>Time to wait before force-stopping applications:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tid att vänta innan program tvingas stoppa:</translation>
     </message>
     <message>
         <source>Always deploy project before running it</source>
@@ -40709,7 +40709,7 @@ Försök igen.</translation>
     </message>
     <message>
         <source>Either the invoked program &quot;%1&quot; is missing, or you may have insufficient permissions to invoke the program.</source>
-        <translation type="unfinished"></translation>
+        <translation>Antingen saknas det anropade programmet &quot;%1&quot; eller så har du inte tillräckliga rättigheter att anropa programmet.</translation>
     </message>
     <message>
         <source>An error occurred when attempting to write to the process. For example, the process may not be running, or it may have closed its input channel.</source>
@@ -40753,11 +40753,11 @@ Försök igen.</translation>
     </message>
     <message>
         <source>The project was configured for kits that no longer exist. Select one of the following options in the context menu to restore the project&apos;s settings:</source>
-        <translation type="unfinished"></translation>
+        <translation>Projektet var konfigurerat för kit som inte längre finns. Välj ett av följande alternativ i kontextmenyn för att återställa projektets inställningar:</translation>
     </message>
     <message>
         <source>Create a new kit with the same name for the same device type, with the original build, deploy, and run steps. Other kit settings are not restored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa ett nytt kit med samma namn för samma enhetstyp, med ursprungliga stegen för bygga, distribuera och köra. Andra kitinställningar återställs inte.</translation>
     </message>
     <message>
         <source>Copy the build, deploy, and run steps to another kit.</source>
@@ -40778,15 +40778,15 @@ Försök igen.</translation>
     </message>
     <message>
         <source>Remove Vanished Target &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort försvunna målet &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Remove All Vanished Targets</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort alla försvunna mål</translation>
     </message>
     <message>
         <source>Vanished Targets</source>
-        <translation type="unfinished"></translation>
+        <translation>Försvunna mål</translation>
     </message>
     <message>
         <source>Project Settings</source>
@@ -42364,7 +42364,7 @@ The name of the build configuration created by default for a generic project.</e
     </message>
     <message>
         <source>Project &quot;%1&quot; was configured for kit &quot;%2&quot; with id %3, which does not exist anymore. You can create a new kit or copy the steps of the vanished kit to another kit in %4 mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>Projektet &quot;%1&quot; konfigurerades för kitet &quot;%2&quot; med id %3 som inte längre finns. Du kan skapa ett nytt kit eller kopiera stegen för det försvunna kitet till ett annat kit i %4-läget.</translation>
     </message>
     <message>
         <source>Could not find any qml_*.qm file at &quot;%1&quot;</source>
@@ -42657,11 +42657,11 @@ fails because Clang does not understand the target architecture.</source>
     </message>
     <message>
         <source>Platform codegen flags:</source>
-        <translation type="unfinished"></translation>
+        <translation>Plattformens codegen-flaggor:</translation>
     </message>
     <message>
         <source>Platform linker flags:</source>
-        <translation type="unfinished"></translation>
+        <translation>Plattformens linker-flaggor:</translation>
     </message>
     <message>
         <source>Target triple:</source>
@@ -42681,7 +42681,7 @@ fails because Clang does not understand the target architecture.</source>
     </message>
     <message>
         <source>Falling back to use the cached environment for &quot;%1&quot; after:</source>
-        <translation type="unfinished"></translation>
+        <translation>Faller tillbaka på att använda cachad miljö för &quot;%1&quot; efter:</translation>
     </message>
     <message>
         <source>Initialization:</source>
@@ -42702,7 +42702,8 @@ fails because Clang does not understand the target architecture.</source>
     <message>
         <source>Failed to retrieve MSVC Environment from &quot;%1&quot;:
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att hämta MSVC-miljö från &quot;%1&quot;:
+%2</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -42744,11 +42745,11 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>The following compiler was already configured:&lt;br&gt;&amp;nbsp;%1&lt;br&gt;It was not configured again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Följande kompilator var redan konfigurerad:&lt;br&gt;&amp;nbsp;%1&lt;br&gt;Den blev inte konfigurerad igen.</translation>
     </message>
     <message>
         <source>The following compilers were already configured:&lt;br&gt;&amp;nbsp;%1&lt;br&gt;They were not configured again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Följande kompilatorer var redan konfigurerade:&lt;br&gt;&amp;nbsp;%1&lt;br&gt;De blev inte konfigurerade igen.</translation>
     </message>
     <message>
         <source>[none]</source>
@@ -43170,19 +43171,19 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Sys Root &quot;%1&quot; does not exist in the file system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sys Root &quot;%1&quot; finns inte på filsystemet.</translation>
     </message>
     <message>
         <source>Sys Root &quot;%1&quot; is not a directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sys Root &quot;%1&quot; är inte en katalog.</translation>
     </message>
     <message>
         <source>Sys Root &quot;%1&quot; is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sys Root &quot;%1&quot; är tom.</translation>
     </message>
     <message>
         <source>Sys Root</source>
-        <translation type="unfinished"></translation>
+        <translation>Sys Root</translation>
     </message>
     <message>
         <source>Compiler</source>
@@ -43286,15 +43287,15 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Force UTF-8 MSVC compiler output</source>
-        <translation type="unfinished"></translation>
+        <translation>Tvinga MSVC-kompilatorutdata i UTF-8</translation>
     </message>
     <message>
         <source>Either switches MSVC to English or keeps the language and just forces UTF-8 output (may vary depending on the used MSVC compiler).</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar antingen MSVC till engelska eller behåller språket och tvingar bara UTF-8-utdata (kan skilja sig beroende på den använda MSVC-kompilatorn).</translation>
     </message>
     <message>
         <source>Additional build environment settings when using this kit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ytterligare inställningar för byggmiljön när detta kit används.</translation>
     </message>
     <message>
         <source>The environment setting value is invalid.</source>
@@ -43326,7 +43327,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>The compiler to use for building.&lt;br&gt;Make sure the compiler will produce binaries compatible with the target device, Qt version and other libraries used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kompilatorn att använda för byggnation.&lt;br&gt;Försäkra dig om att kompilatorn kan producera binärer kompatibla med målenheten, Qt-versionen samt andra bibliotek som används.</translation>
     </message>
     <message>
         <source>The type of device to run applications on.</source>
@@ -43358,7 +43359,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The name of the kit suitable for generating directory names. This value is used for the variable &lt;i&gt;%1&lt;/i&gt;, which for example determines the name of the shadow build directory.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Namnet på det kit som är lämpligt för att generera katalognamn. Detta värde används för variabeln &lt;i&gt;%1&lt;/i&gt;, som till exempel bestämmer namnet för skuggbyggkatalogen.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>File system name:</source>
@@ -43431,9 +43432,9 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message numerus="yes">
         <source>%n entries</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n post</numerusform>
+            <numerusform>%n poster</numerusform>
         </translation>
     </message>
     <message>
@@ -43442,23 +43443,23 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>MACRO[=VALUE]</source>
-        <translation type="unfinished"></translation>
+        <translation>MACRO[=VÄRDE]</translation>
     </message>
     <message>
         <source>Each line defines a macro. Format is MACRO[=VALUE].</source>
-        <translation>Varje rad definierar ett makro. Formatet är MAKRO[=VÄRDE].</translation>
+        <translation>Varje rad definierar ett makro. Formatet är MACRO[=VÄRDE].</translation>
     </message>
     <message>
         <source>Each line adds a global header lookup path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Varje rad lägger till en global sökväg för header-uppslag.</translation>
     </message>
     <message>
         <source>Comma-separated list of flags that turn on C++11 support.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommaseparerad lista över flaggor som aktiverar C++ 11-stöd.</translation>
     </message>
     <message>
         <source>Comma-separated list of mkspecs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommaseparerad lista för mkspecs.</translation>
     </message>
     <message>
         <source>&amp;Make path:</source>
@@ -43526,7 +43527,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Makes output parsers look for diagnostics on stdout rather than stderr.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gör att utdatatolkare letar efter diagnostik på stdout istället för stderr.</translation>
     </message>
     <message>
         <source>Build Settings</source>
@@ -43550,7 +43551,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Appears as a tooltip when hovering the build configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Verkar som ett verktygstips vid mushovring över byggkonfigurationen</translation>
     </message>
     <message>
         <source>System Environment</source>
@@ -43619,11 +43620,11 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>&amp;Error message capture pattern:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Fångstmönster för felmeddelanden:</translation>
     </message>
     <message>
         <source>Capture Positions</source>
-        <translation type="unfinished"></translation>
+        <translation>Fångstpositioner</translation>
     </message>
     <message>
         <source>&amp;File name:</source>
@@ -43659,7 +43660,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Capture Output Channels</source>
-        <translation type="unfinished"></translation>
+        <translation>Fångstkanaler för utdata</translation>
     </message>
     <message>
         <source>No message given.</source>
@@ -43852,7 +43853,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>&quot;data&quot; for a &quot;Form&quot; page needs to be unset or an empty object.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;data&quot; för en &quot;Form&quot;-sida behöver inaktiveras eller vara ett tomt objekt.</translation>
     </message>
     <message>
         <source>The process failed to start.</source>
@@ -43860,7 +43861,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Start removing auto-detected items associated with this docker image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Startar borttagning av automatiskt identifierade objekt associerade med denna docker-avbild.</translation>
     </message>
     <message>
         <source>Removing kits...</source>
@@ -43880,11 +43881,11 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Removal of previously auto-detected kit items finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>Borttagning av tidigare automatiskt identifierade kitobjekt är färdig.</translation>
     </message>
     <message>
         <source>Start listing auto-detected items associated with this docker image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Startar listning av automatiskt identifierade objekt associerade med denna docker-avbild.</translation>
     </message>
     <message>
         <source>Kits:</source>
@@ -43900,7 +43901,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Listing of previously auto-detected kit items finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>Listning av tidigare automatiskt identifierade kitobjekt är färdig.</translation>
     </message>
     <message>
         <source>Found &quot;%1&quot;</source>
@@ -43948,7 +43949,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Shadow build:</source>
-        <translation type="unfinished"></translation>
+        <translation>Skuggbyggnation:</translation>
     </message>
     <message>
         <source>Build directory contains potentially problematic character &quot;%1&quot;.</source>
@@ -43956,7 +43957,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>This warning can be suppressed &lt;a href=&quot;dummy&quot;&gt;here&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denna varning kan tystas &lt;a href=&quot;dummy&quot;&gt;här&lt;/a&gt;.</translation>
     </message>
     <message>
         <source>Separate debug info:</source>
@@ -43976,7 +43977,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Custom output parsers scan command line output for user-provided error patterns&lt;br&gt;to create entries in Issues.&lt;br&gt;The parsers can be configured &lt;a href=&quot;dummy&quot;&gt;here&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anpassade utdatatolkare söker i kommandoradens utdata efter användarangivna felmönster &lt;br&gt;för att skapa poster i Problem.&lt;br&gt;Tolkarna kan konfigureras &lt;a href=&quot;dummy&quot;&gt;här&lt;/a&gt;.</translation>
     </message>
     <message>
         <source>There are no custom parsers active</source>
@@ -43991,7 +43992,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Custom output parsers defined here can be enabled individually in the project&apos;s build or run settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anpassade utdatatolkare definieras här och kan aktiveras individuellt i projektets bygg- eller körinställningar.</translation>
     </message>
     <message>
         <source>Add...</source>
@@ -44015,11 +44016,11 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Override deployment data from build system</source>
-        <translation type="unfinished"></translation>
+        <translation>Åsidosätt distributionsdata från byggsystemet</translation>
     </message>
     <message>
         <source>Qt Run Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Körkonfiguration för Qt</translation>
     </message>
     <message>
         <source>No device for path &quot;%1&quot;</source>
@@ -44035,7 +44036,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Remote error output was: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Utdata från fjärrfelet var: %1</translation>
     </message>
     <message numerus="yes">
         <source>Found %n free ports.</source>
@@ -44166,7 +44167,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Spacer (&quot;%1&quot;) property &quot;factor&quot; is no integer value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Spacer (&quot;%1&quot;) egenskapen &quot;factor&quot; är inget heltalsvärde.</translation>
     </message>
     <message>
         <source>LineEdit (&quot;%1&quot;) data is not an object.</source>
@@ -44174,11 +44175,11 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>LineEdit (&quot;%1&quot;) has an invalid regular expression &quot;%2&quot; in &quot;validator&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>LineEdit (&quot;%1&quot;) har ett ogiltigt reguljärt uttryck &quot;%2&quot; i &quot;validator&quot;.</translation>
     </message>
     <message>
         <source>LineEdit (&quot;%1&quot;) has an invalid value &quot;%2&quot; in &quot;completion&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>LineEdit (&quot;%1&quot;) har ett ogiltigt värde &quot;%2&quot; i &quot;completion&quot;.</translation>
     </message>
     <message>
         <source>TextEdit (&quot;%1&quot;) data is not an object.</source>
@@ -44186,11 +44187,11 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>PathChooser data is not an object.</source>
-        <translation type="unfinished"></translation>
+        <translation>PathChooser data är inte ett objekt.</translation>
     </message>
     <message>
         <source>kind &quot;%1&quot; is not one of the supported &quot;existingDirectory&quot;, &quot;directory&quot;, &quot;file&quot;, &quot;saveFile&quot;, &quot;existingCommand&quot;, &quot;command&quot;, &quot;any&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>kind &quot;%1&quot; är inte en av de som stöds &quot;existingDirectory&quot;, &quot;directory&quot;, &quot;file&quot;, &quot;saveFile&quot;, &quot;existingCommand&quot;, &quot;command&quot;, &quot;any&quot;.</translation>
     </message>
     <message>
         <source>CheckBox (&quot;%1&quot;) data is not an object.</source>
@@ -44198,15 +44199,15 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>CheckBox (&quot;%1&quot;) values for checked and unchecked state are identical.</source>
-        <translation type="unfinished"></translation>
+        <translation>CheckBox (&quot;%1&quot;) värden för tillstånden checked och unchecked är identiska.</translation>
     </message>
     <message>
         <source>No JSON lists allowed inside List items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga JSON-listor tillåtna inne i List-objekt.</translation>
     </message>
     <message>
         <source>No &quot;key&quot; found in List items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen &quot;key&quot; hittades i List-objekt.</translation>
     </message>
     <message>
         <source>%1 (&quot;%2&quot;) data is not an object.</source>
@@ -44218,7 +44219,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>%1 (&quot;%2&quot;) &quot;disabledIndex&quot; is not an integer value.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (&quot;%2&quot;) &quot;disabledIndex&quot; är inte ett heltalsvärde.</translation>
     </message>
     <message>
         <source>%1 (&quot;%2&quot;) &quot;items&quot; missing.</source>
@@ -44226,7 +44227,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>%1 (&quot;%2&quot;) &quot;items&quot; is not a JSON list.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (&quot;%2&quot;) &quot;items&quot; är inte en JSON-lista.</translation>
     </message>
     <message>
         <source>At least one required feature is not present.</source>
@@ -44242,15 +44243,15 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Feature list is set and not of type list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Feature-lista är inställd och inte av type-lista.</translation>
     </message>
     <message>
         <source>No &quot;%1&quot; key found in feature list object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen &quot;%1-nyckel hittades i feature list-objekt.</translation>
     </message>
     <message>
         <source>Feature list element is not a string or object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Feature list-element är inte en string eller object.</translation>
     </message>
     <message>
         <source>Failed to Commit to Version Control</source>
@@ -44258,7 +44259,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Error message from Version Control System: &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Felmeddelande från versionskontrollsystem: &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Failed to Add to Project</source>
@@ -44294,23 +44295,23 @@ till projektet &quot;%2&quot;.</translation>
     </message>
     <message>
         <source>Check whether a variable exists.&lt;br&gt;Returns &quot;true&quot; if it does and an empty string if not.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrollera huruvida en variabel finns.&lt;br&gt;Returnerar &quot;true&quot; om den finns och en tom sträng om inte.</translation>
     </message>
     <message>
         <source>Could not determine target path. &quot;TargetPath&quot; was not set on any page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte bestämma målsökväg. &quot;TargetPath&quot; var inte inställd på någon sida.</translation>
     </message>
     <message>
         <source>File Generation Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Filgenerering misslyckades</translation>
     </message>
     <message>
         <source>The wizard failed to generate files.&lt;br&gt;The error message was: &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Guiden misslyckades med att generera filer.&lt;br&gt;Felmeddelandet var: &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>No &apos;key&apos; in options object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen &apos;key&apos; i options object.</translation>
     </message>
     <message>
         <source>Failed to Overwrite Files</source>
@@ -44370,19 +44371,19 @@ till projektet &quot;%2&quot;.</translation>
     </message>
     <message>
         <source>Generator has no typeId set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Generator har ingen typeId inställd.</translation>
     </message>
     <message>
         <source>TypeId &quot;%1&quot; of generator is unknown. Supported typeIds are: &quot;%2&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>TypeId &quot;%1&quot; för generator är okänd. TypeIds som stöds är: &quot;%2&quot;.</translation>
     </message>
     <message>
         <source>Path &quot;%1&quot; does not exist when checking JSON wizard search paths.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökvägen &quot;%1&quot; finns inte vid kontroll av sökvägar för JSON-guide.</translation>
     </message>
     <message>
         <source>Checking &quot;%1&quot; for %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrollerar &quot;%1&quot; efter %2.</translation>
     </message>
     <message>
         <source>* Failed to parse &quot;%1&quot;:%2:%3: %4</source>
@@ -44408,19 +44409,19 @@ till projektet &quot;%2&quot;.</translation>
     </message>
     <message>
         <source>Page is not an object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sidan är inte ett objekt.</translation>
     </message>
     <message>
         <source>Page has no typeId set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sidan har ingen typeId inställd.</translation>
     </message>
     <message>
         <source>TypeId &quot;%1&quot; of page is unknown. Supported typeIds are: &quot;%2&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>TypeId &quot;%1&quot; för sidan är okänd. TypeIds som stöds är: &quot;%2&quot;.</translation>
     </message>
     <message>
         <source>Page with typeId &quot;%1&quot; has invalid &quot;index&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sida med typeId &quot;%1&quot; har ogiltigt &quot;index&quot;.</translation>
     </message>
     <message>
         <source>* Version %1 not supported.</source>
@@ -44452,11 +44453,11 @@ till projektet &quot;%2&quot;.</translation>
     </message>
     <message>
         <source>&quot;kind&quot; value &quot;%1&quot; is not &quot;class&quot; (deprecated), &quot;file&quot; or &quot;project&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;kind&quot;-värdet &quot;%1&quot; är inte &quot;class&quot; (föråldrad), &quot;file&quot; eller &quot;project&quot;.</translation>
     </message>
     <message>
         <source>&quot;kind&quot; is &quot;file&quot; or &quot;class&quot; (deprecated) and &quot;%1&quot; is also set.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;kind&quot; är &quot;file&quot; eller &quot;class&quot; (föråldrad) och &quot;%1&quot; är också inställd.</translation>
     </message>
     <message>
         <source>No id set.</source>
@@ -44526,7 +44527,7 @@ till projektet &quot;%2&quot;.</translation>
     </message>
     <message>
         <source>When parsing fields of page &quot;%1&quot;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Vid tolkning av fält för sidan &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <source>&quot;data&quot; for a &quot;File&quot; page needs to be unset or an empty object.</source>
@@ -44534,7 +44535,7 @@ till projektet &quot;%2&quot;.</translation>
     </message>
     <message>
         <source>Error parsing &quot;%1&quot; in &quot;Kits&quot; page: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid tolkning av &quot;%1&quot; i &quot;Kit&quot;-sida: %2</translation>
     </message>
     <message>
         <source>&quot;data&quot; must be a JSON object for &quot;Kits&quot; pages.</source>
@@ -44558,7 +44559,7 @@ till projektet &quot;%2&quot;.</translation>
     </message>
     <message>
         <source>Key is not an object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Key är inte ett object.</translation>
     </message>
     <message>
         <source>Pattern &quot;%1&quot; is no valid regular expression.</source>
@@ -44566,7 +44567,7 @@ till projektet &quot;%2&quot;.</translation>
     </message>
     <message>
         <source>ScannerGenerator: Binary pattern &quot;%1&quot; not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>ScannerGenerator: Binärmönstret &quot;%1&quot; inte giltigt.</translation>
     </message>
     <message>
         <source>Kit of Active Project: %1</source>
@@ -44623,7 +44624,7 @@ Please close all running instances of your application before starting a build.<
     </message>
     <message>
         <source>Cannot parse: The chosen kit does not provide an output parser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte tolka: Valt kit tillhandahåller inte en utdatatolkare.</translation>
     </message>
     <message>
         <source>No kits are enabled for this project. Enable kits in the &quot;Projects&quot; mode.</source>
@@ -44679,7 +44680,7 @@ Vad ska %1 göra nu?</translation>
     </message>
     <message>
         <source>Not all operations finished successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inte alla operationer lyckades.</translation>
     </message>
     <message>
         <source>The following files could not be copied or moved:</source>
@@ -44771,7 +44772,7 @@ Vad ska %1 göra nu?</translation>
     </message>
     <message>
         <source>Use debug version of frameworks (DYLD_IMAGE_SUFFIX=_debug)</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd felsökningsversion av ramverk (DYLD_IMAGE_SUFFIX=_debug)</translation>
     </message>
     <message>
         <source>Run as root user</source>
@@ -44791,7 +44792,7 @@ Vad ska %1 göra nu?</translation>
     </message>
     <message>
         <source>X11 Forwarding:</source>
-        <translation type="unfinished"></translation>
+        <translation>X11 Forwarding:</translation>
     </message>
     <message>
         <source>Source directory:</source>
@@ -44824,9 +44825,11 @@ Vad ska %1 göra nu?</translation>
     <message numerus="yes">
         <source>Not showing %n files that are outside of the base directory.
 These files are preserved.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Visar inte %n fil som finns utanför baskatalogen.
+Denna fil behålls.</numerusform>
+            <numerusform>Visar inte %n filer som finns utanför baskatalogen.
+Dessa filer behålls.</numerusform>
         </translation>
     </message>
     <message>
@@ -44900,7 +44903,7 @@ These files are preserved.</source>
     </message>
     <message>
         <source>Replacing signature</source>
-        <translation type="unfinished"></translation>
+        <translation>Ersätter signatur</translation>
     </message>
     <message>
         <source>Xcodebuild failed.</source>
@@ -44999,7 +45002,7 @@ These files are preserved.</source>
     <message>
         <source>%1 compiler path</source>
         <extracomment>%1 = programming language</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Sökväg för %1-kompilator</translation>
     </message>
     <message>
         <source>Provide manually</source>
@@ -46682,11 +46685,11 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>Could not find .pro file for subdirectory &quot;%1&quot; in &quot;%2&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte hitta .pro-fil för underkatalogen &quot;%1&quot; i &quot;%2&quot;.</translation>
     </message>
     <message>
         <source>qmake build configuration:</source>
-        <translation type="unfinished"></translation>
+        <translation>Byggkonfiguration för qmake:</translation>
     </message>
     <message>
         <source>Additional arguments:</source>
@@ -46694,11 +46697,11 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>Effective qmake call:</source>
-        <translation type="unfinished"></translation>
+        <translation>Effektivt qmake-anrop:</translation>
     </message>
     <message>
         <source>The mkspec to use when building the project with qmake.&lt;br&gt;This setting is ignored when using other build systems.</source>
-        <translation type="unfinished"></translation>
+        <translation>Den mkspec som används vid byggnation av projektet med qmake.&lt;br&gt;Denna inställning ignoreras när andra byggsystem används.</translation>
     </message>
     <message>
         <source>Qt mkspec</source>
@@ -46706,7 +46709,7 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>No Qt version set, so mkspec is ignored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen Qt-version inställd så mkspec ignoreras.</translation>
     </message>
     <message>
         <source>Mkspec not found for Qt version.</source>
@@ -46722,11 +46725,11 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>Warn if a project&apos;s source and build directories are not at the same level</source>
-        <translation type="unfinished"></translation>
+        <translation>Varna om ett projekts källa och byggkataloger inte är på samma nivå</translation>
     </message>
     <message>
         <source>Qmake has subtle bugs that can be triggered if source and build directory are not at the same level.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qmake har subtila buggar som kan utlösas om källa och byggkatalog inte är på samma nivå.</translation>
     </message>
     <message>
         <source>Run qmake on every build</source>
@@ -46734,15 +46737,15 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>This option can help to prevent failures on incremental builds, but might slow them down unnecessarily in the general case.</source>
-        <translation type="unfinished"></translation>
+        <translation>Detta alternativ kan hjälpa att förhindra fel vid inkrementella byggnationer men kan göra dem långsamma vilket är onödigt i vanliga fall.</translation>
     </message>
     <message>
         <source>Ignore qmake&apos;s system() function when parsing a project</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorera qmakes system()-funktion vid tolkning av ett projekt</translation>
     </message>
     <message>
         <source>Checking this option avoids unwanted side effects, but may result in inexact parsing results.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrollerar om detta alternativ undviker oönskade sidoeffekter men kan resultera i inexakta tolkningsresultat.</translation>
     </message>
     <message>
         <source>Qmake</source>
@@ -46754,7 +46757,7 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>Qt version does not target the expected platform.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt-versionen har inte förväntad plattform som mål.</translation>
     </message>
     <message>
         <source>Qt version does not provide all features.</source>
@@ -56778,19 +56781,19 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>Excl&amp;usion pattern:</source>
-        <translation type="unfinished"></translation>
+        <translation>E&amp;xkluderingsmönster:</translation>
     </message>
     <message>
         <source>List of comma separated wildcard filters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista över kommaseparerade jokerteckenfiler.</translation>
     </message>
     <message>
         <source>Files with file name or full file path matching any filter are included.</source>
-        <translation type="unfinished"></translation>
+        <translation>Filer med filnamn eller fullständig filsökväg som matchar alla filter är inkluderade.</translation>
     </message>
     <message>
         <source>Files with file name or full file path matching any filter are excluded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Filer med filnamn eller fullständig filsökväg som matchar alla filter är exkluderade.</translation>
     </message>
     <message>
         <source>Choose...</source>
@@ -56866,7 +56869,7 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>The default suffix if you do not explicitly specify a file extension is &quot;.%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Standardfiländelsen om du inte uttryckligen anger en filändelse är &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Insert...</source>
@@ -56898,7 +56901,7 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>Chosen project wizard does not support the build system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vald projektguide har inte stöds för byggsystemet.</translation>
     </message>
     <message>
         <source>Directory &quot;%1&quot; will be created.</source>
@@ -56946,7 +56949,7 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>Central Widget</source>
-        <translation type="unfinished"></translation>
+        <translation>Central widget</translation>
     </message>
     <message>
         <source>Reset to Default Layout</source>
@@ -56958,28 +56961,28 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrera</translation>
     </message>
     <message>
         <source>Clear text</source>
-        <translation type="unfinished"></translation>
+        <translation>Töm text</translation>
     </message>
     <message>
         <source>The unsaved file &lt;i&gt;%1&lt;/i&gt; has been changed on disk. Do you want to reload it and discard your changes?</source>
-        <translation type="unfinished"></translation>
+        <translation>Osparade filen &lt;i&gt;%1&lt;/i&gt; har ändrats på disk. Vill du läsa in den igen och förkasta dina ändringar?</translation>
     </message>
     <message>
         <source>The file &lt;i&gt;%1&lt;/i&gt; has been changed on disk. Do you want to reload it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen &lt;i&gt;%1&lt;/i&gt; har ändrats på disk. Vill du läsa in den igen?</translation>
     </message>
     <message>
         <source>The default behavior can be set in %1 &gt; Preferences &gt; Environment &gt; System.</source>
         <comment>macOS</comment>
-        <translation type="unfinished"></translation>
+        <translation>Standardbeteendet kan ställas in i %1 &gt; Inställningar &gt; Miljö &gt; System.</translation>
     </message>
     <message>
         <source>The default behavior can be set in Edit &gt; Preferences &gt; Environment &gt; System.</source>
-        <translation type="unfinished"></translation>
+        <translation>Standardbeteendet kan ställas in i Redigera &gt; Inställningar &gt; Miljö &gt; System.</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -56995,7 +56998,7 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>The file %1 has been removed from disk. Do you want to save it under a different name, or close the editor?</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen %1 har tagits bort från disken. Vill du spara den under ett annat namn eller stänga redigeraren?</translation>
     </message>
     <message>
         <source>C&amp;lose All</source>
@@ -57318,7 +57321,7 @@ The trace data is lost.</source>
     </message>
     <message>
         <source>&quot;%1&quot; is an invalid ELF object (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; är ett ogiltigt ELF-objekt (%2)</translation>
     </message>
     <message>
         <source>&quot;%1&quot; is not an ELF object (file too small)</source>
@@ -58135,7 +58138,7 @@ With cache simulation, further event counters are enabled:
     </message>
     <message>
         <source>Reset all event counters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nollställ alla händelseräknare.</translation>
     </message>
     <message>
         <source>Pause event logging. No events are counted which will speed up program execution during profiling.</source>
