@@ -24734,7 +24734,7 @@ Do you want to display them anyway?</source>
     </message>
     <message>
         <source>Show warnings for unsupported breakpoints</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa varningar för brytpunkter som inte stöds</translation>
     </message>
     <message>
         <source>Shows a warning on debugger start-up when breakpoints are requested which are not supported by the selected debugger engine.</source>
@@ -26786,7 +26786,7 @@ Please select a 64 bit Debugger in the kit settings for this kit.</source>
     </message>
     <message>
         <source>Specify Debugger settings in Projects &gt; Run.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange felsökarinställningar i Projekt &gt; Kör.</translation>
     </message>
     <message>
         <source>%1 - Snapshot %2</source>
@@ -26794,7 +26794,7 @@ Please select a 64 bit Debugger in the kit settings for this kit.</source>
     </message>
     <message>
         <source>Some breakpoints cannot be handled by the debugger languages currently active, and will be ignored.&lt;p&gt;Affected are breakpoints %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Vissa brytpunkter kan inte hanteras av felsökarspråken aktiva för närvarande och kommer att ignoreras.&lt;p&gt;Påverkade brytpunkter är %1</translation>
     </message>
     <message>
         <source>QML debugging needs to be enabled both in the Build and the Run settings.</source>
@@ -27777,7 +27777,7 @@ Do you want to retry?</source>
     </message>
     <message>
         <source>&lt;a href=&quot;qthelp://org.qt-project.qtcreator/doc/creator-debugging-qml.html&quot;&gt;What are the prerequisites?&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;qthelp://org.qt-project.qtcreator/doc/creator-debugging-qml.html&quot;&gt;Vilka är förkraven?&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Enable %1 debugger.</source>
@@ -27824,7 +27824,7 @@ Do you want to retry?</source>
     </message>
     <message>
         <source>Show debug, log, and info messages.</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa meddelanden för felsök, logg och info.</translation>
     </message>
     <message>
         <source>Show warning messages.</source>
@@ -27836,7 +27836,7 @@ Do you want to retry?</source>
     </message>
     <message>
         <source>QML Debugger Console</source>
-        <translation type="unfinished"></translation>
+        <translation>QML-felsökningskonsoll</translation>
     </message>
     <message>
         <source>Can only evaluate during a debug session.</source>
@@ -39351,11 +39351,11 @@ Title of a the cloned RunConfiguration window, text of the window</extracomment>
     </message>
     <message>
         <source>Show Compile &amp;Output</source>
-        <translation>Visa Kompilerad &amp;utdata</translation>
+        <translation>Visa kompilerings&amp;utdata</translation>
     </message>
     <message>
         <source>Show the output that generated this issue in Compile Output.</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa utdata som genererat detta problem i Kompileringsutdata.</translation>
     </message>
     <message>
         <source>Discarded excessive compile output.</source>
@@ -39367,11 +39367,11 @@ Title of a the cloned RunConfiguration window, text of the window</extracomment>
     </message>
     <message>
         <source>Discards compile output that continuously comes in faster than it can be handled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förkastar kompileringsutdata som hela tiden kommer in snabbare än den kan hanteras.</translation>
     </message>
     <message>
         <source>Compile Output</source>
-        <translation>Kompilerad utdata</translation>
+        <translation>Kompileringsutdata</translation>
     </message>
     <message>
         <source>Files in Current Project</source>
@@ -39379,7 +39379,7 @@ Title of a the cloned RunConfiguration window, text of the window</extracomment>
     </message>
     <message>
         <source>Locates files from the current document&apos;s project. Append &quot;+&lt;number&gt;&quot; or &quot;:&lt;number&gt;&quot; to jump to the given line number. Append another &quot;+&lt;number&gt;&quot; or &quot;:&lt;number&gt;&quot; to jump to the column number as well.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hittar filer från aktuella dokumentets projekt. Lägg till &quot;+&lt;nummer&gt;&quot; eller &quot;:&lt;numner&gt;&quot; på slutet för att hoppa till angivet radnummer. Lägg till ett annat &quot;+&lt;nummer&gt;&quot; eller &quot;:&lt;nummer&gt;&quot; på slutet för att hoppa till kolumnnumret också.</translation>
     </message>
     <message>
         <source>Project &quot;%1&quot;</source>
@@ -39411,7 +39411,7 @@ Title of a the cloned RunConfiguration window, text of the window</extracomment>
     </message>
     <message>
         <source>If available, use a different margin. For example, the ColumnLimit from the ClangFormat plugin.</source>
-        <translation type="unfinished"></translation>
+        <translation>Om tillgänglig, använd en annan marginal. Till exempel ColumnLimit från insticksmodulen ClangFormat.</translation>
     </message>
     <message>
         <source>Session Manager</source>
@@ -39476,7 +39476,7 @@ Title of a the cloned RunConfiguration window, text of the window</extracomment>
     </message>
     <message>
         <source>The files are implicitly added to the projects:</source>
-        <translation type="unfinished"></translation>
+        <translation>Filerna läggs implicit till i projekten:</translation>
     </message>
     <message>
         <source>&lt;None&gt;</source>
@@ -55287,7 +55287,7 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>(Sel: %1)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Mark: %1)</translation>
     </message>
     <message>
         <source>Cursors:</source>
@@ -57632,7 +57632,14 @@ To prepend to a variable, use VARIABLE=+VALUE.
 Existing variables can be referenced in a VALUE with ${OTHER}.
 To clear a variable, put its name on a line with nothing else on it.
 Lines starting with &quot;##&quot; will be treated as comments.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange en miljövariabel per rad.
+För att ställa in eller ändra en variabel, använd VARIABEL=VÄRDE.
+För att inaktivera en variabel, lägg ett &quot;#&quot;-prefix på radens början.
+För att lägga till en variabel på slutet, använd VARIABEL+=VÄRDE.
+För att lägga till en variabel i början, använd VARIABEL=+VÄRDE.
+Befintliga variabler kan refereras i ett VÄRDE med ${ANNAN}.
+För att tömma en variabel, lägg dess namn på en rad utan någonting mer.
+Rader som börjar med &quot;##&quot; kommer att behandlas som kommentarer.</translation>
     </message>
     <message>
         <source>&amp;OK</source>
