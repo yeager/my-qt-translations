@@ -6,4 +6,5 @@ Updating 'qtcreator_sv.qm'...
 
 .
 
-![image](https://github.com/user-attachments/assets/7d0fe944-7cec-46df-97f4-69c592842a91)
+
+![image](https://github.com/user-attachments/assets/ab17f0c3-9472-4bad-a0d6-0bc832410b8d)
