@@ -125,83 +125,83 @@
     </message>
     <message>
         <source>No operand in an integer division, %1, can be %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen operand i en heltalsdivision, %1, kan vara %2.</translation>
     </message>
     <message>
         <source>The first operand in an integer division, %1, cannot be infinity (%2).</source>
-        <translation type="unfinished"></translation>
+        <translation>Första operanden i en heltalsdivision, %1 kan inte vara oändlig (%2).</translation>
     </message>
     <message>
         <source>The second operand in a division, %1, cannot be zero (%2).</source>
-        <translation type="unfinished"></translation>
+        <translation>Andra operanden i en division, %1, kan inte vara noll (%2).</translation>
     </message>
     <message>
         <source>%1 is not a valid value of type %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 är inte ett giltigt värde för typen %2.</translation>
     </message>
     <message>
         <source>When casting to %1 from %2, the source value cannot be %3.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vid casting till %1 från %2, kan inte källvärdet vara %3.</translation>
     </message>
     <message>
         <source>Integer division (%1) by zero (%2) is undefined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Heltalsdivision (%1) med noll (%2) är inte definierad.</translation>
     </message>
     <message>
         <source>Division (%1) by zero (%2) is undefined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Division (%1) med noll (%2) är inte definierad.</translation>
     </message>
     <message>
         <source>Modulus division (%1) by zero (%2) is undefined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modulodivision (%1) med noll (%2) är inte definierad.</translation>
     </message>
     <message>
         <source>Dividing a value of type %1 by %2 (not-a-number) is not allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Delning av värdet för typen %1 med %2 (inte ett tal) tillåts inte.</translation>
     </message>
     <message>
         <source>Dividing a value of type %1 by %2 or %3 (plus or minus zero) is not allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Delning av värdet för typen %1 med %2 eller %3 (plus eller minus noll) tillåts inte.</translation>
     </message>
     <message>
         <source>Multiplication of a value of type %1 by %2 or %3 (plus or minus infinity) is not allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>A value of type %1 cannot have an Effective Boolean Value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ett värde för typen %1 kan inte ha ett effektivt booleskt värde.</translation>
     </message>
     <message>
         <source>Effective Boolean Value cannot be calculated for a sequence containing two or more atomic values.</source>
-        <translation type="unfinished"></translation>
+        <translation>Effektivt booleskt värde kan inte beräknas för en sekvens som innehåller två eller flera atomiska värden.</translation>
     </message>
     <message>
         <source>Value %1 of type %2 exceeds maximum (%3).</source>
-        <translation type="unfinished"></translation>
+        <translation>Värdet %1 för typen %2 överstiger maximum (%3).</translation>
     </message>
     <message>
         <source>Value %1 of type %2 is below minimum (%3).</source>
-        <translation type="unfinished"></translation>
+        <translation>Värdet %1 för typen %2 är mindre än minimum (%3).</translation>
     </message>
     <message>
         <source>A value of type %1 must contain an even number of digits. The value %2 does not.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ett värde av typen %1 får innehålla ett jämnt tal med siffror. Värdet %2 gör inte det.</translation>
     </message>
     <message>
         <source>%1 is not valid as a value of type %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 är inte giltigt som ett värde för typen %2.</translation>
     </message>
     <message>
         <source>Ambiguous rule match.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tvetydig regelmatchning.</translation>
     </message>
     <message>
         <source>Operator %1 cannot be used on type %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Operator %1 kan inte användas på typen %2.</translation>
     </message>
     <message>
         <source>Operator %1 cannot be used on atomic values of type %2 and %3.</source>
-        <translation type="unfinished"></translation>
+        <translation>Operatorn %1 kan inte användas på atomiska värden av typen %2 och %3.</translation>
     </message>
     <message>
         <source>The namespace URI in the name for a computed attribute cannot be %1.</source>
@@ -213,7 +213,7 @@
     </message>
     <message>
         <source>Type error in cast, expected %1, received %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Typfel i cast, förväntade %1, tog emot %2.</translation>
     </message>
     <message>
         <source>When casting to %1 or types derived from it, the source value must be of the same type, or it must be a string literal. Type %2 is not allowed.</source>
@@ -221,11 +221,11 @@
     </message>
     <message>
         <source>No casting is possible with %1 as the target type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen casting är möjlig med %1 som måltypen.</translation>
     </message>
     <message>
         <source>It is not possible to cast from %1 to %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det är inte möjligt att casta från %1 till %2.</translation>
     </message>
     <message>
         <source>Casting to %1 is not possible because it is an abstract type, and can therefore never be instantiated.</source>
@@ -233,23 +233,23 @@
     </message>
     <message>
         <source>It&apos;s not possible to cast the value %1 of type %2 to %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Det är inte möjligt att casta värdet %1 av typen %2 till %3</translation>
     </message>
     <message>
         <source>Failure when casting from %1 to %2: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades vid casting från %1 till %2: %3</translation>
     </message>
     <message>
         <source>A comment cannot contain %1</source>
-        <translation type="unfinished"></translation>
+        <translation>En kommentar kan inte innehålla %1</translation>
     </message>
     <message>
         <source>A comment cannot end with a %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>En kommentar kan inte sluta med ett %1.</translation>
     </message>
     <message>
         <source>No comparisons can be done involving the type %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga jämförelser kan göras som involverar typen %1.</translation>
     </message>
     <message>
         <source>Operator %1 is not available between atomic values of type %2 and %3.</source>
@@ -257,23 +257,23 @@
     </message>
     <message>
         <source>In a namespace constructor, the value for a namespace cannot be an empty string.</source>
-        <translation type="unfinished"></translation>
+        <translation>I en namnrymdskonstruktor kan inte värdet för en namnrymd vara en tom sträng.</translation>
     </message>
     <message>
         <source>The prefix must be a valid %1, which %2 is not.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prefixet måste vara en giltig %1, vilket %2 inte är.</translation>
     </message>
     <message>
         <source>The prefix %1 cannot be bound.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prefixet %1 kan inte bindas.</translation>
     </message>
     <message>
         <source>Only the prefix %1 can be bound to %2 and vice versa.</source>
-        <translation type="unfinished"></translation>
+        <translation>Endast prefixet %1 kan bindas till %2 och vice versa.</translation>
     </message>
     <message>
         <source>An attribute node cannot be a child of a document node. Therefore, the attribute %1 is out of place.</source>
-        <translation type="unfinished"></translation>
+        <translation>En attributnod kan inte vara ett barn för en dokumentnod. Därför är attributet %1 på fel plats.</translation>
     </message>
     <message>
         <source>Circularity detected</source>
@@ -281,77 +281,77 @@
     </message>
     <message>
         <source>A library module cannot be evaluated directly. It must be imported from a main module.</source>
-        <translation type="unfinished"></translation>
+        <translation>En biblioteksmodul kan inte evalueras direkt. Den måste importeras från en huvudmodul.</translation>
     </message>
     <message>
         <source>No template by name %1 exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen mall med namnet %1 finns.</translation>
     </message>
     <message>
         <source>A value of type %1 cannot be a predicate. A predicate must have either a numeric type or an Effective Boolean Value type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ett värde av typen %1 kan inte vara en predikat. En predikat måste ha antingen en numerisk typ eller en effektiv booleskt värde-typ.</translation>
     </message>
     <message>
         <source>A positional predicate must evaluate to a single numeric value.</source>
-        <translation type="unfinished"></translation>
+        <translation>En positionell predikat måste evalueras till ett entalsnumeriskt värde.</translation>
     </message>
     <message>
         <source>The target name in a processing instruction cannot be %1 in any combination of upper and lower case. Therefore, %2 is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Målnamnet i en behandlande instruktion kan inte vara %1 i någon kombination av gemener och versaler. Därför är %2 ogiltig.</translation>
     </message>
     <message>
         <source>%1 is not a valid target name in a processing instruction. It must be a %2 value, e.g. %3.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 är inte ett giltigt målnamn i en behandlande instruktion. Den måste vara ett %2-värde, t.ex. %3.</translation>
     </message>
     <message>
         <source>The last step in a path must contain either nodes or atomic values. It cannot be a mixture between the two.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sista steget i en sökväg måste innehålla antingen noder eller atomiska värde. Den kan inte vara en blandning av de två.</translation>
     </message>
     <message>
         <source>The data of a processing instruction cannot contain the string %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Data för en behandlande instruktion kan inte innehålla strängen %1</translation>
     </message>
     <message>
         <source>No namespace binding exists for the prefix %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen namnrymdsbindning finns för prefixet %1</translation>
     </message>
     <message>
         <source>No namespace binding exists for the prefix %1 in %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen namnrymdsbindning finns för prefixet %1 i %2</translation>
     </message>
     <message>
         <source>%1 is an invalid %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 är en ogiltig %2</translation>
     </message>
     <message>
         <source>The parameter %1 is passed, but no corresponding %2 exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametern %1 skickas men ingen motsvarande %2 finns.</translation>
     </message>
     <message>
         <source>The parameter %1 is required, but no corresponding %2 is supplied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametern %1 krävs men ingen motsvarande %2 angavs.</translation>
     </message>
     <message numerus="yes">
         <source>%1 takes at most %n argument(s). %2 is therefore invalid.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%1 tar minst %n argument. %2 är därför ogiltig.</numerusform>
+            <numerusform>%1 tar minst %n argument. %2 är därför ogiltig.</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%1 requires at least %n argument(s). %2 is therefore invalid.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%1 kräver minst %n argument. %2 är därför ogiltigt.</numerusform>
+            <numerusform>%1 kräver minst %n argument. %2 är därför ogiltiga.</numerusform>
         </translation>
     </message>
     <message>
         <source>The first argument to %1 cannot be of type %2. It must be a numeric type, xs:yearMonthDuration or xs:dayTimeDuration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Första argumentet till %1 kan inte vara av typen %2. Det måste vara en numerisk typ, xs:yearMonthDuration eller xs:dayTimeDuration.</translation>
     </message>
     <message>
         <source>The first argument to %1 cannot be of type %2. It must be of type %3, %4, or %5.</source>
-        <translation type="unfinished"></translation>
+        <translation>Första argumentet till %1 kan inte vara av typen %2. Det måste vara av typen %3, %4 eller %5.</translation>
     </message>
     <message>
         <source>The second argument to %1 cannot be of type %2. It must be of type %3, %4, or %5.</source>
@@ -359,19 +359,19 @@
     </message>
     <message>
         <source>%1 is not a valid XML 1.0 character.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 är inte ett giltigt XML 1.0-tecken.</translation>
     </message>
     <message>
         <source>The first argument to %1 cannot be of type %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Första argumentet till %1 kan inte vara av typen %2.</translation>
     </message>
     <message>
         <source>The root node of the second argument to function %1 must be a document node. %2 is not a document node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotnoden för andra argumentet till funktionen %1 måste vara en dokumentnod. %2 är inte en dokumentnod.</translation>
     </message>
     <message>
         <source>If both values have zone offsets, they must have the same zone offset. %1 and %2 are not the same.</source>
-        <translation type="unfinished"></translation>
+        <translation>Om båda värdena har en zonoffset måste de ha samma zonoffset. %1 och %2 är inte samma.</translation>
     </message>
     <message>
         <source>%1 was called.</source>
@@ -379,27 +379,27 @@
     </message>
     <message>
         <source>%1 must be followed by %2 or %3, not at the end of the replacement string.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 måste följas av %2 eller %3, inte på slutet av ersättningssträngen.</translation>
     </message>
     <message>
         <source>In the replacement string, %1 must be followed by at least one digit when not escaped.</source>
-        <translation type="unfinished"></translation>
+        <translation>I ersättningssträngen måste %1 följas av minst en siffra när inte escaped.</translation>
     </message>
     <message>
         <source>In the replacement string, %1 can only be used to escape itself or %2, not %3</source>
-        <translation type="unfinished"></translation>
+        <translation>I ersättningssträngen kan %1 endast användas för att escape sig själv eller %2, inte %3</translation>
     </message>
     <message>
         <source>%1 matches newline characters</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 matchar nyradstecken</translation>
     </message>
     <message>
         <source>%1 and %2 match the start and end of a line.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 och %2 matchar början och slutet på en rad.</translation>
     </message>
     <message>
         <source>Matches are case insensitive</source>
-        <translation type="unfinished"></translation>
+        <translation>Matchningar är skiftlägeskänsliga</translation>
     </message>
     <message>
         <source>Whitespace characters are removed, except when they appear in character classes</source>
@@ -407,11 +407,11 @@
     </message>
     <message>
         <source>%1 is an invalid regular expression pattern: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 är ett ogiltigt reguljärt uttrycksmönster: %2</translation>
     </message>
     <message>
         <source>%1 is an invalid flag for regular expressions. Valid flags are:</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 har en ogiltig flagga för reguljära uttryck. Giltiga flaggor är:</translation>
     </message>
     <message>
         <source>If the first argument is the empty sequence or a zero-length string (no namespace), a prefix cannot be specified. Prefix %1 was specified.</source>
@@ -419,15 +419,15 @@
     </message>
     <message>
         <source>It will not be possible to retrieve %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det kommer inte vara möjligt att hämta %1.</translation>
     </message>
     <message>
         <source>The default collection is undefined</source>
-        <translation type="unfinished"></translation>
+        <translation>Standardsamlingen är odefinierad</translation>
     </message>
     <message>
         <source>%1 cannot be retrieved</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 kan inte hämtas</translation>
     </message>
     <message>
         <source>The normalization form %1 is unsupported. The supported forms are %2, %3, %4, and %5, and none, i.e. the empty string (no normalization).</source>
@@ -435,39 +435,39 @@
     </message>
     <message>
         <source>A zone offset must be in the range %1..%2 inclusive. %3 is out of range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zonoffset måste vara i intervallet %1..%2 inklusive. %3 är utanför intervallet.</translation>
     </message>
     <message>
         <source>%1 is not a whole number of minutes.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 är inte ett helt antal minuter.</translation>
     </message>
     <message>
         <source>The URI cannot have a fragment</source>
-        <translation type="unfinished"></translation>
+        <translation>URI:n kan inte ha ett fragment</translation>
     </message>
     <message>
         <source>Required cardinality is %1; got cardinality %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nödvändig kardinalitet är %1, fick kardinalitet %2.</translation>
     </message>
     <message>
         <source>The item %1 did not match the required type %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Objektet %1 matchade inte nödvändiga typen %2.</translation>
     </message>
     <message>
         <source>Attribute %1 cannot appear on the element %2. Only the standard attributes can appear.</source>
-        <translation type="unfinished"></translation>
+        <translation>Attributet %1 kan inte finnas på elementet %2. Endast standardattribut kan finnas.</translation>
     </message>
     <message>
         <source>Attribute %1 cannot appear on the element %2. Only %3 is allowed, and the standard attributes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Attributet %1 kan inte finnas på elementet %2. Endast %3 tillåts och standardattributen.</translation>
     </message>
     <message>
         <source>Attribute %1 cannot appear on the element %2. Allowed is %3, %4, and the standard attributes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Attributet %1 kan inte finnas på elementet %2. Tillåtna är %3, %4 och standardattributen.</translation>
     </message>
     <message>
         <source>Attribute %1 cannot appear on the element %2. Allowed is %3, and the standard attributes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Attributet %1 kan inte finnas på elementet %2. Tillåtna är %3 och standardattributen.</translation>
     </message>
     <message>
         <source>XSL-T attributes on XSL-T elements must be in the null namespace, not in the XSL-T namespace which %1 is.</source>
@@ -475,59 +475,59 @@
     </message>
     <message>
         <source>The attribute %1 must appear on element %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Attributet %1 måste finnas på element %2.</translation>
     </message>
     <message>
         <source>The element with local name %1 does not exist in XSL-T.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elementet med lokala namnet %1 finns inte i XSL-T.</translation>
     </message>
     <message>
         <source>The variable %1 is unused</source>
-        <translation type="unfinished"></translation>
+        <translation>Variabeln %1 är oanvänd</translation>
     </message>
     <message>
         <source>W3C XML Schema identity constraint selector</source>
-        <translation type="unfinished"></translation>
+        <translation>Väljare av W3C XML Schema-identitetsconstraint</translation>
     </message>
     <message>
         <source>W3C XML Schema identity constraint field</source>
-        <translation type="unfinished"></translation>
+        <translation>Fält för W3C XML Schema-identitetsconstraint</translation>
     </message>
     <message>
         <source>A construct was encountered which is disallowed in the current language(%1).</source>
-        <translation type="unfinished"></translation>
+        <translation>En construct påträffades som inte är tillåtet i aktuella språket(%1).</translation>
     </message>
     <message>
         <source>%1 is an unknown schema type.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 är en okänd schematyp.</translation>
     </message>
     <message>
         <source>A template with name %1 has already been declared.</source>
-        <translation type="unfinished"></translation>
+        <translation>En mall med namnet %1 har redan deklarerats.</translation>
     </message>
     <message>
         <source>%1 is not a valid numeric literal.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 är inte en giltig numerisk literal.</translation>
     </message>
     <message>
         <source>Only one %1 declaration can occur in the query prolog.</source>
-        <translation type="unfinished"></translation>
+        <translation>Endast en %1-deklaration kan inträffa i sökprologen.</translation>
     </message>
     <message>
         <source>The initialization of variable %1 depends on itself</source>
-        <translation type="unfinished"></translation>
+        <translation>Initiering av variabeln %1 är beroende på sig själv</translation>
     </message>
     <message>
         <source>No variable with name %1 exists</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen variabel med namnet %1 finns</translation>
     </message>
     <message>
         <source>Version %1 is not supported. The supported XQuery version is 1.0.</source>
-        <translation type="unfinished"></translation>
+        <translation>Version %1 stöds inte. Version som stöds är XQuery 1.0.</translation>
     </message>
     <message>
         <source>The encoding %1 is invalid. It must contain Latin characters only, must not contain whitespace, and must match the regular expression %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kodningen %1 är ogiltig. Den måste endast innehålla latinska tecken, får inte innehålla blanksteg och måste matcha reguljära uttrycket %2.</translation>
     </message>
     <message>
         <source>No function with signature %1 is available</source>
@@ -539,7 +539,7 @@
     </message>
     <message>
         <source>Namespace declarations must occur before function, variable, and option declarations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Namnrymdsdeklarationer måste inträffade före funktion, variabel och alternativdeklarationer.</translation>
     </message>
     <message>
         <source>Module imports must occur before function, variable, and option declarations.</source>
@@ -547,23 +547,23 @@
     </message>
     <message>
         <source>The keyword %1 cannot occur with any other mode name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nyckelordet %1 kan inte inträffa med något annat lägesnamn.</translation>
     </message>
     <message>
         <source>The value of attribute %1 must be of type %2, which %3 isn&apos;t.</source>
-        <translation type="unfinished"></translation>
+        <translation>Värdet för attributet %1 måste vara av typen %2, vilket %3 inte är.</translation>
     </message>
     <message>
         <source>It is not possible to redeclare prefix %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det är inte möjligt att återdeklarera prefixet %1.</translation>
     </message>
     <message>
         <source>The prefix %1 can not be bound. By default, it is already bound to the namespace %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prefixet %1 kan inte bindas. Som standard är det redan bundet till namnrymden %2.</translation>
     </message>
     <message>
         <source>Prefix %1 is already declared in the prolog.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prefixet %1 är redan deklarerat i prologen.</translation>
     </message>
     <message>
         <source>The name of an option must have a prefix. There is no default namespace for options.</source>
@@ -571,11 +571,11 @@
     </message>
     <message>
         <source>The Schema Import feature is not supported, and therefore %1 declarations cannot occur.</source>
-        <translation type="unfinished"></translation>
+        <translation>Schema Import-funktionen stöds inte och därför kan %1-deklarationer inte inträffa.</translation>
     </message>
     <message>
         <source>The target namespace of a %1 cannot be empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Målnamnrymden för en %1 kan inte vara tom.</translation>
     </message>
     <message>
         <source>The module import feature is not supported</source>
@@ -587,7 +587,7 @@
     </message>
     <message>
         <source>No value is available for the external variable with name %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inget värde är tillgängligt för externa variabeln med namnet %1.</translation>
     </message>
     <message>
         <source>A stylesheet function must have a prefixed name.</source>
@@ -655,7 +655,7 @@
     </message>
     <message>
         <source>None of the pragma expressions are supported. Therefore, a fallback expression must be present</source>
-        <translation type="unfinished"></translation>
+        <translation>Inget av pragma-uttrycken stöds. Därför måste ett fallback-uttryck presenteras</translation>
     </message>
     <message>
         <source>Each name of a template parameter must be unique; %1 is duplicated.</source>
@@ -1679,27 +1679,27 @@
     </message>
     <message>
         <source>Boolean content does not match pattern facet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Booleskt innehåll matchar inte mönsterfacet.</translation>
     </message>
     <message>
         <source>Binary content does not match the length facet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Binärt innehåll matchar inte length-facet.</translation>
     </message>
     <message>
         <source>Binary content does not match the minLength facet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Binärt innehåll matchar inte minLength-facet.</translation>
     </message>
     <message>
         <source>Binary content does not match the maxLength facet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Binärt innehåll matchar inte maxLength-facet.</translation>
     </message>
     <message>
         <source>Binary content is not listed in the enumeration facet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Binärt innehåll är inte listat i enumeration-facet.</translation>
     </message>
     <message>
         <source>Invalid QName content: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltigt QName-innehåll: %1.</translation>
     </message>
     <message>
         <source>QName content is not listed in the enumeration facet.</source>
@@ -1731,7 +1731,7 @@
     </message>
     <message>
         <source>List content does not match pattern facet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Listinnehåll matchar inte mönsterfacet.</translation>
     </message>
     <message>
         <source>Union content is not listed in the enumeration facet.</source>
@@ -1743,51 +1743,51 @@
     </message>
     <message>
         <source>Data of type %1 are not allowed to be empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Data för typen %1 tillåts inte vara tomt.</translation>
     </message>
     <message>
         <source>Element %1 is missing child element.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elementet %1 saknar barnelement.</translation>
     </message>
     <message>
         <source>There is one IDREF value with no corresponding ID: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det finns ett IDREF-värde utan motsvarande ID: %1.</translation>
     </message>
     <message>
         <source>Loaded schema file is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inläst schemafil är ogiltig.</translation>
     </message>
     <message>
         <source>%1 contains invalid data.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 innehåller ogiltigt data.</translation>
     </message>
     <message>
         <source>xsi:schemaLocation namespace %1 has already appeared earlier in the instance document.</source>
-        <translation type="unfinished"></translation>
+        <translation>xsi:schemaLocation-namnrymden %1 har redan dykt upp tidigare i instansdokumentet.</translation>
     </message>
     <message>
         <source>xsi:noNamespaceSchemaLocation cannot appear after the first no-namespace element or attribute.</source>
-        <translation type="unfinished"></translation>
+        <translation>xsi:noNamespaceSchemaLocation kan inte dyka upp efter första no-namespace-elementet eller attribut.</translation>
     </message>
     <message>
         <source>No schema defined for validation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inget schema definierat för validering.</translation>
     </message>
     <message>
         <source>No definition for element %1 available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen definition för elementet %1 tillgänglig.</translation>
     </message>
     <message>
         <source>Specified type %1 is not known to the schema.</source>
-        <translation type="unfinished"></translation>
+        <translation>Angiven typ %1 är inte känd för schemat.</translation>
     </message>
     <message>
         <source>Element %1 is not defined in this scope.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elementet %1 är inte definierat i detta omfång.</translation>
     </message>
     <message>
         <source>Declaration for element %1 does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deklaration för elementet %1 finns inte.</translation>
     </message>
     <message>
         <source>Element %1 contains invalid content.</source>
@@ -1803,11 +1803,11 @@
     </message>
     <message>
         <source>Attribute %1 contains invalid data: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Attributet %1 innehåller ogiltigt data: %2</translation>
     </message>
     <message>
         <source>Element contains content although it is nillable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elementet innehåller innehåll även om det är nollbart.</translation>
     </message>
     <message>
         <source>Fixed value constraint not allowed if element is nillable.</source>
@@ -1815,11 +1815,11 @@
     </message>
     <message>
         <source>Specified type %1 is not validly substitutable with element type %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Angiven typ %1 är inte giltig som ersättningsbar med elementtypen %2.</translation>
     </message>
     <message>
         <source>Complex type %1 is not allowed to be abstract.</source>
-        <translation type="unfinished"></translation>
+        <translation>Komplextypen %1 tillåts inte vara abstrakt.</translation>
     </message>
     <message>
         <source>Element %1 contains not allowed attributes.</source>
@@ -1827,39 +1827,39 @@
     </message>
     <message>
         <source>Element %1 contains not allowed child element.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elementet %1 innehåller inte tillåtet barnelement.</translation>
     </message>
     <message>
         <source>Content of element %1 does not match its type definition: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Innehåller för elementet %1 matchar inte sin typdefinition: %2.</translation>
     </message>
     <message>
         <source>Content of element %1 does not match defined value constraint.</source>
-        <translation type="unfinished"></translation>
+        <translation>Innehåller för elementet %1 matchar inte definierat värdesconstraint.</translation>
     </message>
     <message>
         <source>Element %1 contains not allowed child content.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elementet %1 innehåller inte tillåtet barninnehåll.</translation>
     </message>
     <message>
         <source>Element %1 contains not allowed text content.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elementet %1 innehåller otillåtet textinnehåll.</translation>
     </message>
     <message>
         <source>Element %1 cannot contain other elements, as it has a fixed content.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elementet %1 kan inte innehåll andra element eftersom det har ett fast innehåll.</translation>
     </message>
     <message>
         <source>Element %1 is missing required attribute %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elementet %1 saknar nödvändiga attributet %2.</translation>
     </message>
     <message>
         <source>Attribute %1 does not match the attribute wildcard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Attributet %1 matchar inte attributets jokertecken.</translation>
     </message>
     <message>
         <source>Declaration for attribute %1 does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deklaration för attributet %1 finns inte.</translation>
     </message>
     <message>
         <source>Element %1 contains two attributes of type %2.</source>
@@ -1867,39 +1867,39 @@
     </message>
     <message>
         <source>Attribute %1 contains invalid content.</source>
-        <translation type="unfinished"></translation>
+        <translation>Attributet %1 innehåller ogiltigt innehåll.</translation>
     </message>
     <message>
         <source>Element %1 contains unknown attribute %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elementet %1 innehåller okända attributet %2.</translation>
     </message>
     <message>
         <source>Content of attribute %1 does not match its type definition: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Innehåller för attributet %1 matchar inte sin typdefinition: %2.</translation>
     </message>
     <message>
         <source>Content of attribute %1 does not match defined value constraint.</source>
-        <translation type="unfinished"></translation>
+        <translation>Innehåll för attributet %1 matchar inte definierat värdesconstraint.</translation>
     </message>
     <message>
         <source>Non-unique value found for constraint %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Icke-unikt värde hittades för constraint %1.</translation>
     </message>
     <message>
         <source>Key constraint %1 contains absent fields.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nyckelconstraint %1 innehåller frånvarande fält.</translation>
     </message>
     <message>
         <source>Key constraint %1 contains references nillable element %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nyckelconstraint %1 innehåller referenser till nollbara elementet %2.</translation>
     </message>
     <message>
         <source>No referenced value found for key reference %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inget refererande värde hittades för nyckereferens: %1.</translation>
     </message>
     <message>
         <source>More than one value found for field %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fler än ett värde hittades för fältet %1.</translation>
     </message>
     <message>
         <source>Field %1 has no simple type.</source>
@@ -1907,15 +1907,15 @@
     </message>
     <message>
         <source>Field %1 is missing its simple type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fältet %1 saknar sin simple-typ.</translation>
     </message>
     <message>
         <source>ID value &apos;%1&apos; is not unique.</source>
-        <translation type="unfinished"></translation>
+        <translation>ID-värdet &quot;%1&quot; är inte unikt.</translation>
     </message>
     <message>
         <source>&apos;%1&apos; attribute contains invalid QName content: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot;-attributet innehåller ogiltigt QName-innehåll: %2.</translation>
     </message>
     <message>
         <source>empty</source>
@@ -1939,11 +1939,11 @@
     </message>
     <message>
         <source>Required type is %1, but %2 was found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nödvändiga typen är %1 men %2 hittades.</translation>
     </message>
     <message>
         <source>Promoting %1 to %2 may cause loss of precision.</source>
-        <translation type="unfinished"></translation>
+        <translation>Promoterar %1 till %2 kan orsaka minskad precision.</translation>
     </message>
     <message>
         <source>The focus is undefined.</source>
@@ -1951,7 +1951,7 @@
     </message>
     <message>
         <source>It&apos;s not possible to add attributes after any other kind of node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det är inte möjligt att lägga till attribut efter någon form av nod.</translation>
     </message>
     <message>
         <source>An attribute by name %1 has already been created.</source>
