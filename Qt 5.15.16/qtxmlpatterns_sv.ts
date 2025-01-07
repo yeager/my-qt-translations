@@ -23,7 +23,7 @@
     <name>QQuickXmlRoleList</name>
     <message>
         <source>An XmlListModel query must start with &apos;/&apos; or &quot;//&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>En XmlListModel-fråga måste börja med &apos;/&apos; eller &quot;//&quot;</translation>
     </message>
 </context>
 <context>
@@ -53,51 +53,51 @@
     <name>QtXmlPatterns</name>
     <message>
         <source>An %1-attribute with value %2 has already been declared.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ett %1-attribut med värdet %2 har redan deklarerats.</translation>
     </message>
     <message>
         <source>An %1-attribute must have a valid %2 as value, which %3 isn&apos;t.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ett %1-attribut måste ha ett giltigt %2 som värde, vilket %3 inte är.</translation>
     </message>
     <message>
         <source>%1 is an unsupported encoding.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 är inte en kodning som stöds.</translation>
     </message>
     <message>
         <source>%1 contains octets which are disallowed in the requested encoding %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 innehåller okteter som inte tillåts i begärda kodningen %2.</translation>
     </message>
     <message>
         <source>The codepoint %1, occurring in %2 using encoding %3, is an invalid XML character.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kodpunkten %1 som inträffar i %2 med kodningen %3 är ett ogiltigt XML-tecken.</translation>
     </message>
     <message>
         <source>Network timeout.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidsgräns för nätverk överstegs.</translation>
     </message>
     <message>
         <source>Element %1 can&apos;t be serialized because it appears outside the document element.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elementet %1 kan inte serialiseras därför att det finns utanför dokumentelementet.</translation>
     </message>
     <message>
         <source>Attribute %1 can&apos;t be serialized because it appears at the top level.</source>
-        <translation type="unfinished"></translation>
+        <translation>Attributet %1 kan inte serialiseras därför att det finns på toppnivån.</translation>
     </message>
     <message>
         <source>Year %1 is invalid because it begins with %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>År %1 är ogiltigt därför att det börjar med %2.</translation>
     </message>
     <message>
         <source>Day %1 is outside the range %2..%3.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dagen %1 är utanför intervallet %2..%3.</translation>
     </message>
     <message>
         <source>Month %1 is outside the range %2..%3.</source>
-        <translation type="unfinished"></translation>
+        <translation>Månaden %1 är utanför intervallet %2..%3.</translation>
     </message>
     <message>
         <source>Overflow: Can&apos;t represent date %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Överflöde: Kan inte representera datumet %1.</translation>
     </message>
     <message>
         <source>Day %1 is invalid for month %2.</source>
@@ -105,23 +105,23 @@
     </message>
     <message>
         <source>Time 24:%1:%2.%3 is invalid. Hour is 24, but minutes, seconds, and milliseconds are not all 0; </source>
-        <translation type="unfinished"></translation>
+        <translation>Tiden 24:%1:%2.%3 är ogiltig. Timmen är 24 men minuter, sekunder och millisekunder är inte alla 0; </translation>
     </message>
     <message>
         <source>Time %1:%2:%3.%4 is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiden %1:%2:%3.%4 är ogiltig.</translation>
     </message>
     <message>
         <source>Overflow: Date can&apos;t be represented.</source>
-        <translation type="unfinished"></translation>
+        <translation>Överflöde: Datumet kan inte representeras.</translation>
     </message>
     <message>
         <source>At least one component must be present.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minst en komponent måste finnas.</translation>
     </message>
     <message>
         <source>At least one time component must appear after the %1-delimiter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minst en tidskomponent måste finnas efter %1-avgränsaren.</translation>
     </message>
     <message>
         <source>No operand in an integer division, %1, can be %2.</source>
@@ -739,7 +739,7 @@
     </message>
     <message>
         <source>Parse error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tolkningsfel: %1</translation>
     </message>
     <message>
         <source>The value of the XSL-T version attribute must be a value of type %1, which %2 isn&apos;t.</source>
@@ -1523,7 +1523,7 @@
     </message>
     <message>
         <source>String content does not match the length facet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stränginnehåll matchar inte length-facet.</translation>
     </message>
     <message>
         <source>String content does not match the minLength facet.</source>
@@ -1791,15 +1791,15 @@
     </message>
     <message>
         <source>Element %1 contains invalid content.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elementet %1 innehåller ogiltigt innehåll.</translation>
     </message>
     <message>
         <source>Element %1 is declared as abstract.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elementet %1 är deklarerat som abstrakt.</translation>
     </message>
     <message>
         <source>Element %1 is not nillable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elementet %1 är inte nillable.</translation>
     </message>
     <message>
         <source>Attribute %1 contains invalid data: %2</source>
@@ -1823,7 +1823,7 @@
     </message>
     <message>
         <source>Element %1 contains not allowed attributes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elementet %1 innehåller otillåtna attribut.</translation>
     </message>
     <message>
         <source>Element %1 contains not allowed child element.</source>
@@ -1863,7 +1863,7 @@
     </message>
     <message>
         <source>Element %1 contains two attributes of type %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elementet %1 innehåller två attribut av typen %2.</translation>
     </message>
     <message>
         <source>Attribute %1 contains invalid content.</source>
@@ -1903,7 +1903,7 @@
     </message>
     <message>
         <source>Field %1 has no simple type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fältet %1 har ingen enkel typ.</translation>
     </message>
     <message>
         <source>Field %1 is missing its simple type.</source>
@@ -1919,23 +1919,23 @@
     </message>
     <message>
         <source>empty</source>
-        <translation type="unfinished"></translation>
+        <translation>tom</translation>
     </message>
     <message>
         <source>zero or one</source>
-        <translation type="unfinished"></translation>
+        <translation>noll eller ett</translation>
     </message>
     <message>
         <source>exactly one</source>
-        <translation type="unfinished"></translation>
+        <translation>exakt ett</translation>
     </message>
     <message>
         <source>one or more</source>
-        <translation type="unfinished"></translation>
+        <translation>ett eller mer</translation>
     </message>
     <message>
         <source>zero or more</source>
-        <translation type="unfinished"></translation>
+        <translation>noll eller mer</translation>
     </message>
     <message>
         <source>Required type is %1, but %2 was found.</source>
@@ -1947,7 +1947,7 @@
     </message>
     <message>
         <source>The focus is undefined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fokuset är odefinierat.</translation>
     </message>
     <message>
         <source>It&apos;s not possible to add attributes after any other kind of node.</source>
@@ -1955,7 +1955,7 @@
     </message>
     <message>
         <source>An attribute by name %1 has already been created.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ett attribut med namnet %1 har redan skapats.</translation>
     </message>
     <message>
         <source>Only the Unicode Codepoint Collation is supported(%1). %2 is unsupported.</source>
