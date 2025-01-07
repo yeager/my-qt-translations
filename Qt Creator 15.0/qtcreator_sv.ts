@@ -11162,7 +11162,7 @@ in the system&apos;s browser for manual download.</source>
     </message>
     <message>
         <source>Unset Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Avinställ standard</translation>
     </message>
     <message>
         <source>Make Default</source>
@@ -13984,7 +13984,7 @@ Do you want to open &quot;%1&quot; with its default application?</source>
     </message>
     <message>
         <source>unset</source>
-        <translation type="unfinished"></translation>
+        <translation>inte inställd</translation>
     </message>
     <message>
         <source>Remove Server Configuration</source>
@@ -19258,7 +19258,7 @@ Fortsätta?</translation>
     </message>
     <message>
         <source>Cancel &amp;&amp; &amp;Diff</source>
-        <translation type="unfinished"></translation>
+        <translation>Avbryt och &amp;diff</translation>
     </message>
     <message>
         <source>Close &quot;%1&quot;</source>
@@ -19420,7 +19420,7 @@ If the system cursors for resizing views are not displayed properly, you can use
     </message>
     <message>
         <source>Environment influences UI scaling behavior.</source>
-        <translation type="unfinished"></translation>
+        <translation>Miljön influerar gränssnittets skalningsbeteende.</translation>
     </message>
     <message>
         <source>&lt;System Language&gt;</source>
@@ -19512,7 +19512,7 @@ If the system cursors for resizing views are not displayed properly, you can use
     </message>
     <message>
         <source>Allow crashes to be automatically reported. Collected reports are used for the sole purpose of fixing bugs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillåter att krascher automatiskt rapporteras. Insamlade rapporter används av den enkla anledningen att rätta till problem.</translation>
     </message>
     <message>
         <source>Command line arguments used for &quot;Run in terminal&quot;.</source>
@@ -19556,7 +19556,7 @@ If the system cursors for resizing views are not displayed properly, you can use
     </message>
     <message>
         <source>Automatically creates temporary copies of modified files. If %1 is restarted after a crash or power failure, it asks whether to recover the auto-saved content.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapar automatiskt temporära kopior av ändrade filer. Om %1 startas om efter en krasch eller strömavbrott så kommer den att fråga huruvida automatiskt sparat innehåll ska återskapas.</translation>
     </message>
     <message>
         <source>Automatically saves all open files affected by a refactoring operation,
@@ -20013,7 +20013,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Logging Category Viewer</source>
-        <translation type="unfinished"></translation>
+        <translation>Visare för loggningskategori</translation>
     </message>
     <message>
         <source>Save Log</source>
@@ -20045,7 +20045,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Entry is missing a logging category name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Posten saknar ett namn för loggningskategori.</translation>
     </message>
     <message>
         <source>Entry is missing data.</source>
@@ -20267,7 +20267,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>&amp;Diff</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Diff</translation>
     </message>
     <message>
         <source>Do &amp;Not Save</source>
@@ -20275,7 +20275,7 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>&amp;Diff &amp;&amp; Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Diff och avbryt</translation>
     </message>
     <message>
         <source>&amp;Save All</source>
@@ -38531,7 +38531,7 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>P4 Pending Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>P4 Väntande ändringar</translation>
     </message>
     <message>
         <source>Submit</source>
@@ -38596,15 +38596,15 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>Revert File</source>
-        <translation type="unfinished"></translation>
+        <translation>Återställ fil</translation>
     </message>
     <message>
         <source>Diff Current File</source>
-        <translation type="unfinished"></translation>
+        <translation>Diff aktuell fil</translation>
     </message>
     <message>
         <source>Diff &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Diff &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Diff Current Project/Session</source>
@@ -38620,11 +38620,11 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>Diff Opened Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Diff öppnade filer</translation>
     </message>
     <message>
         <source>Opened</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppnad</translation>
     </message>
     <message>
         <source>Alt+P,Alt+O</source>
@@ -38736,19 +38736,19 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>Revert Unchanged</source>
-        <translation type="unfinished"></translation>
+        <translation>Återställ oförändrade</translation>
     </message>
     <message>
         <source>Revert Unchanged Files of Project &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Återställ oförändrade filer för projektet &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Revert Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Återställ projekt</translation>
     </message>
     <message>
         <source>Revert Project &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Återställ projektet &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Meta+P,Meta+O</source>
@@ -38756,7 +38756,7 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>Repository Log</source>
-        <translation type="unfinished"></translation>
+        <translation>Förrådslogg</translation>
     </message>
     <message>
         <source>p4 changelists %1</source>
@@ -38765,11 +38765,11 @@ You might find further explanations in the Application Output view.</source>
     <message>
         <source>Error running &quot;where&quot; on %1: The file is not mapped.</source>
         <extracomment>Failed to run p4 &quot;where&quot; to resolve a Perforce file name to a local file system name.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid körning av &quot;where&quot; på %1: Filen är inte mappad.</translation>
     </message>
     <message>
         <source>p4 revert</source>
-        <translation type="unfinished"></translation>
+        <translation>p4 återställ</translation>
     </message>
     <message>
         <source>The file has been changed. Do you want to revert it?</source>
@@ -38777,7 +38777,7 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>Do you want to revert all changes to the project &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vill du återställa alla ändringar till projektet &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Another submit is currently executed.</source>
@@ -38789,11 +38789,11 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>p4 annotate</source>
-        <translation type="unfinished"></translation>
+        <translation>p4 anteckna</translation>
     </message>
     <message>
         <source>p4 annotate %1</source>
-        <translation type="unfinished"></translation>
+        <translation>p4 anteckna %1</translation>
     </message>
     <message>
         <source>p4 filelog</source>
@@ -38821,15 +38821,15 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>Perforce repository: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Perforce-förråd: %1</translation>
     </message>
     <message>
         <source>Perforce: Unable to determine the repository: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Perforce: Kunde inte bestämma förrådet: %1</translation>
     </message>
     <message>
         <source>Perforce is not correctly configured.</source>
-        <translation type="unfinished"></translation>
+        <translation>Perforce är inte korrekt konfigurerat.</translation>
     </message>
     <message numerus="yes">
         <source>[Only %n MB of output shown]</source>
@@ -38840,11 +38840,11 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>p4 diff %1</source>
-        <translation type="unfinished"></translation>
+        <translation>p4 diff %1</translation>
     </message>
     <message>
         <source>p4 describe %1</source>
-        <translation type="unfinished"></translation>
+        <translation>p4 beskriv %1</translation>
     </message>
     <message>
         <source>Pending change</source>
@@ -38864,7 +38864,7 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>Perforce</source>
-        <translation type="unfinished"></translation>
+        <translation>Perforce</translation>
     </message>
     <message>
         <source>Configuration</source>
@@ -38872,7 +38872,7 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>P4 command:</source>
-        <translation type="unfinished"></translation>
+        <translation>P4 kommando:</translation>
     </message>
     <message>
         <source>Environment Variables</source>
@@ -38880,15 +38880,15 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>P4 client:</source>
-        <translation type="unfinished"></translation>
+        <translation>P4 klient:</translation>
     </message>
     <message>
         <source>P4 user:</source>
-        <translation type="unfinished"></translation>
+        <translation>P4 användare:</translation>
     </message>
     <message>
         <source>P4 port:</source>
-        <translation type="unfinished"></translation>
+        <translation>P4 port:</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
@@ -38920,11 +38920,11 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>Test succeeded (%1).</source>
-        <translation type="unfinished"></translation>
+        <translation>Testet lyckades (%1).</translation>
     </message>
     <message>
         <source>Change:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändring:</translation>
     </message>
     <message>
         <source>Client:</source>
@@ -38940,7 +38940,7 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>&quot;%1&quot; timed out after %2 ms.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; översteg tidsgräns efter %2 ms.</translation>
     </message>
     <message>
         <source>Unable to launch &quot;%1&quot;: %2</source>
@@ -38956,12 +38956,12 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>The client does not seem to contain any mapped files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klienten verkar inte innehålla några mappade filer.</translation>
     </message>
     <message>
         <source>Unable to determine the client root.</source>
         <extracomment>Unable to determine root of the p4 client installation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte bestämma klientroten.</translation>
     </message>
     <message>
         <source>The repository &quot;%1&quot; does not exist.</source>
@@ -39203,7 +39203,7 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>&amp;Unset</source>
-        <translation type="unfinished"></translation>
+        <translation>Avi&amp;nställ</translation>
     </message>
     <message>
         <source>Append Path...</source>
@@ -39223,7 +39223,7 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>Unset &lt;a href=&quot;%1&quot;&gt;&lt;b&gt;%1&lt;/b&gt;&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Avinställ &lt;a href=&quot;%1&quot;&gt;&lt;b&gt;%1&lt;/b&gt;&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Set &lt;a href=&quot;%1&quot;&gt;&lt;b&gt;%1&lt;/b&gt;&lt;/a&gt; to &lt;b&gt;%2&lt;/b&gt;</source>
@@ -43858,7 +43858,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>&quot;data&quot; for a &quot;Form&quot; page needs to be unset or an empty object.</source>
-        <translation>&quot;data&quot; för en &quot;Form&quot;-sida behöver inaktiveras eller vara ett tomt objekt.</translation>
+        <translation>&quot;data&quot; för en &quot;Form&quot;-sida behöver avinställas eller vara ett tomt objekt.</translation>
     </message>
     <message>
         <source>The process failed to start.</source>
@@ -44536,7 +44536,7 @@ till projektet &quot;%2&quot;.</translation>
     </message>
     <message>
         <source>&quot;data&quot; for a &quot;File&quot; page needs to be unset or an empty object.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;data&quot; för en &quot;File&quot;-sida behöver avinställas eller ett tomt objekt.</translation>
     </message>
     <message>
         <source>Error parsing &quot;%1&quot; in &quot;Kits&quot; page: %2</source>
@@ -44560,7 +44560,7 @@ till projektet &quot;%2&quot;.</translation>
     </message>
     <message>
         <source>&quot;data&quot; for a &quot;Summary&quot; page can be unset or needs to be an object.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;data&quot; för en &quot;Summary&quot;-sida behöver avinställas eller behöver vara ett objekt.</translation>
     </message>
     <message>
         <source>Key is not an object.</source>
@@ -45067,7 +45067,7 @@ Dessa filer behålls.</numerusform>
     </message>
     <message>
         <source>You can install PySide from PyPi (Community OSS version) or from your Qt installation location, if you are using the Qt Installer and have a commercial license.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du kan installera PySide från PyPi (Community OSS-version) eller från din Qt-installationsplats, om du använder Qt-installeraren och har en kommersiell licens.</translation>
     </message>
     <message>
         <source>Select which version to install:</source>
@@ -45095,11 +45095,11 @@ Dessa filer behålls.</numerusform>
     </message>
     <message>
         <source>Run PySide6 project tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör projektverktyget PySide6</translation>
     </message>
     <message>
         <source>PySide project tool:</source>
-        <translation type="unfinished"></translation>
+        <translation>Projektverktyget PySide:</translation>
     </message>
     <message>
         <source>Enter location of PySide project tool.</source>
@@ -45203,7 +45203,7 @@ Dessa filer behålls.</numerusform>
     </message>
     <message>
         <source>Buffered output</source>
-        <translation type="unfinished"></translation>
+        <translation>Buffrat utdata</translation>
     </message>
     <message>
         <source>Enabling improves output performance, but results in delayed output.</source>
@@ -45227,7 +45227,7 @@ Dessa filer behålls.</numerusform>
     </message>
     <message>
         <source>Executable is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Körbar fil är tom.</translation>
     </message>
     <message>
         <source>&quot;%1&quot; does not exist.</source>
@@ -45291,7 +45291,7 @@ Dessa filer behålls.</numerusform>
     </message>
     <message>
         <source>Virtual environment directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalog för virtuell miljö:</translation>
     </message>
     <message>
         <source>Create</source>
@@ -45347,11 +45347,11 @@ Dessa filer behålls.</numerusform>
     </message>
     <message>
         <source>The interpreter used for Python based projects.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tolken som används för Python-baserade projekt.</translation>
     </message>
     <message>
         <source>No Python setup.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen Python-konfiguration.</translation>
     </message>
     <message>
         <source>Python &quot;%1&quot; not found.</source>
@@ -45706,7 +45706,7 @@ You will rarely need to do this.</source>
     </message>
     <message>
         <source>Request timed out.</source>
-        <translation type="unfinished"></translation>
+        <translation>Begäran översteg tidsgräns.</translation>
     </message>
     <message>
         <source>Failed to load qbs build graph.</source>
@@ -45890,7 +45890,7 @@ Berörda filer är:
     </message>
     <message>
         <source>Set this application to start by default</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställ in detta program att starta som standard</translation>
     </message>
     <message>
         <source>Reset default application</source>
@@ -46001,7 +46001,7 @@ Berörda filer är:
     </message>
     <message>
         <source>This kit cannot build this project since it does not define a Qt version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Detta kit kan inte bygga detta projekt eftersom det inte definierar en Qt-version.</translation>
     </message>
     <message>
         <source>Run</source>
@@ -46017,7 +46017,7 @@ Berörda filer är:
     </message>
     <message>
         <source>qmake system() behavior when parsing:</source>
-        <translation type="unfinished"></translation>
+        <translation>qmakes system()-beteende vid tolkning:</translation>
     </message>
     <message>
         <source>Error:</source>
@@ -46029,20 +46029,20 @@ Berörda filer är:
     </message>
     <message>
         <source>The build directory contains a build for a different project, which will be overwritten.</source>
-        <translation type="unfinished"></translation>
+        <translation>Byggkatalogen innehåller en byggnation för ett annat projekt som kommer att skrivas över.</translation>
     </message>
     <message>
         <source>%1 The build will be overwritten.</source>
         <comment>%1 error message</comment>
-        <translation type="unfinished"></translation>
+        <translation>%1 Byggnationen kommer att skrivas över.</translation>
     </message>
     <message>
         <source>Starting qmake failed with the following error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Start av qmake misslyckades med följande fel: %1</translation>
     </message>
     <message>
         <source>The build directory should be at the same level as the source directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Byggkatalogen ska vara på samma nivå som källkatalogen.</translation>
     </message>
     <message>
         <source>Could not parse Makefile.</source>
@@ -46054,15 +46054,15 @@ Berörda filer är:
     </message>
     <message>
         <source>The build type has changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Byggtypen har ändrats.</translation>
     </message>
     <message>
         <source>The qmake arguments have changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>qmake-argumenten har ändrats.</translation>
     </message>
     <message>
         <source>The mkspec has changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>mkspec har ändrats.</translation>
     </message>
     <message>
         <source>Release</source>
@@ -46140,7 +46140,7 @@ Berörda filer är:
     </message>
     <message>
         <source>The build directory is not at the same level as the source directory, which could be the reason for the build failure.</source>
-        <translation type="unfinished"></translation>
+        <translation>Byggkatalogen är inte på samma nivå som källkatalogen vilket kan vara anledningen för att byggnationen misslyckades.</translation>
     </message>
     <message>
         <source>qmake</source>
@@ -46165,7 +46165,7 @@ Berörda filer är:
     </message>
     <message>
         <source>&lt;no Make step found&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;inget Make-steg hittades&gt;</translation>
     </message>
     <message>
         <source>ABIs:</source>
@@ -46177,7 +46177,7 @@ Berörda filer är:
     </message>
     <message>
         <source>Qt Quick Compiler</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt Quick-kompilator</translation>
     </message>
     <message>
         <source>Separate Debug Information</source>
@@ -46605,19 +46605,19 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>%1 Dynamic</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Dynamisk</translation>
     </message>
     <message>
         <source>%1 Static</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Statisk</translation>
     </message>
     <message>
         <source>%1 Framework</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Ramverk</translation>
     </message>
     <message>
         <source>%1 Library</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Bibliotek</translation>
     </message>
     <message>
         <source>Subdirs Project</source>
@@ -46650,11 +46650,11 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>Sources</source>
-        <translation type="unfinished"></translation>
+        <translation>Källor</translation>
     </message>
     <message>
         <source>Forms</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulär</translation>
     </message>
     <message>
         <source>State charts</source>
@@ -46881,7 +46881,7 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>Double click for preview.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dubbelklicka för förhandsvisning.</translation>
     </message>
     <message>
         <source>Round. Like Repeat, but scales the images down to ensure that the last image is not cropped.</source>
@@ -46897,7 +46897,7 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>The image is scaled to fit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilden är skalad till att passa.</translation>
     </message>
     <message>
         <source>The image is stretched horizontally and tiled vertically.</source>
@@ -46913,11 +46913,11 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>The image is scaled uniformly to fit without cropping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilden är skalad enhetligt för att passa utan beskärning.</translation>
     </message>
     <message>
         <source>The image is scaled uniformly to fill, cropping if necessary.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilden är skalad enhetligt för att fylla ut, beskärs om nödvändigt.</translation>
     </message>
     <message>
         <source>Gradient</source>
@@ -46989,7 +46989,7 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>Hides this toolbar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Döljer denna verktygsrad.</translation>
     </message>
     <message>
         <source>Pin Toolbar</source>
@@ -47005,7 +47005,7 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>Hides this toolbar. This toolbar can be permanently disabled in the options page or in the context menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>Döljer denna verktygsrad. Denna verktygsrad kan permanent inaktiveras i inställningssidan eller i kontextmenyn.</translation>
     </message>
     <message>
         <source>Open File</source>
@@ -55145,7 +55145,7 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>Unset</source>
-        <translation type="unfinished"></translation>
+        <translation>Avinställ</translation>
     </message>
     <message>
         <source>&lt;p align=&apos;center&apos;&gt;&lt;b&gt;Builtin color schemes need to be &lt;a href=&quot;copy&quot;&gt;copied&lt;/a&gt;&lt;br/&gt; before they can be changed&lt;/b&gt;&lt;/p&gt;</source>
@@ -55157,11 +55157,11 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>Unset foreground.</source>
-        <translation type="unfinished"></translation>
+        <translation>Avinställ förgrund.</translation>
     </message>
     <message>
         <source>Unset background.</source>
-        <translation type="unfinished"></translation>
+        <translation>Avinställ bakgrund.</translation>
     </message>
     <message>
         <source>Relative Foreground</source>
@@ -60840,7 +60840,8 @@ defined in step size.</source>
     <message>
         <source>Sets the width and height of the view.
 This is used for calculating the total implicit size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in bredd och höjd för vyn.
+Detta används för att beräkna total implicit storlek.</translation>
     </message>
     <message>
         <source>W</source>
@@ -60850,7 +60851,7 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>Content width used for calculating the total implicit width.</source>
-        <translation type="unfinished"></translation>
+        <translation>Innehållsbredd som används för beräkning av total implicit bredd.</translation>
     </message>
     <message>
         <source>H</source>
@@ -60860,7 +60861,7 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>Content height used for calculating the total implicit height.</source>
-        <translation type="unfinished"></translation>
+        <translation>Innehållshöjd som används för beräkning av total implicit höjd.</translation>
     </message>
     <message>
         <source>Font</source>
@@ -60951,11 +60952,11 @@ This is used for calculating the total implicit size.</source>
     <name>ShowLookAtAction</name>
     <message>
         <source>Show Look-at</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa Titta på</translation>
     </message>
     <message>
         <source>Toggle the visibility of the edit camera look-at indicator.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växla synligheten för redigeringskamerans titta-på-indikator.</translation>
     </message>
 </context>
 <context>
@@ -61134,7 +61135,7 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>Rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotering</translation>
     </message>
     <message>
         <source>Snap rotation.</source>
@@ -61166,7 +61167,7 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>deg</source>
-        <translation type="unfinished"></translation>
+        <translation>grader</translation>
     </message>
     <message>
         <source>%</source>
@@ -61696,7 +61697,7 @@ it reaches the start or end.</source>
     </message>
     <message>
         <source>Custom Connections can only be edited with the binding editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Anpassade anslutningar kan endast redigeras med bindningsredigeraren</translation>
     </message>
 </context>
 <context>
@@ -61804,11 +61805,11 @@ it reaches the start or end.</source>
     </message>
     <message>
         <source>Toggles if the user can interact with the view.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar om användaren kan interagera med vyn.</translation>
     </message>
     <message>
         <source>Sets the orientation of the view.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in orienteringen för vyn.</translation>
     </message>
     <message>
         <source>Font</source>
@@ -61827,7 +61828,7 @@ it reaches the start or end.</source>
     </message>
     <message>
         <source>Sets the 3D view to use the Scene Environment color or skybox as background color.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in 3D-vyn att använda Scenmiljö-färgen eller skybox som bakgrundsfärg.</translation>
     </message>
 </context>
 <context>
@@ -62069,7 +62070,7 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>Sets how overflowing text is handled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in hur överflödande text hanteras.</translation>
     </message>
     <message>
         <source>Elide</source>
@@ -62077,7 +62078,7 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>Sets how to indicate that more text is available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in hur det indikeras att mer text är tillgängligt.</translation>
     </message>
     <message>
         <source>Format</source>
@@ -62093,27 +62094,27 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>Sets the rendering type for this component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in renderingstypen för denna komponent.</translation>
     </message>
     <message>
         <source>Sets the quality of the render. This only has an effect when &lt;b&gt;Render type&lt;/b&gt; is set to QtRendering.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in kvaliteten för renderingen. Detta har endast effekt när &lt;b&gt;Renderingstyp&lt;/b&gt; är inställd till QtRendering.</translation>
     </message>
     <message>
         <source>Sets how to calculate the line height based on the &lt;b&gt;Line height&lt;/b&gt; value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in hur beräkningen av radhöjd baserat på &lt;b&gt;Radhöjd&lt;/b&gt;-värdet.</translation>
     </message>
     <message>
         <source>Sets how the font size is determined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in hur typsnittsstorleken bestäms.</translation>
     </message>
     <message>
         <source>Sets the max number of lines that the text component shows.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in max antal rader som textkomponenten visar.</translation>
     </message>
     <message>
         <source>Render type quality</source>
-        <translation type="unfinished"></translation>
+        <translation>Kvalitet för renderingstyp</translation>
     </message>
     <message>
         <source>Line height mode</source>
@@ -62129,7 +62130,7 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>Sets the minimum font size to use. This has no effect when &lt;b&gt;Size&lt;/b&gt; mode is set to Fixed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in minsta typsnittsstorlek att använda. Detta har inget effekt när &lt;b&gt;Storlek&lt;/b&gt;-läget är inställt till Fast.</translation>
     </message>
     <message>
         <source>Minimum font pixel size of scaled text.</source>
@@ -62156,7 +62157,7 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>Placeholder text</source>
-        <translation type="unfinished"></translation>
+        <translation>Platshållartext</translation>
     </message>
     <message>
         <source>Read only</source>
@@ -62164,15 +62165,15 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>Determines whether the text field is read only.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestämmer huruvida textfältet är skrivskyddat.</translation>
     </message>
     <message>
         <source>Text shown on the text field.</source>
-        <translation type="unfinished"></translation>
+        <translation>Text som visas på textfältet.</translation>
     </message>
     <message>
         <source>Placeholder text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Platshållartext.</translation>
     </message>
     <message>
         <source>Input mask</source>
@@ -62180,7 +62181,7 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>Restricts the valid text in the text field.</source>
-        <translation type="unfinished"></translation>
+        <translation>Begränsar giltiga texten i textfältet.</translation>
     </message>
     <message>
         <source>Echo mode</source>
@@ -62608,19 +62609,19 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>Border and Arc</source>
-        <translation type="unfinished"></translation>
+        <translation>Ramar och bågar</translation>
     </message>
     <message>
         <source>Work with Border and Arc Studio Components.</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbeta med studiokomponenter som ramar och bågar.</translation>
     </message>
     <message>
         <source>Ellipse and Pie</source>
-        <translation type="unfinished"></translation>
+        <translation>Ellipser och pajer</translation>
     </message>
     <message>
         <source>Work with Ellipse and Pie Studio Components.</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbeta med studiokomponenter som ellipser and pajdiagram.</translation>
     </message>
     <message>
         <source>Complex Shapes</source>
@@ -62628,7 +62629,7 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>Work with Polygon, Triangle and Rectangle Studio Components.</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbeta med studiokomponenter som polygoner, trianglar och rektanglar.</translation>
     </message>
 </context>
 <context>
@@ -62642,24 +62643,25 @@ This is used for calculating the total implicit size.</source>
     <name>TumblerSpecifics</name>
     <message>
         <source>Tumbler</source>
-        <translation type="unfinished"></translation>
+        <translation>Tumlare</translation>
     </message>
     <message>
         <source>Visible count</source>
-        <translation type="unfinished"></translation>
+        <translation>Synligt antal</translation>
     </message>
     <message>
         <source>Sets the number of items in the model.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in antalet objekt i modellen.</translation>
     </message>
     <message>
         <source>Sets the index of the current item.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in indexet för aktuellt objekt.</translation>
     </message>
     <message>
         <source>Toggles if the tumbler wraps around when it reaches the
 top or bottom.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar om tumlaren börjar om när den når
+toppen eller botten.</translation>
     </message>
     <message>
         <source>Current index</source>
@@ -62667,20 +62669,22 @@ top or bottom.</source>
     </message>
     <message>
         <source>Wrap</source>
-        <translation type="unfinished"></translation>
+        <translation>Börja om</translation>
     </message>
 </context>
 <context>
     <name>UnimportBundleItemDialog</name>
     <message>
         <source>Bundle %1 might be in use</source>
-        <translation type="unfinished"></translation>
+        <translation>Bundlen %1 kanske används</translation>
     </message>
     <message>
         <source>If the %1 you are removing is in use, it might cause the project to malfunction.
 
 Are you sure you want to remove it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Om den %1 som du tar bort används kan detta orsaka att projektet får problem.
+
+Är du säker på att du vill ta bort den?</translation>
     </message>
     <message>
         <source>Remove</source>
