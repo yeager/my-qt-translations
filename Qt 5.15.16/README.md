@@ -89,7 +89,7 @@ Updating 'qtwebsockets_sv.qm'...
     
 Updating 'qtxmlpatterns_sv.qm'...
 
-    Genererade 10 översättningar (10 slutförda och 0 oavslutade)
+    Genererade 352 översättningar (352 slutförda och 0 oavslutade)
     
-    Ignorerade 475 oöversatta källtexter
+    Ignorerade 133 oöversatta källtexter
     
