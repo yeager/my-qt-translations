@@ -29,11 +29,8 @@ Updating 'qtconnectivity_sv.qm'...
     
 Updating 'qtdeclarative_sv.qm'...
 
-    Genererade 368 översättningar (368 slutförda och 0 oavslutade)
-    
-    Ignorerade 132 oöversatta källtexter
-
-    
+    Genererade 502 översättningar (502 slutförda och 0 oavslutade)
+        
 Updating 'qt_help_sv.qm'...
 
     Genererade 55 översättningar (55 slutförda och 0 oavslutade)
