@@ -49,10 +49,7 @@ Updating 'qtmultimedia_sv.qm'...
     
 Updating 'qtquickcontrols2_sv.qm'...
 
-    Genererade 38 översättningar (38 slutförda och 0 oavslutade)
-    
-    Ignorerade 189 oöversatta källtexter
-
+    Genererade 227 översättningar (227 slutförda och 0 oavslutade)
     
 Updating 'qtquickcontrols_sv.qm'...
 
