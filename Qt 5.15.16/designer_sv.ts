@@ -447,11 +447,11 @@
     </message>
     <message>
         <source>Change Form Layout Item Geometry</source>
-        <translation>Ändra formulärlayout för objektgeometri</translation>
+        <translation>Ändra formulärlayout för postgeometri</translation>
     </message>
     <message>
         <source>Change Layout Item Geometry</source>
-        <translation>Ändra layoutobjektets geometri</translation>
+        <translation>Ändra layoutpostens geometri</translation>
     </message>
     <message>
         <source>Delete Subwindow</source>
@@ -1238,7 +1238,7 @@ Detta indikerar en inkonsistens i ui-filen.</translation>
     </message>
     <message>
         <source>Empty widget item in %1 &apos;%2&apos;.</source>
-        <translation>Tomt widget-objekt i %1 &apos;%2&apos;.</translation>
+        <translation>Tomt widget-post i %1 &apos;%2&apos;.</translation>
     </message>
     <message>
         <source>Flags property are not supported yet.</source>
@@ -3508,7 +3508,7 @@ Vill du skriva över mallen?</translation>
     <name>qdesigner_internal::ComboBoxTaskMenu</name>
     <message>
         <source>Edit Items...</source>
-        <translation>Redigera objekt...</translation>
+        <translation>Redigera poster...</translation>
     </message>
     <message>
         <source>Change Combobox Contents</source>
@@ -4220,11 +4220,11 @@ Vill du skriva över mallen?</translation>
     <name>qdesigner_internal::ItemListEditor</name>
     <message>
         <source>Items List</source>
-        <translation>Objektlista</translation>
+        <translation>Postlista</translation>
     </message>
     <message>
         <source>New Item</source>
-        <translation>Nytt objekt</translation>
+        <translation>Ny post</translation>
     </message>
     <message>
         <source>&amp;New</source>
@@ -4232,7 +4232,7 @@ Vill du skriva över mallen?</translation>
     </message>
     <message>
         <source>Delete Item</source>
-        <translation>Ta bort objekt</translation>
+        <translation>Ta bort post</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -4240,7 +4240,7 @@ Vill du skriva över mallen?</translation>
     </message>
     <message>
         <source>Move Item Up</source>
-        <translation>Flytta objekt upp</translation>
+        <translation>Flytta post upp</translation>
     </message>
     <message>
         <source>U</source>
@@ -4248,7 +4248,7 @@ Vill du skriva över mallen?</translation>
     </message>
     <message>
         <source>Move Item Down</source>
-        <translation>Flytta objekt ner</translation>
+        <translation>Flytta post ner</translation>
     </message>
     <message>
         <source>D</source>
@@ -4292,7 +4292,7 @@ Vill du skriva över mallen?</translation>
     <name>qdesigner_internal::ListWidgetEditor</name>
     <message>
         <source>New Item</source>
-        <translation>Nytt objekt</translation>
+        <translation>Ny post</translation>
     </message>
     <message>
         <source>Edit List Widget</source>
@@ -4307,7 +4307,7 @@ Vill du skriva över mallen?</translation>
     <name>qdesigner_internal::ListWidgetTaskMenu</name>
     <message>
         <source>Edit Items...</source>
-        <translation>Redigera objekt...</translation>
+        <translation>Redigera post...</translation>
     </message>
     <message>
         <source>Change List Contents</source>
@@ -4906,7 +4906,7 @@ rulla, rulla liten bulla.</translation>
     <message>
         <source>Item Views</source>
         <extracomment>Palette Editor Preview Widget</extracomment>
-        <translation>Objektvyer</translation>
+        <translation>Postvyer</translation>
     </message>
     <message>
         <source>Column 1</source>
@@ -4921,17 +4921,17 @@ rulla, rulla liten bulla.</translation>
     <message>
         <source>Nested Item 1</source>
         <extracomment>Palette Editor Preview Widget</extracomment>
-        <translation>Nästlat objekt 1</translation>
+        <translation>Nästlad post 1</translation>
     </message>
     <message>
         <source>Nested Item 2</source>
         <extracomment>Palette Editor Preview Widget</extracomment>
-        <translation>Nästlat objekt 2</translation>
+        <translation>Nästlad post 2</translation>
     </message>
     <message>
         <source>Nested Item 3</source>
         <extracomment>Palette Editor Preview Widget</extracomment>
-        <translation>Nästlat objekt 3</translation>
+        <translation>Nästlad post 3</translation>
     </message>
     <message>
         <source>Simple Input Widgets</source>
@@ -4951,12 +4951,12 @@ rulla, rulla liten bulla.</translation>
     <message>
         <source>Item1</source>
         <extracomment>Palette Editor Preview Widget</extracomment>
-        <translation>Objekt1</translation>
+        <translation>Post1</translation>
     </message>
     <message>
         <source>Item2</source>
         <extracomment>Palette Editor Preview Widget</extracomment>
-        <translation>Objekt2</translation>
+        <translation>Post2</translation>
     </message>
     <message>
         <source>Display Widgets</source>
@@ -5567,7 +5567,7 @@ Klass: %2</translation>
     </message>
     <message>
         <source>Table Items</source>
-        <translation>Tabellobjekt</translation>
+        <translation>Tabellposter</translation>
     </message>
     <message>
         <source>Properties &amp;&gt;&gt;</source>
@@ -5598,7 +5598,7 @@ Klass: %2</translation>
     <name>qdesigner_internal::TableWidgetTaskMenu</name>
     <message>
         <source>Edit Items...</source>
-        <translation>Redigera objekt...</translation>
+        <translation>Redigera poster...</translation>
     </message>
 </context>
 <context>
@@ -5689,11 +5689,11 @@ Klass: %2</translation>
     </message>
     <message>
         <source>&amp;Items</source>
-        <translation>&amp;Objekt</translation>
+        <translation>&amp;Poster</translation>
     </message>
     <message>
         <source>Tree Items</source>
-        <translation>Trädobjekt</translation>
+        <translation>Trädposter</translation>
     </message>
     <message>
         <source>1</source>
@@ -5701,7 +5701,7 @@ Klass: %2</translation>
     </message>
     <message>
         <source>New Item</source>
-        <translation>Nytt objekt</translation>
+        <translation>Ny post</translation>
     </message>
     <message>
         <source>&amp;New</source>
@@ -5709,15 +5709,15 @@ Klass: %2</translation>
     </message>
     <message>
         <source>New Subitem</source>
-        <translation>Nytt underobjekt</translation>
+        <translation>Ny underpost</translation>
     </message>
     <message>
         <source>New &amp;Subitem</source>
-        <translation>Nytt &amp;underobjekt</translation>
+        <translation>Ny &amp;underpost</translation>
     </message>
     <message>
         <source>Delete Item</source>
-        <translation>Ta bort objekt</translation>
+        <translation>Ta bort post</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -5725,7 +5725,7 @@ Klass: %2</translation>
     </message>
     <message>
         <source>Move Item Left (before Parent Item)</source>
-        <translation>Flytta objekt åt vänster (före Förälder-objekt)</translation>
+        <translation>Flytta post åt vänster (före Förälder-post)</translation>
     </message>
     <message>
         <source>L</source>
@@ -5733,7 +5733,7 @@ Klass: %2</translation>
     </message>
     <message>
         <source>Move Item Right (as a First Subitem of the Next Sibling Item)</source>
-        <translation>Flytta objekt åt höger (som ett Första underobjekt för Nästa syskon-objekt)</translation>
+        <translation>Flytta post åt höger (som en Första underpost för Nästa syskon-post)</translation>
     </message>
     <message>
         <source>R</source>
@@ -5741,7 +5741,7 @@ Klass: %2</translation>
     </message>
     <message>
         <source>Move Item Up</source>
-        <translation>Flytta objekt upp</translation>
+        <translation>Flytta post upp</translation>
     </message>
     <message>
         <source>U</source>
@@ -5749,7 +5749,7 @@ Klass: %2</translation>
     </message>
     <message>
         <source>Move Item Down</source>
-        <translation>Flytta objekt ner</translation>
+        <translation>Flytta post ner</translation>
     </message>
     <message>
         <source>D</source>

@@ -407,7 +407,7 @@
     </message>
     <message>
         <source>Style Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Stilfärg</translation>
     </message>
 </context>
 <context>
@@ -519,7 +519,7 @@
     </message>
     <message>
         <source>Content Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Innehållsbredd</translation>
     </message>
     <message>
         <source>Content height used for calculating the total implicit width.</source>
@@ -527,7 +527,7 @@
     </message>
     <message>
         <source>Content Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Innehållshöjd</translation>
     </message>
     <message>
         <source>Content height used for calculating the total implicit height.</source>

@@ -248,19 +248,19 @@
     </message>
     <message>
         <source>The QML debugger</source>
-        <translation type="unfinished"></translation>
+        <translation>QML-felsökaren</translation>
     </message>
     <message>
         <source>The V4 debugger</source>
-        <translation type="unfinished"></translation>
+        <translation>V4-felsökaren</translation>
     </message>
     <message>
         <source>The QML inspector</source>
-        <translation type="unfinished"></translation>
+        <translation>QML-inspekteraren</translation>
     </message>
     <message>
         <source>The QML profiler</source>
-        <translation type="unfinished"></translation>
+        <translation>QML-profileraren</translation>
     </message>
     <message>
         <source>Allows the client to delay the starting and stopping of
@@ -345,7 +345,7 @@
     </message>
     <message>
         <source>resolve: to is not a model item</source>
-        <translation>resolve: to är inte ett model-objekt</translation>
+        <translation>resolve: to är inte en model-post</translation>
     </message>
     <message>
         <source>remove: invalid index</source>
@@ -408,11 +408,11 @@
     <name>QQmlEngine</name>
     <message>
         <source>Locale cannot be instantiated. Use Qt.locale()</source>
-        <translation type="unfinished"></translation>
+        <translation>Locale kan inte instansieras. Använd Qt.locale()</translation>
     </message>
     <message>
         <source>There are still &quot;%1&quot; items in the process of being created at engine destruction.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det finns fortfarande &quot;%1&quot;-poster i processen att bli skapade vid motordestruktion.</translation>
     </message>
     <message>
         <source>executeSql called outside transaction()</source>
@@ -451,7 +451,7 @@
     <name>QQmlEnumTypeResolver</name>
     <message>
         <source>Invalid property assignment: Enum value &quot;%1&quot; cannot start with a lowercase letter</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig egenskapstilldelning: Enum-värdet &quot;%1&quot; kan inte börja med en gemen bokstav</translation>
     </message>
     <message>
         <source>Invalid property assignment: &quot;%1&quot; is a read-only property</source>
@@ -674,43 +674,43 @@
     <name>QQmlParser</name>
     <message>
         <source>Unexpected object definition</source>
-        <translation type="unfinished"></translation>
+        <translation>Oväntad objektdefinition</translation>
     </message>
     <message>
         <source>Invalid import qualifier ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig importbestämnings-id</translation>
     </message>
     <message>
         <source>Reserved name &quot;Qt&quot; cannot be used as an qualifier</source>
-        <translation type="unfinished"></translation>
+        <translation>Reserverat namn &quot;Qt&quot; kan inte användas som en bestämning</translation>
     </message>
     <message>
         <source>Script import qualifiers must be unique.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriptimportbestämning måste vara unika.</translation>
     </message>
     <message>
         <source>Script import requires a qualifier</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriptimport kräver en bestämning</translation>
     </message>
     <message>
         <source>Library import requires a version</source>
-        <translation type="unfinished"></translation>
+        <translation>Biblioteksimport kräver en version</translation>
     </message>
     <message>
         <source>Pragma requires a valid qualifier</source>
-        <translation type="unfinished"></translation>
+        <translation>Pragma kräver en giltig bestämning</translation>
     </message>
     <message>
         <source>Unexpected property type modifier</source>
-        <translation type="unfinished"></translation>
+        <translation>Oväntad egenskapstypmodifierare</translation>
     </message>
     <message>
         <source>Expected property type</source>
-        <translation type="unfinished"></translation>
+        <translation>Förväntade egenskapstyp</translation>
     </message>
     <message>
         <source>Expected parameter type</source>
-        <translation type="unfinished"></translation>
+        <translation>Förväntade parametertyp</translation>
     </message>
     <message>
         <source>Invalid signal parameter type: </source>
@@ -814,7 +814,7 @@
     </message>
     <message>
         <source>File import requires a qualifier</source>
-        <translation type="unfinished"></translation>
+        <translation>Filimport kräver en bestämning</translation>
     </message>
     <message>
         <source>Module import requires a qualifier</source>
@@ -840,15 +840,15 @@
     <name>QQmlPropertyCacheCreatorBase</name>
     <message>
         <source>Fully dynamic types cannot declare new properties.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fullt dynamiska typer kan inte deklarera nya egenskaper.</translation>
     </message>
     <message>
         <source>Fully dynamic types cannot declare new signals.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fullt dynamiska typer kan inte deklarera nya signaler.</translation>
     </message>
     <message>
         <source>Fully Dynamic types cannot declare new functions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fullt dynamiska typer kan inte deklarera nya funktioner.</translation>
     </message>
     <message>
         <source>Non-existent attached object</source>
@@ -864,11 +864,11 @@
     </message>
     <message>
         <source>Duplicate signal name: invalid override of property change signal or superclass signal</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplikat signalnamn ogiltig åsidosättning av egenskapsändring för signal eller superclass-signal</translation>
     </message>
     <message>
         <source>Duplicate method name: invalid override of property change signal or superclass signal</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplikat metodnamn ogiltig åsidosättning av egenskapsändring för signal eller superclass-signal</translation>
     </message>
     <message>
         <source>Invalid property type</source>
@@ -876,7 +876,7 @@
     </message>
     <message>
         <source>Cyclic alias</source>
-        <translation type="unfinished"></translation>
+        <translation>Cykliskt alias</translation>
     </message>
     <message>
         <source>Invalid alias target</source>
@@ -1067,7 +1067,7 @@
     </message>
     <message>
         <source>Attached properties cannot be used here</source>
-        <translation type="unfinished"></translation>
+        <translation>Fästa egenskaper kan inte användas här</translation>
     </message>
     <message>
         <source>Invalid grouped property access: Property &quot;%1&quot; with type &quot;%2&quot;, which is not a value type</source>
@@ -1201,51 +1201,51 @@
     <name>QQuickAnchors</name>
     <message>
         <source>Possible anchor loop detected on fill.</source>
-        <translation type="unfinished"></translation>
+        <translation>Möjlig ankarslinga upptäcktes vid fill.</translation>
     </message>
     <message>
         <source>Possible anchor loop detected on centerIn.</source>
-        <translation type="unfinished"></translation>
+        <translation>Möjlig ankarslinga upptäcktes vid centerIn.</translation>
     </message>
     <message>
         <source>Cannot anchor to an item that isn&apos;t a parent or sibling.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte förankra till en post som inte är en förälder eller syskon.</translation>
     </message>
     <message>
         <source>Possible anchor loop detected on vertical anchor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Möjlig ankarslinga upptäcktes vid vertikal förankring.</translation>
     </message>
     <message>
         <source>Possible anchor loop detected on horizontal anchor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Möjlig ankarslinga upptäcktes vid horisontell förankring.</translation>
     </message>
     <message>
         <source>Cannot specify left, right, and horizontalCenter anchors at the same time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte ange vänster, höger och horizontalCenter-ankare samtidigt.</translation>
     </message>
     <message>
         <source>Cannot anchor to a null item.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte förankra till en null-post.</translation>
     </message>
     <message>
         <source>Cannot anchor a horizontal edge to a vertical edge.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte förankra en horisontell kant till en vertikal kant.</translation>
     </message>
     <message>
         <source>Cannot anchor item to self.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte förankra post till sig själv.</translation>
     </message>
     <message>
         <source>Cannot specify top, bottom, and verticalCenter anchors at the same time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte ange topp, botten och verticalCenter-ankare samtidigt.</translation>
     </message>
     <message>
         <source>Baseline anchor cannot be used in conjunction with top, bottom, or verticalCenter anchors.</source>
-        <translation type="unfinished"></translation>
+        <translation>Baseline-ankare kan inte användas i samband med topp, botten eller verticalCenter-ankare.</translation>
     </message>
     <message>
         <source>Cannot anchor a vertical edge to a horizontal edge.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte förankra en vertikal kant till en horisontell kant.</translation>
     </message>
 </context>
 <context>
@@ -1284,7 +1284,7 @@
     <name>QQuickLayoutMirroringAttached</name>
     <message>
         <source>LayoutDirection attached property only works with Items and Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>LayoutDirection-fäst egenskap fungerar endast med poster och fönster</translation>
     </message>
 </context>
 <context>
@@ -1425,7 +1425,7 @@ Install a driver providing OpenGL 2.0 or higher, or, if this is not possible, ma
     <message>
         <source>Failed to create %1 context for format %2</source>
         <extracomment>%1 Context type (Open GL, EGL), %2 format specification</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att skapa %1-kontext för formatet %2</translation>
     </message>
     <message>
         <source>Failed to initialize graphics backend for %1.</source>
@@ -1436,7 +1436,7 @@ Install a driver providing OpenGL 2.0 or higher, or, if this is not possible, ma
     <name>QQuickWindowQmlImpl</name>
     <message>
         <source>Conflicting properties &apos;visible&apos; and &apos;visibility&apos; for Window &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Egenskaperna &apos;visible&apos; och &apos;visibility&apos; för fönstret &apos;%1&apos; står i konflikt</translation>
     </message>
     <message>
         <source>Conflicting properties &apos;visible&apos; and &apos;visibility&apos;</source>
@@ -1478,15 +1478,15 @@ Install a driver providing OpenGL 2.0 or higher, or, if this is not possible, ma
     <name>SignalTransition</name>
     <message>
         <source>Specified signal does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Angiven signal finns inte.</translation>
     </message>
     <message>
         <source>Cannot assign to non-existent property &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte tilldela en icke-existerande egenskap &quot;%1&quot;</translation>
     </message>
     <message>
         <source>SignalTransition: script expected</source>
-        <translation type="unfinished"></translation>
+        <translation>SignalTransition:-skript förväntades</translation>
     </message>
 </context>
 <context>

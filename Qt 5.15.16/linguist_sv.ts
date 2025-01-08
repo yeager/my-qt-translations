@@ -747,7 +747,7 @@ Kommer att anta en enskild universell form.</translation>
     </message>
     <message>
         <source>Sort the items back in the same order as in the message file.</source>
-        <translation>Sortera tillbaka objekten till samma ordning som i meddelandefilen.</translation>
+        <translation>Sortera tillbaka posterna till samma ordning som i meddelandefilen.</translation>
     </message>
     <message>
         <source>&amp;Display guesses</source>
@@ -955,11 +955,11 @@ Kommer att anta en enskild universell form.</translation>
     </message>
     <message>
         <source>Mark item as done</source>
-        <translation>Markera objekt som slutfört</translation>
+        <translation>Markera post som slutfört</translation>
     </message>
     <message>
         <source>Mark this item as done.</source>
-        <translation>Markera detta objekt som slutfört.</translation>
+        <translation>Markera denna post som slutförd.</translation>
     </message>
     <message>
         <source></source>
@@ -980,7 +980,7 @@ Kommer att anta en enskild universell form.</translation>
     </message>
     <message>
         <source>Items</source>
-        <translation>Objekt</translation>
+        <translation>Poster</translation>
     </message>
     <message>
         <source>This panel lists the source contexts.</source>

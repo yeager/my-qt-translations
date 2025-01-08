@@ -217,7 +217,7 @@
     </message>
     <message>
         <source>When casting to %1 or types derived from it, the source value must be of the same type, or it must be a string literal. Type %2 is not allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vid casting till %1 eller typer härledda från det måste källvärdet vara samma typ eller så måste det vara en strängliteral. Typen %2 tillåts inte.</translation>
     </message>
     <message>
         <source>No casting is possible with %1 as the target type.</source>
@@ -253,7 +253,7 @@
     </message>
     <message>
         <source>Operator %1 is not available between atomic values of type %2 and %3.</source>
-        <translation type="unfinished"></translation>
+        <translation>Operatorn %1 är inte tillgänglig mellan atomiska värden av typen %2 och %3.</translation>
     </message>
     <message>
         <source>In a namespace constructor, the value for a namespace cannot be an empty string.</source>
@@ -403,7 +403,7 @@
     </message>
     <message>
         <source>Whitespace characters are removed, except when they appear in character classes</source>
-        <translation type="unfinished"></translation>
+        <translation>Blankstegstecken tas bort förutom när de finns i teckenklasser</translation>
     </message>
     <message>
         <source>%1 is an invalid regular expression pattern: %2</source>
@@ -431,7 +431,7 @@
     </message>
     <message>
         <source>The normalization form %1 is unsupported. The supported forms are %2, %3, %4, and %5, and none, i.e. the empty string (no normalization).</source>
-        <translation type="unfinished"></translation>
+        <translation>Normaliseringsformuläret %1 stöds inte. Formulär som stöds är %2, %3, %4 och %5 samt none, t.ex den tomma strängen (ingen normalisering).</translation>
     </message>
     <message>
         <source>A zone offset must be in the range %1..%2 inclusive. %3 is out of range.</source>
@@ -451,7 +451,7 @@
     </message>
     <message>
         <source>The item %1 did not match the required type %2.</source>
-        <translation>Objektet %1 matchade inte nödvändiga typen %2.</translation>
+        <translation>Posten %1 matchade inte nödvändiga typen %2.</translation>
     </message>
     <message>
         <source>Attribute %1 cannot appear on the element %2. Only the standard attributes can appear.</source>
@@ -535,7 +535,7 @@
     </message>
     <message>
         <source>A default namespace declaration must occur before function, variable, and option declarations.</source>
-        <translation type="unfinished"></translation>
+        <translation>En deklaration för standardnamnrymd måste inträffa före funktion, variabel och alternativdeklarationer.</translation>
     </message>
     <message>
         <source>Namespace declarations must occur before function, variable, and option declarations.</source>
@@ -595,15 +595,15 @@
     </message>
     <message>
         <source>The namespace for a user defined function cannot be empty (try the predefined prefix %1 which exists for cases like this)</source>
-        <translation type="unfinished"></translation>
+        <translation>Namnrymden för en användardefinierad funktion kan inte vara tom (prova det fördefinierade prefixet %1 som finns för dessa fall)</translation>
     </message>
     <message>
         <source>The namespace %1 is reserved; therefore user defined functions may not use it. Try the predefined prefix %2, which exists for these cases.</source>
-        <translation type="unfinished"></translation>
+        <translation>Namnrymden %1 är reserverad, därför kan användardefinierade funktioner inte använda den. Prova fördefinierade prefixet &amp;2 som finns för dessa fall.</translation>
     </message>
     <message>
         <source>The namespace of a user defined function in a library module must be equivalent to the module namespace. In other words, it should be %1 instead of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Namnrymden för en användardefinierad funktion i en biblioteksmodul måste vara likvärdig till modulens namnrymd. Med andra ord, den måste vara %1 istället för %2.</translation>
     </message>
     <message>
         <source>A function already exists with the signature %1.</source>
@@ -611,7 +611,7 @@
     </message>
     <message>
         <source>No external functions are supported. All supported functions can be used directly, without first declaring them as external</source>
-        <translation>Inga externa funktioner stöds. Alla funktioner som stöds kan användas direkt utan att första deklarera dem som externa.</translation>
+        <translation>Inga externa funktioner stöds. Alla funktioner som stöds kan användas direkt utan att första deklarera dem som externa</translation>
     </message>
     <message>
         <source>An argument with name %1 has already been declared. Every argument name must be unique.</source>
@@ -647,7 +647,7 @@
     </message>
     <message>
         <source>The name of a variable bound in a for-expression must be different from the positional variable. Hence, the two variables named %1 collide.</source>
-        <translation type="unfinished"></translation>
+        <translation>Namnet för en variabel bunden i ett for-uttryck måste vara olikt från den positionella variabeln. Därför kolliderar de två variablerna med namnet %1.</translation>
     </message>
     <message>
         <source>The Schema Validation Feature is not supported. Hence, %1-expressions may not be used.</source>
@@ -723,7 +723,7 @@
     </message>
     <message>
         <source>%1 is not in the in-scope attribute declarations. Note that the schema import feature is not supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 är inte i deklarationer för in-scope-attributet. Observera att schemaimportfunktionen stöds inte.</translation>
     </message>
     <message>
         <source>The name of an extension expression must be in a namespace.</source>
@@ -823,7 +823,7 @@
     </message>
     <message>
         <source>Top level stylesheet elements must be in a non-null namespace, which %1 isn&apos;t.</source>
-        <translation type="unfinished"></translation>
+        <translation>Element för toppnivåstilmall måste vara i en icke-noll namnrymd, vilket %1 inte är.</translation>
     </message>
     <message>
         <source>The value for attribute %1 on element %2 must either be %3 or %4, not %5.</source>
@@ -851,7 +851,7 @@
     </message>
     <message>
         <source>Derived element %1 is missing value constraint as defined in base particle.</source>
-        <translation type="unfinished"></translation>
+        <translation>Härledda elementet %1 saknar värdesconstraint som definierad i baspartikel.</translation>
     </message>
     <message>
         <source>Derived element %1 has weaker value constraint than base particle.</source>
@@ -871,11 +871,11 @@
     </message>
     <message>
         <source>Simple type of derived element %1 cannot be validly derived from base element.</source>
-        <translation type="unfinished"></translation>
+        <translation>Simple-typen av härledda elementet %1 kan inte giltigt härledas från baselementet.</translation>
     </message>
     <message>
         <source>Complex type of derived element %1 cannot be validly derived from base element.</source>
-        <translation type="unfinished"></translation>
+        <translation>Komplexa typen för härledda elementet %1 kan inte giltigt härledas från baselementet.</translation>
     </message>
     <message>
         <source>Element %1 is missing in derived particle.</source>
@@ -883,15 +883,15 @@
     </message>
     <message>
         <source>Element %1 does not match namespace constraint of wildcard in base particle.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elementet %1 matchar inte namnrymdsconstraint för jokertecken i baspartikel.</translation>
     </message>
     <message>
         <source>Wildcard in derived particle is not a valid subset of wildcard in base particle.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jokertecken i härledd partikel är inte en giltig delmängd av jokertecken i baspartikel.</translation>
     </message>
     <message>
         <source>processContent of wildcard in derived particle is weaker than wildcard in base particle.</source>
-        <translation type="unfinished"></translation>
+        <translation>processContent för jokertecken i härledd partikel är svagare än jokertecken i baspartikel.</translation>
     </message>
     <message>
         <source>Derived particle allows content that is not allowed in the base particle.</source>
@@ -951,7 +951,7 @@
     </message>
     <message>
         <source>Simple type %1 is only allowed to have %2 facet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Simple-typen %1 tillåts endast att ha %2-facet.</translation>
     </message>
     <message>
         <source>Base type of simple type %1 must have variety of type list.</source>
@@ -983,7 +983,7 @@
     </message>
     <message>
         <source>Base type %1 of simple type %2 is not allowed to have restriction in %3 attribute.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bastypen %1 för simple-typen %2 tillåts inte att ha begränsning i %3-attributet.</translation>
     </message>
     <message>
         <source>Member type %1 cannot be derived from member type %2 of %3&apos;s base type %4.</source>
@@ -1419,7 +1419,7 @@
     </message>
     <message>
         <source>Item type %1 of %2 element cannot be resolved.</source>
-        <translation>Objekttypen %1 flr %2-element kan inte slås upp.</translation>
+        <translation>Posttypen %1 för %2-element kan inte slås upp.</translation>
     </message>
     <message>
         <source>Member type %1 of %2 element cannot be resolved.</source>

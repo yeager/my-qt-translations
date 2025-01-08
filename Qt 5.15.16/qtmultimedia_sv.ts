@@ -406,7 +406,7 @@
     <name>QMediaPlaylist</name>
     <message>
         <source>Could not add items to read only playlist.</source>
-        <translation>Kunde inte lägga till objekt till skrivskyddad spellista.</translation>
+        <translation>Kunde inte lägga till poster till skrivskyddad spellista.</translation>
     </message>
     <message>
         <source>Playlist format is not supported</source>
