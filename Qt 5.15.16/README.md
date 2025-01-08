@@ -29,9 +29,9 @@ Updating 'qtconnectivity_sv.qm'...
     
 Updating 'qtdeclarative_sv.qm'...
 
-    Genererade 246 översättningar (246 slutförda och 0 oavslutade)
+    Genererade 289 översättningar (289 slutförda och 0 oavslutade)
     
-    Ignorerade 93 oöversatta källtexter
+    Ignorerade 50 oöversatta källtexter
 
     
 Updating 'qt_help_sv.qm'...
@@ -51,9 +51,9 @@ Updating 'qtmultimedia_sv.qm'...
     
 Updating 'qtquickcontrols2_sv.qm'...
 
-    Genererade 35 översättningar (35 slutförda och 0 oavslutade)
+    Genererade 38 översättningar (38 slutförda och 0 oavslutade)
     
-    Ignorerade 192 oöversatta källtexter
+    Ignorerade 189 oöversatta källtexter
 
     
 Updating 'qtquickcontrols_sv.qm'...
@@ -89,7 +89,7 @@ Updating 'qtwebsockets_sv.qm'...
     
 Updating 'qtxmlpatterns_sv.qm'...
 
-    Genererade 352 översättningar (352 slutförda och 0 oavslutade)
+    Genererade 371 översättningar (371 slutförda och 0 oavslutade)
     
-    Ignorerade 133 oöversatta källtexter
+    Ignorerade 114 oöversatta källtexter
     
