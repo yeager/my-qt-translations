@@ -355,7 +355,7 @@
     </message>
     <message>
         <source>The second argument to %1 cannot be of type %2. It must be of type %3, %4, or %5.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det andra argumentet till %1 kan inte vara av typen %2. Det måste vara av typen %3, %4, eller %5.</translation>
     </message>
     <message>
         <source>%1 is not a valid XML 1.0 character.</source>
@@ -415,7 +415,7 @@
     </message>
     <message>
         <source>If the first argument is the empty sequence or a zero-length string (no namespace), a prefix cannot be specified. Prefix %1 was specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Om första argumentet är den tomma sekvensen eller en noll-längdssträng (ingen namnrymd) kan inte ett prefix anges. Prefixet %1 angavs.</translation>
     </message>
     <message>
         <source>It will not be possible to retrieve %1.</source>
@@ -471,7 +471,7 @@
     </message>
     <message>
         <source>XSL-T attributes on XSL-T elements must be in the null namespace, not in the XSL-T namespace which %1 is.</source>
-        <translation type="unfinished"></translation>
+        <translation>XSL-T-attribut på XSL-T-element måste vara i null-namnrymden, inte i XSL-T-namnrymden vilket %1 är.</translation>
     </message>
     <message>
         <source>The attribute %1 must appear on element %2.</source>
@@ -599,11 +599,11 @@
     </message>
     <message>
         <source>The namespace %1 is reserved; therefore user defined functions may not use it. Try the predefined prefix %2, which exists for these cases.</source>
-        <translation>Namnrymden %1 är reserverad, därför kan användardefinierade funktioner inte använda den. Prova fördefinierade prefixet &amp;2 som finns för dessa fall.</translation>
+        <translation>Namnrymden %1 är reserverad, därför kan användardefinierade funktioner inte använda den. Prova fördefinierade prefixet %2 som finns för dessa fall.</translation>
     </message>
     <message>
         <source>The namespace of a user defined function in a library module must be equivalent to the module namespace. In other words, it should be %1 instead of %2</source>
-        <translation>Namnrymden för en användardefinierad funktion i en biblioteksmodul måste vara likvärdig till modulens namnrymd. Med andra ord, den måste vara %1 istället för %2.</translation>
+        <translation>Namnrymden för en användardefinierad funktion i en biblioteksmodul måste vara likvärdig till modulens namnrymd. Med andra ord, den måste vara %1 istället för %2</translation>
     </message>
     <message>
         <source>A function already exists with the signature %1.</source>
@@ -855,7 +855,7 @@
     </message>
     <message>
         <source>Derived element %1 has weaker value constraint than base particle.</source>
-        <translation>Härlett element %1 har svagare värdesconstraint än baspartikeln.</translation>
+        <translation>Härledda elementet %1 har svagare värdesconstraint än baspartikeln.</translation>
     </message>
     <message>
         <source>Fixed value constraint of element %1 differs from value constraint in base particle.</source>
@@ -863,11 +863,11 @@
     </message>
     <message>
         <source>Derived element %1 cannot be nillable as base element is not nillable.</source>
-        <translation>Härlett element %1 kan inte vara nollbart eftersom baselementet inte är nollbart.</translation>
+        <translation>Härledda elementet %1 kan inte vara nollbart eftersom baselementet inte är nollbart.</translation>
     </message>
     <message>
         <source>Block constraints of derived element %1 must not be more weaker than in the base element.</source>
-        <translation>Blockconstraints för härlett element %1 får inte vara svagare än baselementet.</translation>
+        <translation>Blockconstraints för härledda elementet %1 får inte vara svagare än baselementet.</translation>
     </message>
     <message>
         <source>Simple type of derived element %1 cannot be validly derived from base element.</source>
@@ -899,55 +899,55 @@
     </message>
     <message>
         <source>%1 has inheritance loop in its base type %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 har en arveslinga i sin bastyp %2.</translation>
     </message>
     <message>
         <source>Circular inheritance of base type %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cirkulärt arv av bastypen %1.</translation>
     </message>
     <message>
         <source>Circular inheritance of union %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cirkulärt arv för union %1.</translation>
     </message>
     <message>
         <source>%1 is not allowed to derive from %2 by restriction as the latter defines it as final.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 tillåts inte att härleda från %2 genom begränsning eftersom den senare definierar den som slutgiltig.</translation>
     </message>
     <message>
         <source>%1 is not allowed to derive from %2 by extension as the latter defines it as final.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 tillåts inte härleda från %2 genom utökning eftersom den senare definierar den som slutgiltig.</translation>
     </message>
     <message>
         <source>Base type of simple type %1 cannot be complex type %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bastypen för simple type %1 kan inte vara komplex type %2.</translation>
     </message>
     <message>
         <source>Simple type %1 cannot have direct base type %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Simple type %1 kan inte ha direkta base type %2.</translation>
     </message>
     <message>
         <source>Simple type %1 is not allowed to have base type %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Simple type %1 tillåts inte ha base type %2.</translation>
     </message>
     <message>
         <source>Simple type %1 can only have simple atomic type as base type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Simple type %1 kan endast ha simple atomic type som base type.</translation>
     </message>
     <message>
         <source>Simple type %1 cannot derive from %2 as the latter defines restriction as final.</source>
-        <translation type="unfinished"></translation>
+        <translation>Simple type %1 kan inte härleda från %2 eftersom den senare definierar begränsning som slutgiltig.</translation>
     </message>
     <message>
         <source>Variety of item type of %1 must be either atomic or union.</source>
-        <translation type="unfinished"></translation>
+        <translation>Variety för item type av %1 måste vara antingen atomic eller union.</translation>
     </message>
     <message>
         <source>Variety of member types of %1 must be atomic or union.</source>
-        <translation type="unfinished"></translation>
+        <translation>Variety av member types för %1 måste vara atomic eller union.</translation>
     </message>
     <message>
         <source>%1 is not allowed to derive from %2 by list as the latter defines it as final.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 tillåts inte härleda från %2 genom lista eftersom den senare definierar den som slutgiltig.</translation>
     </message>
     <message>
         <source>Simple type %1 is only allowed to have %2 facet.</source>
@@ -955,15 +955,15 @@
     </message>
     <message>
         <source>Base type of simple type %1 must have variety of type list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Base type för simple type %1 måste ha variety för type list.</translation>
     </message>
     <message>
         <source>Base type of simple type %1 has defined derivation by restriction as final.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bastypen för simple type %1 har definierat härledning med begränsning som slutgiltig.</translation>
     </message>
     <message>
         <source>Item type of base type does not match item type of %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Item type för base type matchar inte item type för %1.</translation>
     </message>
     <message>
         <source>Simple type %1 contains not allowed facet type %2.</source>
@@ -971,7 +971,7 @@
     </message>
     <message>
         <source>%1 is not allowed to derive from %2 by union as the latter defines it as final.</source>
-        <translation>%1 är inte tillåten att härleda från %2 genom union eftersom den senare definierar den som final.</translation>
+        <translation>%1 är inte tillåten att härleda från %2 genom union eftersom den senare definierar den som slutgiltig.</translation>
     </message>
     <message>
         <source>%1 is not allowed to have any facets.</source>
@@ -987,15 +987,15 @@
     </message>
     <message>
         <source>Member type %1 cannot be derived from member type %2 of %3&apos;s base type %4.</source>
-        <translation type="unfinished"></translation>
+        <translation>Member-type %1 kan inte härledas från member type %2 av %3s bastypen %4.</translation>
     </message>
     <message>
         <source>Derivation method of %1 must be extension because the base type %2 is a simple type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Härledningsmetoden för %1 måste vara utökning därför att base type %2 är en simple type.</translation>
     </message>
     <message>
         <source>Complex type %1 has duplicated element %2 in its content model.</source>
-        <translation type="unfinished"></translation>
+        <translation>Komplexa type %1 har duplikata elementet %2 i sin innehållsmodell.</translation>
     </message>
     <message>
         <source>Complex type %1 has non-deterministic content.</source>
@@ -1003,39 +1003,39 @@
     </message>
     <message>
         <source>Attributes of complex type %1 are not a valid extension of the attributes of base type %2: %3.</source>
-        <translation type="unfinished"></translation>
+        <translation>Attribut av komplexa type %1 är inte en giltig utökning av attributen för base type %2: %3.</translation>
     </message>
     <message>
         <source>Content model of complex type %1 is not a valid extension of content model of %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Innehållsmodell för komplexa type %1 är inte en giltig utökning av innehållsmodellen för %2.</translation>
     </message>
     <message>
         <source>Complex type %1 must have simple content.</source>
-        <translation type="unfinished"></translation>
+        <translation>Komplexa type %1 måste ha simple-innehåll.</translation>
     </message>
     <message>
         <source>Complex type %1 must have the same simple type as its base class %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Komplexa type %1 måste ha samma simple type som sin base class %2.</translation>
     </message>
     <message>
         <source>Complex type %1 cannot be derived from base type %2%3.</source>
-        <translation type="unfinished"></translation>
+        <translation>Komplexa type %1 kan inte härledas från bastypen %2%3.</translation>
     </message>
     <message>
         <source>Attributes of complex type %1 are not a valid restriction from the attributes of base type %2: %3.</source>
-        <translation type="unfinished"></translation>
+        <translation>Attribut av komplexa type %1 är inte en giltig begränsning från attributen av bastypen %2: %3.</translation>
     </message>
     <message>
         <source>Complex type %1 with simple content cannot be derived from complex base type %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Komplexa type %1 med simple content kan inte härledas från komplexa base type %2.</translation>
     </message>
     <message>
         <source>Item type of simple type %1 cannot be a complex type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Item-type för simple-type %1 kan inte vara en komplex type.</translation>
     </message>
     <message>
         <source>Member type of simple type %1 cannot be a complex type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Member type av simple type %1 kan inte vara en complex type.</translation>
     </message>
     <message>
         <source>%1 is not allowed to have a member type with the same name as itself.</source>
@@ -1047,303 +1047,303 @@
     </message>
     <message>
         <source>%1 facet must have the same value as %2 facet of base type.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-facet måste ha samma värde som %2-facet av bastyp.</translation>
     </message>
     <message>
         <source>%1 facet must be equal or greater than %2 facet of base type.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-facet måste vara lika med eller större än %2-facet av bastyp.</translation>
     </message>
     <message>
         <source>%1 facet must be less than or equal to %2 facet of base type.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-facet måste vara mindre än eller lika med %2-facet av bastyp.</translation>
     </message>
     <message>
         <source>%1 facet contains invalid regular expression</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-facet innehåller ogiltigt reguljärt uttryck</translation>
     </message>
     <message>
         <source>Unknown notation %1 used in %2 facet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Okänd notation %1 användes i %2-facet.</translation>
     </message>
     <message>
         <source>%1 facet contains invalid value %2: %3.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-facet innehåller ogiltigt värde %2: %3.</translation>
     </message>
     <message>
         <source>%1 facet cannot be %2 or %3 if %4 facet of base type is %5.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-facet kan inte vara %2 eller %3 om %4-facet av bastypen är %5.</translation>
     </message>
     <message>
         <source>%1 facet cannot be %2 if %3 facet of base type is %4.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-facet kan inte vara %2 om %3-facet av bastypen är %4.</translation>
     </message>
     <message>
         <source>%1 facet must be less than or equal to %2 facet.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-facet måste vara mindre än eller lika med %2-facet.</translation>
     </message>
     <message>
         <source>%1 facet must be less than %2 facet of base type.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-facet måste vara mindre än %2-facet av bastyp.</translation>
     </message>
     <message>
         <source>%1 facet and %2 facet cannot appear together.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-facet och %2-facet kan inte finnas samtidigt.</translation>
     </message>
     <message>
         <source>%1 facet must be greater than %2 facet of base type.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-facet måste vara större än %2-facet av bastypen.</translation>
     </message>
     <message>
         <source>%1 facet must be less than %2 facet.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-facet måste vara mindre än %2-facet.</translation>
     </message>
     <message>
         <source>%1 facet must be greater than or equal to %2 facet of base type.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-facet måste vara större än eller lika med %2-facet av bastyp.</translation>
     </message>
     <message>
         <source>Simple type contains not allowed facet %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Simple type innehåller icke tillåtna facet %1.</translation>
     </message>
     <message>
         <source>%1, %2, %3, %4, %5 and %6 facets are not allowed when derived by list.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1, %2, %3, %4, %5 och %6-facets är inte tillåtna när härledda genom lista.</translation>
     </message>
     <message>
         <source>Only %1 and %2 facets are allowed when derived by union.</source>
-        <translation type="unfinished"></translation>
+        <translation>Endast %1 och %2-facet tillåts när härledda av union.</translation>
     </message>
     <message>
         <source>%1 contains %2 facet with invalid data: %3.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 innehåller %2-facet med ogiltigt data: %3.</translation>
     </message>
     <message>
         <source>Attribute group %1 contains attribute %2 twice.</source>
-        <translation type="unfinished"></translation>
+        <translation>Attributgruppen %1 innehåller attributet %2 två gånger.</translation>
     </message>
     <message>
         <source>Attribute group %1 contains two different attributes that both have types derived from %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Attributgruppen %1 innehåller två olika attribut som båda har types härledda från %2.</translation>
     </message>
     <message>
         <source>Attribute group %1 contains attribute %2 that has value constraint but type that inherits from %3.</source>
-        <translation type="unfinished"></translation>
+        <translation>Attributgruppen %1 innehåller attributet %2 som har värdesconstraint men type som ärver från %3.</translation>
     </message>
     <message>
         <source>Complex type %1 contains attribute %2 twice.</source>
-        <translation type="unfinished"></translation>
+        <translation>Komplex type %1 innehåller attributet %2 två gånger.</translation>
     </message>
     <message>
         <source>Complex type %1 contains two different attributes that both have types derived from %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Komplexa type %1 innehåller två olika attribut som båda har types härledda från %2.</translation>
     </message>
     <message>
         <source>Complex type %1 contains attribute %2 that has value constraint but type that inherits from %3.</source>
-        <translation type="unfinished"></translation>
+        <translation>Komplexa type %1 innehåller attributet %2 som har värdesconstraint men type som ärver från %3.</translation>
     </message>
     <message>
         <source>Element %1 is not allowed to have a value constraint if its base type is complex.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elementet %1 tillåts inte ha en värdesconstraint om dess base type är complex.</translation>
     </message>
     <message>
         <source>Element %1 is not allowed to have a value constraint if its type is derived from %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elementet %1 tillåts inte ha en värdesconstraint om dess type härletts från %2.</translation>
     </message>
     <message>
         <source>Value constraint of element %1 is not of elements type: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Värdesconstraint för elementet %1 är inte av elements type: %2.</translation>
     </message>
     <message>
         <source>Element %1 is not allowed to have substitution group affiliation as it is no global element.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elementet %1 tillåts inte att ha substitution group affiliation eftersom den inte är ett global element.</translation>
     </message>
     <message>
         <source>Type of element %1 cannot be derived from type of substitution group affiliation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Type för elementet %1 kan inte härledas från type för substitution group affiliation.</translation>
     </message>
     <message>
         <source>Value constraint of attribute %1 is not of attributes type: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Värdesconstraint för attributet %1 är inte av attributes type: %2.</translation>
     </message>
     <message>
         <source>Attribute %1 has value constraint but has type derived from %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Attributet %1 har värdesconstraint men har typen härledd från %2.</translation>
     </message>
     <message>
         <source>%1 attribute in derived complex type must be %2 like in base type.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-attributet i härledd komplex type måste vara %2 som i bastypen.</translation>
     </message>
     <message>
         <source>Attribute %1 in derived complex type must have %2 value constraint like in base type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Attributet %1 i härledd complex type måste ha %2 värdesconstraint som i base type.</translation>
     </message>
     <message>
         <source>Attribute %1 in derived complex type must have the same %2 value constraint like in base type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Attributet %1 i härledda komplexa type måste ha samma %2 värdesconstraint som i base type.</translation>
     </message>
     <message>
         <source>Attribute %1 in derived complex type must have %2 value constraint.</source>
-        <translation type="unfinished"></translation>
+        <translation>Attributet %1 i härledda komplexa type måste ha %2 värdesconstraint.</translation>
     </message>
     <message>
         <source>processContent of base wildcard must be weaker than derived wildcard.</source>
-        <translation type="unfinished"></translation>
+        <translation>processContent för base wildcard måste vara svagare än härlett wildcard.</translation>
     </message>
     <message>
         <source>Element %1 exists twice with different types.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elementet %1 finns två gånger med olika typer.</translation>
     </message>
     <message>
         <source>Particle contains non-deterministic wildcards.</source>
-        <translation type="unfinished"></translation>
+        <translation>Partikel innehåller icke-deterministiska jokertecken.</translation>
     </message>
     <message>
         <source>Base attribute %1 is required but derived attribute is not.</source>
-        <translation type="unfinished"></translation>
+        <translation>Basattributet %1 krävs men härledda attributet är inte.</translation>
     </message>
     <message>
         <source>Type of derived attribute %1 cannot be validly derived from type of base attribute.</source>
-        <translation type="unfinished"></translation>
+        <translation>Type av härledda attributet %1 kan inte giltigt härledas från type av base attribute.</translation>
     </message>
     <message>
         <source>Value constraint of derived attribute %1 does not match value constraint of base attribute.</source>
-        <translation type="unfinished"></translation>
+        <translation>Värdesconstraint för härledda attributet %1 matchar inte värdesconstraint för base attribute.</translation>
     </message>
     <message>
         <source>Derived attribute %1 does not exist in the base definition.</source>
-        <translation type="unfinished"></translation>
+        <translation>Härledda attributet %1 finns inte i basdefinitionen.</translation>
     </message>
     <message>
         <source>Derived attribute %1 does not match the wildcard in the base definition.</source>
-        <translation type="unfinished"></translation>
+        <translation>Härledda attributet %1 matchar inte jokertecknet i basdefinitionen.</translation>
     </message>
     <message>
         <source>Base attribute %1 is required but missing in derived definition.</source>
-        <translation type="unfinished"></translation>
+        <translation>Basattributet %1 krävs men saknas i härledd definition.</translation>
     </message>
     <message>
         <source>Derived definition contains an %1 element that does not exists in the base definition</source>
-        <translation type="unfinished"></translation>
+        <translation>Härledd definition innehåller ett %1-element som inte finns i basdefinitionen</translation>
     </message>
     <message>
         <source>Derived wildcard is not a subset of the base wildcard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Härledda jokertecknet är inte ett subset av basjokertecknet.</translation>
     </message>
     <message>
         <source>%1 of derived wildcard is not a valid restriction of %2 of base wildcard</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 av härledda jokertecknet är inte en giltig begränsning av %2 för basjokertecknet</translation>
     </message>
     <message>
         <source>Attribute %1 from base type is missing in derived type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Attributet %1 från bastypen saknas i härledd type.</translation>
     </message>
     <message>
         <source>Type of derived attribute %1 differs from type of base attribute.</source>
-        <translation type="unfinished"></translation>
+        <translation>Type av härledda attributet %1 skiljer sig från type för base attribute.</translation>
     </message>
     <message>
         <source>Base definition contains an %1 element that is missing in the derived definition</source>
-        <translation type="unfinished"></translation>
+        <translation>Basdefinitionen innehåller ett %1-element som saknas i härledda definitionen</translation>
     </message>
     <message>
         <source>Can not process unknown element %1, expected elements are: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte behandla okända elementet %1, förväntade element är: %2.</translation>
     </message>
     <message>
         <source>Element %1 is not allowed in this scope, possible elements are: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elementet %1 tillåts inte i detta omfång, möjliga element är: %2.</translation>
     </message>
     <message>
         <source>Child element is missing in that scope, possible child elements are: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Barnelement saknas i det omfånget, möjliga barnelement är: %1.</translation>
     </message>
     <message>
         <source>Document is not a XML schema.</source>
-        <translation type="unfinished"></translation>
+        <translation>Document är inte ett XML-schema.</translation>
     </message>
     <message>
         <source>%1 attribute of %2 element contains invalid content: {%3} is not a value of type %4.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-attributet för %2-element innehåller ogiltigt innehåll: (%3) är inte ett värde för typen %4.</translation>
     </message>
     <message>
         <source>%1 attribute of %2 element contains invalid content: {%3}.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-attributet för %2-elementet innehåller ogiltigt innehåll: {%3}.</translation>
     </message>
     <message>
         <source>Target namespace %1 of included schema is different from the target namespace %2 as defined by the including schema.</source>
-        <translation type="unfinished"></translation>
+        <translation>Målnamnrymden %1 för inkluderat schema skiljer sig från målnamnrymden %2 som definierats av inkluderat schema.</translation>
     </message>
     <message>
         <source>Target namespace %1 of imported schema is different from the target namespace %2 as defined by the importing schema.</source>
-        <translation type="unfinished"></translation>
+        <translation>Målnamnrymden %1 för importerat schema stämmer inte överens med målnamnrymden %2 eftersom den definierats av importerat schema.</translation>
     </message>
     <message>
         <source>%1 element is not allowed to have the same %2 attribute value as the target namespace %3.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-elementet tillåts inte att ha samma %2-attributvärde som målnamnrymden %3.</translation>
     </message>
     <message>
         <source>%1 element without %2 attribute is not allowed inside schema without target namespace.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-elementet utan %2-attribut tillåts inte inne i schema utan målnamnrymd.</translation>
     </message>
     <message>
         <source>%1 element is not allowed inside %2 element if %3 attribute is present.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-elementet tillåts in inne i %2-element om %3-attributet finns.</translation>
     </message>
     <message>
         <source>%1 element has neither %2 attribute nor %3 child element.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-elementet har varken %2-attribut eller %3-barnelement.</translation>
     </message>
     <message>
         <source>%1 element with %2 child element must not have a %3 attribute.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-elementet med %2-barnelement får inte ha ett %3-attribut.</translation>
     </message>
     <message>
         <source>%1 attribute of %2 element must be %3 or %4.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-attributet för %2-elementet måste vara %3 eller %4.</translation>
     </message>
     <message>
         <source>%1 attribute of %2 element must have a value of %3.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-attributet för %2-elementet måste ha ett värde på %3.</translation>
     </message>
     <message>
         <source>%1 attribute of %2 element must have a value of %3 or %4.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-attributet för %2-elementet måste ha ett värde på %3 eller %4.</translation>
     </message>
     <message>
         <source>%1 element must not have %2 and %3 attribute together.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-elementet får inte ha %2 och %3-attribut tillsammans.</translation>
     </message>
     <message>
         <source>Content of %1 attribute of %2 element must not be from namespace %3.</source>
-        <translation type="unfinished"></translation>
+        <translation>Innehåll för %1-attributet för %2-elementet får inte vara från namnrymden %3.</translation>
     </message>
     <message>
         <source>%1 attribute of %2 element must not be %3.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-attributet för %2-elementet får inte vara %3.</translation>
     </message>
     <message>
         <source>%1 attribute of %2 element must have the value %3 because the %4 attribute is set.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-attributet för %2-elementet måste ha värdet %3 därför att %4-attributet är inställt.</translation>
     </message>
     <message>
         <source>Specifying use=&apos;prohibited&apos; inside an attribute group has no effect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange use=&apos;prohibited&apos; inne i en attribute group har ingen effekt.</translation>
     </message>
     <message>
         <source>%1 element must have either %2 or %3 attribute.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-element måste ha antingen %2 eller %3-attribut.</translation>
     </message>
     <message>
         <source>%1 element must have either %2 attribute or %3 or %4 as child element.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-elementet måste ha antingen %2-attribut,%3 eller %4 som barnelement.</translation>
     </message>
     <message>
         <source>%1 element requires either %2 or %3 attribute.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-elementet kräver antingen %2 eller %3-attribut.</translation>
     </message>
     <message>
         <source>Text or entity references not allowed inside %1 element</source>
-        <translation type="unfinished"></translation>
+        <translation>Text eller entitetsreferenser tillåts inte inne i %1-element</translation>
     </message>
     <message>
         <source>%1 attribute of %2 element must contain %3, %4 or a list of URIs.</source>
@@ -1355,7 +1355,7 @@
     </message>
     <message>
         <source>%1 attribute of %2 element has larger value than %3 attribute.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-attributet för %2-elementet har större värde än %3-attributet.</translation>
     </message>
     <message>
         <source>Prefix of qualified name %1 is not defined.</source>
@@ -1363,7 +1363,7 @@
     </message>
     <message>
         <source>%1 attribute of %2 element must either contain %3 or the other values.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-attributet för %2-elementet måste antingen innehålla %3 eller andra värden.</translation>
     </message>
     <message>
         <source>Component with ID %1 has been defined previously.</source>
@@ -1411,7 +1411,7 @@
     </message>
     <message>
         <source>%1 has a different number of fields from the identity constraint %2 that it references.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 har ett annat antal fields från identitetsconstrainten %2 som den refererar.</translation>
     </message>
     <message>
         <source>Base type %1 of %2 element cannot be resolved.</source>
@@ -1439,11 +1439,11 @@
     </message>
     <message>
         <source>Content model of complex type %1 contains %2 element so it cannot be derived by extension from a non-empty type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Innehållsmodellen för komplexa type %1 innehåller %2-element så den kan inte härledas genom utökning från en icke-tom type.</translation>
     </message>
     <message>
         <source>Complex type %1 cannot be derived by extension from %2 as the latter contains %3 element in its content model.</source>
-        <translation type="unfinished"></translation>
+        <translation>Komplexa type %1 kan inte härledas genom utökning från %2 eftersom den senare innehåller %3-element i sin innehållsmodell.</translation>
     </message>
     <message>
         <source>Type of %1 element must be a simple type, %2 is not.</source>
@@ -1483,7 +1483,7 @@
     </message>
     <message>
         <source>%1 or %2 attribute of reference %3 does not match with the attribute declaration %4.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 eller %2-attributet för referensen %3 matchar inte med attributets deklaration %4.</translation>
     </message>
     <message>
         <source>Attribute group %1 has circular reference.</source>
@@ -1507,7 +1507,7 @@
     </message>
     <message>
         <source>Enumeration facet contains invalid content: {%1} is not a value of type %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enumeration-facet innehåller ogiltigt innehåll: {%1} är inte ett värde för type %2.</translation>
     </message>
     <message>
         <source>Namespace prefix of qualified name %1 is not defined.</source>
@@ -1959,7 +1959,7 @@
     </message>
     <message>
         <source>Only the Unicode Codepoint Collation is supported(%1). %2 is unsupported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Endast Unicode Codepoint Collation stöds (%1). %2 stöds inte.</translation>
     </message>
 </context>
 </TS>
