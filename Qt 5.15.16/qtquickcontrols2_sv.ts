@@ -5,7 +5,7 @@
     <name>AbstractButtonSection</name>
     <message>
         <source>AbstractButton</source>
-        <translation type="unfinished"></translation>
+        <translation>Abstraktknapp</translation>
     </message>
     <message>
         <source>Text</source>
@@ -13,54 +13,54 @@
     </message>
     <message>
         <source>The text displayed on the button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Texten som visas på knappen.</translation>
     </message>
     <message>
         <source>Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Visning</translation>
     </message>
     <message>
         <source>Determines how the icon and text are displayed within the button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestämmer hur ikonen och text visas inom knappen.</translation>
     </message>
     <message>
         <source>Checkable</source>
-        <translation type="unfinished"></translation>
+        <translation>Markeringsbar</translation>
     </message>
     <message>
         <source>Whether the button is checkable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Huruvida knappen är kryssningsbar.</translation>
     </message>
     <message>
         <source>Checked</source>
-        <translation type="unfinished"></translation>
+        <translation>Markerad</translation>
     </message>
     <message>
         <source>Whether the button is checked.</source>
-        <translation type="unfinished"></translation>
+        <translation>Huruvida knappen är kryssad.</translation>
     </message>
     <message>
         <source>Exclusive</source>
-        <translation type="unfinished"></translation>
+        <translation>Exklusiv</translation>
     </message>
     <message>
         <source>Whether the button is exclusive.</source>
-        <translation type="unfinished"></translation>
+        <translation>Huruvida knappen är exklusiv.</translation>
     </message>
     <message>
         <source>Auto-Repeat</source>
-        <translation type="unfinished"></translation>
+        <translation>Upprepa automatiskt</translation>
     </message>
     <message>
         <source>Whether the button repeats pressed(), released() and clicked() signals while the button is pressed and held down.</source>
-        <translation type="unfinished"></translation>
+        <translation>Huruvida knappen upprepar pressed(), released() ochclicked()-signaler när knappen trycks ner och hålls kvar.</translation>
     </message>
 </context>
 <context>
     <name>BusyIndicatorSpecifics</name>
     <message>
         <source>BusyIndicator</source>
-        <translation type="unfinished"></translation>
+        <translation>Upptagetindikator</translation>
     </message>
     <message>
         <source>Running</source>
@@ -68,7 +68,7 @@
     </message>
     <message>
         <source>Whether the busy indicator is currently indicating activity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Huruvida upptagetindikatorn är indikerar aktivitet just nu.</translation>
     </message>
 </context>
 <context>
@@ -79,67 +79,67 @@
     </message>
     <message>
         <source>Flat</source>
-        <translation type="unfinished"></translation>
+        <translation>Platt</translation>
     </message>
     <message>
         <source>Whether the button is flat.</source>
-        <translation type="unfinished"></translation>
+        <translation>Huruvida knappen är platt.</translation>
     </message>
     <message>
         <source>Highlighted</source>
-        <translation type="unfinished"></translation>
+        <translation>Framhävd</translation>
     </message>
     <message>
         <source>Whether the button is highlighted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Huruvida knappen är framhävd.</translation>
     </message>
 </context>
 <context>
     <name>CheckBoxSpecifics</name>
     <message>
         <source>CheckBox</source>
-        <translation type="unfinished"></translation>
+        <translation>Kryssruta</translation>
     </message>
 </context>
 <context>
     <name>CheckDelegateSpecifics</name>
     <message>
         <source>CheckDelegate</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrolldelegat</translation>
     </message>
 </context>
 <context>
     <name>CheckSection</name>
     <message>
         <source>Check State</source>
-        <translation type="unfinished"></translation>
+        <translation>Krysstillstånd</translation>
     </message>
     <message>
         <source>The current check state.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuella krysstillståndet.</translation>
     </message>
     <message>
         <source>Tri-state</source>
-        <translation type="unfinished"></translation>
+        <translation>Tre tillstånd</translation>
     </message>
     <message>
         <source>Whether the checkbox has three states.</source>
-        <translation type="unfinished"></translation>
+        <translation>Huruvida kryssrutan har tre tillstånd.</translation>
     </message>
 </context>
 <context>
     <name>ComboBoxSpecifics</name>
     <message>
         <source>ComboBox</source>
-        <translation type="unfinished"></translation>
+        <translation>Kombinationsruta</translation>
     </message>
     <message>
         <source>Text Role</source>
-        <translation type="unfinished"></translation>
+        <translation>Textroll</translation>
     </message>
     <message>
         <source>The model role used for displaying text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modellrollen som används för visning av text.</translation>
     </message>
     <message>
         <source>Current</source>
@@ -147,38 +147,38 @@
     </message>
     <message>
         <source>The index of the current item.</source>
-        <translation type="unfinished"></translation>
+        <translation>Indexet för aktuell sida.</translation>
     </message>
     <message>
         <source>Editable</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigeringsbar</translation>
     </message>
     <message>
         <source>Whether the combo box is editable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Huruvida kombinationsrutan är redigeringsbar.</translation>
     </message>
     <message>
         <source>Flat</source>
-        <translation type="unfinished"></translation>
+        <translation>Platt</translation>
     </message>
     <message>
         <source>Whether the combo box button is flat.</source>
-        <translation type="unfinished"></translation>
+        <translation>Huruvida kombinationsrutans knapp är platt.</translation>
     </message>
     <message>
         <source>DisplayText</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa text</translation>
     </message>
     <message>
         <source>Holds the text that is displayed on the combo box button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Håller texten som visas på kombinationsrutans knapp.</translation>
     </message>
 </context>
 <context>
     <name>ContainerSection</name>
     <message>
         <source>Container</source>
-        <translation type="unfinished"></translation>
+        <translation>Container</translation>
     </message>
     <message>
         <source>Current</source>
@@ -186,61 +186,61 @@
     </message>
     <message>
         <source>The index of the current item.</source>
-        <translation type="unfinished"></translation>
+        <translation>Indexet för aktuell post.</translation>
     </message>
 </context>
 <context>
     <name>ControlSection</name>
     <message>
         <source>Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontroll</translation>
     </message>
     <message>
         <source>Enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiverad</translation>
     </message>
     <message>
         <source>Whether the control is enabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Huruvida kontrollen är aktiverad.</translation>
     </message>
     <message>
         <source>Focus Policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Fokuspolicy</translation>
     </message>
     <message>
         <source>Focus policy of the control.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fokuspolicy för kontrollen.</translation>
     </message>
     <message>
         <source>Hover</source>
-        <translation type="unfinished"></translation>
+        <translation>Hovra</translation>
     </message>
     <message>
         <source>Whether control accepts hover events.</source>
-        <translation type="unfinished"></translation>
+        <translation>Huruvida kontrollen accepterar hovringshändelser.</translation>
     </message>
     <message>
         <source>Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Avstånd</translation>
     </message>
     <message>
         <source>Spacing between internal elements of the control.</source>
-        <translation type="unfinished"></translation>
+        <translation>Avstånd mellan interna element för kontrollen.</translation>
     </message>
     <message>
         <source>Wheel</source>
-        <translation type="unfinished"></translation>
+        <translation>Hjul</translation>
     </message>
     <message>
         <source>Whether control accepts wheel events.</source>
-        <translation type="unfinished"></translation>
+        <translation>Huruvida kontrollen accepterar hjulhändelser.</translation>
     </message>
 </context>
 <context>
     <name>DelayButtonSpecifics</name>
     <message>
         <source>DelayButton</source>
-        <translation type="unfinished"></translation>
+        <translation>Fördröjningsknapp</translation>
     </message>
     <message>
         <source>Delay</source>
@@ -248,14 +248,14 @@
     </message>
     <message>
         <source>The delay in milliseconds.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fördröjning i millisekunder.</translation>
     </message>
 </context>
 <context>
     <name>DialSpecifics</name>
     <message>
         <source>Dial</source>
-        <translation type="unfinished"></translation>
+        <translation>Snurra</translation>
     </message>
     <message>
         <source>Value</source>
@@ -263,7 +263,7 @@
     </message>
     <message>
         <source>The current value of the dial.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuellt värdet för snurran.</translation>
     </message>
     <message>
         <source>From</source>
@@ -271,7 +271,7 @@
     </message>
     <message>
         <source>The starting value of the dial range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Startvärdet för snurrans intervall.</translation>
     </message>
     <message>
         <source>To</source>
@@ -279,54 +279,54 @@
     </message>
     <message>
         <source>The ending value of the dial range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Slutvärdet för snurrans intervall.</translation>
     </message>
     <message>
         <source>Step Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Stegstorlek</translation>
     </message>
     <message>
         <source>The step size of the dial.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stegstorleken för snurran.</translation>
     </message>
     <message>
         <source>Snap Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Fästläge</translation>
     </message>
     <message>
         <source>The snap mode of the dial.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fästläget för snurran.</translation>
     </message>
     <message>
         <source>Live</source>
-        <translation type="unfinished"></translation>
+        <translation>Live</translation>
     </message>
     <message>
         <source>Whether the dial provides live value updates.</source>
-        <translation type="unfinished"></translation>
+        <translation>Huruvida snurran tillhandahåller liveuppdateringar av värdet.</translation>
     </message>
     <message>
         <source>Input Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Inmatningsläge</translation>
     </message>
     <message>
         <source>How the dial tracks movement.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hur snurran spårar rörelser.</translation>
     </message>
     <message>
         <source>Wrap</source>
-        <translation type="unfinished"></translation>
+        <translation>Börja om</translation>
     </message>
     <message>
         <source>Whether the dial wraps when dragged.</source>
-        <translation type="unfinished"></translation>
+        <translation>Huruvida snurran börjar om när den dras.</translation>
     </message>
 </context>
 <context>
     <name>GroupBoxSpecifics</name>
     <message>
         <source>GroupBox</source>
-        <translation type="unfinished"></translation>
+        <translation>Gruppruta</translation>
     </message>
     <message>
         <source>Title</source>
@@ -334,14 +334,14 @@
     </message>
     <message>
         <source>The title of the group box.</source>
-        <translation type="unfinished"></translation>
+        <translation>Titeln för grupprutan.</translation>
     </message>
 </context>
 <context>
     <name>InsetSection</name>
     <message>
         <source>Inset</source>
-        <translation type="unfinished"></translation>
+        <translation>Infällning</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -349,19 +349,19 @@
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Toppen</translation>
     </message>
     <message>
         <source>Top inset for the background.</source>
-        <translation type="unfinished"></translation>
+        <translation>Övre infällning för bakgrunden.</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Botten</translation>
     </message>
     <message>
         <source>Bottom inset for the background.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nedre infällning för bakgrunden.</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -373,7 +373,7 @@
     </message>
     <message>
         <source>Left inset for the background.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vänster infällning för bakgrunden.</translation>
     </message>
     <message>
         <source>Right</source>
@@ -381,22 +381,22 @@
     </message>
     <message>
         <source>Right inset for the background.</source>
-        <translation type="unfinished"></translation>
+        <translation>Höger infällning för bakgrunden.</translation>
     </message>
 </context>
 <context>
     <name>ItemDelegateSection</name>
     <message>
         <source>ItemDelegate</source>
-        <translation type="unfinished"></translation>
+        <translation>PostDelegat</translation>
     </message>
     <message>
         <source>Highlighted</source>
-        <translation type="unfinished"></translation>
+        <translation>Framhävd</translation>
     </message>
     <message>
         <source>Whether the delegate is highlighted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Huruvida delegaten är framhävd.</translation>
     </message>
 </context>
 <context>
@@ -414,15 +414,15 @@
     <name>PaddingSection</name>
     <message>
         <source>Padding</source>
-        <translation type="unfinished"></translation>
+        <translation>Fyllnad</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Toppen</translation>
     </message>
     <message>
         <source>Padding between the content and the top edge of the control.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fyllnad mellan innehållet och övre kanten av kontrollen.</translation>
     </message>
     <message>
         <source>Left</source>
@@ -430,7 +430,7 @@
     </message>
     <message>
         <source>Padding between the content and the left edge of the control.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fyllnad mellan innehållet och vänstra kanten av kontrollen.</translation>
     </message>
     <message>
         <source>Right</source>
@@ -438,30 +438,30 @@
     </message>
     <message>
         <source>Padding between the content and the right edge of the control.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fyllnad mellan innehållet och högra kanten av kontrollen.</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Botten</translation>
     </message>
     <message>
         <source>Padding between the content and the bottom edge of the control.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fyllnad mellan innehållet och nedre kanten av kontrollen.</translation>
     </message>
 </context>
 <context>
     <name>PageIndicatorSpecifics</name>
     <message>
         <source>PageIndicator</source>
-        <translation type="unfinished"></translation>
+        <translation>Sidindikator</translation>
     </message>
     <message>
         <source>Count</source>
-        <translation type="unfinished"></translation>
+        <translation>Antal</translation>
     </message>
     <message>
         <source>The number of pages.</source>
-        <translation type="unfinished"></translation>
+        <translation>Antalet sidor.</translation>
     </message>
     <message>
         <source>Current</source>
@@ -469,15 +469,15 @@
     </message>
     <message>
         <source>The index of the current page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Indexet för aktuell sida.</translation>
     </message>
     <message>
         <source>Interactive</source>
-        <translation type="unfinished"></translation>
+        <translation>Interaktiv</translation>
     </message>
     <message>
         <source>Whether the control is interactive.</source>
-        <translation type="unfinished"></translation>
+        <translation>Huruvida kontrollen är interaktiv.</translation>
     </message>
 </context>
 <context>
@@ -496,34 +496,11 @@
     </message>
     <message>
         <source>Content Width</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Content height used for calculating the total implicit width.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Content Height</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Content height used for calculating the total implicit height.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>PaneSection</name>
-    <message>
-        <source>Pane</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Content Width</source>
         <translation>Innehållsbredd</translation>
     </message>
     <message>
         <source>Content height used for calculating the total implicit width.</source>
-        <translation type="unfinished"></translation>
+        <translation>Innehållsbredd som används för att beräkna totala implicita bredden.</translation>
     </message>
     <message>
         <source>Content Height</source>
@@ -531,22 +508,45 @@
     </message>
     <message>
         <source>Content height used for calculating the total implicit height.</source>
-        <translation type="unfinished"></translation>
+        <translation>Innehållshöjd som används för att beräkna totala implicita höjden.</translation>
+    </message>
+</context>
+<context>
+    <name>PaneSection</name>
+    <message>
+        <source>Pane</source>
+        <translation>Panel</translation>
+    </message>
+    <message>
+        <source>Content Width</source>
+        <translation>Innehållsbredd</translation>
+    </message>
+    <message>
+        <source>Content height used for calculating the total implicit width.</source>
+        <translation>Innehållsbredd som används för att beräkna totala implicita bredden.</translation>
+    </message>
+    <message>
+        <source>Content Height</source>
+        <translation>Innehållshöjd</translation>
+    </message>
+    <message>
+        <source>Content height used for calculating the total implicit height.</source>
+        <translation>Innehållshöjd som används för att beräkna totala implicita höjden.</translation>
     </message>
 </context>
 <context>
     <name>ProgressBarSpecifics</name>
     <message>
         <source>ProgressBar</source>
-        <translation type="unfinished"></translation>
+        <translation>Förloppsmätare</translation>
     </message>
     <message>
         <source>Indeterminate</source>
-        <translation type="unfinished"></translation>
+        <translation>Obestämd</translation>
     </message>
     <message>
         <source>Whether the progress is indeterminate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Huruvida förloppet är obestämt.</translation>
     </message>
     <message>
         <source>Value</source>
@@ -554,7 +554,7 @@
     </message>
     <message>
         <source>The current value of the progress.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuella värdet för förloppet.</translation>
     </message>
     <message>
         <source>From</source>
@@ -562,7 +562,7 @@
     </message>
     <message>
         <source>The starting value for the progress.</source>
-        <translation type="unfinished"></translation>
+        <translation>Startvärdet för förloppet.</translation>
     </message>
     <message>
         <source>To</source>
@@ -570,62 +570,62 @@
     </message>
     <message>
         <source>The ending value for the progress.</source>
-        <translation type="unfinished"></translation>
+        <translation>Slutvärdet för förloppet.</translation>
     </message>
 </context>
 <context>
     <name>QQuickPlatformDialog</name>
     <message>
         <source>Dialog is an abstract base class</source>
-        <translation type="unfinished"></translation>
+        <translation>Dialog är en abstrakt basklass</translation>
     </message>
     <message>
         <source>Cannot create an instance of StandardButton</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte skapa en instans av StandardButton</translation>
     </message>
 </context>
 <context>
     <name>QtQuickControls2ImagineStylePlugin</name>
     <message>
         <source>Imagine is an attached property</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagine är en fäst egenskap</translation>
     </message>
 </context>
 <context>
     <name>QtQuickControls2MaterialStylePlugin</name>
     <message>
         <source>Material is an attached property</source>
-        <translation type="unfinished"></translation>
+        <translation>Material är en fäst egenskap</translation>
     </message>
 </context>
 <context>
     <name>QtQuickControls2UniversalStylePlugin</name>
     <message>
         <source>Universal is an attached property</source>
-        <translation type="unfinished"></translation>
+        <translation>Universal är en fäst egenskap</translation>
     </message>
 </context>
 <context>
     <name>RangeSliderSpecifics</name>
     <message>
         <source>RangeSlider</source>
-        <translation type="unfinished"></translation>
+        <translation>Intervalldraglist</translation>
     </message>
     <message>
         <source>First Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Första värdet</translation>
     </message>
     <message>
         <source>The value of the first range slider handle.</source>
-        <translation type="unfinished"></translation>
+        <translation>Värdet för första handtaget på intervalldraglisten.</translation>
     </message>
     <message>
         <source>Second Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Andra värdet</translation>
     </message>
     <message>
         <source>The value of the second range slider handle.</source>
-        <translation type="unfinished"></translation>
+        <translation>Värdet för andra handtaget på intervalldraglisten.</translation>
     </message>
     <message>
         <source>From</source>
@@ -633,7 +633,7 @@
     </message>
     <message>
         <source>The starting value of the range slider range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Startvärdet för intervalldraglisten.</translation>
     </message>
     <message>
         <source>To</source>
@@ -641,54 +641,54 @@
     </message>
     <message>
         <source>The ending value of the range slider range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Slutgiltiga värdet för intervalldraglisten.</translation>
     </message>
     <message>
         <source>Step Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Stegstorlek</translation>
     </message>
     <message>
         <source>The step size of the range slider.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stegstorleken för intervalldraglisten.</translation>
     </message>
     <message>
         <source>Snap Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Fästläge</translation>
     </message>
     <message>
         <source>The snap mode of the range slider.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fästläget för intervalldraglisten.</translation>
     </message>
     <message>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientering</translation>
     </message>
     <message>
         <source>The orientation of the range slider.</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientering för intervalldraglisten.</translation>
     </message>
     <message>
         <source>Live</source>
-        <translation type="unfinished"></translation>
+        <translation>Live</translation>
     </message>
     <message>
         <source>Whether the range slider provides live value updates.</source>
-        <translation type="unfinished"></translation>
+        <translation>Huruvida intervalldraglisten tillhandahåller liveuppdateringar av värdet.</translation>
     </message>
     <message>
         <source>Touch drag threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Tröskelvärde för rör-dra</translation>
     </message>
     <message>
         <source>The threshold (in logical pixels) at which a touch drag event will be initiated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tröskelvärdet (i logiska bildpunkter) vid vilket en rör-dra-händelse kommer att initieras.</translation>
     </message>
 </context>
 <context>
     <name>RoundButtonSpecifics</name>
     <message>
         <source>RoundButton</source>
-        <translation type="unfinished"></translation>
+        <translation>Rund knapp</translation>
     </message>
     <message>
         <source>Radius</source>
@@ -696,37 +696,37 @@
     </message>
     <message>
         <source>Radius of the button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Radie för knappen.</translation>
     </message>
 </context>
 <context>
     <name>ScrollViewSpecifics</name>
     <message>
         <source>ScrollView</source>
-        <translation type="unfinished"></translation>
+        <translation>Rullningsvy</translation>
     </message>
     <message>
         <source>Content Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Innehållsbredd</translation>
     </message>
     <message>
         <source>Content height used for calculating the total implicit width.</source>
-        <translation type="unfinished"></translation>
+        <translation>Innehållsbredd som används för att beräkna totala implicita bredden.</translation>
     </message>
     <message>
         <source>Content Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Innehållshöjd</translation>
     </message>
     <message>
         <source>Content height used for calculating the total implicit height.</source>
-        <translation type="unfinished"></translation>
+        <translation>Innehållshöjd som används för att beräkna totala implicita höjden.</translation>
     </message>
 </context>
 <context>
     <name>SliderSpecifics</name>
     <message>
         <source>Slider</source>
-        <translation type="unfinished"></translation>
+        <translation>Draglist</translation>
     </message>
     <message>
         <source>Value</source>
@@ -734,7 +734,7 @@
     </message>
     <message>
         <source>The current value of the slider.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuella värdet för draglisten.</translation>
     </message>
     <message>
         <source>From</source>
@@ -742,7 +742,7 @@
     </message>
     <message>
         <source>The starting value of the slider range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Startvärdet för draglisten.</translation>
     </message>
     <message>
         <source>To</source>
@@ -750,54 +750,54 @@
     </message>
     <message>
         <source>The ending value of the slider range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Slutgiltiga värdet för draglisten.</translation>
     </message>
     <message>
         <source>Step Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Stegstorlek</translation>
     </message>
     <message>
         <source>The step size of the slider.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stegstorleken för draglisten.</translation>
     </message>
     <message>
         <source>Snap Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Fästläge</translation>
     </message>
     <message>
         <source>The snap mode of the slider.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fästläget för draglisten.</translation>
     </message>
     <message>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientering</translation>
     </message>
     <message>
         <source>The orientation of the slider.</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientering för draglisten.</translation>
     </message>
     <message>
         <source>Live</source>
-        <translation type="unfinished"></translation>
+        <translation>Live</translation>
     </message>
     <message>
         <source>Whether the slider provides live value updates.</source>
-        <translation type="unfinished"></translation>
+        <translation>Huruvida draglisten tillhandahåller liveuppdateringar av värdet.</translation>
     </message>
     <message>
         <source>Touch drag threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Tröskelvärde för rör-dra</translation>
     </message>
     <message>
         <source>The threshold (in logical pixels) at which a touch drag event will be initiated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tröskelvärdet (i logiska bildpunkter) vid vilket en rör-dra-händelse kommer att initieras.</translation>
     </message>
 </context>
 <context>
     <name>SpinBoxSpecifics</name>
     <message>
         <source>SpinBox</source>
-        <translation type="unfinished"></translation>
+        <translation>Spinbox</translation>
     </message>
     <message>
         <source>Value</source>
@@ -805,7 +805,7 @@
     </message>
     <message>
         <source>The current value of the spinbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuella värdet för spinboxen.</translation>
     </message>
     <message>
         <source>From</source>
@@ -813,7 +813,7 @@
     </message>
     <message>
         <source>The starting value of the spinbox range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Startvärdet för spinboxen.</translation>
     </message>
     <message>
         <source>To</source>
@@ -821,146 +821,146 @@
     </message>
     <message>
         <source>The ending value of the spinbox range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Slutvärdet för snurrutan.</translation>
     </message>
     <message>
         <source>Step Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Stegstorlek</translation>
     </message>
     <message>
         <source>The step size of the spinbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stegstorleken för snurrutan.</translation>
     </message>
     <message>
         <source>Editable</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigeringsbar</translation>
     </message>
     <message>
         <source>Whether the spinbox is editable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Huruvida spinboxen är redigeringsbar.</translation>
     </message>
     <message>
         <source>Wrap</source>
-        <translation type="unfinished"></translation>
+        <translation>Börja om</translation>
     </message>
     <message>
         <source>Whether the spinbox wraps.</source>
-        <translation type="unfinished"></translation>
+        <translation>Huruvida spinboxen börjar om.</translation>
     </message>
 </context>
 <context>
     <name>SwipeViewSpecifics</name>
     <message>
         <source>SwipeView</source>
-        <translation type="unfinished"></translation>
+        <translation>Swipe-vy</translation>
     </message>
     <message>
         <source>Interactive</source>
-        <translation type="unfinished"></translation>
+        <translation>Interaktiv</translation>
     </message>
     <message>
         <source>Whether the view is interactive.</source>
-        <translation type="unfinished"></translation>
+        <translation>Huruvida vyn är interaktiv.</translation>
     </message>
     <message>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientering</translation>
     </message>
     <message>
         <source>Orientation of the view.</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientering för vyn.</translation>
     </message>
 </context>
 <context>
     <name>TabBarSpecifics</name>
     <message>
         <source>TabBar</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabulatorrad</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation type="unfinished"></translation>
+        <translation>Position</translation>
     </message>
     <message>
         <source>Position of the tabbar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Position för tabulatorraden.</translation>
     </message>
     <message>
         <source>Content Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Innehållsbredd</translation>
     </message>
     <message>
         <source>Content height used for calculating the total implicit width.</source>
-        <translation type="unfinished"></translation>
+        <translation>Innehållsbredd som används för att beräkna totala implicita bredden.</translation>
     </message>
     <message>
         <source>Content Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Innehållshöjd</translation>
     </message>
     <message>
         <source>Content height used for calculating the total implicit height.</source>
-        <translation type="unfinished"></translation>
+        <translation>Innehållshöjd som används för att beräkna totala implicita höjden.</translation>
     </message>
 </context>
 <context>
     <name>TextAreaSpecifics</name>
     <message>
         <source>TextArea</source>
-        <translation type="unfinished"></translation>
+        <translation>Textyta</translation>
     </message>
     <message>
         <source>Placeholder</source>
-        <translation type="unfinished"></translation>
+        <translation>Platshållare</translation>
     </message>
     <message>
         <source>Placeholder text displayed when the editor is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Platshållartext som visas när redigeraren är tom.</translation>
     </message>
     <message>
         <source>Hover</source>
-        <translation type="unfinished"></translation>
+        <translation>Hovra</translation>
     </message>
     <message>
         <source>Whether text area accepts hover events.</source>
-        <translation type="unfinished"></translation>
+        <translation>Huruvida textfältet acceptera hovringshändelser.</translation>
     </message>
     <message>
         <source>Placeholder Text Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Textfärg för platshållare</translation>
     </message>
 </context>
 <context>
     <name>TextFieldSpecifics</name>
     <message>
         <source>TextField</source>
-        <translation type="unfinished"></translation>
+        <translation>Textfält</translation>
     </message>
     <message>
         <source>Placeholder</source>
-        <translation type="unfinished"></translation>
+        <translation>Platshållare</translation>
     </message>
     <message>
         <source>Placeholder text displayed when the editor is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Platshållartext som visas när redigeraren är tom.</translation>
     </message>
     <message>
         <source>Hover</source>
-        <translation type="unfinished"></translation>
+        <translation>Hovra</translation>
     </message>
     <message>
         <source>Whether text field accepts hover events.</source>
-        <translation type="unfinished"></translation>
+        <translation>Huruvida textfältet acceptera hovringshändelser.</translation>
     </message>
     <message>
         <source>Placeholder Text Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Textfärg för platshållare</translation>
     </message>
 </context>
 <context>
     <name>ToolBarSpecifics</name>
     <message>
         <source>ToolBar</source>
-        <translation type="unfinished"></translation>
+        <translation>Verktygsrad</translation>
     </message>
     <message>
         <source>Position</source>
@@ -968,37 +968,37 @@
     </message>
     <message>
         <source>Position of the toolbar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Position för verktygraden.</translation>
     </message>
 </context>
 <context>
     <name>ToolSeparatorSpecifics</name>
     <message>
         <source>ToolSeparator</source>
-        <translation type="unfinished"></translation>
+        <translation>Verktygsavgränsare</translation>
     </message>
     <message>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientering</translation>
     </message>
     <message>
         <source>The orientation of the separator.</source>
-        <translation type="unfinished"></translation>
+        <translation>Orienteringen för avgränsaren.</translation>
     </message>
 </context>
 <context>
     <name>TumblerSpecifics</name>
     <message>
         <source>Tumbler</source>
-        <translation type="unfinished"></translation>
+        <translation>Tumlare</translation>
     </message>
     <message>
         <source>Visible Count</source>
-        <translation type="unfinished"></translation>
+        <translation>Synligt antal</translation>
     </message>
     <message>
         <source>The count of visible items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Antalet synliga poster.</translation>
     </message>
     <message>
         <source>Current</source>
@@ -1006,15 +1006,15 @@
     </message>
     <message>
         <source>The index of the current item.</source>
-        <translation type="unfinished"></translation>
+        <translation>Indexet för aktuell post.</translation>
     </message>
     <message>
         <source>Wrap</source>
-        <translation type="unfinished"></translation>
+        <translation>Börja om</translation>
     </message>
     <message>
         <source>Whether the tumbler wrap.</source>
-        <translation type="unfinished"></translation>
+        <translation>Huruvida tumlaren börjar om.</translation>
     </message>
 </context>
 </TS>
