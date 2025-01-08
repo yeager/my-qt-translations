@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="sv_SE">
+<TS version="2.1" language="sv_SE" sourcelanguage="en_US">
 <context>
     <name>AboutApplicationDialog</name>
     <message>
@@ -146,11 +146,11 @@
     </message>
     <message>
         <source>Cannot retrieve item from invalidated cache.</source>
-        <translation>Kan inte hämta objekt från ogiltigförklarad cache.</translation>
+        <translation>Kan inte hämta post från ogiltigförklarad cache.</translation>
     </message>
     <message>
         <source>Cannot register item to invalidated cache.</source>
-        <translation>Kan inte registrera objekt till ogiltigförklarad cache.</translation>
+        <translation>Kan inte registrera post till ogiltigförklarad cache.</translation>
     </message>
     <message>
         <source>Cannot register null item.</source>
@@ -162,19 +162,19 @@
     </message>
     <message>
         <source>Cannot register item with checksum %1. An item with the same checksum already exists in cache.</source>
-        <translation>Kan inte registrera objekt med kontrollsumma %1. Ett objekt med samma kontrollsumma finns redan i cache.</translation>
+        <translation>Kan inte registrera post med kontrollsumma %1. En post med samma kontrollsumma finns redan i cache.</translation>
     </message>
     <message>
         <source>Error while copying item to path &quot;%1&quot;: %2</source>
-        <translation>Fel vid kopiering av objekt till sökväg &quot;%1&quot;: %2</translation>
+        <translation>Fel vid kopiering av post till sökväg &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <source>Cannot remove item from invalidated cache.</source>
-        <translation>Kan inte ta bort objekt från ogiltig cache.</translation>
+        <translation>Kan inte ta bort post från ogiltig cache.</translation>
     </message>
     <message>
         <source>Cannot remove item specified by checksum %1: no such item exists.</source>
-        <translation>Kan inte ta bort objekt angiven med kontrollsumma %1: inget sådant objekt finns.</translation>
+        <translation>Kan inte ta bort post angiven med kontrollsumma %1: ingen sådant post finns.</translation>
     </message>
     <message>
         <source>Error while removing directory &quot;%1&quot;: %2</source>
@@ -860,6 +860,13 @@
     </message>
 </context>
 <context>
+    <name>QInstaller::CategoryComboBox</name>
+    <message>
+        <source>Confirm</source>
+        <translation>Bekräfta</translation>
+    </message>
+</context>
+<context>
     <name>QInstaller::Component</name>
     <message>
         <source>Components cannot have children in updater mode.</source>
@@ -1065,6 +1072,54 @@
     <message>
         <source>Information</source>
         <translation>Information</translation>
+    </message>
+    <message>
+        <source>Details</source>
+        <translation>Detaljer</translation>
+    </message>
+    <message>
+        <source>Advanced</source>
+        <translation>Avancerat</translation>
+    </message>
+    <message>
+        <source>Select</source>
+        <translation>Välj</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translation>Alla</translation>
+    </message>
+    <message>
+        <source>Select all components in the tree view.</source>
+        <translation>Välj alla komponenter i trädvyn.</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>Ingen</translation>
+    </message>
+    <message>
+        <source>Deselect all components in the tree view.</source>
+        <translation>Avmarkera alla komponenter i trädvyn.</translation>
+    </message>
+    <message>
+        <source>Default</source>
+        <translation>Standard</translation>
+    </message>
+    <message>
+        <source>Select default components in the tree view.</source>
+        <translation>Välj standardkomponenter i trädvyn.</translation>
+    </message>
+    <message>
+        <source>Reset</source>
+        <translation>Nollställ</translation>
+    </message>
+    <message>
+        <source>Reset all components to their original selection state in the tree view.</source>
+        <translation>Nollställ alla komponenter till deras ursprungliga markerade tillstånd i trädvyn.</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation>Visa</translation>
     </message>
 </context>
 <context>
@@ -1571,6 +1626,38 @@ Hämtade: %2</translation>
         <source>The %1 Setup failed.</source>
         <translation>Installationen av %1 misslyckades.</translation>
     </message>
+    <message>
+        <source>Click %1 to close the %2 Setup.</source>
+        <translation>Klicka på %1 för att stänga %2-konfigurationen.</translation>
+    </message>
+    <message>
+        <source>You will find your installation in this location on your computer:</source>
+        <translation>Du kan hitta din installation på denna plats på din dator:</translation>
+    </message>
+    <message>
+        <source>%1 has now been uninstalled from your computer.</source>
+        <translation>%1 har nu avinstallerats från din dator.</translation>
+    </message>
+    <message>
+        <source>%1 has now been updated on your computer.</source>
+        <translation>%1 har nu uppdaterats på din dator.</translation>
+    </message>
+    <message>
+        <source>Offline installer has now been generated.</source>
+        <translation>Offline-installerare har nu genererats.</translation>
+    </message>
+    <message>
+        <source>%1 has now been installed on your computer.</source>
+        <translation>%1 har nu installerats på din dator.</translation>
+    </message>
+    <message>
+        <source>%1 installation was not complete or was interrupted by some reason.</source>
+        <translation>Installationen av %1 blev inte färdigställd eller avbröts av någon anledning.</translation>
+    </message>
+    <message>
+        <source>%1 installation was unsuccessful.</source>
+        <translation>Installationen av %1 lyckades inte.</translation>
+    </message>
 </context>
 <context>
     <name>QInstaller::GlobalSettingsOperation</name>
@@ -1655,6 +1742,14 @@ Hämtade: %2</translation>
     <message>
         <source>There is an important update available. Please select &apos;%1&apos; first</source>
         <translation>Det finns en viktig uppdatering tillgänglig. Välj &quot;%1&quot; först</translation>
+    </message>
+    <message>
+        <source>Maintenance Actions</source>
+        <translation>Underhållsåtgärder</translation>
+    </message>
+    <message>
+        <source>Select from following options, which way you want to proceed.</source>
+        <translation>Välj från följande alternativ på vilket sätt du vill fortsätta.</translation>
     </message>
 </context>
 <context>
@@ -1803,8 +1898,8 @@ Hämtade: %2</translation>
     <message numerus="yes">
         <source>Updating local cache with %n new items...</source>
         <translation>
-            <numerusform>Uppdaterar lokal cache med %n nytt objekt...</numerusform>
-            <numerusform>Uppdaterar lokal cache med %n nya objekt...</numerusform>
+            <numerusform>Uppdaterar lokal cache med %n ny post...</numerusform>
+            <numerusform>Uppdaterar lokal cache med %n nya poster...</numerusform>
         </translation>
     </message>
     <message>
@@ -2589,7 +2684,11 @@ Kopiera installeraren till en lokal enhet</translation>
     <name>QInstaller::RestartPage</name>
     <message>
         <source>Finished the %1 Setup</source>
-        <translation>Färdigställde installation av %1</translation>
+        <translation>Färdigställde konfigurationen av %1</translation>
+    </message>
+    <message>
+        <source>Finished</source>
+        <translation>Färdig</translation>
     </message>
 </context>
 <context>
@@ -2680,6 +2779,17 @@ Kopiera installeraren till en lokal enhet</translation>
     </message>
 </context>
 <context>
+    <name>QInstaller::SpaceWidget</name>
+    <message>
+        <source>Space required: %1</source>
+        <translation>Utrymme som krävs: %1</translation>
+    </message>
+    <message>
+        <source>Space available: %1</source>
+        <translation>Tillgängligt utrymme: %1</translation>
+    </message>
+</context>
+<context>
     <name>QInstaller::StartMenuDirectoryPage</name>
     <message>
         <source>Start Menu shortcuts</source>
@@ -2688,6 +2798,18 @@ Kopiera installeraren till en lokal enhet</translation>
     <message>
         <source>Select the Start Menu in which you would like to create the program&apos;s shortcuts. You can also enter a name to create a new directory.</source>
         <translation>Välj Startmenyn i vilken du vill skapa programmets genvägar. Du kan även ange ett namn för att skapa en ny katalog.</translation>
+    </message>
+    <message>
+        <source>Choose a Start Menu folder</source>
+        <translation>Välj en Startmeny-mapp</translation>
+    </message>
+    <message>
+        <source>Select the Start Menu folder in which you would like to create the program’s shortcuts. You can also enter a name to create a new directory</source>
+        <translation>Välj Startmeny-mappen i vilken du vill skapa programmets genvägar. Du kan också ange ett namn för att skapa en ny katalog</translation>
+    </message>
+    <message>
+        <source>Start Menu Folder</source>
+        <translation>Startmeny-mapp</translation>
     </message>
 </context>
 <context>
