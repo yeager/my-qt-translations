@@ -1,8 +1,8 @@
 
 Updating 'qtcreator_sv.qm'...
-    Genererade 11178 översättningar (11178 slutförda och 0 oavslutade)
+    Genererade 11233 översättningar (11233 slutförda och 0 oavslutade)
     
-    Ignorerade 3847 oöversatta källtexter
+    Ignorerade 3792 oöversatta källtexter
 
 .
 
