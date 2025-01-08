@@ -4341,7 +4341,7 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>quantifier does not follow a repeatable item</source>
-        <translation>kvantifierare följer inte ett upprepande objekt</translation>
+        <translation>kvantifierare följer inte en upprepande post</translation>
     </message>
     <message>
         <source>internal error: unexpected repeat</source>
@@ -4869,7 +4869,7 @@ Stäng av ett av alternativen.</translation>
     </message>
     <message>
         <source>pattern contains an item that is not supported for DFA matching</source>
-        <translation>mönster innehåller ett objekt som inte stöds för DFA-matchning</translation>
+        <translation>mönster innehåller en post som inte stöds för DFA-matchning</translation>
     </message>
     <message>
         <source>workspace size exceeded in DFA matching</source>
@@ -6332,7 +6332,7 @@ Stäng av ett av alternativen.</translation>
     <message>
         <source>menu item</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>menyrad</translation>
+        <translation>menypost</translation>
     </message>
     <message>
         <source>tool tip</source>
@@ -6432,7 +6432,7 @@ Stäng av ett av alternativen.</translation>
     <message>
         <source>list item</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>listobjekt</translation>
+        <translation>listpost</translation>
     </message>
     <message>
         <source>tree</source>
@@ -6442,7 +6442,7 @@ Stäng av ett av alternativen.</translation>
     <message>
         <source>tree item</source>
         <extracomment>Role of an accessible object</extracomment>
-        <translation>trädobjekt</translation>
+        <translation>trädpost</translation>
     </message>
     <message>
         <source>page tab</source>
@@ -7159,7 +7159,7 @@ Stäng av ett av alternativen.</translation>
     <message>
         <source>Temporary Items</source>
         <extracomment>macOS: Temporary directory</extracomment>
-        <translation>Temporärobjekt</translation>
+        <translation>Temporära objekt</translation>
     </message>
 </context>
 <context>
