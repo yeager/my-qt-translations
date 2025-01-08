@@ -18,9 +18,7 @@ Updating 'qtbase_sv.qm'...
         
 Updating 'qtconnectivity_sv.qm'...
 
-    Genererade 151 översättningar (151 slutförda och 0 oavslutade)
-    
-    Ignorerade 206 oöversatta källtexter
+    Genererade 357 översättningar (357 slutförda och 0 oavslutade)
     
 Updating 'qtdeclarative_sv.qm'...
 
