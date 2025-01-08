@@ -40,15 +40,15 @@
     <name>QQmlAnonymousComponentResolver</name>
     <message>
         <source>Component objects cannot declare new functions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Komponentobjekt kan inte deklarera nya funktioner.</translation>
     </message>
     <message>
         <source>Component objects cannot declare new properties.</source>
-        <translation type="unfinished"></translation>
+        <translation>Komponentobjekt kan inte deklarera nya egenskaper.</translation>
     </message>
     <message>
         <source>Component objects cannot declare new signals.</source>
-        <translation type="unfinished"></translation>
+        <translation>Komponentobjekt kan inte deklarera nya signaler.</translation>
     </message>
     <message>
         <source>Cannot create empty component specification</source>
@@ -56,11 +56,11 @@
     </message>
     <message>
         <source>Component elements may not contain properties other than id</source>
-        <translation type="unfinished"></translation>
+        <translation>Komponentelement får inte innehålla egenskaper andra än id</translation>
     </message>
     <message>
         <source>Invalid component body specification</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig body-specifikation för komponent</translation>
     </message>
     <message>
         <source>id is not unique</source>
@@ -68,11 +68,11 @@
     </message>
     <message>
         <source>Circular alias reference detected</source>
-        <translation type="unfinished"></translation>
+        <translation>Cirkulär aliasreferens upptäcktes</translation>
     </message>
     <message>
         <source>Invalid alias reference. Unable to find id &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig aliasreferens. Kunde inte hitta id &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Invalid alias target location: %1</source>
@@ -220,31 +220,31 @@
     <name>QQmlDebugServerImpl</name>
     <message>
         <source>QML Debugger: Invalid argument &quot;%1&quot; detected. Ignoring the same.</source>
-        <translation type="unfinished"></translation>
+        <translation>QML-felsökare: Ogiltigt argument &quot;%1&quot; upptäcktes. Ignorerar samma.</translation>
     </message>
     <message>
         <source>QML Debugger: Ignoring &quot;-qmljsdebugger=%1&quot;.</source>
-        <translation>QML Debugger: Ignorerar &quot;-qmljsdebugger=%1&quot;.</translation>
+        <translation>QML-felsökare: Ignorerar &quot;-qmljsdebugger=%1&quot;.</translation>
     </message>
     <message>
         <source>The format is &quot;-qmljsdebugger=[file:&lt;file&gt;|port:&lt;port_from&gt;][,&lt;port_to&gt;][,host:&lt;ip address&gt;][,block][,services:&lt;service&gt;][,&lt;service&gt;]*&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatet är &quot;-qmljsdebugger=[file:&lt;fil&gt;|port:&lt;port_från&gt;][,&lt;port_till&gt;][,host:&lt;ip adress&gt;][,block][,services:&lt;tjänst&gt;][,&lt;tjänst&gt;]*&quot;</translation>
     </message>
     <message>
         <source>&quot;file:&quot; can be used to specify the name of a file the debugger will try to connect to using a QLocalSocket. If &quot;file:&quot; is given any &quot;host:&quot; and&quot;port:&quot; arguments will be ignored.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;file:&quot; kan användas för att ange namnet för en fil som felsökaren ska försöka att ansluta till genom en QLocalSocket. Om &quot;file:&quot; anges kommer &quot;host:&quot; och &quot;port:&quot;-argument att ignoreras.</translation>
     </message>
     <message>
         <source>&quot;host:&quot; and &quot;port:&quot; can be used to specify an address and a single port or a range of ports the debugger will try to bind to with a QTcpServer.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;host:&quot; och &quot;port:&quot; kan användas för att ange en adress och en enda port eller ett intervall av portar som felsökaren ska försöka att binda till med en QTcpServer.</translation>
     </message>
     <message>
         <source>&quot;block&quot; makes the debugger and some services wait for clients to be connected and ready before the first QML engine starts.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;block&quot; gör att felsökaren och några tjänster väntar på att klienter ska anslutas och bli klara innan den första QML-motorn startar.</translation>
     </message>
     <message>
         <source>&quot;services:&quot; can be used to specify which debug services the debugger should load. Some debug services interact badly with others. The V4 debugger should not be loaded when using the QML profiler as it will force any V4 engines to use the JavaScript interpreter rather than the JIT. The following debug services are available by default:</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;services:&quot; kan användas för att ange vilka felsökningstjänster som felsökaren ska läsa in. Några felsökningstjänster interagerar dåligt med varandra. V4-felsökaren bör inte läsas in när QML-profileraren används eftersom den tvingar alla V4-motorer att använda JavaScript-tolken istället för JITen. Följande felsökningstjänster finns tillgängliga som standard:</translation>
     </message>
     <message>
         <source>The QML debugger</source>
@@ -267,23 +267,30 @@
 		  QML engines until other services are ready. QtCreator
 		  uses this service with the QML profiler in order to
 		  profile multiple QML engines at the same time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Låter klienten fördröja start och stopp av
+		  QML-motorer tills andra tjänster är redo. QtCreator
+		  använder denna tjänst med QML-profileraren för att
+		  profilera flera QML-motorer samtidigt.</translation>
     </message>
     <message>
         <source>Sends qDebug() and similar messages over the QML debug
 		  connection. QtCreator uses this for showing debug
 		  messages in the debugger console.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skickar qDebug() och liknande meddelanden över QML-felsökningen
+		  connection. QtCreator använder detta för att visa felsöknings-
+		  meddelanden i felsökningskonsollen.</translation>
     </message>
     <message>
         <source>helps to see if a translated text
 		  will result in an elided text
 		  in QML elements.</source>
-        <translation type="unfinished"></translation>
+        <translation>hjälper till att se om en översatt text
+		  kommer att resultera i en försvunnen text
+		  i QML-element.</translation>
     </message>
     <message>
         <source>Other services offered by qmltooling plugins that implement QQmlDebugServiceFactory and which can be found in the standard plugin paths will also be available and can be specified. If no &quot;services&quot; argument is given, all services found this way, including the default ones, are loaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Andra tjänster som erbjuds genom qmltooling-insticksmoduler som implementerar QQmlDebugServiceFactory och vilka som kan hittas i standardsökvägen för insticksmoduler kommer även finnas tillgängliga och kan anges. Om inget &quot;services&quot;-argument anges kommer alla tjänster som hittas på detta sätt. inklusive de som är standard, att läsas in.</translation>
     </message>
 </context>
 <context>
@@ -514,7 +521,7 @@
     </message>
     <message>
         <source>plugin cannot be loaded for module &quot;%1&quot;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>insticksmodulen kan inte läsas in för modulen &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <source>&quot;%1&quot; version %2.%3 is defined more than once in module &quot;%4&quot;</source>
@@ -714,11 +721,11 @@
     </message>
     <message>
         <source>Invalid signal parameter type: </source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig typ för signalparameter: </translation>
     </message>
     <message>
         <source>Invalid property type modifier</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig modifierare för egenskapstyp</translation>
     </message>
     <message>
         <source>JavaScript declaration outside Script element</source>
@@ -726,7 +733,7 @@
     </message>
     <message>
         <source>Illegal unicode escape sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>Otillåten unicode escape-sekvens</translation>
     </message>
     <message>
         <source>Unexpected token &apos;.&apos;</source>
@@ -734,59 +741,59 @@
     </message>
     <message>
         <source>Stray newline in string literal</source>
-        <translation type="unfinished"></translation>
+        <translation>Vilsen nyrad i strängliteral</translation>
     </message>
     <message>
         <source>End of file reached at escape sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>Filslut nåddes vid escape-sekvens</translation>
     </message>
     <message>
         <source>Illegal hexadecimal escape sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig hexadecimal escape-sekvens</translation>
     </message>
     <message>
         <source>Octal escape sequences are not allowed</source>
-        <translation type="unfinished"></translation>
+        <translation>Oktala escape-sekvenser tillåts inte</translation>
     </message>
     <message>
         <source>Unclosed string at end of line</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostängd sträng på radslut</translation>
     </message>
     <message>
         <source>At least one hexadecimal digit is required after &apos;0%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Minst en hexadecimal siffra krävs efter &apos;0%1&apos;</translation>
     </message>
     <message>
         <source>At least one octal digit is required after &apos;0%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Minst en oktal siffra krävs efter &apos;0%1&apos;</translation>
     </message>
     <message>
         <source>At least one binary digit is required after &apos;0%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Minst en binär siffra krävs efter &apos;0%1&apos;</translation>
     </message>
     <message>
         <source>Decimal numbers can&apos;t start with &apos;0&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Decimala tal får inte börja med &apos;0&apos;</translation>
     </message>
     <message>
         <source>Illegal syntax for exponential number</source>
-        <translation type="unfinished"></translation>
+        <translation>Otillåten syntax för exponentiellt tal</translation>
     </message>
     <message>
         <source>Invalid regular expression flag &apos;%0&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig reguljär uttrycksflagga &apos;%0&apos;</translation>
     </message>
     <message>
         <source>Unterminated regular expression backslash sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>Oavslutad omvänd snedstrek-sekvens för reguljärt uttryck</translation>
     </message>
     <message>
         <source>Unterminated regular expression class</source>
-        <translation type="unfinished"></translation>
+        <translation>Oavslutad reguljär uttrycksklass</translation>
     </message>
     <message>
         <source>Unterminated regular expression literal</source>
-        <translation type="unfinished"></translation>
+        <translation>Oavslutad reguljär uttrycksliteral</translation>
     </message>
     <message>
         <source>Syntax error</source>
@@ -794,23 +801,23 @@
     </message>
     <message>
         <source>Imported file must be a script</source>
-        <translation type="unfinished"></translation>
+        <translation>Importerad fil måste vara ett skript</translation>
     </message>
     <message>
         <source>Invalid module URI</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig modul-URI</translation>
     </message>
     <message>
         <source>Module import requires a version</source>
-        <translation type="unfinished"></translation>
+        <translation>Modulimport kräver en version</translation>
     </message>
     <message>
         <source>Module import requires a minor version (missing dot)</source>
-        <translation type="unfinished"></translation>
+        <translation>Modulimport kräver en minor version (saknar punkt)</translation>
     </message>
     <message>
         <source>Module import requires a minor version (missing number)</source>
-        <translation type="unfinished"></translation>
+        <translation>Modulimport krävs en minor version (saknar nummer)</translation>
     </message>
     <message>
         <source>File import requires a qualifier</source>
@@ -818,11 +825,11 @@
     </message>
     <message>
         <source>Module import requires a qualifier</source>
-        <translation type="unfinished"></translation>
+        <translation>Modulimport kräver en kvalificerare</translation>
     </message>
     <message>
         <source>Invalid import qualifier</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig importkvalificerare</translation>
     </message>
 </context>
 <context>
@@ -955,7 +962,7 @@
     </message>
     <message>
         <source> - Assigning null to incompatible properties in QML is deprecated. This will become a compile error in future versions of Qt.</source>
-        <translation type="unfinished"></translation>
+        <translation> - Tilldelning av null till inkompatibla egenskaper i QML är föråldrat. Detta kommer att ge ett kompileringsfel i framtida versioner av Qt.</translation>
     </message>
     <message>
         <source>Invalid property assignment: string expected</source>
@@ -1071,23 +1078,23 @@
     </message>
     <message>
         <source>Invalid grouped property access: Property &quot;%1&quot; with type &quot;%2&quot;, which is not a value type</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig grupperad egenskapsåtkomst: Egenskapen &quot;%1&quot; med typen &quot;%2&quot;, som inte är en värdestyp</translation>
     </message>
     <message>
         <source>Invalid property assignment: 2D vector expected</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig egenskapstilldelning: 2D-vektor förväntades</translation>
     </message>
     <message>
         <source>Invalid property assignment: 3D vector expected</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig egenskapstilldelning: 3D-vektor förväntades</translation>
     </message>
     <message>
         <source>Invalid property assignment: 4D vector expected</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig egenskapstilldelning: 4D-vektor förväntades</translation>
     </message>
     <message>
         <source>Invalid property assignment: quaternion expected</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig egenskapstilldelning: quaternion förväntades</translation>
     </message>
     <message>
         <source>Cannot assign object of type &quot;%1&quot; to property of type &quot;%2&quot; as the former is neither the same as the latter nor a sub-class of it.</source>
@@ -1420,7 +1427,10 @@ This is most likely caused by not having the necessary graphics drivers installe
 
 Install a driver providing OpenGL 2.0 or higher, or, if this is not possible, make sure the ANGLE Open GL ES 2.0 emulation libraries (%3, %4 and d3dcompiler_*.dll) are available in the application executable&apos;s directory or in a location listed in PATH.</source>
         <extracomment>%1 Context type (Open GL, EGL), %2 format, ANGLE %3, %4 library names</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att skapa %1-kontext för formatet %2.
+Detta är antagligen orsakat av att inte ha nödvändiga grafikdrivtuiner installerade.
+
+Installera en drivrutin som tillhandahåller OpenGL 2.0 eller högre, eller, om detta inte är möjligt, försäkra dig om att ANGLE Open GL ES 2.0-emuleringsbiblioteken (%3, %4 samt d3dcompiler_*.dll) finns tillgängliga i programmets körbara filkatalog eller i en plats listad i PATH.</translation>
     </message>
     <message>
         <source>Failed to create %1 context for format %2</source>
@@ -1440,7 +1450,7 @@ Install a driver providing OpenGL 2.0 or higher, or, if this is not possible, ma
     </message>
     <message>
         <source>Conflicting properties &apos;visible&apos; and &apos;visibility&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Egenskaperna &apos;visible&apos; och &apos;visibility&apos; står i konflikt</translation>
     </message>
 </context>
 <context>
