@@ -546,7 +546,7 @@ Vill du ersätta den?</translation>
     <name>QQmlEngine</name>
     <message>
         <source>There are still &quot;%1&quot; items in the process of being created at engine destruction.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det finns fortfarande &quot;%1 poster i processen att bli skapade vid motordestruktion.</translation>
     </message>
     <message>
         <source>executeSql called outside transaction()</source>
@@ -1781,7 +1781,7 @@ Revision %1 corresponds to version %2.%3; it should be %4.%5.</source>
     </message>
     <message>
         <source>resolve: to is not a model item</source>
-        <translation>resolve: to är inte ett model-objekt</translation>
+        <translation>resolve: to är inte en model-post</translation>
     </message>
     <message>
         <source>remove: invalid index</source>
@@ -1997,7 +1997,7 @@ Revision %1 corresponds to version %2.%3; it should be %4.%5.</source>
     </message>
     <message>
         <source>Cannot anchor to an item that isn&apos;t a parent or sibling.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte förankra till en post som inte är en förälder eller syskon.</translation>
     </message>
     <message>
         <source>Possible anchor loop detected on vertical anchor.</source>
@@ -2013,7 +2013,7 @@ Revision %1 corresponds to version %2.%3; it should be %4.%5.</source>
     </message>
     <message>
         <source>Cannot anchor to a null item.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte förankra till en null-post.</translation>
     </message>
     <message>
         <source>Cannot anchor a horizontal edge to a vertical edge.</source>
@@ -2021,7 +2021,7 @@ Revision %1 corresponds to version %2.%3; it should be %4.%5.</source>
     </message>
     <message>
         <source>Cannot anchor item to self.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte förankra post till sig själv.</translation>
     </message>
     <message>
         <source>Cannot specify top, bottom, and verticalCenter anchors at the same time.</source>
@@ -2058,7 +2058,7 @@ Revision %1 corresponds to version %2.%3; it should be %4.%5.</source>
     <name>QQuickEnterKeyAttached</name>
     <message>
         <source>EnterKey attached property only works with Items</source>
-        <translation>EnterKey-färst egenskap fungerar endast med Items</translation>
+        <translation>EnterKey-fäst egenskap fungerar endast med Items</translation>
     </message>
 </context>
 <context>
@@ -2094,7 +2094,7 @@ Revision %1 corresponds to version %2.%3; it should be %4.%5.</source>
     <name>QQuickItemView</name>
     <message>
         <source>Delegate must be of Item type</source>
-        <translation>Delegaten måste vara en  Item-typ</translation>
+        <translation>Delegaten måste vara en Item-typ</translation>
     </message>
 </context>
 <context>
@@ -2108,14 +2108,14 @@ Revision %1 corresponds to version %2.%3; it should be %4.%5.</source>
     <name>QQuickPathView</name>
     <message>
         <source>Delegate must be of Item type</source>
-        <translation>Delegaten måste vara en  Item-typ</translation>
+        <translation>Delegaten måste vara en Item-typ</translation>
     </message>
 </context>
 <context>
     <name>QQuickRepeater</name>
     <message>
         <source>Delegate must be of Item type</source>
-        <translation>Delegaten måste vara en  Item-typ</translation>
+        <translation>Delegaten måste vara en Item-typ</translation>
     </message>
 </context>
 <context>
