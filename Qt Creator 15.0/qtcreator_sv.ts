@@ -130,7 +130,7 @@
     </message>
     <message>
         <source>The item will be exported automatically.</source>
-        <translation>Objektet kommer att exporteras automatiskt.</translation>
+        <translation>Posten kommer att exporteras automatiskt.</translation>
     </message>
 </context>
 <context>
@@ -153,7 +153,7 @@
     </message>
     <message>
         <source>Toggles if the smoothing is performed using linear interpolation method. Keeping it unchecked would follow non-smooth method using nearest neighbor. It is mostly applicable on image based items.</source>
-        <translation>Växlar om mjukheten genomförs med linjär interpolationsmetod. Hålla den avmarkerad skulle följa metoden för icke-mjuk med närmsta granne. Det är oftast aktuellt på bildbaserade objekt.</translation>
+        <translation>Växlar om mjukheten genomförs med linjär interpolationsmetod. Hålla den avmarkerad skulle följa metoden för icke-mjuk med närmsta granne. Det är oftast aktuellt på bildbaserade poster.</translation>
     </message>
     <message>
         <source>Antialiasing</source>
@@ -271,15 +271,15 @@
     </message>
     <message>
         <source>Sets the left or top border of the target area or item as the starting point, depending on the distribution orientation.</source>
-        <translation>Ställer in vänster eller övre ram för målytan eller objekt som startpunkt, beroende på distributionsorienteringen.</translation>
+        <translation>Ställer in vänster eller övre ram för målytan eller post som startpunkt, beroende på distributionsorienteringen.</translation>
     </message>
     <message>
         <source>Sets the horizontal or vertical center of the target area or item as the starting point, depending on the distribution orientation.</source>
-        <translation>Ställer in horisontellt eller vertikalt centrum för målytan eller objekt som startpunkt, beroende på distributionsorienteringen.</translation>
+        <translation>Ställer in horisontellt eller vertikalt centrum för målytan eller post som startpunkt, beroende på distributionsorienteringen.</translation>
     </message>
     <message>
         <source>Sets the bottom or right border of the target area or item as the starting point, depending on the distribution orientation.</source>
-        <translation>Ställer in nedre eller höger ram för målytan eller objekt som startpunkt, beroende på distributionsorienteringen.</translation>
+        <translation>Ställer in nedre eller höger ram för målytan eller post som startpunkt, beroende på distributionsorienteringen.</translation>
     </message>
     <message>
         <source>Pixel spacing</source>
@@ -364,7 +364,7 @@ Bind till AmbientSound.Infinite för att spela upp ljudet utan stopp.</translati
     <name>AnchorButtons</name>
     <message>
         <source>Anchors can only be applied to child items.</source>
-        <translation>Ankare kan endast tillämpas på barnobjekt.</translation>
+        <translation>Ankare kan endast tillämpas på barnposter.</translation>
     </message>
     <message>
         <source>Anchors can only be applied to the base state.</source>
@@ -1785,7 +1785,7 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Sets the space between the items in pixels in the &lt;b&gt;Column Layout&lt;/b&gt;.</source>
-        <translation>Ställer in avståndet mellan objekten i pixlar i &lt;b&gt;Kolumnlayout&lt;/b&gt;.</translation>
+        <translation>Ställer in avståndet mellan poster i bildpunkter i &lt;b&gt;Kolumnlayout&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Layout direction</source>
@@ -1793,7 +1793,7 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Sets the direction of the item flow in the &lt;b&gt;Column Layout&lt;/b&gt;.</source>
-        <translation>Ställer in riktningen för objektflödet i &lt;b&gt;Kolumnlayout&lt;/b&gt;.</translation>
+        <translation>Ställer in riktningen för postflödet i &lt;b&gt;Kolumnlayout&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Uniform cell sizes</source>
@@ -1816,7 +1816,7 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Sets the spacing between column items.</source>
-        <translation>Ställer in avståndet mellan kolumnobjekt.</translation>
+        <translation>Ställer in avståndet mellan kolumnposter.</translation>
     </message>
 </context>
 <context>
@@ -1831,23 +1831,23 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Sets the model role for populating the combo box.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in modellrollen för populering av kombinationsrutan.</translation>
     </message>
     <message>
         <source>Sets the initial display text for the combo box.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in initial visningstext för kombinationsrutan.</translation>
     </message>
     <message>
         <source>Sets the current item.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in aktuell post.</translation>
     </message>
     <message>
         <source>Toggles if the combo box button is flat.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar om kombinationsrutans knapp är platt.</translation>
     </message>
     <message>
         <source>Toggles if the combo box is editable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlar om kombinationsrutan är redigeringsbar.</translation>
     </message>
     <message>
         <source>Display text</source>
@@ -1871,7 +1871,7 @@ It should be a relative path.</source>
     </message>
     <message>
         <source>Determines whether the combobox gets focus if pressed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestämmer huruvida kombinationsrutan får fokus om tryckt.</translation>
     </message>
 </context>
 <context>
@@ -2168,7 +2168,7 @@ Detta går inte att ångra.</translation>
     </message>
     <message>
         <source>Sets the index of the current item.</source>
-        <translation>Ange indexet för aktuellt objekt.</translation>
+        <translation>Ange indexet för aktuell post.</translation>
     </message>
 </context>
 <context>
@@ -2199,7 +2199,7 @@ Detta går inte att ångra.</translation>
     </message>
     <message>
         <source>item</source>
-        <translation>Objekt</translation>
+        <translation>post</translation>
     </message>
 </context>
 <context>
@@ -2244,7 +2244,7 @@ Detta går inte att ångra.</translation>
     <name>ContentLibraryItem</name>
     <message>
         <source>Item is imported to the project</source>
-        <translation>Objekt är importerade till projektet</translation>
+        <translation>Posten är importerad till projektet</translation>
     </message>
     <message>
         <source>Add an instance to project</source>
@@ -2941,7 +2941,7 @@ defined in &lt;b&gt;Step size&lt;/b&gt;.</source>
     </message>
     <message>
         <source>Assign current composition to selected item</source>
-        <translation>Tilldela aktuell komposition till markerat objekt</translation>
+        <translation>Tilldela aktuell komposition till markerad post</translation>
     </message>
     <message>
         <source>Untitled</source>
@@ -3448,11 +3448,11 @@ Förgrundskomponenten bör vara transparent och bakgrundskomponenten bör vara o
     </message>
     <message>
         <source>Sets the spacing between flow items.</source>
-        <translation>Ställer in avståndet mellan flödesobjekt.</translation>
+        <translation>Ställer in avståndet mellan flödesposter.</translation>
     </message>
     <message>
         <source>Sets the direction of flow items.</source>
-        <translation>Ställer in riktningen för flödesobjekt.</translation>
+        <translation>Ställer in riktningen för flödesposter.</translation>
     </message>
     <message>
         <source>Layout direction</source>
@@ -3460,7 +3460,7 @@ Förgrundskomponenten bör vara transparent och bakgrundskomponenten bör vara o
     </message>
     <message>
         <source>Sets in which direction items in the flow are placed.</source>
-        <translation>Ställer in vilken riktning som objekt i flödet placeras.</translation>
+        <translation>Ställer in vilken riktning som poster i flödet placeras.</translation>
     </message>
     <message>
         <source>Spacing</source>
@@ -3790,7 +3790,7 @@ Förgrundskomponenten bör vara transparent och bakgrundskomponenten bör vara o
     </message>
     <message>
         <source>Sets the space between the items in pixels in the rows and columns in the &lt;b&gt;Grid Layout&lt;/b&gt;.</source>
-        <translation>Ställer in avståndet mellan objekt i bildpunkter för kolumner och rader i &lt;b&gt;Rutnätslayout&lt;/b&gt;.</translation>
+        <translation>Ställer in avståndet mellan poster i bildpunkter för kolumner och rader i &lt;b&gt;Rutnätslayout&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Flow</source>
@@ -3798,7 +3798,7 @@ Förgrundskomponenten bör vara transparent och bakgrundskomponenten bör vara o
     </message>
     <message>
         <source>Set the direction of dynamic items to flow in rows or columns in the &lt;b&gt;Grid Layout&lt;/b&gt;.</source>
-        <translation>Ställer in riktningen för dynamiska objekt i rader eller kolumner i &lt;b&gt;Rutnätslayout&lt;/b&gt;.</translation>
+        <translation>Ställer in riktningen för dynamiska poster i rader eller kolumner i &lt;b&gt;Rutnätslayout&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Layout direction</source>
@@ -3806,7 +3806,7 @@ Förgrundskomponenten bör vara transparent och bakgrundskomponenten bör vara o
     </message>
     <message>
         <source>Sets the direction of the dynamic items left to right or right to left in the &lt;b&gt;Grid Layout&lt;/b&gt;.</source>
-        <translation>Ställer in riktningen för dynamiska objekt vänster till höger eller höger till vänster i &lt;b&gt;Rutnätslayout&lt;/b&gt;.</translation>
+        <translation>Ställer in riktningen för dynamiska poster vänster till höger eller höger till vänster i &lt;b&gt;Rutnätslayout&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Uniform cell sizes</source>
@@ -3849,7 +3849,7 @@ Förgrundskomponenten bör vara transparent och bakgrundskomponenten bör vara o
     </message>
     <message>
         <source>Sets the space between grid items. The same space is applied for both rows and columns.</source>
-        <translation>Ställer in utrymmet mellan rutnätsobjekt. Samma utrymme tillämpas för både rader och kolumner.</translation>
+        <translation>Ställer in utrymmet mellan rutnätsposter. Samma utrymme tillämpas för både rader och kolumner.</translation>
     </message>
     <message>
         <source>Flow</source>
@@ -3857,7 +3857,7 @@ Förgrundskomponenten bör vara transparent och bakgrundskomponenten bör vara o
     </message>
     <message>
         <source>Sets in which direction items in the grid are placed.</source>
-        <translation>Ställer in vilken riktning som objekten i rutnätet placeras.</translation>
+        <translation>Ställer in vilken riktning som poster i rutnätet placeras.</translation>
     </message>
     <message>
         <source>Layout direction</source>
@@ -3869,7 +3869,7 @@ Förgrundskomponenten bör vara transparent och bakgrundskomponenten bör vara o
     </message>
     <message>
         <source>Sets the horizontal alignment of items in the grid.</source>
-        <translation>Ställer in horisontell justering av objekt i rutnätet.</translation>
+        <translation>Ställer in horisontell justering av poster i rutnätet.</translation>
     </message>
     <message>
         <source>Alignment V</source>
@@ -3877,7 +3877,7 @@ Förgrundskomponenten bör vara transparent och bakgrundskomponenten bör vara o
     </message>
     <message>
         <source>Sets the vertical alignment of items in the grid.</source>
-        <translation>Ställer in vertikal justering av objekt i rutnätet.</translation>
+        <translation>Ställer in vertikal justering av poster i rutnätet.</translation>
     </message>
     <message>
         <source>Spacing</source>
@@ -3928,7 +3928,7 @@ Förgrundskomponenten bör vara transparent och bakgrundskomponenten bör vara o
     </message>
     <message>
         <source>Sets in which direction items in the grid view are placed.</source>
-        <translation>Ställer in vilken riktning som objekt i rutnätsvyn placeras.</translation>
+        <translation>Ställer in vilken riktning som poster i rutnätsvyn placeras.</translation>
     </message>
     <message>
         <source>Sets how the view scrolling will settle following a drag or flick.</source>
@@ -4284,7 +4284,7 @@ Idn måste börja med en gemen bokstav.</translation>
     <name>ItemDelegateSection</name>
     <message>
         <source>Item Delegate</source>
-        <translation>Objektdelegat</translation>
+        <translation>Postdelegat</translation>
     </message>
     <message>
         <source>Highlight</source>
@@ -4923,7 +4923,7 @@ a highlight component.</source>
     </message>
     <message>
         <source>More Items</source>
-        <translation>Fler objekt</translation>
+        <translation>Fler poster</translation>
     </message>
     <message>
         <source>Connections</source>
@@ -5036,11 +5036,11 @@ a highlight component.</source>
     </message>
     <message>
         <source>The margin above the item.</source>
-        <translation>Marginalen ovanför objektet.</translation>
+        <translation>Marginalen ovanför posten.</translation>
     </message>
     <message>
         <source>The margin below the item.</source>
-        <translation>Marginalen nedanför objektet.</translation>
+        <translation>Marginalen nedanför posten.</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -5048,11 +5048,11 @@ a highlight component.</source>
     </message>
     <message>
         <source>The margin left of the item.</source>
-        <translation>Marginalen till vänster om objektet.</translation>
+        <translation>Marginalen till vänster om posten.</translation>
     </message>
     <message>
         <source>The margin right of the item.</source>
-        <translation>Marginalen till höger om objektet.</translation>
+        <translation>Marginalen till höger om posten.</translation>
     </message>
     <message>
         <source>Margins</source>
@@ -5060,7 +5060,7 @@ a highlight component.</source>
     </message>
     <message>
         <source>The margins around the item.</source>
-        <translation>Marginalen runt objektet.</translation>
+        <translation>Marginalen runt posten.</translation>
     </message>
 </context>
 <context>
@@ -5916,11 +5916,11 @@ a highlight component.</source>
     </message>
     <message>
         <source>Item count</source>
-        <translation type="unfinished"></translation>
+        <translation>Postantal</translation>
     </message>
     <message>
         <source>Sets the number of items visible at once along the path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in antalet poster synliga samtidigt längs sökvägen.</translation>
     </message>
     <message>
         <source>Path View Highlight</source>
@@ -7070,11 +7070,11 @@ Exporterar tillgångar: %2</translation>
     </message>
     <message>
         <source>3D Item Exists</source>
-        <translation>3D-objekt finns</translation>
+        <translation>3D-post finns</translation>
     </message>
     <message>
         <source>A 3D item with the same name &apos;%1&apos; already exists in the Content Library, are you sure you want to overwrite it?</source>
-        <translation>Ett 3D-objekt med samma namn &quot;%1&quot; finns redan i Innehållsbibliotek. Är du säker på att du vill skriva över det?</translation>
+        <translation>En 3D-post med samma namn &quot;%1&quot; finns redan i Innehållsbibliotek. Är du säker på att du vill skriva över den?</translation>
     </message>
     <message>
         <source>Component Exists</source>
@@ -7200,19 +7200,19 @@ Exporterar tillgångar: %2</translation>
     <name>QmlDesigner::DesignDocument</name>
     <message>
         <source>Locked items:</source>
-        <translation>Låsta objekt:</translation>
+        <translation>Låsta poster:</translation>
     </message>
     <message>
         <source>Delete/Cut Item</source>
-        <translation>Ta bort/Klipp ut objekt</translation>
+        <translation>Ta bort/Klipp ut post</translation>
     </message>
     <message>
         <source>Deleting or cutting this item will modify locked items.</source>
-        <translation>Borttagning eller utklippning av detta objekt ändrar låsta objekt.</translation>
+        <translation>Borttagning eller utklippning av denna post ändrar låsta poster.</translation>
     </message>
     <message>
         <source>Do you want to continue by removing the item (Delete) or removing it and copying it to the clipboard (Cut)?</source>
-        <translation>Vill du fortsätta med att radera objektet (Ta bort) eller ta bort det och kopiera det till urklipp (Klipp ut)?</translation>
+        <translation>Vill du fortsätta med att radera posten (Ta bort) eller ta bort den och kopiera den till urklipp (Klipp ut)?</translation>
     </message>
 </context>
 <context>
@@ -7366,7 +7366,7 @@ Exporterar tillgångar: %2</translation>
     </message>
     <message>
         <source>Fit Selected Items to View</source>
-        <translation>Anpassa markerade objekt till vy</translation>
+        <translation>Anpassa markerade poster till vy</translation>
     </message>
     <message>
         <source>Align Camera to View</source>
@@ -8409,7 +8409,7 @@ Kontrollera utdatapanelen för mer information.</translation>
     <name>QmlDesigner::InvalidArgumentException</name>
     <message>
         <source>Failed to create item of type %1</source>
-        <translation>Misslyckades med att skapa objekt av typen %1</translation>
+        <translation>Misslyckades med att skapa post av typen %1</translation>
     </message>
 </context>
 <context>
@@ -8658,7 +8658,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Source item: %1</source>
-        <translation>Källobjekt: %1</translation>
+        <translation>Källpost: %1</translation>
     </message>
     <message>
         <source>Failed to generate QSB file for: %1</source>
@@ -9042,7 +9042,7 @@ Locked components cannot be modified or selected.</source>
     <name>QmlDesigner::SignalListModel</name>
     <message>
         <source>Item ID</source>
-        <translation>Objekt-id</translation>
+        <translation>Post-id</translation>
     </message>
     <message>
         <source>Signal</source>
@@ -10045,7 +10045,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Top And Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Topp och botten</translation>
     </message>
     <message>
         <source>Left And Right</source>
@@ -10069,23 +10069,23 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Column Positioner</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolumnpositionerare</translation>
     </message>
     <message>
         <source>Row Positioner</source>
-        <translation type="unfinished"></translation>
+        <translation>Radpositionerare</translation>
     </message>
     <message>
         <source>Grid Positioner</source>
-        <translation type="unfinished"></translation>
+        <translation>Rutnätspositionerare</translation>
     </message>
     <message>
         <source>Flow Positioner</source>
-        <translation type="unfinished"></translation>
+        <translation>Flödespositionerare</translation>
     </message>
     <message>
         <source>Remove Positioner</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort positionerare</translation>
     </message>
     <message>
         <source>Create Flow Action</source>
@@ -10093,7 +10093,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Set Flow Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställ in flödesstart</translation>
     </message>
     <message>
         <source>Remove Layout</source>
@@ -10101,11 +10101,11 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Group in GroupItem</source>
-        <translation type="unfinished"></translation>
+        <translation>Gruppera i GroupItem</translation>
     </message>
     <message>
         <source>Remove GroupItem</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort GroupItem</translation>
     </message>
     <message>
         <source>Add Component</source>
@@ -10145,11 +10145,11 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Reset size and use implicit size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nollställ storlek och använd implicit storlek.</translation>
     </message>
     <message>
         <source>Reset position and use implicit position.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nollställ position och använd implicit position.</translation>
     </message>
     <message>
         <source>Copy formatting.</source>
@@ -10165,7 +10165,7 @@ Locked components cannot be modified or selected.</source>
     </message>
     <message>
         <source>Reset anchors for selected component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nollställ ankare för markerad komponent.</translation>
     </message>
     <message>
         <source>Layout selected components in column layout.</source>
@@ -17948,7 +17948,7 @@ Set a valid executable first.</source>
     </message>
     <message>
         <source>Keep item activity</source>
-        <translation type="unfinished"></translation>
+        <translation>Behåll postaktivitet</translation>
     </message>
     <message>
         <source>Check &amp;Out</source>
@@ -18422,7 +18422,7 @@ Set a valid executable first.</source>
     </message>
     <message>
         <source>Waiting for items</source>
-        <translation>Väntar på objekt</translation>
+        <translation>Väntar på poster</translation>
     </message>
     <message>
         <source>This protocol does not support listing</source>
@@ -20187,11 +20187,11 @@ provided they were unmodified before the refactoring.</source>
     </message>
     <message>
         <source>Next Item</source>
-        <translation>Nästa objekt</translation>
+        <translation>Nästa post</translation>
     </message>
     <message>
         <source>Previous Item</source>
-        <translation>Föregående objekt</translation>
+        <translation>Föregående post</translation>
     </message>
     <message>
         <source>Out&amp;put</source>
@@ -21607,8 +21607,8 @@ Vill du skriva över dem?</translation>
     <message numerus="yes">
         <source>The search resulted in more than %n items, do you still want to continue?</source>
         <translation>
-            <numerusform>Sökningen resulterade i fler än %n objekt. Vill du verkligen fortsätta?</numerusform>
-            <numerusform>Sökningen resulterade i fler än %n objekt. Vill du verkligen fortsätta?</numerusform>
+            <numerusform>Sökningen resulterade i fler än %n post. Vill du verkligen fortsätta?</numerusform>
+            <numerusform>Sökningen resulterade i fler än %n poster. Vill du verkligen fortsätta?</numerusform>
         </translation>
     </message>
     <message>
@@ -21739,7 +21739,7 @@ Vill du skriva över dem?</translation>
     </message>
     <message>
         <source>An item named &quot;%1&quot; already exists at this location. Do you want to overwrite it?</source>
-        <translation>Ett objekt med namnet &quot;%1&quot; finns redan på denna plats. Vill du skriva över det?</translation>
+        <translation>En post med namnet &quot;%1&quot; finns redan på denna plats. Vill du skriva över den?</translation>
     </message>
     <message>
         <source>Save File As</source>
@@ -26291,8 +26291,8 @@ markers in the source code editor.</source>
     <message numerus="yes">
         <source>&lt;%n items&gt;</source>
         <translation>
-            <numerusform>&lt;%n objekt&gt;</numerusform>
-            <numerusform>&lt;%n objekt&gt;</numerusform>
+            <numerusform>&lt;%n post&gt;</numerusform>
+            <numerusform>&lt;%n poster&gt;</numerusform>
         </translation>
     </message>
     <message>
@@ -29230,11 +29230,11 @@ Stepping into the module or setting breakpoints by file and line is expected to 
     </message>
     <message>
         <source>Next Item</source>
-        <translation>Nästa objekt</translation>
+        <translation>Nästa post</translation>
     </message>
     <message>
         <source>Previous Item</source>
-        <translation>Föregående objekt</translation>
+        <translation>Föregående post</translation>
     </message>
     <message>
         <source>Color at %1,%2: red: %3 green: %4 blue: %5 alpha: %6</source>
@@ -29990,15 +29990,15 @@ Det kan hjälpa att bygga om projektet.</translation>
     </message>
     <message>
         <source>Auto-detect Kit Items</source>
-        <translation>Upptäck kitobjekt automatiskt</translation>
+        <translation>Upptäck kitposter automatiskt</translation>
     </message>
     <message>
         <source>Remove Auto-Detected Kit Items</source>
-        <translation>Ta automatiskt bort upptäckta kitobjekt</translation>
+        <translation>Ta bort automatiskt upptäckta kitposter</translation>
     </message>
     <message>
         <source>List Auto-Detected Kit Items</source>
-        <translation>Lista automatiskt upptäckta kitobjekt</translation>
+        <translation>Lista automatiskt upptäckta kitposter</translation>
     </message>
     <message>
         <source>Search in PATH</source>
@@ -31285,7 +31285,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>All Items</source>
-        <translation>Alla objekt</translation>
+        <translation>Alla poster</translation>
     </message>
     <message>
         <source>File Commits</source>
@@ -31309,7 +31309,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Item Types</source>
-        <translation type="unfinished"></translation>
+        <translation>Posttyper</translation>
     </message>
     <message>
         <source>Private</source>
@@ -32288,7 +32288,7 @@ Would you like to create the branch &quot;%1&quot; on the remote and set it as u
     </message>
     <message>
         <source>An item named &quot;%1&quot; already exists at this location. Do you want to overwrite it?</source>
-        <translation type="unfinished"></translation>
+        <translation>En post med namnet &quot;%1&quot; finns redan på denna plats. Vill du skriva över den?</translation>
     </message>
     <message>
         <source>Create Local Branch</source>
@@ -37596,7 +37596,7 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>Edit Item on Diagram</source>
-        <translation>Redigera objekt på diagram</translation>
+        <translation>Redigera post på diagram</translation>
     </message>
     <message>
         <source>Return</source>
@@ -37744,11 +37744,11 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>Item</source>
-        <translation>Objekt</translation>
+        <translation>Post</translation>
     </message>
     <message>
         <source>New Item</source>
-        <translation>Nytt objekt</translation>
+        <translation>Ny post</translation>
     </message>
     <message>
         <source>Annotation</source>
@@ -41847,7 +41847,7 @@ Förväljer en skrivbordsbaserad Qt för att bygga programmet om tillgängligt.<
     </message>
     <message>
         <source>Items are editable</source>
-        <translation>Objekten är redigerbara</translation>
+        <translation>Poster är redigerbara</translation>
     </message>
     <message>
         <source>Rows and columns can be added</source>
@@ -41863,11 +41863,11 @@ Förväljer en skrivbordsbaserad Qt för att bygga programmet om tillgängligt.<
     </message>
     <message>
         <source>Define Item Model Class</source>
-        <translation type="unfinished"></translation>
+        <translation>Definiera postmodellklass</translation>
     </message>
     <message>
         <source>Creates a Qt item model.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapar en Qt-postmodell.</translation>
     </message>
     <message>
         <source>Qt</source>
@@ -41875,7 +41875,7 @@ Förväljer en skrivbordsbaserad Qt för att bygga programmet om tillgängligt.<
     </message>
     <message>
         <source>Qt Item Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt-postmodell</translation>
     </message>
     <message>
         <source>Fully qualified name, including namespaces</source>
@@ -42538,7 +42538,7 @@ The name of the build configuration created by default for a generic project.</e
     </message>
     <message>
         <source>Remove Item</source>
-        <translation>Ta bort objekt</translation>
+        <translation>Ta bort post</translation>
     </message>
     <message>
         <source>Removing Step failed</source>
@@ -43866,7 +43866,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Start removing auto-detected items associated with this docker image.</source>
-        <translation>Startar borttagning av automatiskt identifierade objekt associerade med denna docker-avbild.</translation>
+        <translation>Startar borttagning av automatiskt identifierade poster associerade med denna docker-avbild.</translation>
     </message>
     <message>
         <source>Removing kits...</source>
@@ -43886,11 +43886,11 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Removal of previously auto-detected kit items finished.</source>
-        <translation>Borttagning av tidigare automatiskt identifierade kitobjekt är färdig.</translation>
+        <translation>Borttagning av tidigare automatiskt identifierade kitposter är färdig.</translation>
     </message>
     <message>
         <source>Start listing auto-detected items associated with this docker image.</source>
-        <translation>Startar listning av automatiskt identifierade objekt associerade med denna docker-avbild.</translation>
+        <translation>Startar listning av automatiskt identifierade poster associerade med denna docker-avbild.</translation>
     </message>
     <message>
         <source>Kits:</source>
@@ -43906,7 +43906,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>Listing of previously auto-detected kit items finished.</source>
-        <translation>Listning av tidigare automatiskt identifierade kitobjekt är färdig.</translation>
+        <translation>Listning av tidigare automatiskt identifierade kitposter är färdig.</translation>
     </message>
     <message>
         <source>Found &quot;%1&quot;</source>
@@ -44208,11 +44208,11 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
     </message>
     <message>
         <source>No JSON lists allowed inside List items.</source>
-        <translation>Inga JSON-listor tillåtna inne i List-objekt.</translation>
+        <translation>Inga JSON-listor tillåtna inne i List-poster.</translation>
     </message>
     <message>
         <source>No &quot;key&quot; found in List items.</source>
-        <translation>Ingen &quot;key&quot; hittades i List-objekt.</translation>
+        <translation>Ingen &quot;key&quot; hittades i List-poster.</translation>
     </message>
     <message>
         <source>%1 (&quot;%2&quot;) data is not an object.</source>
@@ -45171,15 +45171,15 @@ Dessa filer behålls.</numerusform>
     </message>
     <message>
         <source>Python Language Server (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Python-språkserver (%1)</translation>
     </message>
     <message>
         <source>Install Python language server (PyLS) for %1 (%2). The language server provides Python specific completion and annotation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Installera Python-språkserver (PyLS) för %1 (%2). Språkservern tillhandahåller Python-specifik komplettering och anteckningsfunktioner.</translation>
     </message>
     <message>
         <source>Update Python language server (PyLS) for %1 (%2).</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdatera Python-språkserver (PyLS) för %1 (%2).</translation>
     </message>
     <message>
         <source>Always Update</source>
@@ -45275,7 +45275,7 @@ Dessa filer behålls.</numerusform>
     </message>
     <message>
         <source>Use Python Language Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd Python-språkserver</translation>
     </message>
     <message>
         <source>For a complete list of available options, consult the [Python LSP Server configuration documentation](%1).</source>
@@ -46830,7 +46830,7 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>Item</source>
-        <translation>Objekt</translation>
+        <translation>Post</translation>
     </message>
     <message>
         <source>Property</source>
@@ -46838,7 +46838,7 @@ Adds the library and include paths to the .pro file.</source>
     </message>
     <message>
         <source>Source Item</source>
-        <translation>Källobjekt</translation>
+        <translation>Källpost</translation>
     </message>
     <message>
         <source>Source Property</source>
@@ -51484,7 +51484,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>Remove items</source>
-        <translation>Ta bort objekt</translation>
+        <translation>Ta bort poster</translation>
     </message>
     <message>
         <source>Structure</source>
@@ -51831,7 +51831,7 @@ Row: %4, Column: %5
     </message>
     <message>
         <source>Paste items</source>
-        <translation>Klistra in objekt</translation>
+        <translation>Klistra in poster</translation>
     </message>
     <message>
         <source>Cannot save XML to the file %1.</source>
@@ -51855,7 +51855,7 @@ Row: %4, Column: %5
     </message>
     <message>
         <source>Item</source>
-        <translation>Objekt</translation>
+        <translation>Post</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -53491,7 +53491,7 @@ Failed to open file &quot;%1&quot;.</source>
     </message>
     <message>
         <source>Inserts the common prefix of available completion items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Infogar vanligt prefix för tillgängliga kompletteringsposter.</translation>
     </message>
     <message>
         <source>Automatically split strings</source>
@@ -54651,7 +54651,7 @@ Used to mark containing function of the symbol usage.</source>
     </message>
     <message>
         <source>Applied to enumeration items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillämpas på enumeration-poster.</translation>
     </message>
     <message>
         <source>Declaration</source>
@@ -54945,15 +54945,15 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>QML item id within a QML file.</source>
-        <translation type="unfinished"></translation>
+        <translation>QML-post-id inom en QML-fil.</translation>
     </message>
     <message>
         <source>QML property of a parent item.</source>
-        <translation type="unfinished"></translation>
+        <translation>QML-egenskap för en föräldrapost.</translation>
     </message>
     <message>
         <source>Property of the same QML item.</source>
-        <translation type="unfinished"></translation>
+        <translation>Egenskap för samma QML-post.</translation>
     </message>
     <message>
         <source>Doxygen tags.</source>
@@ -54969,7 +54969,7 @@ Will not be applied to whitespace in comments and strings.</source>
     </message>
     <message>
         <source>QML item property, that allows a binding to another property.</source>
-        <translation type="unfinished"></translation>
+        <translation>QML-postegenskap, som tillåter en bindning till en annan egenskap.</translation>
     </message>
     <message>
         <source>QML Local Id</source>
@@ -57545,8 +57545,8 @@ i &quot;%2&quot;.
     <message numerus="yes">
         <source>%n Items</source>
         <translation>
-            <numerusform>%n objekt</numerusform>
-            <numerusform>%n objekt</numerusform>
+            <numerusform>%n post</numerusform>
+            <numerusform>%n poster</numerusform>
         </translation>
     </message>
     <message>
@@ -58162,15 +58162,15 @@ With cache simulation, further event counters are enabled:
     </message>
     <message>
         <source>Go back one step in history. This will select the previously selected item.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå bakåt ett steg i historiken. Detta väljer föregående markerad post.</translation>
     </message>
     <message>
         <source>Go forward one step in history.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå framåt ett steg i historiken.</translation>
     </message>
     <message>
         <source>Selects which events from the profiling data are shown and visualized.</source>
-        <translation type="unfinished"></translation>
+        <translation>Väljer vilka händelser från profileringsdatat som visas och visualiseras.</translation>
     </message>
     <message>
         <source>Absolute Costs</source>
@@ -60152,11 +60152,11 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Item</source>
-        <translation>Objekt</translation>
+        <translation>Post</translation>
     </message>
     <message>
         <source>Items</source>
-        <translation>Objekt</translation>
+        <translation>Poster</translation>
     </message>
     <message>
         <source>Variety:</source>
@@ -60184,15 +60184,15 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Derived class: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Härledd klass: %1</translation>
     </message>
     <message>
         <source>Base class: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Basklass: %1</translation>
     </message>
     <message>
         <source>Associations</source>
-        <translation type="unfinished"></translation>
+        <translation>Associationer</translation>
     </message>
     <message>
         <source>Role:</source>
@@ -60200,11 +60200,11 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Cardinality:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kardinalitet:</translation>
     </message>
     <message>
         <source>Navigable</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigeringsbar</translation>
     </message>
     <message>
         <source>Aggregation</source>
@@ -60216,7 +60216,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Relationship:</source>
-        <translation type="unfinished"></translation>
+        <translation>Relation:</translation>
     </message>
     <message>
         <source>Connection</source>
@@ -60400,7 +60400,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Create Association</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa association</translation>
     </message>
     <message>
         <source>Create Connection</source>
@@ -60408,7 +60408,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Drop Element</source>
-        <translation type="unfinished"></translation>
+        <translation>Släpp element</translation>
     </message>
     <message>
         <source>Add Related Element</source>
@@ -60436,7 +60436,7 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Stereotypes</source>
-        <translation type="unfinished"></translation>
+        <translation>Stereotyper</translation>
     </message>
     <message>
         <source>Other Element Attributes</source>
@@ -60716,7 +60716,7 @@ defined in step size.</source>
     </message>
     <message>
         <source>Sets the space between the items in pixels in the &lt;b&gt;Row Layout&lt;/b&gt;.</source>
-        <translation>Ställer in avståndet mellan objekten i pixlar i &lt;b&gt;Radlayout&lt;/b&gt;.</translation>
+        <translation>Ställer in avståndet mellan poster i bildpunkter i &lt;b&gt;Radlayout&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Layout direction</source>
@@ -60724,7 +60724,7 @@ defined in step size.</source>
     </message>
     <message>
         <source>Sets the direction of the item flow in the &lt;b&gt;Row Layout&lt;/b&gt;.</source>
-        <translation>Ställer in riktningen för objektflödet i &lt;b&gt;Radlayout&lt;/b&gt;.</translation>
+        <translation>Ställer in riktningen för postflödet i &lt;b&gt;Radlayout&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Uniform cell sizes</source>
@@ -60743,7 +60743,7 @@ defined in step size.</source>
     </message>
     <message>
         <source>Sets the spacing between items in the row.</source>
-        <translation>Ställer in avståndet mellan objekt i raden.</translation>
+        <translation>Ställer in avståndet mellan poster i raden.</translation>
     </message>
     <message>
         <source>Layout direction</source>
@@ -60751,7 +60751,7 @@ defined in step size.</source>
     </message>
     <message>
         <source>Sets in which direction items in the row are placed.</source>
-        <translation>Ställer in vilken riktning som objekt i raden placeras.</translation>
+        <translation>Ställer in vilken riktning som poster i raden placeras.</translation>
     </message>
     <message>
         <source>Spacing</source>
@@ -61625,7 +61625,7 @@ it reaches the start or end.</source>
     <name>StatementEditor</name>
     <message>
         <source>Item</source>
-        <translation>Objekt</translation>
+        <translation>Post</translation>
     </message>
     <message>
         <source>Sets the component that is affected by the action of the &lt;b&gt;Target&lt;/b&gt; component&apos;s &lt;b&gt;Signal&lt;/b&gt;.</source>
@@ -62472,7 +62472,7 @@ This is used for calculating the total implicit size.</source>
     <name>TimerSpecifics</name>
     <message>
         <source>Timer</source>
-        <translation type="unfinished"></translation>
+        <translation>Timer</translation>
     </message>
     <message>
         <source>Interval</source>
@@ -62480,15 +62480,15 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>Sets the interval between triggers, in milliseconds.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in intervallet mellan utlösare, i millisekunder.</translation>
     </message>
     <message>
         <source>Repeat</source>
-        <translation type="unfinished"></translation>
+        <translation>Upprepa</translation>
     </message>
     <message>
         <source>Sets whether the timer is triggered repeatedly at the specified interval or just once.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in huruvida timern utlöses igen och igen vid angivet intervall eller bara en gång.</translation>
     </message>
     <message>
         <source>Running</source>
@@ -62496,15 +62496,15 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>Sets whether the timer is running or not.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in huruvida timern kör eller inte.</translation>
     </message>
     <message>
         <source>Triggered on start</source>
-        <translation type="unfinished"></translation>
+        <translation>Utlöst vid start</translation>
     </message>
     <message>
         <source>Sets the timer to trigger when started.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in timern att utlösa när startad.</translation>
     </message>
 </context>
 <context>
@@ -62651,11 +62651,11 @@ This is used for calculating the total implicit size.</source>
     </message>
     <message>
         <source>Sets the number of items in the model.</source>
-        <translation>Ställer in antalet objekt i modellen.</translation>
+        <translation>Ställer in antalet poster i modellen.</translation>
     </message>
     <message>
         <source>Sets the index of the current item.</source>
-        <translation>Ställer in indexet för aktuellt objekt.</translation>
+        <translation>Ställer in indexet för aktuell post.</translation>
     </message>
     <message>
         <source>Toggles if the tumbler wraps around when it reaches the
