@@ -13060,7 +13060,7 @@ See Google Test documentation for further information on GTest filters.</source>
     </message>
     <message>
         <source>Wildcard expressions for filtering:</source>
-        <translation type="unfinished"></translation>
+        <translation>Jokerteckensuttryck för filtrering:</translation>
     </message>
     <message>
         <source>Add</source>
@@ -15871,7 +15871,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Base environment for the CMake configure step:</source>
-        <translation type="unfinished"></translation>
+        <translation>Basmiljö för CMake-konfigurationssteg:</translation>
     </message>
     <message>
         <source>System Environment</source>
@@ -15935,7 +15935,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Re-generates the kits that were created for CMake presets. All manual modifications to the CMake project settings will be lost.</source>
-        <translation type="unfinished"></translation>
+        <translation>Återgenererar kiten som skapades för CMake-förval. Alla manuella ändringar till CMake-projektinställningar kommer förloras.</translation>
     </message>
     <message>
         <source>Reload</source>
@@ -15943,7 +15943,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>Build File is not supported for generator &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Byggfilen stöds inte för generatorn &quot;%1&quot;</translation>
     </message>
     <message>
         <source>CMake</source>
@@ -15959,7 +15959,7 @@ For example, &quot;Revision: 15&quot; will leave the branch at revision 15.</sou
     </message>
     <message>
         <source>The CMake Tool to use when building a project with CMake.&lt;br&gt;This setting is ignored when using other build systems.</source>
-        <translation type="unfinished"></translation>
+        <translation>CMake-verktyget att använda när ett projekt byggs med CMake.&lt;br&gt;Denna inställning ignoreras när andra byggsystem används.</translation>
     </message>
     <message>
         <source>Unconfigured</source>
@@ -37405,7 +37405,7 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>The Meson tool to use when building a project with Meson.&lt;br&gt;This setting is ignored when using other build systems.</source>
-        <translation type="unfinished"></translation>
+        <translation>Meson-verktyget att använda när ett projekt byggs med Meson.&lt;br&gt;Denna inställning ignoreras när andra byggsystem används.</translation>
     </message>
     <message>
         <source>Cannot validate this meson executable.</source>
@@ -37438,7 +37438,7 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>The Ninja tool to use when building a project with Meson.&lt;br&gt;This setting is ignored when using other build systems.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ninja-verktyget att använda när ett projekt byggs med Meson.&lt;br&gt;Denna inställning ignoreras när andra byggsystem används.</translation>
     </message>
     <message>
         <source>Cannot validate this Ninja executable.</source>
@@ -37462,7 +37462,7 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>Enables verbose mode by default when invoking Ninja.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiverar utförligt läge som standard när Ninja anropas.</translation>
     </message>
     <message>
         <source>General</source>
@@ -49913,7 +49913,7 @@ Are you sure you want to continue?</source>
     </message>
     <message>
         <source>The Qt library to use for all projects using this kit.&lt;br&gt;A Qt version is required for qmake-based projects and optional when using other build systems.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt-biblioteket att använda för alla projekt som använder detta kit.&lt;br&gt;En Qt-version krävs för qmake-baserade projekt och valfritt när andra byggsystem används.</translation>
     </message>
     <message>
         <source>Name of Qt Version</source>
