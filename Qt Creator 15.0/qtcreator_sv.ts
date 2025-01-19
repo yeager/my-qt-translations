@@ -6081,11 +6081,11 @@ a highlight component.</source>
     </message>
     <message>
         <source>Sets the minimum value of the progress bar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in minsta värdet för förloppsmätaren.</translation>
     </message>
     <message>
         <source>Sets the maximum value of the progress bar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställer in största värdet för förloppsmätaren.</translation>
     </message>
     <message>
         <source>Toggles if the progress bar is in indeterminate mode.
@@ -12340,7 +12340,7 @@ inställningar. Tillåt denna åsidosättning?</translation>
     </message>
     <message>
         <source>Deploy Application Manager package</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuera programhanterarpaket</translation>
     </message>
     <message>
         <source>Target directory:</source>
@@ -12348,15 +12348,15 @@ inställningar. Tillåt denna åsidosättning?</translation>
     </message>
     <message>
         <source>Uploading finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sändning färdig.</translation>
     </message>
     <message>
         <source>Uploading failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sändning misslyckades.</translation>
     </message>
     <message>
         <source>Install Application Manager package</source>
-        <translation type="unfinished"></translation>
+        <translation>Installera programhanterarpaket</translation>
     </message>
     <message>
         <source>Starting command &quot;%1&quot;.</source>
@@ -12376,7 +12376,7 @@ inställningar. Tillåt denna åsidosättning?</translation>
     </message>
     <message>
         <source>Run an Application Manager Package</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör ett programhanterarpaket</translation>
     </message>
     <message>
         <source>Run and Debug an Application Manager Package</source>
@@ -12392,7 +12392,7 @@ inställningar. Tillåt denna åsidosättning?</translation>
     </message>
     <message>
         <source>Starting Application Manager debugging...</source>
-        <translation type="unfinished"></translation>
+        <translation>Startar felsökning för programhanterare...</translation>
     </message>
     <message>
         <source>Using: %1.</source>
@@ -12400,15 +12400,15 @@ inställningar. Tillåt denna åsidosättning?</translation>
     </message>
     <message>
         <source>Cannot debug: Only QML and native applications are supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte felsöka: Endast QML och inbyggda program stöds.</translation>
     </message>
     <message>
         <source>Cannot debug: Local executable is not set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte felsöka: Lokal körbar fil inte inställd.</translation>
     </message>
     <message>
         <source>Application ID:</source>
-        <translation type="unfinished"></translation>
+        <translation>Program-id:</translation>
     </message>
     <message>
         <source>Application Manager instance ID:</source>
@@ -14075,7 +14075,7 @@ a matches issues where the value contains the letter &apos;a&apos;
     <name>QtC::BareMetal</name>
     <message>
         <source>Set up Debug Server or Hardware Debugger</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurera en felsökningsserver eller hårdvarufelsökare</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -14245,7 +14245,7 @@ a matches issues where the value contains the letter &apos;a&apos;
     </message>
     <message>
         <source>Disable cache:</source>
-        <translation type="unfinished"></translation>
+        <translation>Inaktivera cache:</translation>
     </message>
     <message>
         <source>Shut down EBlink server after disconnect.</source>
@@ -14605,11 +14605,11 @@ a matches issues where the value contains the letter &apos;a&apos;
     </message>
     <message>
         <source>Unable to create a uVision project template.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte skapa en uVision-projektmall.</translation>
     </message>
     <message>
         <source>Choose Keil Toolset Configuration File</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj Keil Toolset-konfigurationsfil</translation>
     </message>
     <message>
         <source>Tools file path:</source>
@@ -14665,7 +14665,7 @@ a matches issues where the value contains the letter &apos;a&apos;
     </message>
     <message>
         <source>Algorithm path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Algoritmsökväg.</translation>
     </message>
     <message>
         <source>FLASH:</source>
@@ -14749,7 +14749,7 @@ a matches issues where the value contains the letter &apos;a&apos;
     </message>
     <message>
         <source>Platform codegen flags:</source>
-        <translation type="unfinished"></translation>
+        <translation>Plattformens codegen-flaggor:</translation>
     </message>
     <message>
         <source>&amp;ABI:</source>
@@ -24572,7 +24572,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Count</source>
-        <translation type="unfinished"></translation>
+        <translation>Antal</translation>
     </message>
     <message>
         <source>Total Time</source>
@@ -24620,7 +24620,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Unfinished</source>
-        <translation type="unfinished"></translation>
+        <translation>Ofärdig</translation>
     </message>
     <message>
         <source>true</source>
@@ -24644,7 +24644,7 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Scope</source>
-        <translation type="unfinished"></translation>
+        <translation>Omfång</translation>
     </message>
     <message>
         <source>global</source>
@@ -24664,15 +24664,15 @@ These prefixes are used in addition to current file name on Switch Header/Source
     </message>
     <message>
         <source>Error while parsing CTF data: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid tolkning av CTF-data: %1.</translation>
     </message>
     <message>
         <source>CTF Visualizer</source>
-        <translation type="unfinished"></translation>
+        <translation>CTF-visualiserare</translation>
     </message>
     <message>
         <source>Cannot read the CTF file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte läsa CTF-filen.</translation>
     </message>
     <message>
         <source>The trace contains threads with stack depth &gt; 512.
@@ -24681,7 +24681,7 @@ Do you want to display them anyway?</source>
     </message>
     <message>
         <source>Chrome Trace Format Viewer</source>
-        <translation type="unfinished"></translation>
+        <translation>Chrome Trace Format-visare</translation>
     </message>
     <message>
         <source>Load JSON File</source>
@@ -24705,7 +24705,7 @@ Do you want to display them anyway?</source>
     </message>
     <message>
         <source>Load Chrome Trace Format File</source>
-        <translation type="unfinished"></translation>
+        <translation>Läs in Chrome Trace Format-fil</translation>
     </message>
     <message>
         <source>JSON File (*.json)</source>
@@ -24713,7 +24713,7 @@ Do you want to display them anyway?</source>
     </message>
     <message>
         <source>The file does not contain any trace data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen innehåller inte någon spårningsdata.</translation>
     </message>
     <message>
         <source>Loading CTF File</source>
@@ -24721,7 +24721,7 @@ Do you want to display them anyway?</source>
     </message>
     <message>
         <source>Chrome Trace Format Visualizer</source>
-        <translation type="unfinished"></translation>
+        <translation>Chrome Trace Format-visualiserare</translation>
     </message>
 </context>
 <context>
@@ -24986,7 +24986,7 @@ For more details, see /etc/sysctl.d/10-ptrace.conf
     </message>
     <message>
         <source>Thread Specification:</source>
-        <translation type="unfinished"></translation>
+        <translation>Trådspecifikation:</translation>
     </message>
     <message>
         <source>Number</source>
@@ -25031,7 +25031,7 @@ For more details, see /etc/sysctl.d/10-ptrace.conf
     <message>
         <source>&lt;invalid state&gt;</source>
         <extracomment>Invalid breakpoint state.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;ogiltigt tillstånd&gt;</translation>
     </message>
     <message>
         <source>Breakpoint at &quot;%1&quot;</source>
@@ -31071,7 +31071,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Show partial command</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa ofullständigt kommando</translation>
     </message>
     <message>
         <source>Pass keys in insert mode</source>
@@ -31755,7 +31755,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Include Old Entries</source>
-        <translation type="unfinished"></translation>
+        <translation>Inkludera gamla poster</translation>
     </message>
     <message>
         <source>Include Tags</source>
@@ -38016,7 +38016,7 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>Replace events with trace points read from the device?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ersätt händelser med spårningspunkter lästa från enheten?</translation>
     </message>
     <message>
         <source>Cannot List Trace Points</source>
@@ -38032,7 +38032,7 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>Trace points can be defined with &quot;perf probe -a&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Spårningspunkter kan definieras med &quot;perf probe -a&quot;.</translation>
     </message>
     <message>
         <source>Perf Data Parser Failed</source>
@@ -38052,7 +38052,7 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>Perf Data Parser Crashed</source>
-        <translation type="unfinished"></translation>
+        <translation>Perf-datatolkare kraschade</translation>
     </message>
     <message>
         <source>This is a bug. Please report it.</source>
@@ -38072,7 +38072,7 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>Cannot Send Data to Perf Data Parser</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte skicka data till Perf-datatolkare</translation>
     </message>
     <message>
         <source>The Perf data parser does not accept further input. Your trace is incomplete.</source>
@@ -38108,7 +38108,7 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>Perf traces (*%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Perf-spårningar (*%1)</translation>
     </message>
     <message>
         <source>Choose Directory of Executable</source>
@@ -38124,7 +38124,7 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>Perf Process Failed to Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Perf-processen misslyckades med att starta</translation>
     </message>
     <message>
         <source>Make sure that you are running a recent Linux kernel and that the &quot;perf&quot; utility is available.</source>
@@ -38132,7 +38132,7 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>Failed to transfer Perf data to perfparser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att överföra Perf-data till perfparser.</translation>
     </message>
     <message>
         <source>Address</source>
@@ -38140,7 +38140,7 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>Source Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Källplats</translation>
     </message>
     <message>
         <source>Binary Location</source>
@@ -38208,7 +38208,7 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>Create trace points for memory profiling on the target device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa spårningspunkter för minnesprofilering på målenheten.</translation>
     </message>
     <message>
         <source>Performance Analyzer</source>
@@ -38216,7 +38216,7 @@ Useful if build directory is corrupted or when rebuilding with a newer version o
     </message>
     <message>
         <source>Finds performance bottlenecks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hittar flaskhalsar i prestandan.</translation>
     </message>
     <message>
         <source>Timeline</source>
@@ -38440,19 +38440,19 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>Resource Usage</source>
-        <translation type="unfinished"></translation>
+        <translation>Resursanvändning</translation>
     </message>
     <message>
         <source>Resource Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Resursändringar</translation>
     </message>
     <message>
         <source>thread started</source>
-        <translation type="unfinished"></translation>
+        <translation>tråd startad</translation>
     </message>
     <message>
         <source>thread ended</source>
-        <translation type="unfinished"></translation>
+        <translation>tråd avslutad</translation>
     </message>
     <message>
         <source>lost sample</source>
@@ -38488,11 +38488,11 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>Run the following script as root to create trace points?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör följande skript som root för att skapa spårningspunkter?</translation>
     </message>
     <message>
         <source>Elevate privileges using:</source>
-        <translation type="unfinished"></translation>
+        <translation>Elevera rättigheter med:</translation>
     </message>
     <message>
         <source>Error: No device available for active target.</source>
@@ -38508,7 +38508,7 @@ You might find further explanations in the Application Output view.</source>
     </message>
     <message>
         <source>Failed to run trace point script: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att köra skript för spårningspunkter: %1</translation>
     </message>
     <message>
         <source>Failed to create trace points.</source>
@@ -40040,7 +40040,7 @@ Do you want to ignore them?</source>
     </message>
     <message>
         <source>Open Build and Run Kit Selector...</source>
-        <translation>Öpppna kitväljare för Bygg och kör...</translation>
+        <translation>Öppna kitväljare för Bygg och kör...</translation>
     </message>
     <message>
         <source>Quick Switch Kit Selector</source>
@@ -41995,11 +41995,11 @@ Förväljer en skrivbordsbaserad Qt för att bygga programmet om tillgängligt.<
     </message>
     <message>
         <source>Creates a scratch buffer using a temporary file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapar ett skissblock med hjälp av en temporärfil.</translation>
     </message>
     <message>
         <source>Scratch Buffer</source>
-        <translation type="unfinished"></translation>
+        <translation>Skissblock</translation>
     </message>
     <message>
         <source>State chart name:</source>
@@ -42067,7 +42067,7 @@ Förväljer en skrivbordsbaserad Qt för att bygga programmet om tillgängligt.<
     </message>
     <message>
         <source>Qt Widgets Designer Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt Widgets Designer-formulär</translation>
     </message>
     <message>
         <source>Creates a source file that you can add to a C/C++ project.</source>
@@ -45107,7 +45107,7 @@ Dessa filer behålls.</numerusform>
     </message>
     <message>
         <source>PySide uic tool:</source>
-        <translation type="unfinished"></translation>
+        <translation>PySide uic-verktyg:</translation>
     </message>
     <message>
         <source>Enter location of PySide uic tool.</source>
@@ -45279,7 +45279,7 @@ Dessa filer behålls.</numerusform>
     </message>
     <message>
         <source>For a complete list of available options, consult the [Python LSP Server configuration documentation](%1).</source>
-        <translation type="unfinished"></translation>
+        <translation>För en komplett lista över tillgängliga alternativ, se [Python LSP Server configuration documentation](%1).</translation>
     </message>
     <message>
         <source>Python interpreter:</source>
@@ -45303,7 +45303,7 @@ Dessa filer behålls.</numerusform>
     </message>
     <message>
         <source>Language Server Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfiguration av språkserver</translation>
     </message>
     <message>
         <source>Searching Python binaries...</source>
@@ -45339,7 +45339,7 @@ Dessa filer behålls.</numerusform>
     </message>
     <message>
         <source>Issues parsed from Python runtime output.</source>
-        <translation type="unfinished"></translation>
+        <translation>Problem tolkade från Python-körtidsutdata.</translation>
     </message>
     <message>
         <source>None</source>
@@ -45422,7 +45422,7 @@ Dessa filer behålls.</numerusform>
     </message>
     <message>
         <source>No qbs session exists for this target.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen qbs-session finns för detta mål.</translation>
     </message>
     <message>
         <source>Installation flags:</source>
@@ -45446,7 +45446,7 @@ Dessa filer behålls.</numerusform>
     </message>
     <message>
         <source>No &quot;:&quot; found in property definition.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inget &quot;:&quot; hittades i egenskapsdefinition.</translation>
     </message>
     <message>
         <source>Properties:</source>
@@ -45506,7 +45506,7 @@ Dessa filer behålls.</numerusform>
     </message>
     <message>
         <source>Reparse Qbs</source>
-        <translation type="unfinished"></translation>
+        <translation>Återtolka Qbs</translation>
     </message>
     <message>
         <source>Build File</source>
@@ -45625,7 +45625,7 @@ You will rarely need to do this.</source>
     </message>
     <message>
         <source>Failed to run qbs config: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att köra qbs config: %1</translation>
     </message>
     <message>
         <source>Profiles</source>
@@ -45653,7 +45653,7 @@ You will rarely need to do this.</source>
     </message>
     <message>
         <source>Fatal qbs error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ödesdigert qbs-fel: %1</translation>
     </message>
     <message>
         <source>Failed</source>
@@ -45669,7 +45669,7 @@ You will rarely need to do this.</source>
     </message>
     <message>
         <source>Error retrieving run environment: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid hämtning av körmiljö: %1</translation>
     </message>
     <message>
         <source>Qbs</source>
@@ -45681,23 +45681,23 @@ You will rarely need to do this.</source>
     </message>
     <message>
         <source>No qbs executable was found, please set the path in the settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen körbar qbs-fil hittades, ställ in sökvägen i inställningarna.</translation>
     </message>
     <message>
         <source>The qbs executable was not found at the specified path, or it is not executable (&quot;%1&quot;).</source>
-        <translation type="unfinished"></translation>
+        <translation>Körbar qbs-fil hittades inte i angiven sökväg eller så är den inte en körbar fil (&quot;%1&quot;).</translation>
     </message>
     <message>
         <source>The qbs process quit unexpectedly.</source>
-        <translation type="unfinished"></translation>
+        <translation>qbs-processen avslutades oväntat.</translation>
     </message>
     <message>
         <source>The qbs process failed to start.</source>
-        <translation type="unfinished"></translation>
+        <translation>qbs-processen misslyckades med att starta.</translation>
     </message>
     <message>
         <source>The qbs process sent unexpected data.</source>
-        <translation type="unfinished"></translation>
+        <translation>qbs-processen skickade oväntat data.</translation>
     </message>
     <message>
         <source>The qbs API level is not compatible with what %1 expects.</source>
@@ -46273,7 +46273,7 @@ Berörda filer är:
     </message>
     <message>
         <source>Property defa&amp;ults</source>
-        <translation type="unfinished"></translation>
+        <translation>Egenskapsstandard&amp;er</translation>
     </message>
     <message>
         <source>dom&amp;XML:</source>
@@ -46337,7 +46337,7 @@ Berörda filer är:
     </message>
     <message>
         <source>Qt Custom Designer Widget</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt Custom Designer-widget</translation>
     </message>
     <message>
         <source>Creates a Qt Custom Designer Widget or a Custom Widget Collection.</source>
@@ -46393,7 +46393,7 @@ Berörda filer är:
     </message>
     <message>
         <source>Project is part of Qt sources that do not match the Qt defined in the kit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Projektet är en del av Qt-källor som inte matchar Qt definierat i kitet.</translation>
     </message>
     <message>
         <source>&quot;%1&quot; is used by qmake, but &quot;%2&quot; is configured in the kit.
@@ -48004,7 +48004,7 @@ Please build the qmldump application on the Qt version options page.</source>
     <name>QtC::QmlPreview</name>
     <message>
         <source>QML Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>QML-förhandsvisare</translation>
     </message>
     <message>
         <source>Preview changes to QML code live in your application.</source>
@@ -48016,11 +48016,11 @@ Please build the qmldump application on the Qt version options page.</source>
     </message>
     <message>
         <source>QML Preview Not Running</source>
-        <translation type="unfinished"></translation>
+        <translation>QML-förhandsvisare inte igång</translation>
     </message>
     <message>
         <source>Start the QML Preview for the project before selecting a specific file for preview.</source>
-        <translation type="unfinished"></translation>
+        <translation>Starta QML-förhandsvisare för projektet innan du väljer en specifik fil för förhandsvisning.</translation>
     </message>
 </context>
 <context>
@@ -50238,7 +50238,7 @@ I tillägg kommer enhetsanslutningen att testas.</translation>
     </message>
     <message>
         <source>Incremental deployment</source>
-        <translation type="unfinished"></translation>
+        <translation>Inkrementell distribution</translation>
     </message>
     <message>
         <source>Command line:</source>
@@ -50429,7 +50429,7 @@ Kontrollprocessen misslyckades att starta.</translation>
     </message>
     <message>
         <source>Deployment to this device will not work out of the box.</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribution till denna enhet kommer inte fungera utan ytterligare konfiguration.</translation>
     </message>
     <message>
         <source>%1...</source>
@@ -50545,7 +50545,7 @@ Kontrollprocessen misslyckades att starta.</translation>
     </message>
     <message>
         <source>Deploy tarball via SFTP upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuera tarboll via SFTP-sändning</translation>
     </message>
     <message>
         <source>Authentication type:</source>
@@ -50647,7 +50647,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>GDB server executable:</source>
-        <translation type="unfinished"></translation>
+        <translation>Körbar fil för GDB-server:</translation>
     </message>
     <message>
         <source>Leave empty to look up executable in $PATH</source>
@@ -50751,7 +50751,7 @@ The local and remote ports are determined automatically.</source>
     </message>
     <message>
         <source>The &quot;make install&quot; step should probably not be last in the list of deploy steps. Consider moving it up.</source>
-        <translation type="unfinished"></translation>
+        <translation>Steget &quot;make install&quot; bör antagligen inte vara det sista i listan över distributionssteg. Överväg att flytta det uppåt.</translation>
     </message>
     <message>
         <source>You need to add an install statement to your CMakeLists.txt file for deployment to work.</source>
