@@ -12619,17 +12619,17 @@ inställningar. Tillåt denna åsidosättning?</translation>
     </message>
     <message>
         <source>Test suite execution took %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Körning av testsviten tog %1.</translation>
     </message>
     <message>
         <source>Test module execution took %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Körning av testmodulen tog %1.</translation>
     </message>
     <message numerus="yes">
         <source>%n failure(s) detected in %1.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n fel upptäcktes i %1.</numerusform>
+            <numerusform>%n fel upptäcktes i %1.</numerusform>
         </translation>
     </message>
     <message>
@@ -12642,7 +12642,7 @@ inställningar. Tillåt denna åsidosättning?</translation>
     </message>
     <message>
         <source>Running tests exited with %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Körning av tester avslutades med %1.</translation>
     </message>
     <message>
         <source>Executable: %1</source>
@@ -12652,7 +12652,9 @@ inställningar. Tillåt denna åsidosättning?</translation>
         <source>Running tests failed.
 %1
 Executable: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Körning av tester misslyckades.
+%1
+Körbar fil: %2</translation>
     </message>
     <message>
         <source>Running tests without output.</source>
@@ -12740,7 +12742,7 @@ Executable: %2</source>
     </message>
     <message>
         <source>Finished executing %1 &quot;%2&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Körningen avslutades för %1 &quot;%2&quot;.</translation>
     </message>
     <message>
         <source>Expression failed: %1</source>
@@ -12900,7 +12902,7 @@ Executable: %2</source>
     </message>
     <message>
         <source>Run tests in parallel mode using given number of jobs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör tester i parallellt läge med angivna antal jobb.</translation>
     </message>
     <message>
         <source>Jobs</source>
@@ -12943,7 +12945,9 @@ See also Google Test settings.</source>
         <source>Running tests failed.
  %1
 Executable: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Körning av tester misslyckades.
+ %1
+Körbar fil: %2</translation>
     </message>
     <message>
         <source>Repeating test suite %1 (iteration %2)</source>
@@ -13160,7 +13164,7 @@ See Google Test documentation for further information on GTest filters.</source>
     </message>
     <message>
         <source>Disable crash handler while debugging</source>
-        <translation type="unfinished"></translation>
+        <translation>Inaktivera kraschhanterare vid felsökning</translation>
     </message>
     <message>
         <source>Enables interrupting tests on assertions.</source>
@@ -13208,7 +13212,7 @@ See Google Test documentation for further information on GTest filters.</source>
     </message>
     <message>
         <source>Find user-defined locations</source>
-        <translation type="unfinished"></translation>
+        <translation>Hitta användardefinierade platser</translation>
     </message>
     <message>
         <source>Parse messages for the following pattern and use it as location information:&lt;pre&gt;file://filepath:line&lt;/pre&gt;where &quot;:line&quot; is optional.&lt;p&gt;Warning: If the patterns are used in code, the location information for debug messages and other messages might improve,at the risk of some incorrect locations and lower performance.</source>
@@ -13633,7 +13637,7 @@ This might cause trouble during execution.
     </message>
     <message>
         <source>Only for unsuccessful test runs</source>
-        <translation type="unfinished"></translation>
+        <translation>Endast för testkörningar som inte lyckas</translation>
     </message>
     <message>
         <source>Displays test results only if the test run contains failed, fatal or unexpectedly passed tests.</source>
@@ -13706,7 +13710,7 @@ Warning: this is an experimental feature and might lead to failing to execute th
     </message>
     <message>
         <source>Reset Cached Choices</source>
-        <translation type="unfinished"></translation>
+        <translation>Nollställ mellanlagrade val</translation>
     </message>
     <message>
         <source>Clear all cached choices of run configurations for tests where the executable could not be deduced.</source>
@@ -36014,11 +36018,12 @@ Example: *.cpp%1*.h</source>
     <message>
         <source>Additional JSON configuration sent to all running language servers for this project.
 See the documentation of the specific language server for valid settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ytterligare JSON-konfiguration skickas till alla körande språkservrar för detta projekt.
+Se dokumentationen för den specifika språkservern för giltiga inställningar.</translation>
     </message>
     <message>
         <source>Search Again to update results and re-enable Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Sök igen för att uppdatera resultaten och återaktivera Ersätt</translation>
     </message>
     <message numerus="yes">
         <source>Re&amp;name %n files</source>
@@ -36083,15 +36088,15 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>Installing &quot;%1&quot; failed with exit code %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Installation av &quot;%1&quot; misslyckades med avslutskod %2.</translation>
     </message>
     <message>
         <source>Install %1 language server via npm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Installera %1-språkservern via npm.</translation>
     </message>
     <message>
         <source>Setup %1 language server (%2).</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurera %1-språkservern (%2).</translation>
     </message>
     <message>
         <source>Install</source>
@@ -36103,7 +36108,7 @@ See the documentation of the specific language server for valid settings.</sourc
     </message>
     <message>
         <source>%1 Language Server</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-språkserver</translation>
     </message>
     <message>
         <source>Expand All</source>
