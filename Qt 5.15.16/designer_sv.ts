@@ -5810,7 +5810,7 @@ Klass: %2</translation>
     </message>
     <message>
         <source>Expand all</source>
-        <translation>Fällt ut alla</translation>
+        <translation>Fäll ut alla</translation>
     </message>
     <message>
         <source>Collapse all</source>
