@@ -878,7 +878,7 @@
     </message>
     <message>
         <source>&amp;Label text:</source>
-        <translation>E&amp;tiketttext:</translation>
+        <translation>E&amp;tikettext:</translation>
     </message>
     <message>
         <source>Field &amp;type:</source>
