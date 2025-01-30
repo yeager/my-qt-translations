@@ -10070,12 +10070,12 @@ application/vnd.java.hprof.text</extracomment>
     <message>
         <source>OpenDocument v1.0: Chart document</source>
         <extracomment>application/vnd.oasis.opendocument.chart</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>OpenDocument v1.0: Diagramdokument</translation>
     </message>
     <message>
         <source>OpenDocument v1.0: Chart document used as template</source>
         <extracomment>application/vnd.oasis.opendocument.chart-template</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>OpenDocument v1.0: Diagramdokument som används som mall</translation>
     </message>
     <message>
         <source>OpenDocument v1.0: Formula document</source>
@@ -10085,84 +10085,84 @@ application/vnd.java.hprof.text</extracomment>
     <message>
         <source>OpenDocument v1.0: Formula document used as template</source>
         <extracomment>application/vnd.oasis.opendocument.formula-template</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>OpenDocument v1.0: Formeldokument som används som mall</translation>
     </message>
     <message>
         <source>OpenDocument v1.0: Graphics document (Drawing)</source>
         <extracomment>application/vnd.oasis.opendocument.graphics</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>OpenDocument v1.0: Grafikdokument (Ritning)</translation>
     </message>
     <message>
         <source>OpenDocument v1.0: Graphics document used as template</source>
         <extracomment>application/vnd.oasis.opendocument.graphics-template</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>OpenDocument v1.0: Grafiskt dokument som används som mall</translation>
     </message>
     <message>
         <source>OpenDocument v1.0: Image document</source>
         <extracomment>application/vnd.oasis.opendocument.image</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>OpenDocument v1.0: Bilddokument</translation>
     </message>
     <message>
         <source>OpenDocument v1.0: Image document used as template</source>
         <extracomment>application/vnd.oasis.opendocument.image-template</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>OpenDocument v1.0: Bilddokument som används som mall</translation>
     </message>
     <message>
         <source>OpenDocument v1.0: Presentation document</source>
         <extracomment>application/vnd.oasis.opendocument.presentation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>OpenDocument v1.0: Presentationsdokument</translation>
     </message>
     <message>
         <source>OpenDocument v1.0: Presentation document used as template</source>
         <extracomment>application/vnd.oasis.opendocument.presentation-template</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>OpenDocument v1.0: Presentationsdokument som används som mall</translation>
     </message>
     <message>
         <source>OpenDocument v1.0: Spreadsheet document</source>
         <extracomment>application/vnd.oasis.opendocument.spreadsheet</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>OpenDocument v1.0: Kalkylbladsdokument</translation>
     </message>
     <message>
         <source>OpenDocument v1.0: Spreadsheet document used as template</source>
         <extracomment>application/vnd.oasis.opendocument.spreadsheet-template</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>OpenDocument v1.0: Kalkylbladsdokument som används som mall</translation>
     </message>
     <message>
         <source>OpenDocument v1.0: Text document</source>
         <extracomment>application/vnd.oasis.opendocument.text</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>OpenDocument v1.0: Textdokument</translation>
     </message>
     <message>
         <source>OpenDocument v1.0: Flat Text document</source>
         <extracomment>application/vnd.oasis.opendocument.tika.flat.document
 ----------
 application/vnd.oasis.opendocument.flat.text</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>OpenDocument v1.0: Platt textdokument</translation>
     </message>
     <message>
         <source>OpenDocument v1.0: Flat Presentation document</source>
         <extracomment>application/vnd.oasis.opendocument.flat.presentation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>OpenDocument v1.0: Platt presentationsdokument</translation>
     </message>
     <message>
         <source>OpenDocument v1.0: Flat Spreadsheet document</source>
         <extracomment>application/vnd.oasis.opendocument.flat.spreadsheet</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>OpenDocument v1.0: Platt kalkylbladsdokument</translation>
     </message>
     <message>
         <source>OpenDocument v1.0: Global Text document</source>
         <extracomment>application/vnd.oasis.opendocument.text-master</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>OpenDocument v1.0: Globalt textdokument</translation>
     </message>
     <message>
         <source>OpenDocument v1.0: Text document used as template</source>
         <extracomment>application/vnd.oasis.opendocument.text-template</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>OpenDocument v1.0: Textdokument som används som mall</translation>
     </message>
     <message>
         <source>OpenDocument v1.0: Text document used as template for HTML documents</source>
         <extracomment>application/vnd.oasis.opendocument.text-web</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>OpenDocument v1.0: Textdokument som används som mall för HTML-dokument</translation>
     </message>
     <message>
         <source>Office Open XML Presentation</source>
@@ -10182,17 +10182,17 @@ application/vnd.oasis.opendocument.flat.text</extracomment>
     <message>
         <source>Office Open XML Workbook</source>
         <extracomment>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Office Open XML-arbetsbok</translation>
     </message>
     <message>
         <source>Office Open XML Workbook Template</source>
         <extracomment>application/vnd.openxmlformats-officedocument.spreadsheetml.template</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Office Open XML-arbetsboksmall</translation>
     </message>
     <message>
         <source>Office Open XML Workbook Template (macro-enabled)</source>
         <extracomment>application/vnd.ms-excel.template.macroenabled.12</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Office Open XML-arbetsboksmall (makroaktiverad)</translation>
     </message>
     <message>
         <source>Office Open XML Document</source>
@@ -10212,22 +10212,22 @@ application/vnd.oasis.opendocument.flat.text</extracomment>
     <message>
         <source>OpenOffice v1.0: Writer Document</source>
         <extracomment>application/vnd.sun.xml.writer</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>OpenOffice v1.0: Writer-dokument</translation>
     </message>
     <message>
         <source>TCPDump pcap packet capture</source>
         <extracomment>application/vnd.tcpdump.pcap</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>TCPDump pcap-paketfångst</translation>
     </message>
     <message>
         <source>TCPDump next gen pcap packet capture</source>
         <extracomment>application/vnd.tcpdump.pcapng</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>TCPDump nästa generations pcap-paketfångst</translation>
     </message>
     <message>
         <source>TMX Translation Memory</source>
         <extracomment>application/x-tmx</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>TMX-översättningsminne</translation>
     </message>
     <message>
         <source>Microsoft Visio Diagram</source>
@@ -10237,32 +10237,32 @@ application/vnd.oasis.opendocument.flat.text</extracomment>
     <message>
         <source>Office Open XML Visio Drawing (macro-free)</source>
         <extracomment>application/vnd.ms-visio.drawing</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Office Open XML Visio Drawing (makrofri)</translation>
     </message>
     <message>
         <source>Office Open XML Visio Template (macro-free)</source>
         <extracomment>application/vnd.ms-visio.template</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Office Open XML Visio-mall (makrofri)</translation>
     </message>
     <message>
         <source>Office Open XML Visio Stencil (macro-free)</source>
         <extracomment>application/vnd.ms-visio.stencil</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Office Open XML Visio Stencil (makrofri)</translation>
     </message>
     <message>
         <source>Office Open XML Visio Drawing (macro-enabled)</source>
         <extracomment>application/vnd.ms-visio.drawing.macroEnabled.12</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Office Open XML Visio Drawing (makroaktiverad)</translation>
     </message>
     <message>
         <source>Office Open XML Visio Template (macro-enabled)</source>
         <extracomment>application/vnd.ms-visio.template.macroEnabled.12</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Office Open XML Visio-mall (makroaktiverad)</translation>
     </message>
     <message>
         <source>Office Open XML Visio Stencil (macro-enabled)</source>
         <extracomment>application/vnd.ms-visio.stencil.macroEnabled.12</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Office Open XML Visio Stencil (makroaktiverad)</translation>
     </message>
     <message>
         <source>Compiled WML Document</source>
@@ -10277,7 +10277,7 @@ application/vnd.oasis.opendocument.flat.text</extracomment>
     <message>
         <source>WordPerfect - Corel Word Processing</source>
         <extracomment>application/vnd.wordperfect</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>WordPerfect - Corel-ordbehandling</translation>
     </message>
     <message>
         <source>WARC</source>
@@ -10359,7 +10359,7 @@ application/warc+gz</extracomment>
     <message>
         <source>Virtual CD-ROM CD Image File</source>
         <extracomment>application/x-cdlink</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Virtuell CD-ROM CD-avbildningsfil</translation>
     </message>
     <message>
         <source>Chrome Extension Package</source>
@@ -10384,7 +10384,7 @@ application/warc+gz</extracomment>
     <message>
         <source>TeX Device Independent Document</source>
         <extracomment>application/x-dvi</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>TeX Device Independent Document</translation>
     </message>
     <message>
         <source>Emacs Lisp bytecode</source>
@@ -10434,7 +10434,7 @@ application/warc+gz</extracomment>
     <message>
         <source>Printer Font Metric</source>
         <extracomment>application/x-font-printer-metric</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Printer Font Metric</translation>
     </message>
     <message>
         <source>Foxmail Email File</source>
@@ -10584,7 +10584,7 @@ application/warc+gz</extracomment>
     <message>
         <source>Temporary files created by MSOffice applications</source>
         <extracomment>application/x-ms-owner</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Temporära filer skapade av MSOffice-program</translation>
     </message>
     <message>
         <source>Microsoft National Language Support</source>
@@ -10624,32 +10624,32 @@ application/warc+gz</extracomment>
     <message>
         <source>Planetary Data System Version 3 format</source>
         <extracomment>application/x-pds</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Planetary Data System Version 3 format</translation>
     </message>
     <message>
         <source>Quattro Pro - Corel Spreadsheet (part of WordPerfect Office suite)</source>
         <extracomment>application/x-quattro-pro</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Quattro Pro - Corel Spreadsheet (del av WordPerfect Office-sviten)</translation>
     </message>
     <message>
         <source>Quattro Pro for DOS, version 1-4</source>
         <extracomment>application/x-quattro-pro;version=1-4</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Quattro Pro för DOS, version 1-4</translation>
     </message>
     <message>
         <source>Quattro Pro for DOS, version 5</source>
         <extracomment>application/x-quattro-pro;version=5</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Quattro Pro för DOS, version 5</translation>
     </message>
     <message>
         <source>Quattro Pro for Windows, version 1, 5</source>
         <extracomment>application/x-quattro-pro;version=1+5</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Quattro Pro för Windows, version 1, 5</translation>
     </message>
     <message>
         <source>Quattro Pro for Windows, version 6</source>
         <extracomment>application/x-quattro-pro;version=6</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Quattro Pro för Windows, version 6</translation>
     </message>
     <message>
         <source>XQuery source code</source>
@@ -10668,107 +10668,107 @@ application/x-rar-compressed;version=5</extracomment>
     <message>
         <source>RedHat Package Manager</source>
         <extracomment>application/x-rpm</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>RedHat-pakethanterare</translation>
     </message>
     <message>
         <source>SAS Program</source>
         <extracomment>application/x-sas</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>SAS Program</translation>
     </message>
     <message>
         <source>SAS Stored Program (DATA Step)</source>
         <extracomment>application/x-sas-program-data</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>SAS Stored Program (DATA Step)</translation>
     </message>
     <message>
         <source>SAS Audit</source>
         <extracomment>application/x-sas-audit</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>SAS Audit</translation>
     </message>
     <message>
         <source>SAS v6 Data Set</source>
         <extracomment>application/x-sas-data-v6</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>SAS v6 Data Set</translation>
     </message>
     <message>
         <source>SAS Data Set</source>
         <extracomment>application/x-sas-data</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>SAS Data Set</translation>
     </message>
     <message>
         <source>SAS Data Set View</source>
         <extracomment>application/x-sas-view</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>SAS Data Set View</translation>
     </message>
     <message>
         <source>SAS Data Set Index</source>
         <extracomment>application/x-sas-data-index</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>SAS Data Set Index</translation>
     </message>
     <message>
         <source>SAS Catalog</source>
         <extracomment>application/x-sas-catalog</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>SAS Catalog</translation>
     </message>
     <message>
         <source>SAS Access Descriptor</source>
         <extracomment>application/x-sas-access</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>SAS Access Descriptor</translation>
     </message>
     <message>
         <source>SAS FDB Consolidation Database File</source>
         <extracomment>application/x-sas-fdb</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>SAS FDB Consolidation Database-fil</translation>
     </message>
     <message>
         <source>SAS MDDB Multi-Dimensional Database File</source>
         <extracomment>application/x-sas-mddb</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>SAS MDDB Multi-Dimensional Database-fil</translation>
     </message>
     <message>
         <source>SAS DMDB Data Mining Database File</source>
         <extracomment>application/x-sas-dmdb</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>SAS DMDB Data Mining Database-fil</translation>
     </message>
     <message>
         <source>SAS Item Store (ItemStor) File</source>
         <extracomment>application/x-sas-itemstor</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>SAS Item Store (ItemStor)-fil</translation>
     </message>
     <message>
         <source>SAS Utility</source>
         <extracomment>application/x-sas-utility</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>SAS Utility</translation>
     </message>
     <message>
         <source>SAS Permanent Utility</source>
         <extracomment>application/x-sas-putility</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>SAS Permanent Utility</translation>
     </message>
     <message>
         <source>SAS Transport File</source>
         <extracomment>application/x-sas-transport</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>SAS Transport-fil</translation>
     </message>
     <message>
         <source>SAS Backup</source>
         <extracomment>application/x-sas-backup</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>SAS Backup</translation>
     </message>
     <message>
         <source>SAS XPORT Transfer File</source>
         <extracomment>application/x-sas-xport</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>SAS XPORT Transfer-fil</translation>
     </message>
     <message>
         <source>SPSS Data File</source>
         <extracomment>application/x-spss-sav</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>SPSS-datafil</translation>
     </message>
     <message>
         <source>UNIX/LINUX Shell Script</source>
         <extracomment>application/x-sh</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>UNIX/LINUX-skalskript</translation>
     </message>
     <message>
         <source>ESRI Shapefiles</source>
@@ -10788,12 +10788,12 @@ application/x-rar-compressed;version=5</extracomment>
     <message>
         <source>Snappy Framed</source>
         <extracomment>application/x-snappy-framed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Snappy Framed</translation>
     </message>
     <message>
         <source>Standard Formatted Data Units (SFDUs) data</source>
         <extracomment>application/x-sfdu</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Standard Formatted Data Units (SFDUs)-data</translation>
     </message>
     <message>
         <source>TAP (ZX Spectrum)</source>
@@ -10803,27 +10803,27 @@ application/x-rar-compressed;version=5</extracomment>
     <message>
         <source>Stata DTA Script</source>
         <extracomment>application/x-stata-do</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Stata DTA-skript</translation>
     </message>
     <message>
         <source>Stata DTA Dataset</source>
         <extracomment>application/x-stata-dta</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Stata DTA Dataset</translation>
     </message>
     <message>
         <source>TeX Source</source>
         <extracomment>application/x-tex</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>TeX-källa</translation>
     </message>
     <message>
         <source>TeX Virtual Font format</source>
         <extracomment>application/x-tex-virtual-font</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>TeX Virtual Font-format</translation>
     </message>
     <message>
         <source>Pre-OLE2 (Old) Microsoft Excel Worksheets</source>
         <extracomment>application/x-tika-old-excel</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Före-OLE2 (Gamla) Microsoft Excel-arbetsblad</translation>
     </message>
     <message>
         <source>Password Protected OOXML File</source>
@@ -10838,12 +10838,12 @@ application/x-rar-compressed;version=5</extracomment>
     <message>
         <source>Virtual PC Virtual Hard Disk</source>
         <extracomment>application/x-vhd</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Virtual PC virtuell hårddisk</translation>
     </message>
     <message>
         <source>Virtual Disk Format</source>
         <extracomment>application/x-vmdk</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Virtuellt diskformat</translation>
     </message>
     <message>
         <source>Java Keystore</source>
@@ -10868,7 +10868,7 @@ application/x-rar-compressed;version=5</extracomment>
     <message>
         <source>XML Document Type Definition</source>
         <extracomment>application/xml-dtd</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>XML-dokumenttypsdefinition</translation>
     </message>
     <message>
         <source>XSL Format</source>
@@ -10878,12 +10878,12 @@ application/x-rar-compressed;version=5</extracomment>
     <message>
         <source>XSL Transformations</source>
         <extracomment>application/xslt+xml</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>XSL-transformationer</translation>
     </message>
     <message>
         <source>XML Shareable Playlist Format</source>
         <extracomment>application/xspf+xml</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>XML-delbart spellistformat</translation>
     </message>
     <message>
         <source>Compressed Archive File</source>
@@ -10928,7 +10928,7 @@ application/x-rar-compressed;version=5</extracomment>
     <message>
         <source>Ogg Vorbis Codec Compressed WAV File</source>
         <extracomment>audio/vorbis</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ogg Vorbis-kodekkomprimerad WAV-fil</translation>
     </message>
     <message>
         <source>Portable Sound Format</source>
@@ -10938,27 +10938,27 @@ application/x-rar-compressed;version=5</extracomment>
     <message>
         <source>Slight Atari Player</source>
         <extracomment>audio/x-sap</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Slight Atari Player</translation>
     </message>
     <message>
         <source>Ogg Packaged Free Lossless Audio Codec</source>
         <extracomment>audio/x-oggflac</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ogg-paketerad Free Lossless Audio Codec</translation>
     </message>
     <message>
         <source>Ogg Packaged Unompressed WAV File</source>
         <extracomment>audio/x-oggpcm</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ogg-paketerad okomprimerad WAV-fil</translation>
     </message>
     <message>
         <source>Ogg Opus Codec Compressed WAV File</source>
         <extracomment>audio/opus</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ogg Opus-kodekkomprimerad WAV-fil</translation>
     </message>
     <message>
         <source>Ogg Speex Codec Compressed WAV File</source>
         <extracomment>audio/speex</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ogg Speex-kodekkomprimerad WAV-fil</translation>
     </message>
     <message>
         <source>Audio Interchange File Format</source>
@@ -10988,7 +10988,7 @@ application/x-rar-compressed;version=5</extracomment>
     <message>
         <source>RealMedia Player Plug-in</source>
         <extracomment>audio/x-pn-realaudio-plugin</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>RealMedia Player-insticksmodul</translation>
     </message>
     <message>
         <source>Brookhaven Protein Databank File</source>
@@ -11008,7 +11008,7 @@ application/x-rar-compressed;version=5</extracomment>
     <message>
         <source>OS2 bitmap array</source>
         <extracomment>image/x-os2-graphics; charset=binary</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>OS2 bitmap array</translation>
     </message>
     <message>
         <source>Windows bitmap</source>
@@ -11108,7 +11108,7 @@ application/x-rar-compressed;version=5</extracomment>
     <message>
         <source>Tagged Image File Format</source>
         <extracomment>image/tiff</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Tagged Image File Format</translation>
     </message>
     <message>
         <source>Photoshop Image</source>
@@ -11148,17 +11148,17 @@ application/x-rar-compressed;version=5</extracomment>
     <message>
         <source>Wireless Bitmap File Format</source>
         <extracomment>image/vnd.wap.wbmp</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Wireless Bitmap-filformat</translation>
     </message>
     <message>
         <source>ZSoft Multi-Page Paintbrush</source>
         <extracomment>image/vnd.zbrush.dcx</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ZSoft Multi-Page Paintbrush</translation>
     </message>
     <message>
         <source>ZSoft Paintbrush PiCture eXchange</source>
         <extracomment>image/vnd.zbrush.pcx</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ZSoft Paintbrush PiCture eXchange</translation>
     </message>
     <message>
         <source>Windows Metafile</source>
@@ -11205,27 +11205,27 @@ application/x-rar-compressed;version=5</extracomment>
     <message>
         <source>Portable Any Map</source>
         <extracomment>image/x-portable-anymap</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Portable Any Map</translation>
     </message>
     <message>
         <source>Portable Bit Map</source>
         <extracomment>image/x-portable-bitmap</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Portable Bit Map</translation>
     </message>
     <message>
         <source>Portable Graymap Graphic</source>
         <extracomment>image/x-portable-graymap</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Portable Graymap Graphic</translation>
     </message>
     <message>
         <source>UNIX Portable Bitmap Graphic</source>
         <extracomment>image/x-portable-pixmap</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>UNIX Portable Bitmap Graphic</translation>
     </message>
     <message>
         <source>UNIX Portable Bitmap Graphic Arbitrary Map</source>
         <extracomment>image/x-portable-arbitrarymap</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>UNIX Portable Bitmap Graphic Arbitrary Map</translation>
     </message>
     <message>
         <source>Adobe Digital Negative</source>
@@ -11345,7 +11345,7 @@ application/x-rar-compressed;version=5</extracomment>
     <message>
         <source>Silicon Graphics RGB Bitmap</source>
         <extracomment>image/x-rgb</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Silicon Graphics RGB Bitmap</translation>
     </message>
     <message>
         <source>GIMP Image File</source>
@@ -11389,7 +11389,7 @@ model/vnd.dwfx+xps</extracomment>
         <extracomment>application/onix-message+xml
 ----------
 application/onix-message-short+xml</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ONline Information eXchange (ONIX) för böcker</translation>
     </message>
     <message>
         <source>ActionScript source code</source>
@@ -11444,7 +11444,7 @@ application/onix-message-short+xml</extracomment>
     <message>
         <source>Roff/nroff/troff/groff Unformatted Manual Page (UNIX)</source>
         <extracomment>text/troff</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Roff/nroff/troff/groff oformaterad manualsida (UNIX)</translation>
     </message>
     <message>
         <source>Graphviz Graph Visualization Software</source>
@@ -11464,7 +11464,7 @@ application/onix-message-short+xml</extracomment>
     <message>
         <source>Web Video Text Tracks Format</source>
         <extracomment>text/vtt</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Web Video Text Tracks-format</translation>
     </message>
     <message>
         <source>AWK script</source>
