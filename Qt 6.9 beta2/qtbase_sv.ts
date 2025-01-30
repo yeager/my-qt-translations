@@ -9658,17 +9658,17 @@ Minsta Direct2D-versionen som krävs är %1. Direct2D-versionen på detta system
     <message>
         <source>Windows Batch / Command File</source>
         <extracomment>application/x-bat</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Windows batch- / kommandofil</translation>
     </message>
     <message>
         <source>BizAgi Process Modeler</source>
         <extracomment>application/bizagi-modeler</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>BizAgi Process Modeler</translation>
     </message>
     <message>
         <source>Concise Binary Object Representation container</source>
         <extracomment>application/cbor</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Concise Binary Object Representation-container</translation>
     </message>
     <message>
         <source>CorelDraw</source>
@@ -9678,17 +9678,17 @@ Minsta Direct2D-versionen som krävs är %1. Direct2D-versionen på detta system
     <message>
         <source>DICOM medical imaging data</source>
         <extracomment>application/dicom</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>DICOM medicinskt bilddata</translation>
     </message>
     <message>
         <source>Darwin Information Typing Architecture</source>
         <extracomment>application/dita+xml</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Darwin Information Typing Architecture</translation>
     </message>
     <message>
         <source>DVD information file</source>
         <extracomment>application/x-dvd-ifo</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>DVD-informationsfil</translation>
     </message>
     <message>
         <source>EBU-STL subtitles</source>
@@ -9698,27 +9698,27 @@ Minsta Direct2D-versionen som krävs är %1. Direct2D-versionen på detta system
     <message>
         <source>Electronic Publication</source>
         <extracomment>application/epub+zip</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Electronic Publication</translation>
     </message>
     <message>
         <source>Flexible Image Transport System</source>
         <extracomment>application/fits</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Flexible Image Transport System</translation>
     </message>
     <message>
         <source>Adobe Illustrator Artwork</source>
         <extracomment>application/illustrator</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Adobe Illustrator Artwork</translation>
     </message>
     <message>
         <source>Adobe Illustrator Artwork -- the older postscript based AI files</source>
         <extracomment>application/illustrator+ps</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Adobe Illustrator Artwork -- äldre postscript-baserade AI-filer</translation>
     </message>
     <message>
         <source>Windows setup INFormation</source>
         <extracomment>application/inf</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Windows setup INFormation</translation>
     </message>
     <message>
         <source>Java Archive</source>
@@ -9733,7 +9733,7 @@ Minsta Direct2D-versionen som krävs är %1. Direct2D-versionen på detta system
     <message>
         <source>Web Application Manifest file</source>
         <extracomment>application/manifest+json</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Manifest-fil för webbapplikation</translation>
     </message>
     <message>
         <source>Java Class File</source>
@@ -9743,14 +9743,14 @@ Minsta Direct2D-versionen som krävs är %1. Direct2D-versionen på detta system
     <message>
         <source>Java Native Library for OSX</source>
         <extracomment>application/x-java-jnilib</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Java Native Library för OSX</translation>
     </message>
     <message>
         <source>Java hprof text file</source>
         <extracomment>application/vnd.java.hprof 
 ----------
 application/vnd.java.hprof.text</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Java hprof-textfil</translation>
     </message>
     <message>
         <source>Wolfram Mathematica</source>
@@ -9760,7 +9760,7 @@ application/vnd.java.hprof.text</extracomment>
     <message>
         <source>Wolfram Language</source>
         <extracomment>application/vnd.wolfram.wl</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Wolfram-språk</translation>
     </message>
     <message>
         <source>Adobe MIF File</source>
@@ -9770,27 +9770,27 @@ application/vnd.java.hprof.text</extracomment>
     <message>
         <source>QuickTime container format</source>
         <extracomment>application/quicktime</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>QuickTime-containerformat</translation>
     </message>
     <message>
         <source>MP4 container format</source>
         <extracomment>application/mp4</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>MP4-containerformat</translation>
     </message>
     <message>
         <source>Microsoft Word Document</source>
         <extracomment>application/msword</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Word-dokument</translation>
     </message>
     <message>
         <source>Microsoft Word 2 Document</source>
         <extracomment>application/msword2</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Word 2-dokument</translation>
     </message>
     <message>
         <source>Microsoft Word 5 Document</source>
         <extracomment>application/msword5</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Word 5-dokument</translation>
     </message>
     <message>
         <source>OneNote Package</source>
@@ -9810,17 +9810,17 @@ application/vnd.java.hprof.text</extracomment>
     <message>
         <source>Excel 2003 xml format, pre-ooxml</source>
         <extracomment>application/vnd.ms-spreadsheetml</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Excel 2003 xml-format, före-ooxml</translation>
     </message>
     <message>
         <source>Word 2003 xml format, pre-ooxml</source>
         <extracomment>application/vnd.ms-wordml</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Word 2003 xml-format, före-ooxml</translation>
     </message>
     <message>
         <source>Word 2006 xml format, pre-ooxml</source>
         <extracomment>application/vnd.ms-word2006ml</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Word 2006 xml-format, före-ooxml</translation>
     </message>
     <message>
         <source>XML syntax for RDF graphs</source>
@@ -9835,7 +9835,7 @@ application/vnd.java.hprof.text</extracomment>
     <message>
         <source>Sereal binary serialization format</source>
         <extracomment>application/sereal</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Sereal binary serialization-format</translation>
     </message>
     <message>
         <source>SMIL Multimedia</source>
@@ -9855,37 +9855,37 @@ application/vnd.java.hprof.text</extracomment>
     <message>
         <source>web archive frictionless zip</source>
         <extracomment>application/x-wacz</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>web archive frictionless zip</translation>
     </message>
     <message>
         <source>frictionless data package zip package</source>
         <extracomment>application/x-vnd.datapackage+zip</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>frictionless data package zip package</translation>
     </message>
     <message>
         <source>frictionless data package - standalong datapackage.json</source>
         <extracomment>application/x-vnd.datapackage+json</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>frictionless data package - fristående datapackage.json</translation>
     </message>
     <message>
         <source>frictionless data package - gzip of standalone datapackage.json</source>
         <extracomment>application/x-vnd.datapackage+gz</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>frictionless data package - gzip av fristående datapackage.json</translation>
     </message>
     <message>
         <source>digilite.eu Prolights configuration file</source>
         <extracomment>application/vnd.digilite.prolights</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>digilite.eu Prolights-konfigurationsfil</translation>
     </message>
     <message>
         <source>Extended Associated Signature Container</source>
         <extracomment>application/vnd.etsi.asic-e+zip</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Extended Associated Signature Container</translation>
     </message>
     <message>
         <source>Simple Associated Signature Container</source>
         <extracomment>application/vnd.etsi.asic-s+zip</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Simple Associated Signature Container</translation>
     </message>
     <message>
         <source>Forms Data Format</source>
@@ -9895,12 +9895,12 @@ application/vnd.java.hprof.text</extracomment>
     <message>
         <source>Keyhole Markup Language</source>
         <extracomment>application/vnd.google-earth.kml+xml</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Keyhole Markup Language</translation>
     </message>
     <message>
         <source>XML syntax for IPTC NewsMessages</source>
         <extracomment>application/vnd.iptc.g2.newsmessage+xml</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>XML-syntax för IPTC NewsMessages</translation>
     </message>
     <message>
         <source>KChart File</source>
@@ -9910,12 +9910,12 @@ application/vnd.java.hprof.text</extracomment>
     <message>
         <source>KPresenter File</source>
         <extracomment>application/vnd.kde.kpresenter</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>KPresenter-fil</translation>
     </message>
     <message>
         <source>KSpread File</source>
         <extracomment>application/vnd.kde.kspread</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>KSpread-fil</translation>
     </message>
     <message>
         <source>KWord File</source>
@@ -9925,7 +9925,7 @@ application/vnd.java.hprof.text</extracomment>
     <message>
         <source>SSEYO Koan File</source>
         <extracomment>application/vnd.koan</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>SSEYO Koan-fil</translation>
     </message>
     <message>
         <source>Lotus 1-2-3</source>
@@ -9960,7 +9960,7 @@ application/vnd.java.hprof.text</extracomment>
     <message>
         <source>FrameMaker Interchange Format</source>
         <extracomment>application/vnd.mif</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>FrameMaker Interchange Format</translation>
     </message>
     <message>
         <source>MindManager</source>
@@ -9970,22 +9970,22 @@ application/vnd.java.hprof.text</extracomment>
     <message>
         <source>Microsoft Excel Spreadsheet</source>
         <extracomment>application/vnd.ms-excel</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Excel-kalkylblad</translation>
     </message>
     <message>
         <source>Office Open XML Workbook Add-in (macro-enabled)</source>
         <extracomment>application/vnd.ms-excel.addin.macroenabled.12</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Office Open XML-arbetsbok tillägg (makroaktiverad)</translation>
     </message>
     <message>
         <source>Office Open XML Workbook (macro-enabled)</source>
         <extracomment>application/vnd.ms-excel.sheet.macroenabled.12</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Office Open XML-arbetsbok (makroaktiverad)</translation>
     </message>
     <message>
         <source>Microsoft Excel 2007 Binary Spreadsheet</source>
         <extracomment>application/vnd.ms-excel.sheet.binary.macroenabled.12</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Excel 2007 binärt kalkylblad</translation>
     </message>
     <message>
         <source>Microsoft Excel 4 Worksheet</source>
@@ -10015,7 +10015,7 @@ application/vnd.java.hprof.text</extracomment>
     <message>
         <source>Microsoft Outlook Message</source>
         <extracomment>application/vnd.ms-outlook</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Outlook-meddelande</translation>
     </message>
     <message>
         <source>Outlook Personal Folders File Format</source>
@@ -10025,12 +10025,12 @@ application/vnd.java.hprof.text</extracomment>
     <message>
         <source>3D manufacturing format</source>
         <extracomment>application/vnd.ms-package.3dmanufacturing-3dmodel+xml</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>3D manufacturing-format</translation>
     </message>
     <message>
         <source>Microsoft Powerpoint Presentation</source>
         <extracomment>application/vnd.ms-powerpoint</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Powerpoint-presentation</translation>
     </message>
     <message>
         <source>Office Open XML Presentation Add-in (macro-enabled)</source>
@@ -10065,7 +10065,7 @@ application/vnd.java.hprof.text</extracomment>
     <message>
         <source>Magic Shadow Archiver</source>
         <extracomment>application/vnd.msa-disk-image</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Magic Shadow Archiver</translation>
     </message>
     <message>
         <source>OpenDocument v1.0: Chart document</source>
@@ -10080,7 +10080,7 @@ application/vnd.java.hprof.text</extracomment>
     <message>
         <source>OpenDocument v1.0: Formula document</source>
         <extracomment>application/vnd.oasis.opendocument.formula</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>OpenDocument v1.0: Formula-dokument</translation>
     </message>
     <message>
         <source>OpenDocument v1.0: Formula document used as template</source>
@@ -10207,7 +10207,7 @@ application/vnd.oasis.opendocument.flat.text</extracomment>
     <message>
         <source>SubRip (srt) subtitles</source>
         <extracomment>application/x-subrip</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>SubRip (srt) undertexter</translation>
     </message>
     <message>
         <source>OpenOffice v1.0: Writer Document</source>
@@ -10267,7 +10267,7 @@ application/vnd.oasis.opendocument.flat.text</extracomment>
     <message>
         <source>Compiled WML Document</source>
         <extracomment>application/vnd.wap.wmlc</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kompilerat WML-dokument</translation>
     </message>
     <message>
         <source>Compiled WML Script</source>
@@ -10289,12 +10289,12 @@ application/warc+gz</extracomment>
     <message>
         <source>Web Assembly</source>
         <extracomment>application/wasm</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Web Assembly</translation>
     </message>
     <message>
         <source>Targa image data</source>
         <extracomment>image/x-tga</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Targa bilddata</translation>
     </message>
     <message>
         <source>AxCrypt</source>
@@ -10304,7 +10304,7 @@ application/warc+gz</extracomment>
     <message>
         <source>Adobe InDesign document</source>
         <extracomment>application/x-adobe-indesign</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Adobe InDesign-dokument</translation>
     </message>
     <message>
         <source>Flow Cytometry Standard File</source>
@@ -10379,7 +10379,7 @@ application/warc+gz</extracomment>
     <message>
         <source>Shockwave Movie</source>
         <extracomment>application/x-director</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Shockwave-film</translation>
     </message>
     <message>
         <source>TeX Device Independent Document</source>
@@ -10389,7 +10389,7 @@ application/warc+gz</extracomment>
     <message>
         <source>Emacs Lisp bytecode</source>
         <extracomment>application/x-elc</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Emacs Lisp bytecode</translation>
     </message>
     <message>
         <source>fat disk image; extensions: ima, img, dsk</source>
@@ -10419,12 +10419,12 @@ application/warc+gz</extracomment>
     <message>
         <source>OpenType Font</source>
         <extracomment>application/x-font-otf</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>OpenType-typsnitt</translation>
     </message>
     <message>
         <source>TrueType Font</source>
         <extracomment>application/x-font-ttf</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>TrueType-typsnitt</translation>
     </message>
     <message>
         <source>Adobe Font Metric</source>
@@ -10469,7 +10469,7 @@ application/warc+gz</extracomment>
     <message>
         <source>Hierarchical Data Format File</source>
         <extracomment>application/x-hdf</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Hierarkisk dataformatfil</translation>
     </message>
     <message>
         <source>Hangul Word Processor File</source>
@@ -10509,12 +10509,12 @@ application/warc+gz</extracomment>
     <message>
         <source>ISA-Tab Study file</source>
         <extracomment>application/x-isatab</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ISA-Tab Study-fil</translation>
     </message>
     <message>
         <source>ISA-Tab Assay file</source>
         <extracomment>application/x-isatab-assay</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ISA-Tab Assay-fil</translation>
     </message>
     <message>
         <source>ISO 9660 CD-ROM filesystem data</source>
@@ -10529,7 +10529,7 @@ application/warc+gz</extracomment>
     <message>
         <source>Apple iOS IPA AppStore file</source>
         <extracomment>application/x-itunes-ipa</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Apple iOS IPA AppStore-fil</translation>
     </message>
     <message>
         <source>JDF NMR Spectroscopy</source>
@@ -10539,7 +10539,7 @@ application/warc+gz</extracomment>
     <message>
         <source>Jigsaw Download</source>
         <extracomment>application/x-jigdo</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Jigsaw-hämtning</translation>
     </message>
     <message>
         <source>LaTeX Source Document</source>
@@ -10574,7 +10574,7 @@ application/warc+gz</extracomment>
     <message>
         <source>Mobipocket Ebook</source>
         <extracomment>application/x-mobipocket-ebook</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Mobipocket Ebook</translation>
     </message>
     <message>
         <source>MS-DOS compression szzd</source>
@@ -10589,7 +10589,7 @@ application/warc+gz</extracomment>
     <message>
         <source>Microsoft National Language Support</source>
         <extracomment>application/x-ms-nls</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft National Language Support</translation>
     </message>
     <message>
         <source>Microsoft Windows Installer</source>
@@ -10888,12 +10888,12 @@ application/x-rar-compressed;version=5</extracomment>
     <message>
         <source>Compressed Archive File</source>
         <extracomment>application/zip</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Komprimerad arkivfil</translation>
     </message>
     <message>
         <source>ZLIB Compressed Data Format</source>
         <extracomment>application/zlib</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ZLIB-komprimerat dataformat</translation>
     </message>
     <message>
         <source>7-zip archive</source>
@@ -10908,7 +10908,7 @@ application/x-rar-compressed;version=5</extracomment>
     <message>
         <source>uLaw/AU Audio File</source>
         <extracomment>audio/basic</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>uLaw/AU-ljudfil</translation>
     </message>
     <message>
         <source>Musical Instrument Digital Interface</source>
@@ -11013,7 +11013,7 @@ application/x-rar-compressed;version=5</extracomment>
     <message>
         <source>Windows bitmap</source>
         <extracomment>image/bmp</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Windows bitmap</translation>
     </message>
     <message>
         <source>Better Portable Graphics</source>
@@ -11033,7 +11033,7 @@ application/x-rar-compressed;version=5</extracomment>
     <message>
         <source>Enhanced Metafile</source>
         <extracomment>image/emf</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Utökad metafil</translation>
     </message>
     <message>
         <source>Compressed Enhanced Metafile</source>
@@ -11048,7 +11048,7 @@ application/x-rar-compressed;version=5</extracomment>
     <message>
         <source>AV1 Image File</source>
         <extracomment>image/avif</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>AV1 bildfil</translation>
     </message>
     <message>
         <source>HEIF - High Efficiency Image File</source>
@@ -11073,12 +11073,12 @@ application/x-rar-compressed;version=5</extracomment>
     <message>
         <source>Apple Icon Image Format</source>
         <extracomment>image/icns</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Apple Icon Image Format</translation>
     </message>
     <message>
         <source>JPEG 2000 Part 1 (JP2)</source>
         <extracomment>image/jp2</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>JPEG 2000 Part 1 (JP2)</translation>
     </message>
     <message>
         <source>Joint Photographic Experts Group</source>
@@ -11088,22 +11088,22 @@ application/x-rar-compressed;version=5</extracomment>
     <message>
         <source>JPEG 2000 Part 6 (JPM)</source>
         <extracomment>image/jpm</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>JPEG 2000 Part 6 (JPM)</translation>
     </message>
     <message>
         <source>JPEG 2000 Part 2 (JPX)</source>
         <extracomment>image/jpx</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>JPEG 2000 Part 2 (JPX)</translation>
     </message>
     <message>
         <source>Portable Network Graphics</source>
         <extracomment>image/png</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Portable Network Graphics</translation>
     </message>
     <message>
         <source>Scalable Vector Graphics</source>
         <extracomment>image/svg+xml</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Scalable Vector Graphics</translation>
     </message>
     <message>
         <source>Tagged Image File Format</source>
@@ -11113,12 +11113,12 @@ application/x-rar-compressed;version=5</extracomment>
     <message>
         <source>Photoshop Image</source>
         <extracomment>image/vnd.adobe.photoshop</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Photoshop-bild</translation>
     </message>
     <message>
         <source>MicroStation v7 drawing</source>
         <extracomment>image/vnd.dgn;version=7</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>MicroStation v7-ritning</translation>
     </message>
     <message>
         <source>MicroStation v8 drawing; requires ole2 detector</source>
@@ -11128,7 +11128,7 @@ application/x-rar-compressed;version=5</extracomment>
     <message>
         <source>AutoCad Drawing</source>
         <extracomment>image/vnd.dwg</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>AutoCad-ritning</translation>
     </message>
     <message>
         <source>AutoCAD DXF simplified Binary</source>
@@ -11163,12 +11163,12 @@ application/x-rar-compressed;version=5</extracomment>
     <message>
         <source>Windows Metafile</source>
         <extracomment>image/wmf</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Windows Metafile</translation>
     </message>
     <message>
         <source>FreeHand image</source>
         <extracomment>image/x-freehand</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>FreeHand-bild</translation>
     </message>
     <message>
         <source>A lossless image compression standard from the
@@ -11179,7 +11179,7 @@ application/x-rar-compressed;version=5</extracomment>
     <message>
         <source>JPEG 2000 Codestream</source>
         <extracomment>image/x-jp2-codestream</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>JPEG 2000 Codestream</translation>
     </message>
     <message>
         <source>JPEG 2000 Container Format</source>
@@ -11199,7 +11199,7 @@ application/x-rar-compressed;version=5</extracomment>
     <message>
         <source>Apple Macintosh QuickDraw/PICT Format</source>
         <extracomment>image/x-pict</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Apple Macintosh QuickDraw/PICT-format</translation>
     </message>
     <message>
         <source>Portable Any Map</source>
@@ -11234,112 +11234,112 @@ application/x-rar-compressed;version=5</extracomment>
     <message>
         <source>Hasselblad raw image</source>
         <extracomment>image/x-raw-hasselblad</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Hasselblad råbild</translation>
     </message>
     <message>
         <source>Fuji raw image</source>
         <extracomment>image/x-raw-fuji</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Fuji råbild</translation>
     </message>
     <message>
         <source>Canon raw image</source>
         <extracomment>image/x-raw-canon</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Canon råbild</translation>
     </message>
     <message>
         <source>Canon raw image, version 2, TIFF-based</source>
         <extracomment>image/x-canon-cr2</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Canon råbild, version 2, TIFF-baserad</translation>
     </message>
     <message>
         <source>Canon raw image, version 3, Quicktime-based</source>
         <extracomment>image/x-canon-cr3</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Canon råbild, version 3, Quicktime-baserad</translation>
     </message>
     <message>
         <source>Kodak raw image</source>
         <extracomment>image/x-raw-kodak</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kodak råbild</translation>
     </message>
     <message>
         <source>Minolta raw image</source>
         <extracomment>image/x-raw-minolta</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Minolta råbild</translation>
     </message>
     <message>
         <source>Nikon raw image</source>
         <extracomment>image/x-raw-nikon</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nikon råbild</translation>
     </message>
     <message>
         <source>Olympus raw image</source>
         <extracomment>image/x-raw-olympus</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Olympus råbild</translation>
     </message>
     <message>
         <source>Pentax raw image</source>
         <extracomment>image/x-raw-pentax</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pentax råbild</translation>
     </message>
     <message>
         <source>Sony raw image</source>
         <extracomment>image/x-raw-sony</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Sony råbild</translation>
     </message>
     <message>
         <source>Sigma raw image</source>
         <extracomment>image/x-raw-sigma</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Sigma råbild</translation>
     </message>
     <message>
         <source>Epson raw image</source>
         <extracomment>image/x-raw-epson</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Epson råbild</translation>
     </message>
     <message>
         <source>Mamiya raw image</source>
         <extracomment>image/x-raw-mamiya</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Mamiya råbild</translation>
     </message>
     <message>
         <source>Leaf raw image</source>
         <extracomment>image/x-raw-leaf</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Leaf råbild</translation>
     </message>
     <message>
         <source>Panasonic raw image</source>
         <extracomment>image/x-raw-panasonic</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Panasonic råbild</translation>
     </message>
     <message>
         <source>Phase One raw image</source>
         <extracomment>image/x-raw-phaseone</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Phase One råbild</translation>
     </message>
     <message>
         <source>Red raw image</source>
         <extracomment>image/x-raw-red</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Red råbild</translation>
     </message>
     <message>
         <source>Imacon raw image</source>
         <extracomment>image/x-raw-imacon</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Imacon råbild</translation>
     </message>
     <message>
         <source>Logitech raw image</source>
         <extracomment>image/x-raw-logitech</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Logitech råbild</translation>
     </message>
     <message>
         <source>Casio raw image</source>
         <extracomment>image/x-raw-casio</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Casio råbild</translation>
     </message>
     <message>
         <source>Rawzor raw image</source>
         <extracomment>image/x-raw-rawzor</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Rawzor råbild</translation>
     </message>
     <message>
         <source>Silicon Graphics RGB Bitmap</source>
@@ -11349,12 +11349,12 @@ application/x-rar-compressed;version=5</extracomment>
     <message>
         <source>GIMP Image File</source>
         <extracomment>image/x-xcf</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>GIMP-bildfil</translation>
     </message>
     <message>
         <source>X Windows Dump</source>
         <extracomment>image/x-xwindowdump</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>X Windows-dump</translation>
     </message>
     <message>
         <source>MIME Encapsulation of Aggregate HTML Documents</source>
@@ -11374,7 +11374,7 @@ application/x-rar-compressed;version=5</extracomment>
     <message>
         <source>no magic available</source>
         <extracomment>model/x.stl-binary</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ingen magic tillgänglig</translation>
     </message>
     <message>
         <source>AutoCAD Design Web Format</source>
@@ -11393,17 +11393,17 @@ application/onix-message-short+xml</extracomment>
     <message>
         <source>ActionScript source code</source>
         <extracomment>text/x-actionscript</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ActionScript-källkod</translation>
     </message>
     <message>
         <source>Ada source code</source>
         <extracomment>text/x-ada</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ada-källkod</translation>
     </message>
     <message>
         <source>AppleScript source code</source>
         <extracomment>text/x-applescript</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>AppleScript-källkod</translation>
     </message>
     <message>
         <source>Active Server Page</source>
@@ -11418,12 +11418,12 @@ application/onix-message-short+xml</extracomment>
     <message>
         <source>AspectJ source code</source>
         <extracomment>text/x-aspectj</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>AspectJ-källkod</translation>
     </message>
     <message>
         <source>Assembler source code</source>
         <extracomment>text/x-assembly</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Assembler-källkod</translation>
     </message>
     <message>
         <source>Cascading Style Sheet</source>
@@ -11433,12 +11433,12 @@ application/onix-message-short+xml</extracomment>
     <message>
         <source>HyperText Markup Language</source>
         <extracomment>text/html</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>HyperText Markup Language</translation>
     </message>
     <message>
         <source>Makefile build file</source>
         <extracomment>text/x-makefile</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Makefile-byggfil</translation>
     </message>
     <message>
         <source>Roff/nroff/troff/groff Unformatted Manual Page (UNIX)</source>
@@ -11458,7 +11458,7 @@ application/onix-message-short+xml</extracomment>
     <message>
         <source>WML Script</source>
         <extracomment>text/vnd.wap.wmlscript</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>WML-skript</translation>
     </message>
     <message>
         <source>Web Video Text Tracks Format</source>
@@ -11468,12 +11468,12 @@ application/onix-message-short+xml</extracomment>
     <message>
         <source>AWK script</source>
         <extracomment>text/x-awk</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>AWK-skript</translation>
     </message>
     <message>
         <source>Basic source code</source>
         <extracomment>text/x-basic</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Basic-källkod</translation>
     </message>
     <message>
         <source>C++ source code header</source>
@@ -11483,7 +11483,7 @@ application/onix-message-short+xml</extracomment>
     <message>
         <source>C++ source code</source>
         <extracomment>text/x-c++src</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>C++-källkod</translation>
     </message>
     <message>
         <source>CGI script</source>
@@ -11498,82 +11498,82 @@ application/onix-message-short+xml</extracomment>
     <message>
         <source>Clojure source code</source>
         <extracomment>text/x-clojure</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Clojure-källkod</translation>
     </message>
     <message>
         <source>CoffeeScript source code</source>
         <extracomment>text/x-coffeescript</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>CoffeeScript-källkod</translation>
     </message>
     <message>
         <source>C source code</source>
         <extracomment>text/x-csrc</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>C-källkod</translation>
     </message>
     <message>
         <source>C# source code</source>
         <extracomment>text/x-csharp</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>C#-källkod</translation>
     </message>
     <message>
         <source>COBOL source code</source>
         <extracomment>text/x-cobol</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>COBOL-källkod</translation>
     </message>
     <message>
         <source>ColdFusion source code</source>
         <extracomment>text/x-coldfusion</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ColdFusion-källkod</translation>
     </message>
     <message>
         <source>Common Lisp source code</source>
         <extracomment>text/x-common-lisp</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Common Lisp-källkod</translation>
     </message>
     <message>
         <source>Eiffel source code</source>
         <extracomment>text/x-eiffel</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Eiffel-källkod</translation>
     </message>
     <message>
         <source>Emacs Lisp source code</source>
         <extracomment>text/x-emacs-lisp</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Emacs Lisp-källkod</translation>
     </message>
     <message>
         <source>Erlang source code</source>
         <extracomment>text/x-erlang</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Erlang-källkod</translation>
     </message>
     <message>
         <source>Expect Script</source>
         <extracomment>text/x-expect</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Expect-skript</translation>
     </message>
     <message>
         <source>Forth source code</source>
         <extracomment>text/x-forth</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Forth-källkod</translation>
     </message>
     <message>
         <source>Fortran source code</source>
         <extracomment>text/x-fortran</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Fortran-källkod</translation>
     </message>
     <message>
         <source>Go source code</source>
         <extracomment>text/x-go</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Go-källkod</translation>
     </message>
     <message>
         <source>Groovy source code</source>
         <extracomment>text/x-groovy</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Groovy-källkod</translation>
     </message>
     <message>
         <source>Haskell source code</source>
         <extracomment>text/x-haskell</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Haskell-källkod</translation>
     </message>
     <message>
         <source>Interface Definition Language</source>
@@ -11583,22 +11583,22 @@ application/onix-message-short+xml</extracomment>
     <message>
         <source>Configuration file</source>
         <extracomment>text/x-ini</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurationsfil</translation>
     </message>
     <message>
         <source>Java source code</source>
         <extracomment>text/x-java-source</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Java-källkod</translation>
     </message>
     <message>
         <source>Java Properties</source>
         <extracomment>text/x-java-properties</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Java Properties</translation>
     </message>
     <message>
         <source>Java Server Page</source>
         <extracomment>text/x-jsp</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Java Server Page</translation>
     </message>
     <message>
         <source>LESS source code</source>
@@ -11608,7 +11608,7 @@ application/onix-message-short+xml</extracomment>
     <message>
         <source>Lex/Flex source code</source>
         <extracomment>text/x-lex</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Lex/Flex-källkod</translation>
     </message>
     <message>
         <source>application log</source>
@@ -11723,7 +11723,7 @@ application/onix-message-short+xml</extracomment>
     <message>
         <source>Text-based (non-binary) Message</source>
         <extracomment>text/x-tika-text-based-message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Text-baserat (ick-binärt) meddelande</translation>
     </message>
     <message>
         <source>Visual basic source code</source>
