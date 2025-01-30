@@ -4,7 +4,6 @@
 <context>
     <name>AboutDialog</name>
     <message>
-        <location filename="../../qttools/src/linguist/linguist/mainwindow.cpp" line="+1359"/>
         <source>Qt Linguist</source>
         <translation>Qt Linguist</translation>
     </message>
@@ -60,27 +59,22 @@
         <translation>Avbryt</translation>
     </message>
     <message>
-        <location filename="../../qttools/src/linguist/linguist/batchtranslationdialog.cpp" line="+45"/>
         <source>Batch Translation of &apos;%1&apos; - Qt Linguist</source>
         <translation>Mängdöversättning av &quot;%1&quot; - Qt Linguist</translation>
     </message>
     <message>
-        <location line="+37"/>
         <source>Searching, please wait...</source>
         <translation>Säker, vänta lite...</translation>
     </message>
     <message>
-        <location line="+0"/>
         <source>&amp;Cancel</source>
         <translation>&amp;Avbryt</translation>
     </message>
     <message>
-        <location line="+43"/>
         <source>Linguist batch translator</source>
         <translation>Linguist mängdöversättare</translation>
     </message>
     <message numerus="yes">
-        <location line="+1"/>
         <source>Batch translated %n entries</source>
         <translation>
             <numerusform>Mängdöversatte %n post</numerusform>
@@ -91,56 +85,45 @@
 <context>
     <name>DataModel</name>
     <message>
-        <location filename="../../qttools/src/linguist/linguist/messagemodel.cpp" line="+283"/>
         <source>The translation file &apos;%1&apos; will not be loaded because it is empty.</source>
         <translation>Översättningsfilen &quot;%1&quot; kommer inte att läsas in, eftersom den är tom.</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>&lt;qt&gt;Duplicate messages found in &apos;%1&apos;:</source>
         <translation>&lt;qt&gt;Dubblettmeddelanden hittades i &quot;%1&quot;:</translation>
     </message>
     <message>
-        <location line="+4"/>
-        <location line="+8"/>
         <source>&lt;p&gt;[more duplicates omitted]</source>
         <translation>&lt;p&gt;[flera dubbletter utelämnade]</translation>
     </message>
     <message>
-        <location line="-5"/>
         <source>&lt;p&gt;* ID: %1</source>
         <translation>&lt;p&gt;* ID: %1</translation>
     </message>
     <message>
-        <location line="+8"/>
         <source>&lt;p&gt;* Context: %1&lt;br&gt;* Source: %2</source>
         <translation>&lt;p&gt;* Kontext: %1&lt;br&gt;* Källa: %2</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>&lt;br&gt;* Comment: %3</source>
         <translation>&lt;br&gt;* Kommentar: %3</translation>
     </message>
     <message>
-        <location line="+70"/>
         <source>Linguist does not know the plural rules for &apos;%1&apos;.
 Will assume a single universal form.</source>
         <translation>Linguist känner inte till pluralreglerna för &quot;%1&quot;.
 Kommer att anta en enskild universell form.</translation>
     </message>
     <message>
-        <location line="+56"/>
         <source>Cannot create &apos;%2&apos;: %1</source>
         <translation>Kan inte skapa &quot;%2&quot;: %1</translation>
     </message>
     <message>
-        <location line="+62"/>
         <source>%1 (%2)</source>
         <extracomment>&lt;language&gt; (&lt;territory&gt;)</extracomment>
         <translation>%1 (%2)</translation>
     </message>
     <message>
-        <location line="+10"/>
         <source>Universal Form</source>
         <translation>Universell form</translation>
     </message>
@@ -148,42 +131,34 @@ Kommer att anta en enskild universell form.</translation>
 <context>
     <name>ErrorsView</name>
     <message>
-        <location filename="../../qttools/src/linguist/linguist/errorsview.cpp" line="+37"/>
         <source>Accelerator possibly superfluous in translation.</source>
         <translation>Accelerator eventuellt överflödig i översättningen.</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Accelerator possibly missing in translation.</source>
         <translation>Accelerator saknas eventuellt i översättningen.</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Translation does not have same leading and trailing whitespace as the source text.</source>
         <translation>Översättningen har inte samma inledande och avslutande blanksteg som källtexten.</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Translation does not end with the same punctuation as the source text.</source>
         <translation>Översättningen slutar inte med samma skiljetecken som källtexten.</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>A phrase book suggestion for &apos;%1&apos; was ignored.</source>
         <translation>Ett ordboksförslag för &quot;%1&quot; ignorerades.</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Translation does not refer to the same place markers as in the source text.</source>
         <translation>Översättningen refererar inte till samma platsmarkörer som i källtexten.</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Translation does not contain the necessary %n/%Ln place marker.</source>
         <translation>Översättningen innehåller inte de nödvändiga platsmarkörerna %n/%Ln.</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>Unknown error</source>
         <translation>Okänt fel</translation>
     </message>
@@ -279,7 +254,6 @@ Kommer att anta en enskild universell form.</translation>
         <translation>Avbryt</translation>
     </message>
     <message>
-        <location filename="../../qttools/src/linguist/linguist/finddialog.cpp" line="+4"/>
         <source></source>
         <comment>Choose Edit|Find from the menu bar or press Ctrl+F to pop up the Find dialog</comment>
         <translation></translation>
@@ -293,17 +267,14 @@ Kommer att anta en enskild universell form.</translation>
         <translation>Låter dig filtrera sökningsmålet efter översättningsstatus</translation>
     </message>
     <message>
-        <location filename="../../qttools/src/linguist/linguist/finddialog.cpp" line="+15"/>
         <source>All</source>
         <translation>Alla</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Finished</source>
         <translation>Färdiga</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Unfinished</source>
         <translation>Oavslutade</translation>
     </message>
@@ -311,30 +282,25 @@ Kommer att anta en enskild universell form.</translation>
 <context>
     <name>FormMultiWidget</name>
     <message>
-        <location filename="../../qttools/src/linguist/linguist/messageeditorwidgets.cpp" line="+283"/>
         <source>Alt+Delete</source>
         <extracomment>translate, but don&apos;t change</extracomment>
         <translation>Alt+Delete</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Shift+Alt+Insert</source>
         <extracomment>translate, but don&apos;t change</extracomment>
         <translation>Shift+Alt+Insert</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Alt+Insert</source>
         <extracomment>translate, but don&apos;t change</extracomment>
         <translation>Alt+Insert</translation>
     </message>
     <message>
-        <location line="+166"/>
         <source>Confirmation - Qt Linguist</source>
         <translation>Bekräftelse - Qt Linguist</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Delete non-empty length variant?</source>
         <translation>Vill du ta bort icke tomma längdvarianter?</translation>
     </message>
@@ -438,8 +404,6 @@ Kommer att anta en enskild universell form.</translation>
         <translation>Spara ändringar gjorda i denna Qt översättningsfil</translation>
     </message>
     <message>
-        <location filename="../../qttools/src/linguist/linguist/mainwindow.cpp" line="+735"/>
-        <location line="+11"/>
         <source>Save &amp;As...</source>
         <translation>S&amp;para som...</translation>
     </message>
@@ -452,8 +416,6 @@ Kommer att anta en enskild universell form.</translation>
         <translation>Spara ändringar gjorda i denna Qt översättningsfil, i en ny fil.</translation>
     </message>
     <message>
-        <location filename="../../qttools/src/linguist/linguist/mainwindow.cpp" line="-1284"/>
-        <location line="+1274"/>
         <source>Release</source>
         <translation>Kompilera</translation>
     </message>
@@ -810,7 +772,6 @@ Kommer att anta en enskild universell form.</translation>
         <translation>Ersätt översättningen i alla poster som matchar sökningens källtext.</translation>
     </message>
     <message>
-        <location filename="../../qttools/src/linguist/linguist/mainwindow.cpp" line="+35"/>
         <source>&amp;Batch Translation...</source>
         <translation>M&amp;ängdöversättning...</translation>
     </message>
@@ -819,8 +780,6 @@ Kommer att anta en enskild universell form.</translation>
         <translation>Mängdöversätt alla poster med hjälp av informationen i ordböckerna.</translation>
     </message>
     <message>
-        <location filename="../../qttools/src/linguist/linguist/mainwindow.cpp" line="-34"/>
-        <location line="+10"/>
         <source>Release As...</source>
         <translation>Kompilera som...</translation>
     </message>
@@ -829,27 +788,22 @@ Kommer att anta en enskild universell form.</translation>
         <translation>Skapa en QT meddelandefil, passande för publicerade program, från den aktuella meddelandefilen. Filnamnet hämtas automatiskt från namnet på TS-filen.</translation>
     </message>
     <message>
-        <location filename="../../qttools/src/linguist/linguist/mainwindow.cpp" line="+76"/>
         <source>File</source>
         <translation>Arkiv</translation>
     </message>
     <message>
-        <location filename="../../qttools/src/linguist/linguist/mainwindow.cpp" line="+7"/>
         <source>Edit</source>
         <translation>Redigera</translation>
     </message>
     <message>
-        <location filename="../../qttools/src/linguist/linguist/mainwindow.cpp" line="+6"/>
         <source>Translation</source>
         <translation>Översättning</translation>
     </message>
     <message>
-        <location filename="../../qttools/src/linguist/linguist/mainwindow.cpp" line="+6"/>
         <source>Validation</source>
         <translation>Validering</translation>
     </message>
     <message>
-        <location filename="../../qttools/src/linguist/linguist/mainwindow.cpp" line="+7"/>
         <source>Help</source>
         <translation>Hjälp</translation>
     </message>
@@ -866,7 +820,6 @@ Kommer att anta en enskild universell form.</translation>
         <translation>F5</translation>
     </message>
     <message>
-        <location filename="../../qttools/src/linguist/linguist/mainwindow.cpp" line="-79"/>
         <source>Translation File &amp;Settings...</source>
         <translation>&amp;Översättningsfilens inställningar...</translation>
     </message>
@@ -891,7 +844,6 @@ Kommer att anta en enskild universell form.</translation>
         <translation>Ctrl+S</translation>
     </message>
     <message>
-        <location filename="../../qttools/src/linguist/linguist/mainwindow.cpp" line="-28"/>
         <source>&amp;Release All</source>
         <translation>&amp;Kompilera alla</translation>
     </message>
@@ -972,77 +924,60 @@ Kommer att anta en enskild universell form.</translation>
         <translation>Markera denna post som slutförd.</translation>
     </message>
     <message>
-        <location filename="../../qttools/src/linguist/linguist/mainwindow.cpp" line="-2097"/>
         <source></source>
         <comment>This is the application&apos;s main window.</comment>
         <translation></translation>
     </message>
     <message>
-        <location line="+190"/>
         <source>Source text</source>
         <translation>Källtext</translation>
     </message>
     <message>
-        <location line="+1"/>
-        <location line="+25"/>
         <source>Index</source>
         <translation>Index</translation>
     </message>
     <message>
-        <location line="-2"/>
-        <location line="+59"/>
         <source>Context</source>
         <translation>Kontext</translation>
     </message>
     <message>
-        <location line="-58"/>
         <source>Items</source>
         <translation>Poster</translation>
     </message>
     <message>
-        <location line="+75"/>
         <source>This panel lists the source contexts.</source>
         <translation>Denna panel listar källkontexterna.</translation>
     </message>
     <message>
-        <location line="+12"/>
         <source>Strings</source>
         <translation>Strängar</translation>
     </message>
     <message>
-        <location line="+36"/>
         <source>Phrases and guesses</source>
         <translation>Fraser och gissningar</translation>
     </message>
     <message>
-        <location line="+9"/>
         <source>Sources and Forms</source>
         <translation>Källor och former</translation>
     </message>
     <message>
-        <location line="+12"/>
         <source>Warnings</source>
         <translation>Varningar</translation>
     </message>
     <message>
-        <location line="+63"/>
         <source> MOD </source>
         <comment>status bar: file(s) modified</comment>
         <translation> MOD </translation>
     </message>
     <message>
-        <location line="+145"/>
         <source>Loading...</source>
         <translation>Läser in...</translation>
     </message>
     <message>
-        <location line="+32"/>
-        <location line="+20"/>
         <source>Loading File - Qt Linguist</source>
         <translation>Läser in filen - Qt Linguist</translation>
     </message>
     <message>
-        <location line="-19"/>
         <source>The file &apos;%1&apos; does not seem to be related to the currently open file(s) &apos;%2&apos;.
 
 Close the open file(s) first?</source>
@@ -1051,7 +986,6 @@ Close the open file(s) first?</source>
 Vill du stänga öppna filer först?</translation>
     </message>
     <message>
-        <location line="+20"/>
         <source>The file &apos;%1&apos; does not seem to be related to the file &apos;%2&apos; which is being loaded as well.
 
 Skip loading the first named file?</source>
@@ -1060,7 +994,6 @@ Skip loading the first named file?</source>
 Vill du undanta inläsning av den först nämnda filen?</translation>
     </message>
     <message numerus="yes">
-        <location line="+59"/>
         <source>%n translation unit(s) loaded.</source>
         <translation>
             <numerusform>%n översättningsenhet inläst.</numerusform>
@@ -1068,117 +1001,80 @@ Vill du undanta inläsning av den först nämnda filen?</translation>
         </translation>
     </message>
     <message>
-        <location line="+78"/>
         <source>Related files (%1);;</source>
         <translation>Relaterade filer (%1);;</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>Open Translation Files</source>
         <translation>Öppna översättningsfiler</translation>
     </message>
     <message>
-        <location line="+10"/>
-        <location line="+31"/>
         <source>File saved.</source>
         <translation>Filen sparad.</translation>
     </message>
     <message>
-        <location line="+16"/>
         <source>Qt message files for released applications (*.qm)
 All files (*)</source>
         <translation>Qt meddelandefiler för publicerade program (*.qm)
 Alla filer (*)</translation>
     </message>
     <message>
-        <location line="+3"/>
-        <location line="+12"/>
         <source>File created.</source>
         <translation>Filen skapad.</translation>
     </message>
     <message>
-        <location line="+35"/>
-        <location line="+364"/>
         <source>Printing...</source>
         <translation>Skriver ut...</translation>
     </message>
     <message>
-        <location line="-356"/>
         <source>Context: %1</source>
         <translation>Kontext: %1</translation>
     </message>
     <message>
-        <location line="+32"/>
         <source>finished</source>
         <translation>slutförd</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>unresolved</source>
         <translation>olöst</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>obsolete</source>
         <translation>föråldrad</translation>
     </message>
     <message>
-        <location line="+15"/>
-        <location line="+316"/>
         <source>Printing... (page %1)</source>
         <translation>Skriver ut... (sidan %1)</translation>
     </message>
     <message>
-        <location line="-309"/>
-        <location line="+316"/>
         <source>Printing completed</source>
         <translation>Utskrift slutförd</translation>
     </message>
     <message>
-        <location line="-314"/>
-        <location line="+316"/>
         <source>Printing aborted</source>
         <translation>Utskrift stoppad</translation>
     </message>
     <message>
-        <location line="-237"/>
         <source>Search wrapped.</source>
         <translation>Sök inslagna.</translation>
     </message>
     <message>
-        <location line="+19"/>
-        <location line="+292"/>
-        <location line="+33"/>
-        <location line="+26"/>
-        <location line="+20"/>
-        <location line="+582"/>
-        <location line="+1"/>
-        <location line="+307"/>
-        <location line="+40"/>
-        <location line="+10"/>
         <source>Qt Linguist</source>
         <translation>Qt Linguist</translation>
     </message>
     <message>
-        <location line="-1310"/>
-        <location line="+101"/>
         <source>Cannot find the string &apos;%1&apos;.</source>
         <translation>Kan inte hitta strängen &quot;%1&quot;.</translation>
     </message>
     <message>
-        <location line="-82"/>
         <source>Search And Translate in &apos;%1&apos; - Qt Linguist</source>
         <translation>Sök och översätt i &quot;%1&quot; - Qt Linguist</translation>
     </message>
     <message>
-        <location line="+34"/>
-        <location line="+23"/>
-        <location line="+24"/>
         <source>Translate - Qt Linguist</source>
         <translation>Översätt - Qt Linguist</translation>
     </message>
     <message numerus="yes">
-        <location line="-46"/>
         <source>Translated %n entry(s)</source>
         <translation>
             <numerusform>Översatte %n post</numerusform>
@@ -1186,39 +1082,32 @@ Alla filer (*)</translation>
         </translation>
     </message>
     <message>
-        <location line="+23"/>
         <source>No more occurrences of &apos;%1&apos;. Start over?</source>
         <translation>Inga fler förekomster av &quot;%1&quot;. Vill du börja om?</translation>
     </message>
     <message>
-        <location line="+30"/>
         <source>Create New Phrase Book</source>
         <translation>Skapa ny ordbok</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Qt phrase books (*.qph)
 All files (*)</source>
         <translation>Qt-ordbok (*.qph)
 Alla filer (*)</translation>
     </message>
     <message>
-        <location line="+11"/>
         <source>Phrase book created.</source>
         <translation>Ordbok skapad.</translation>
     </message>
     <message>
-        <location line="+17"/>
         <source>Open Phrase Book</source>
         <translation>Öppna ordbok</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Qt phrase books (*.qph);;All files (*)</source>
         <translation>Qt-ordböcker (*.qph);;Alla filer (*)</translation>
     </message>
     <message numerus="yes">
-        <location line="+7"/>
         <source>%n phrase(s) loaded.</source>
         <translation>
             <numerusform>%n ordbok inläst.</numerusform>
@@ -1226,197 +1115,154 @@ Alla filer (*)</translation>
         </translation>
     </message>
     <message>
-        <location line="+97"/>
-        <location line="+8"/>
-        <location line="+7"/>
         <source>Add to phrase book</source>
         <translation>Lägg till i ordbok</translation>
     </message>
     <message>
-        <location line="-14"/>
         <source>No appropriate phrasebook found.</source>
         <translation>Ingen lämplig ordbok hittades.</translation>
     </message>
     <message>
-        <location line="+8"/>
         <source>Adding entry to phrasebook %1</source>
         <translation>Lägger till post i ordboken %1</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>Select phrase book to add to</source>
         <translation>Välj ordbok att lägga till i</translation>
     </message>
     <message>
-        <location line="+35"/>
         <source>Unable to launch Qt Assistant (%1)</source>
         <translation>Kan inte starta Qt Assistant (%1)</translation>
     </message>
     <message>
-        <location line="+16"/>
         <source>Version %1</source>
         <translation>Version %1</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>Qt Linguist is a tool for adding translations to Qt applications.</source>
         <translation>Qt Linguist är ett verktyg för att lägga till översättningar till Qt-program.</translation>
     </message>
     <message>
-        <location line="+39"/>
         <source>Do you want to save the modified files?</source>
         <translation>Vill du spara ändrade filer?</translation>
     </message>
     <message>
-        <location line="+20"/>
         <source>Do you want to save &apos;%1&apos;?</source>
         <translation>Vill du spara &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location line="+44"/>
         <source>Qt Linguist[*]</source>
         <translation>Qt Linguist[*]</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>%1[*] - Qt Linguist</source>
         <translation>%1[*] - Qt Linguist</translation>
     </message>
     <message>
-        <location line="+257"/>
-        <location line="+12"/>
         <source>No untranslated translation units left.</source>
         <translation>Inga oöversatta översättningsposter kvar.</translation>
     </message>
     <message>
-        <location line="+251"/>
         <source>&amp;Window</source>
         <translation>&amp;Fönster</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Minimize</source>
         <translation>Minimera</translation>
     </message>
     <message>
-        <location line="+0"/>
         <source>Ctrl+M</source>
         <translation>Ctrl+M</translation>
     </message>
     <message>
-        <location line="+13"/>
         <source>Display the manual for %1.</source>
         <translation>Visa manualen för %1.</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Display information about %1.</source>
         <translation>Visa information om %1.</translation>
     </message>
     <message>
-        <location line="+92"/>
         <source>&amp;Save &apos;%1&apos;</source>
         <translation>&amp;Spara &quot;%1&quot;</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Save &apos;%1&apos; &amp;As...</source>
         <translation>S&amp;para &quot;%1&quot; som...</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Release &apos;%1&apos;</source>
         <translation>Kompilera &quot;%1&quot;</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Release &apos;%1&apos; As...</source>
         <translation>Kompilera &quot;%1&quot; som...</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>&amp;Close &apos;%1&apos;</source>
         <translation>S&amp;täng &quot;%1&quot;</translation>
     </message>
     <message>
-        <location line="+2"/>
-        <location line="+15"/>
         <source>&amp;Save</source>
         <translation>&amp;Spara</translation>
     </message>
     <message>
-        <location line="-11"/>
-        <location line="+13"/>
         <source>&amp;Close</source>
         <translation>S&amp;täng</translation>
     </message>
     <message>
-        <location line="-10"/>
         <source>Save All</source>
         <translation>Spara alla</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Close All</source>
         <translation>Stäng alla</translation>
     </message>
     <message>
-        <location line="+7"/>
         <source>&amp;Release</source>
         <translation>&amp;Kompilera</translation>
     </message>
     <message>
-        <location line="+16"/>
         <source>Translation File &amp;Settings for &apos;%1&apos;...</source>
         <translation>&amp;Filinställningar för &quot;%1&quot;...</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>&amp;Batch Translation of &apos;%1&apos;...</source>
         <translation>&amp;Mängdöversättning av &quot;%1&quot;...</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Search And &amp;Translate in &apos;%1&apos;...</source>
         <translation>S&amp;ök och översätt i &quot;%1&quot;...</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>Search And &amp;Translate...</source>
         <translation>Sök oc&amp;h översätt...</translation>
     </message>
     <message>
-        <location line="+172"/>
         <source>Cannot read from phrase book &apos;%1&apos;.</source>
         <translation>Kan inte läsa från ordbok &quot;%1&quot;.</translation>
     </message>
     <message>
-        <location line="+15"/>
         <source>Close this phrase book.</source>
         <translation>Stäng denna ordbok.</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>Enables you to add, modify, or delete entries in this phrase book.</source>
         <translation>Låter dig lägga till, ändra eller ta bort poster i denna ordbok.</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>Print the entries in this phrase book.</source>
         <translation>Skriv ut posterna i denna ordbok.</translation>
     </message>
     <message>
-        <location line="+16"/>
         <source>Cannot create phrase book &apos;%1&apos;.</source>
         <translation>Kan inte skapa ordboken &quot;%1&quot;.</translation>
     </message>
     <message>
-        <location line="+10"/>
         <source>Do you want to save phrase book &apos;%1&apos;?</source>
         <translation>Vill du spara ordboken &quot;%1&quot;?</translation>
     </message>
     <message numerus="yes">
-        <location line="+32"/>
         <source>%n unfinished message(s) left.</source>
         <translation>
             <numerusform>%n oavslutat meddelande kvar.</numerusform>
@@ -1424,7 +1270,6 @@ Alla filer (*)</translation>
         </translation>
     </message>
     <message>
-        <location line="+352"/>
         <source>All</source>
         <translation>Alla</translation>
     </message>
@@ -1448,83 +1293,67 @@ Alla filer (*)</translation>
 <context>
     <name>MessageEditor</name>
     <message>
-        <location filename="../../qttools/src/linguist/linguist/messageeditor.cpp" line="+4"/>
         <source></source>
         <comment>This is the right panel of the main window.</comment>
         <translation></translation>
     </message>
     <message>
-        <location line="+77"/>
         <source>This whole panel allows you to view and edit the translation of some source text.</source>
         <translation>Denna panel låter dig se och redigera översättningen av aktuell källtext.</translation>
     </message>
     <message>
-        <location line="+16"/>
         <source>Source text</source>
         <translation>Källtext</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>This area shows the source text.</source>
         <translation>Detta område visar källtexten.</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>Source text (Plural)</source>
         <translation>Källtext (Pluralis)</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>This area shows the plural form of the source text.</source>
         <translation>Detta område visar källtextens pluralform.</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>Developer comments</source>
         <translation>Utvecklarkommentar</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>This area shows a comment that may guide you, and the context in which the text occurs.</source>
         <translation>Detta område visar kommentarer för din vägledning, och i vilket sammanhang texten finns.</translation>
     </message>
     <message>
-        <location line="+6"/>
         <source>NCR mode</source>
         <translation>NCR-läge</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Toggles Numeric Character Reference Mode for displaying the source text and the translations.</source>
         <translation>Växlar Numeric Character Reference Mode för visning av källtexten och översättningarna.</translation>
     </message>
     <message>
-        <location line="+64"/>
         <source>Here you can enter comments for your own use. They have no effect on the translated applications.</source>
         <translation>Här kan du kommentera för eget bruk. Dessa kommentarer påverkar inte det översatta programmet.</translation>
     </message>
     <message>
-        <location line="+275"/>
         <source>Translation to %1 (%2)</source>
         <translation>Översättning till %1 (%2)</translation>
     </message>
     <message>
-        <location line="+9"/>
         <source>This is where you can enter or modify the translation of the above source text.</source>
         <translation>Här kan du mata in och ändra översättningen för ovanstående källtext.</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>Translation to %1</source>
         <translation>Översättning till %1</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Translator comments for %1</source>
         <translation>Översättarkommentar för %1</translation>
     </message>
     <message>
-        <location line="+147"/>
         <source>&apos;%1&apos;
 Line: %2</source>
         <translation>&quot;%1&quot;
@@ -1534,27 +1363,22 @@ Rad: %2</translation>
 <context>
     <name>MessageModel</name>
     <message>
-        <location filename="../../qttools/src/linguist/linguist/messagemodel.cpp" line="+882"/>
         <source>Completion status for %1</source>
         <translation>Slutförandestatus för %1</translation>
     </message>
     <message>
-        <location line="+20"/>
         <source>&lt;file header&gt;</source>
         <translation>&lt;file header&gt;</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>&lt;context comment&gt;</source>
         <translation>&lt;context comment&gt;</translation>
     </message>
     <message>
-        <location line="+71"/>
         <source>&lt;unnamed context&gt;</source>
         <translation>&lt;unnamed context&gt;</translation>
     </message>
     <message numerus="yes">
-        <location line="+6"/>
         <source>%n unfinished message(s) left.</source>
         <translation>
             <numerusform>%n oavslutat meddelande kvar.</numerusform>
@@ -1565,7 +1389,6 @@ Rad: %2</translation>
 <context>
     <name>PhraseBook</name>
     <message>
-        <location filename="../../qttools/src/linguist/linguist/phrase.cpp" line="+154"/>
         <source>Parse error at line %1, column %2 (%3).</source>
         <translation>Tolkningsfel på rad %1, kolumn %2 (%3).</translation>
     </message>
@@ -1641,28 +1464,23 @@ Rad: %2</translation>
         <translation>Stäng</translation>
     </message>
     <message>
-        <location filename="../../qttools/src/linguist/linguist/phrasebookbox.cpp" line="+4"/>
         <source></source>
         <comment>Go to Phrase &gt; Edit Phrase Book... The dialog that pops up is a PhraseBookBox.</comment>
         <translation></translation>
     </message>
     <message>
-        <location line="+24"/>
         <source>(New Entry)</source>
         <translation>(Ny post)</translation>
     </message>
     <message>
-        <location line="+3"/>
         <source>%1[*] - Qt Linguist</source>
         <translation>%1[*] - Qt Linguist</translation>
     </message>
     <message>
-        <location line="+96"/>
         <source>Qt Linguist</source>
         <translation>Qt Linguist</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>Cannot save phrase book &apos;%1&apos;.</source>
         <translation>Kan inte spara ordboken &quot;%1&quot;.</translation>
     </message>
@@ -1670,17 +1488,14 @@ Rad: %2</translation>
 <context>
     <name>PhraseModel</name>
     <message>
-        <location filename="../../qttools/src/linguist/linguist/phrasemodel.cpp" line="+80"/>
         <source>Source phrase</source>
         <translation>Källfras</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Translation</source>
         <translation>Översättning</translation>
     </message>
     <message>
-        <location line="+2"/>
         <source>Definition</source>
         <translation>Definition</translation>
     </message>
@@ -1688,27 +1503,22 @@ Rad: %2</translation>
 <context>
     <name>PhraseView</name>
     <message>
-        <location filename="../../qttools/src/linguist/linguist/phraseview.cpp" line="+87"/>
         <source>Insert</source>
         <translation>Infoga</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>Edit</source>
         <translation>Redigera</translation>
     </message>
     <message>
-        <location line="+6"/>
         <source>Go to</source>
         <translation>Gå till</translation>
     </message>
     <message>
-        <location line="+147"/>
         <source>Guess from &apos;%1&apos; (%2)</source>
         <translation>Gissning från &quot;%1&quot; (%2)</translation>
     </message>
     <message>
-        <location line="+4"/>
         <source>Guess from &apos;%1&apos;</source>
         <translation>Gissning från &quot;%1&quot;</translation>
     </message>
@@ -1716,24 +1526,14 @@ Rad: %2</translation>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../qttools/src/linguist/linguist/mainwindow.cpp" line="-1997"/>
         <source>Translation files (%1);;</source>
         <translation>Översättningsfiler (%1);;</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>All files (*)</source>
         <translation>Alla filer (*)</translation>
     </message>
     <message>
-        <location filename="../../qttools/src/linguist/linguist/messagemodel.cpp" line="-1210"/>
-        <location line="+5"/>
-        <location line="+29"/>
-        <location line="+66"/>
-        <location line="+39"/>
-        <location line="+17"/>
-        <location line="+18"/>
-        <location filename="../../qttools/src/linguist/linguist/phrase.cpp" line="+4"/>
         <source>Qt Linguist</source>
         <translation>Qt Linguist</translation>
     </message>
@@ -1741,17 +1541,14 @@ Rad: %2</translation>
 <context>
     <name>SourceCodeView</name>
     <message>
-        <location filename="../../qttools/src/linguist/linguist/sourcecodeview.cpp" line="+32"/>
         <source>&lt;i&gt;Source code not available&lt;/i&gt;</source>
         <translation>&lt;i&gt;Källkod inte tillgänglig&lt;/i&gt;</translation>
     </message>
     <message>
-        <location line="+33"/>
         <source>&lt;i&gt;File %1 not available&lt;/i&gt;</source>
         <translation>&lt;i&gt;Filen %1 inte läsbar&lt;/i&gt;</translation>
     </message>
     <message>
-        <location line="+5"/>
         <source>&lt;i&gt;File %1 not readable&lt;/i&gt;</source>
         <translation>&lt;i&gt;Filen %1 inte tillgänglig&lt;/i&gt;</translation>
     </message>
@@ -1897,20 +1694,15 @@ Rad: %2</translation>
         <translation>Målspråk</translation>
     </message>
     <message>
-        <location filename="../../qttools/src/linguist/linguist/translationsettingsdialog.cpp" line="+28"/>
-        <location line="+38"/>
         <source>%1 (%2)</source>
         <extracomment>&lt;english&gt; (&lt;endonym&gt;) (language names)</extracomment>
         <translation>%1 (%2)</translation>
     </message>
     <message>
-        <location line="-23"/>
-        <location line="+8"/>
         <source>Settings for &apos;%1&apos; - Qt Linguist</source>
         <translation>Inställningar för &quot;%1&quot; - Qt Linguist</translation>
     </message>
     <message>
-        <location line="+21"/>
         <source>Any Territory</source>
         <translation>Valfritt territorium</translation>
     </message>
