@@ -9990,27 +9990,27 @@ application/vnd.java.hprof.text</extracomment>
     <message>
         <source>Microsoft Excel 4 Worksheet</source>
         <extracomment>application/vnd.ms-excel.sheet.4</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Excel 4-arbetsblad</translation>
     </message>
     <message>
         <source>Microsoft Excel 4 Workspace</source>
         <extracomment>application/vnd.ms-excel.workspace.4</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Excel 4-arbetsbok</translation>
     </message>
     <message>
         <source>Microsoft Excel 3 Worksheet</source>
         <extracomment>application/vnd.ms-excel.sheet.3</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Excel 3-arbetsblad</translation>
     </message>
     <message>
         <source>Microsoft Excel 3 Workspace</source>
         <extracomment>application/vnd.ms-excel.workspace.3</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Excel 3-arbetsbok</translation>
     </message>
     <message>
         <source>Microsoft Excel 2 Worksheet</source>
         <extracomment>application/vnd.ms-excel.sheet.2</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Excel 2-arbetsblad</translation>
     </message>
     <message>
         <source>Microsoft Outlook Message</source>
@@ -10020,7 +10020,7 @@ application/vnd.java.hprof.text</extracomment>
     <message>
         <source>Outlook Personal Folders File Format</source>
         <extracomment>application/vnd.ms-outlook-pst</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Outlook personliga mappar-filformat</translation>
     </message>
     <message>
         <source>3D manufacturing format</source>
@@ -10035,32 +10035,32 @@ application/vnd.java.hprof.text</extracomment>
     <message>
         <source>Office Open XML Presentation Add-in (macro-enabled)</source>
         <extracomment>application/vnd.ms-powerpoint.addin.macroenabled.12</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Office Open XML-presentation tillägg (makroaktiverad)</translation>
     </message>
     <message>
         <source>Office Open XML Presentation (macro-enabled)</source>
         <extracomment>application/vnd.ms-powerpoint.presentation.macroenabled.12</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Office Open XML-presentation (makroaktiverad)</translation>
     </message>
     <message>
         <source>Office Open XML Presentation Slideshow (macro-enabled)</source>
         <extracomment>application/vnd.ms-powerpoint.slideshow.macroenabled.12</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Office Open XML-presentation bildspel (makroaktiverad)</translation>
     </message>
     <message>
         <source>Office Open XML Document (macro-enabled)</source>
         <extracomment>application/vnd.ms-word.document.macroenabled.12</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Office Open XML-dokument (makroaktiverad)</translation>
     </message>
     <message>
         <source>Office Open XML Document Template (macro-enabled)</source>
         <extracomment>application/vnd.ms-word.template.macroenabled.12</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Office Open XML-dokumentmall (makroaktiverad)</translation>
     </message>
     <message>
         <source>Open XML Paper Specification</source>
         <extracomment>application/vnd.ms-xpsdocument</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Open XML-sidbeskrivning</translation>
     </message>
     <message>
         <source>Magic Shadow Archiver</source>
@@ -10167,17 +10167,17 @@ application/vnd.oasis.opendocument.flat.text</extracomment>
     <message>
         <source>Office Open XML Presentation</source>
         <extracomment>application/vnd.openxmlformats-officedocument.presentationml.presentation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Office Open XML-presentation</translation>
     </message>
     <message>
         <source>Office Open XML Presentation Template</source>
         <extracomment>application/vnd.openxmlformats-officedocument.presentationml.template</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Office Open XML-presentationsmall</translation>
     </message>
     <message>
         <source>Office Open XML Presentation Slideshow</source>
         <extracomment>application/vnd.openxmlformats-officedocument.presentationml.slideshow</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Office Open XML-presentationsbildspel</translation>
     </message>
     <message>
         <source>Office Open XML Workbook</source>
@@ -10197,12 +10197,12 @@ application/vnd.oasis.opendocument.flat.text</extracomment>
     <message>
         <source>Office Open XML Document</source>
         <extracomment>application/vnd.openxmlformats-officedocument.wordprocessingml.document</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Office Open XML-dokument</translation>
     </message>
     <message>
         <source>Office Open XML Document Template</source>
         <extracomment>application/vnd.openxmlformats-officedocument.wordprocessingml.template</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Office Open XML-dokumentmall</translation>
     </message>
     <message>
         <source>SubRip (srt) subtitles</source>
@@ -10232,7 +10232,7 @@ application/vnd.oasis.opendocument.flat.text</extracomment>
     <message>
         <source>Microsoft Visio Diagram</source>
         <extracomment>application/vnd.visio</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Visio-diagram</translation>
     </message>
     <message>
         <source>Office Open XML Visio Drawing (macro-free)</source>
@@ -10272,7 +10272,7 @@ application/vnd.oasis.opendocument.flat.text</extracomment>
     <message>
         <source>Compiled WML Script</source>
         <extracomment>application/vnd.wap.wmlscriptc</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kompilerat WML-skript</translation>
     </message>
     <message>
         <source>WordPerfect - Corel Word Processing</source>
@@ -10309,7 +10309,7 @@ application/warc+gz</extracomment>
     <message>
         <source>Flow Cytometry Standard File</source>
         <extracomment>application/vnd.isac.fcs</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Flow Cytometry Standard File</translation>
     </message>
     <message>
         <source>IDML</source>
@@ -10319,12 +10319,12 @@ application/warc+gz</extracomment>
     <message>
         <source>Adobe InDesign Interchange format</source>
         <extracomment>application/x-adobe-indesign-interchange</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Adobe InDesign Interchange format</translation>
     </message>
     <message>
         <source>ASPRS Lidar Data Exchange Format</source>
         <extracomment>application/x-asprs</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ASPRS Lidar Data Exchange Format</translation>
     </message>
     <message>
         <source>Berkeley DB</source>
@@ -10339,7 +10339,7 @@ application/warc+gz</extracomment>
     <message>
         <source>GNU tar Compressed File Archive (GNU Tape Archive)</source>
         <extracomment>application/x-gtar</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>GNU tar-komprimerat filarkiv (GNU Tape Archive)</translation>
     </message>
     <message>
         <source>Guitar Pro</source>
@@ -10354,7 +10354,7 @@ application/warc+gz</extracomment>
     <message>
         <source>Bzip 2 UNIX Compressed File</source>
         <extracomment>application/x-bzip2</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Bzip 2 UNIX-komprimerad fil</translation>
     </message>
     <message>
         <source>Virtual CD-ROM CD Image File</source>
@@ -10364,7 +10364,7 @@ application/warc+gz</extracomment>
     <message>
         <source>Chrome Extension Package</source>
         <extracomment>application/x-chrome-package</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Chrome-tilläggspaket</translation>
     </message>
     <message>
         <source>UNIX CPIO Archive</source>
@@ -10374,7 +10374,7 @@ application/warc+gz</extracomment>
     <message>
         <source>Dalvik Executable Format</source>
         <extracomment>application/x-dex</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Dalvik Executable Format</translation>
     </message>
     <message>
         <source>Shockwave Movie</source>
@@ -10394,7 +10394,7 @@ application/warc+gz</extracomment>
     <message>
         <source>fat disk image; extensions: ima, img, dsk</source>
         <extracomment>application/x-fat-diskimage</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>fat-diskavbildning; filändelser: ima, img, dsk</translation>
     </message>
     <message>
         <source>KIllustrator File</source>
@@ -10404,12 +10404,12 @@ application/warc+gz</extracomment>
     <message>
         <source>Modified Maximum Method Digisonde Portable Sounder File format</source>
         <extracomment>application/x-mmm-digisonde</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Modified Maximum Method Digisonde Portable Sounder File format</translation>
     </message>
     <message>
         <source>DOS/Windows executable (EXE)</source>
         <extracomment>application/x-dosexec</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>DOS/Windows-körbar fil (EXE)</translation>
     </message>
     <message>
         <source>FileMaker Pro 7</source>
@@ -10429,7 +10429,7 @@ application/warc+gz</extracomment>
     <message>
         <source>Adobe Font Metric</source>
         <extracomment>application/x-font-adobe-metric</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Adobe Font Metric</translation>
     </message>
     <message>
         <source>Printer Font Metric</source>
@@ -10439,32 +10439,32 @@ application/warc+gz</extracomment>
     <message>
         <source>Foxmail Email File</source>
         <extracomment>application/x-foxmail</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Foxmail-epostfil</translation>
     </message>
     <message>
         <source>Macromedia FutureSplash File</source>
         <extracomment>application/x-futuresplash</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Macromedia FutureSplash-fil</translation>
     </message>
     <message>
         <source>General Regularly-distributed Information in Binary form</source>
         <extracomment>application/x-grib</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>General Regularly-distributed Information in Binary form</translation>
     </message>
     <message>
         <source>Gzip Compressed Archive</source>
         <extracomment>application/gzip</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Gzip-komprimerat arkiv</translation>
     </message>
     <message>
         <source>https://en.wikipedia.org/wiki/Zstandard</source>
         <extracomment>application/zstd</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>https://en.wikipedia.org/wiki/Zstandard</translation>
     </message>
     <message>
         <source>ESRI Layer file</source>
         <extracomment>application/x-esri-layer</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ESRI Layer-fil</translation>
     </message>
     <message>
         <source>Hierarchical Data Format File</source>
@@ -10474,27 +10474,27 @@ application/warc+gz</extracomment>
     <message>
         <source>Hangul Word Processor File</source>
         <extracomment>application/x-hwp</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Hangul-ordbehandlarfil</translation>
     </message>
     <message>
         <source>Hangul Word Processor File v5</source>
         <extracomment>application/x-hwp-v5</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Hangul-ordbehandlarfil v5</translation>
     </message>
     <message>
         <source>Hangul Word Processor File, zip based</source>
         <extracomment>application/hwp+zip</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Hangul-ordbehandlarfil, zip baserad</translation>
     </message>
     <message>
         <source>Apple iBooks Author publication format</source>
         <extracomment>application/x-ibooks+zip</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Apple iBooks Author publication format</translation>
     </message>
     <message>
         <source>NV5 Geospatial Interactive Data Language Save File</source>
         <extracomment>application/x-idl-save-file</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>NV5 Geospatial Interactive Data Language Save File</translation>
     </message>
     <message>
         <source>ARC</source>
@@ -10504,7 +10504,7 @@ application/warc+gz</extracomment>
     <message>
         <source>ISA-Tab Investigation file</source>
         <extracomment>application/x-isatab-investigation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ISA-Tab Investigation-fil</translation>
     </message>
     <message>
         <source>ISA-Tab Study file</source>
@@ -10519,12 +10519,12 @@ application/warc+gz</extracomment>
     <message>
         <source>ISO 9660 CD-ROM filesystem data</source>
         <extracomment>application/x-iso9660-image</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ISO 9660 CD-ROM-filsystemdata</translation>
     </message>
     <message>
         <source>Apple iTunes Binary Property List</source>
         <extracomment>application/x-itunes-bplist</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Apple iTunes Binary Property List</translation>
     </message>
     <message>
         <source>Apple iOS IPA AppStore file</source>
@@ -10534,7 +10534,7 @@ application/warc+gz</extracomment>
     <message>
         <source>JDF NMR Spectroscopy</source>
         <extracomment>application/x-jeol-jdf</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>JDF NMR Spectroscopy</translation>
     </message>
     <message>
         <source>Jigsaw Download</source>
@@ -10544,22 +10544,22 @@ application/warc+gz</extracomment>
     <message>
         <source>LaTeX Source Document</source>
         <extracomment>application/x-latex</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>LaTeX-källdokument</translation>
     </message>
     <message>
         <source>First match LZ4 Frame</source>
         <extracomment>application/x-lz4</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>First match LZ4 Frame</translation>
     </message>
     <message>
         <source>Lzip (LZMA) compressed archive</source>
         <extracomment>application/x-lzip</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Lzip (LZMA)-komprimerat arkiv</translation>
     </message>
     <message>
         <source>LZMA compressed archive</source>
         <extracomment>application/x-lzma</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>LZMA-komprimerat arkiv</translation>
     </message>
     <message>
         <source>Mach-O</source>
@@ -10569,7 +10569,7 @@ application/warc+gz</extracomment>
     <message>
         <source>Apple Xcode Memgraph</source>
         <extracomment>application/x-memgraph</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Apple Xcode Memgraph</translation>
     </message>
     <message>
         <source>Mobipocket Ebook</source>
@@ -10579,7 +10579,7 @@ application/warc+gz</extracomment>
     <message>
         <source>MS-DOS compression szzd</source>
         <extracomment>application/x-ms-compress-szdd</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>MS-DOS-komprimering szzd</translation>
     </message>
     <message>
         <source>Temporary files created by MSOffice applications</source>
@@ -10594,32 +10594,32 @@ application/warc+gz</extracomment>
     <message>
         <source>Microsoft Windows Installer</source>
         <extracomment>application/x-ms-installer</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Windows-installerare</translation>
     </message>
     <message>
         <source>MySQL Table Definition (Format)</source>
         <extracomment>application/x-mysql-table-definition</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>MySQL-tabelldefinition (Format)</translation>
     </message>
     <message>
         <source>MySQL MISAM Index</source>
         <extracomment>application/x-mysql-misam-index</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>MySQL MISAM-index</translation>
     </message>
     <message>
         <source>MySQL MISAM Compressed Index</source>
         <extracomment>application/x-mysql-misam-compressed-index</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>MySQL MISAM-komprimerat index</translation>
     </message>
     <message>
         <source>MySQL MISAM Data</source>
         <extracomment>application/x-mysql-misam-data</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>MySQL MISAM-data</translation>
     </message>
     <message>
         <source>Nintendo Entertainment System ROM</source>
         <extracomment>application/x-nesrom</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nintendo Entertainment System ROM</translation>
     </message>
     <message>
         <source>Planetary Data System Version 3 format</source>
@@ -10773,7 +10773,7 @@ application/x-rar-compressed;version=5</extracomment>
     <message>
         <source>ESRI Shapefiles</source>
         <extracomment>application/x-shapefile</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ESRI Shapefiles</translation>
     </message>
     <message>
         <source>Adobe Flash</source>
@@ -10858,12 +10858,12 @@ application/x-rar-compressed;version=5</extracomment>
     <message>
         <source>Zeno IMproved (ZIM)</source>
         <extracomment>application/x-zim</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Zeno IMproved (ZIM)</translation>
     </message>
     <message>
         <source>Extensible Markup Language</source>
         <extracomment>application/xml</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Extensible Markup Language</translation>
     </message>
     <message>
         <source>XML Document Type Definition</source>
@@ -10903,7 +10903,7 @@ application/x-rar-compressed;version=5</extracomment>
     <message>
         <source>Dolby Digital Audio Compression File</source>
         <extracomment>audio/ac3</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Dolby Digital-ljudkomprimeringsfil</translation>
     </message>
     <message>
         <source>uLaw/AU Audio File</source>
@@ -10913,7 +10913,7 @@ application/x-rar-compressed;version=5</extracomment>
     <message>
         <source>Musical Instrument Digital Interface</source>
         <extracomment>audio/midi</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Musical Instrument Digital Interface</translation>
     </message>
     <message>
         <source>MPEG-1 Audio Layer 3</source>
@@ -10963,17 +10963,17 @@ application/x-rar-compressed;version=5</extracomment>
     <message>
         <source>Audio Interchange File Format</source>
         <extracomment>audio/x-aiff</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Audio Interchange File Format</translation>
     </message>
     <message>
         <source>Core Audio Format</source>
         <extracomment>audio/x-caf</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Core Audio Format</translation>
     </message>
     <message>
         <source>Free Lossless Audio Codec</source>
         <extracomment>audio/x-flac</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Free Lossless Audio Codec</translation>
     </message>
     <message>
         <source>MP3 Playlist File</source>
@@ -10993,7 +10993,7 @@ application/x-rar-compressed;version=5</extracomment>
     <message>
         <source>Brookhaven Protein Databank File</source>
         <extracomment>chemical/x-pdb</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Brookhaven Protein-databankfil</translation>
     </message>
     <message>
         <source>3D Studio (V1)</source>
@@ -11003,7 +11003,7 @@ application/x-rar-compressed;version=5</extracomment>
     <message>
         <source>ACES Image Container File</source>
         <extracomment>image/aces</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ACES-bild containerfil</translation>
     </message>
     <message>
         <source>OS2 bitmap array</source>
@@ -11018,17 +11018,17 @@ application/x-rar-compressed;version=5</extracomment>
     <message>
         <source>Better Portable Graphics</source>
         <extracomment>image/x-bpg</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Better Portable Graphics</translation>
     </message>
     <message>
         <source>Computer Graphics Metafile</source>
         <extracomment>image/cgm</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Computer Graphics Metafile</translation>
     </message>
     <message>
         <source>Digital Picture Exchange from SMPTE</source>
         <extracomment>image/x-dpx</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Digital Picture Exchange från SMPTE</translation>
     </message>
     <message>
         <source>Enhanced Metafile</source>
@@ -11038,12 +11038,12 @@ application/x-rar-compressed;version=5</extracomment>
     <message>
         <source>Compressed Enhanced Metafile</source>
         <extracomment>image/x-emf-compressed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Komprimerad utökad metafil</translation>
     </message>
     <message>
         <source>Graphics Interchange Format</source>
         <extracomment>image/gif</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Graphics Interchange Format</translation>
     </message>
     <message>
         <source>AV1 Image File</source>
@@ -11053,22 +11053,22 @@ application/x-rar-compressed;version=5</extracomment>
     <message>
         <source>HEIF - High Efficiency Image File</source>
         <extracomment>image/heif</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>HEIF - High Efficiency Image File</translation>
     </message>
     <message>
         <source>HEIF Sequence - High Efficiency Image Sequence</source>
         <extracomment>image/heif-sequence</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>HEIF-sekvens - High Efficiency Image Sequence</translation>
     </message>
     <message>
         <source>HEIF Image using HEVC Codec</source>
         <extracomment>image/heic</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>HEIF-bild med HEVC-kodek</translation>
     </message>
     <message>
         <source>HEIF Sequence using HEVC Codec</source>
         <extracomment>image/heic-sequence</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>HEIF-sekvens med HEVC-kodek</translation>
     </message>
     <message>
         <source>Apple Icon Image Format</source>
@@ -11083,7 +11083,7 @@ application/x-rar-compressed;version=5</extracomment>
     <message>
         <source>Joint Photographic Experts Group</source>
         <extracomment>image/jpeg</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Joint Photographic Experts Group</translation>
     </message>
     <message>
         <source>JPEG 2000 Part 6 (JPM)</source>
@@ -11123,7 +11123,7 @@ application/x-rar-compressed;version=5</extracomment>
     <message>
         <source>MicroStation v8 drawing; requires ole2 detector</source>
         <extracomment>image/vnd.dgn;version=8</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>MicroStation v8 ritning; kräver ole2 detector</translation>
     </message>
     <message>
         <source>AutoCad Drawing</source>
@@ -11133,7 +11133,7 @@ application/x-rar-compressed;version=5</extracomment>
     <message>
         <source>AutoCAD DXF simplified Binary</source>
         <extracomment>image/vnd.dxb</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>AutoCAD DXF förenklad binär</translation>
     </message>
     <message>
         <source>AutoCAD DXF</source>
@@ -11143,7 +11143,7 @@ application/x-rar-compressed;version=5</extracomment>
     <message>
         <source>Microsoft Document Imaging</source>
         <extracomment>image/vnd.ms-modi</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Document Imaging</translation>
     </message>
     <message>
         <source>Wireless Bitmap File Format</source>
@@ -11174,7 +11174,8 @@ application/x-rar-compressed;version=5</extracomment>
         <source>A lossless image compression standard from the
       Joint Bi-level Image Experts Group.</source>
         <extracomment>image/x-jbig2</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>En förlustfri bildkomprimeringsstandard från
+      Joint Bi-level Image Experts Group.</translation>
     </message>
     <message>
         <source>JPEG 2000 Codestream</source>
@@ -11184,7 +11185,7 @@ application/x-rar-compressed;version=5</extracomment>
     <message>
         <source>JPEG 2000 Container Format</source>
         <extracomment>image/x-jp2-container</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>JPEG 2000 Container Format</translation>
     </message>
     <message>
         <source>JPEG XL</source>
@@ -11194,7 +11195,7 @@ application/x-rar-compressed;version=5</extracomment>
     <message>
         <source>Navy Interchange File Format</source>
         <extracomment>image/x-niff</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Navy Interchange File Format</translation>
     </message>
     <message>
         <source>Apple Macintosh QuickDraw/PICT Format</source>
@@ -11229,7 +11230,7 @@ application/x-rar-compressed;version=5</extracomment>
     <message>
         <source>Adobe Digital Negative</source>
         <extracomment>image/x-raw-adobe</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Adobe Digital Negative</translation>
     </message>
     <message>
         <source>Hasselblad raw image</source>
@@ -11359,17 +11360,17 @@ application/x-rar-compressed;version=5</extracomment>
     <message>
         <source>MIME Encapsulation of Aggregate HTML Documents</source>
         <extracomment>multipart/related</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>MIME Encapsulation of Aggregate HTML Documents</translation>
     </message>
     <message>
         <source>3d imaging data exchange</source>
         <extracomment>model/e57</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>3d imaging data exchange</translation>
     </message>
     <message>
         <source>Initial Graphics Exchange Specification Format</source>
         <extracomment>model/iges</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Initial Graphics Exchange Specification Format</translation>
     </message>
     <message>
         <source>no magic available</source>
@@ -11381,7 +11382,7 @@ application/x-rar-compressed;version=5</extracomment>
         <extracomment>model/vnd.dwf
 ----------
 model/vnd.dwfx+xps</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>AutoCAD Design Web Format</translation>
     </message>
     <message>
         <source>ONline Information eXchange (ONIX) for books</source>
@@ -11408,7 +11409,7 @@ application/onix-message-short+xml</extracomment>
     <message>
         <source>Active Server Page</source>
         <extracomment>text/asp</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Active Server Page</translation>
     </message>
     <message>
         <source>ASP .NET</source>
@@ -11428,7 +11429,7 @@ application/onix-message-short+xml</extracomment>
     <message>
         <source>Cascading Style Sheet</source>
         <extracomment>text/css</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Stilmallar</translation>
     </message>
     <message>
         <source>HyperText Markup Language</source>
@@ -11448,12 +11449,12 @@ application/onix-message-short+xml</extracomment>
     <message>
         <source>Graphviz Graph Visualization Software</source>
         <extracomment>text/vnd.graphviz</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Graphviz Graph Visualization Software</translation>
     </message>
     <message>
         <source>American Newspaper Publishers Association Wire Feeds</source>
         <extracomment>text/vnd.iptc.anpa</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>American Newspaper Publishers Association Wire Feeds</translation>
     </message>
     <message>
         <source>WML Script</source>
@@ -11478,7 +11479,7 @@ application/onix-message-short+xml</extracomment>
     <message>
         <source>C++ source code header</source>
         <extracomment>text/x-c++hdr</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>C++-källkods-header</translation>
     </message>
     <message>
         <source>C++ source code</source>
@@ -11493,7 +11494,7 @@ application/onix-message-short+xml</extracomment>
     <message>
         <source>C source code header</source>
         <extracomment>text/x-chdr</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>C-källkods-header</translation>
     </message>
     <message>
         <source>Clojure source code</source>
@@ -11578,7 +11579,7 @@ application/onix-message-short+xml</extracomment>
     <message>
         <source>Interface Definition Language</source>
         <extracomment>text/x-idl</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Interface Definition Language</translation>
     </message>
     <message>
         <source>Configuration file</source>
