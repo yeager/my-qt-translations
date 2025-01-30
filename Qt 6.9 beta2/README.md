@@ -2,55 +2,53 @@ $ lrelease *ts
 
 Updating 'assistant_sv.qm'...
 
-    Genererade 207 översättningar (207 slutförda och 0 oavslutade)
+    Generated 207 translation(s) (207 finished and 0 unfinished)
     
 Updating 'designer_sv.qm'...
 
-    Genererade 1332 översättningar (1332 slutförda och 0 oavslutade)
+    Generated 1332 translation(s) (1332 finished and 0 unfinished)
     
 Updating 'linguist_sv.qm'...
 
-    Genererade 402 översättningar (402 slutförda och 0 oavslutade)
-    
-Updating 'qtbase_sv.qm'...
-
-    Genererade 1918 översättningar (1918 slutförda och 0 oavslutade)
-    
-    Ignorerade 330 oavslutade källtexter
-    
-Updating 'qtconnectivity_sv.qm'...
-
-    Genererade 357 översättningar (357 slutförda och 0 oavslutade)
-    
-Updating 'qtdeclarative_sv.qm'...
-
-    Genererade 502 översättningar (502 slutförda och 0 oavslutade)
+    Generated 402 translation(s) (402 finished and 0 unfinished)
     
 Updating 'qt_help_sv.qm'...
 
-    Genererade 55 översättningar (55 slutförda och 0 oavslutade)
-    
-Updating 'qtlocation_sv.qm'...
-
-    Genererade 336 översättningar (336 slutförda och 0 oavslutade)
-    
-Updating 'qtmultimedia_sv.qm'...
-
-    Genererade 115 översättningar (115 slutförda och 0 oavslutade)
-    
-Updating 'qtserialport_sv.qm'...
-
-    Genererade 15 översättningar (15 slutförda och 0 oavslutade)
+    Generated 55 translation(s) (55 finished and 0 unfinished)
     
 Updating 'qt_sv.qm'...
 
-    Genererade 0 översättningar (0 slutförda och 0 oavslutade)
+    Generated 0 translation(s) (0 finished and 0 unfinished)
+    
+Updating 'qtbase_sv.qm'...
+
+    Generated 2248 translation(s) (2248 finished and 0 unfinished)
+    
+Updating 'qtconnectivity_sv.qm'...
+
+    Generated 357 translation(s) (357 finished and 0 unfinished)
+    
+Updating 'qtdeclarative_sv.qm'...
+
+    Generated 502 translation(s) (502 finished and 0 unfinished)
+    
+Updating 'qtlocation_sv.qm'...
+
+    Generated 336 translation(s) (336 finished and 0 unfinished)
+    
+Updating 'qtmultimedia_sv.qm'...
+
+    Generated 115 translation(s) (115 finished and 0 unfinished)
+    
+Updating 'qtserialport_sv.qm'...
+
+    Generated 15 translation(s) (15 finished and 0 unfinished)
     
 Updating 'qtwebengine_sv.qm'...
 
-    Genererade 113 översättningar (113 slutförda och 0 oavslutade)
+    Generated 113 translation(s) (113 finished and 0 unfinished)
     
 Updating 'qtwebsockets_sv.qm'...
 
-    Genererade 61 översättningar (61 slutförda och 0 oavslutade)
+    Generated 61 translation(s) (61 finished and 0 unfinished)
     
