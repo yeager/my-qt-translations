@@ -5,7 +5,7 @@ Just a collection of my Swedish Qt translations
 
 - Qt 6.8.1
 
-- Qt 6.9.0
+- Qt 6.9 beta2
 
 - Qt Installer Framework 4.8.1
 
@@ -22,7 +22,7 @@ Bara en samling av mina svenska översättningar för Qt
 
 - Qt 6.8.1
 
-- Qt 6.9.0
+- Qt 6.9 beta2
 
 - Qt Installer Framework 4.8.1
 
