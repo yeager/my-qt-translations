@@ -1715,23 +1715,23 @@
     </message>
     <message>
         <source>List content does not match length facet.</source>
-        <translation>Listinnehåll matchar inte length-facet.</translation>
+        <translation>List-innehåll matchar inte length-facet.</translation>
     </message>
     <message>
         <source>List content does not match minLength facet.</source>
-        <translation>Listinnehåll matchar inte minLength-facet.</translation>
+        <translation>List-innehåll matchar inte minLength-facet.</translation>
     </message>
     <message>
         <source>List content does not match maxLength facet.</source>
-        <translation>Listinnehåll matchar inte maxLength-facet.</translation>
+        <translation>List-innehåll matchar inte maxLength-facet.</translation>
     </message>
     <message>
         <source>List content is not listed in the enumeration facet.</source>
-        <translation>Listinnehåll är inte listat i enumeration-facet.</translation>
+        <translation>List-innehåll är inte listat i enumeration-facet.</translation>
     </message>
     <message>
         <source>List content does not match pattern facet.</source>
-        <translation>Listinnehåll matchar inte mönsterfacet.</translation>
+        <translation>List-innehåll matchar inte mönsterfacet.</translation>
     </message>
     <message>
         <source>Union content is not listed in the enumeration facet.</source>
@@ -1799,7 +1799,7 @@
     </message>
     <message>
         <source>Element %1 is not nillable.</source>
-        <translation>Elementet %1 är inte nillable.</translation>
+        <translation>Elementet %1 är inte nollbart.</translation>
     </message>
     <message>
         <source>Attribute %1 contains invalid data: %2</source>
