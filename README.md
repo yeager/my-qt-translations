@@ -7,7 +7,7 @@ Just a collection of my Swedish Qt translations
 
 - Qt 6.9 beta2
 
-- Qt Installer Framework 4.8.1
+- Qt Installer Framework 4.8.1 (Thank you Anders Jonsson for reviewing)
 
 
 .. and the Swedish Qt Creator 15 translation (work in progress but useful)
@@ -24,7 +24,7 @@ Bara en samling av mina svenska översättningar för Qt
 
 - Qt 6.9 beta2
 
-- Qt Installer Framework 4.8.1
+- Qt Installer Framework 4.8.1 (Tack för granskningen, Anders Jonsson)
 
 
 .. och svenska översättningen av Qt Creator 15 (arbete pågår men den går att använda)
@@ -32,7 +32,7 @@ Bara en samling av mina svenska översättningar för Qt
 .
 .
 
-Updating 'ifw_sv.qm'... (Tack för granskningen, Anders Jonsson)
+Updating 'ifw_sv.qm'... 
 
     Genererade 713 översättningar (713 slutförda och 0 oavslutade)
 
