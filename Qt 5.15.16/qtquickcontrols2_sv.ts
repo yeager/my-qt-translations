@@ -29,7 +29,7 @@
     </message>
     <message>
         <source>Whether the button is checkable.</source>
-        <translation>Huruvida knappen är kryssningsbar.</translation>
+        <translation>Huruvida knappen är markeringsbar.</translation>
     </message>
     <message>
         <source>Checked</source>
@@ -68,7 +68,7 @@
     </message>
     <message>
         <source>Whether the busy indicator is currently indicating activity.</source>
-        <translation>Huruvida upptagetindikatorn är indikerar aktivitet just nu.</translation>
+        <translation>Huruvida upptagetindikatorn indikerar aktivitet just nu.</translation>
     </message>
 </context>
 <context>
@@ -641,7 +641,7 @@
     </message>
     <message>
         <source>The ending value of the range slider range.</source>
-        <translation>Slutgiltiga värdet för intervalldraglisten.</translation>
+        <translation>Slutvärdet för intervalldraglisten.</translation>
     </message>
     <message>
         <source>Step Size</source>
@@ -797,7 +797,7 @@
     <name>SpinBoxSpecifics</name>
     <message>
         <source>SpinBox</source>
-        <translation>Spinbox</translation>
+        <translation>Snurruta</translation>
     </message>
     <message>
         <source>Value</source>
@@ -805,7 +805,7 @@
     </message>
     <message>
         <source>The current value of the spinbox.</source>
-        <translation>Aktuella värdet för spinboxen.</translation>
+        <translation>Aktuella värdet för snurrutan.</translation>
     </message>
     <message>
         <source>From</source>
@@ -813,7 +813,7 @@
     </message>
     <message>
         <source>The starting value of the spinbox range.</source>
-        <translation>Startvärdet för spinboxen.</translation>
+        <translation>Startvärdet för snurrutan.</translation>
     </message>
     <message>
         <source>To</source>
@@ -837,7 +837,7 @@
     </message>
     <message>
         <source>Whether the spinbox is editable.</source>
-        <translation>Huruvida spinboxen är redigeringsbar.</translation>
+        <translation>Huruvida snurrutan är redigeringsbar.</translation>
     </message>
     <message>
         <source>Wrap</source>
@@ -845,7 +845,7 @@
     </message>
     <message>
         <source>Whether the spinbox wraps.</source>
-        <translation>Huruvida spinboxen börjar om.</translation>
+        <translation>Huruvida snurrutan börjar om.</translation>
     </message>
 </context>
 <context>
