@@ -324,8 +324,8 @@ Kommer att anta en enskild universell form.</translation>
     <message numerus="yes">
         <source>Excess context/disambiguation dropped from %n message(s).</source>
         <translation>
-            <numerusform>För många kontext/särskiljning släpptes från %n meddelande.</numerusform>
-            <numerusform>För många kontext/särskiljning släpptes från %n meddelanden.</numerusform>
+            <numerusform>Överflödiga kontext/särskiljning släpptes från %n meddelande.</numerusform>
+            <numerusform>Överflödiga kontext/särskiljning släpptes från %n meddelanden.</numerusform>
         </translation>
     </message>
     <message numerus="yes">
