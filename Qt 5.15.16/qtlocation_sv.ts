@@ -1431,7 +1431,7 @@ Besök https://www.mapbox.com</translation>
         <source>Qt Location requires app_id and token parameters.
 Please register at https://developer.here.com/ to get your personal application credentials.</source>
         <translation>Qt Location kräver app_id och token parameters.
-Registrera på https://developer.here.com/ för att få dina personliga programuppgifter.</translation>
+Registrera dig på https://developer.here.com/ för att få dina personliga programuppgifter.</translation>
     </message>
     <message>
         <source>Saving places is not supported.</source>
