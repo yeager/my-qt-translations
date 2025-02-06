@@ -239,7 +239,7 @@
     </message>
     <message>
         <source>&amp;Italic</source>
-        <translation>&amp;Kursiv stil</translation>
+        <translation>&amp;Kursiv</translation>
     </message>
     <message>
         <source>&amp;Underline</source>
@@ -322,7 +322,7 @@
     </message>
     <message>
         <source>&amp;Italic</source>
-        <translation>&amp;Kursiv stil</translation>
+        <translation>&amp;Kursiv</translation>
     </message>
     <message>
         <source>&amp;Underline</source>
@@ -362,7 +362,7 @@
     </message>
     <message>
         <source>Insert &amp;Unordered List</source>
-        <translation>Infoga oo&amp;rdnat lista</translation>
+        <translation>Infoga oo&amp;rdnad lista</translation>
     </message>
     <message>
         <source>Select folder to upload</source>
