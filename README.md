@@ -1,7 +1,7 @@
 Just a collection of my Swedish Qt translations
 
 
-- Qt 5.15.16
+- Qt 5.15.16 (Thank you Mats Honkamaa for reviewing)
 
 - Qt 6.8.1
 
@@ -18,7 +18,7 @@ Just a collection of my Swedish Qt translations
 
 Bara en samling av mina svenska översättningar för Qt
 
-- Qt 5.15.16
+- Qt 5.15.16 (Tack Mats Honkamaa för granskningen)
 
 - Qt 6.8.1
 
