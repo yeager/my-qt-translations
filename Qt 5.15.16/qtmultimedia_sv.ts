@@ -16,7 +16,7 @@
     <name>AudioEncoderControl</name>
     <message>
         <source>Linear PCM audio data</source>
-        <translation>Linjärt PCM-ljuddata</translation>
+        <translation>Linjär PCM-ljuddata</translation>
     </message>
 </context>
 <context>
@@ -79,7 +79,7 @@
     </message>
     <message>
         <source>Camera not ready for capture</source>
-        <translation>Kameran är inte redo för fångst</translation>
+        <translation>Kameran är inte redo att användas</translation>
     </message>
     <message>
         <source>Could not save image to file.</source>
@@ -95,11 +95,11 @@
     </message>
     <message>
         <source>Failed to connect capture graph and filter graph</source>
-        <translation>Misslyckades med att ansluta fångstgraf och filtergraf</translation>
+        <translation>Misslyckades med att ansluta insamlingsgraf och filtergraf</translation>
     </message>
     <message>
         <source>No capture device found</source>
-        <translation>Ingen fångstenhet hittades</translation>
+        <translation>Ingen insamlingsenhet hittades</translation>
     </message>
     <message>
         <source>Failed to create null renderer</source>
@@ -295,7 +295,7 @@
     <name>QCameraImageCapture</name>
     <message>
         <source>Device does not support images capture.</source>
-        <translation>Enheten har inte stöd för bildfångst.</translation>
+        <translation>Enheten har inte stöd för bildinsamling.</translation>
     </message>
 </context>
 <context>
@@ -334,14 +334,14 @@
     </message>
     <message>
         <source>Failed to build media capture pipeline.</source>
-        <translation>Misslyckades med att bygga pipeline för mediafångst.</translation>
+        <translation>Misslyckades med att bygga pipeline för mediainsamling.</translation>
     </message>
 </context>
 <context>
     <name>QGstreamerImageCaptureControl</name>
     <message>
         <source>Not ready to capture</source>
-        <translation>Inte redo att fånga</translation>
+        <translation>Inte redo att användas</translation>
     </message>
 </context>
 <context>
