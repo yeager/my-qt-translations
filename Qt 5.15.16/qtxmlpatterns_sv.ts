@@ -643,7 +643,7 @@
     </message>
     <message>
         <source>%1 is an invalid template mode name.</source>
-        <translation>%1 är ett ogiltigt malllägesnamn.</translation>
+        <translation>%1 är ett ogiltigt mallägesnamn.</translation>
     </message>
     <message>
         <source>The name of a variable bound in a for-expression must be different from the positional variable. Hence, the two variables named %1 collide.</source>
@@ -815,7 +815,7 @@
     </message>
     <message>
         <source>A parameter in a function cannot be declared to be a tunnel.</source>
-        <translation>En parameter i en funktion kan inte deklareras att  vara en tunnel.</translation>
+        <translation>En parameter i en funktion kan inte deklareras att vara en tunnel.</translation>
     </message>
     <message>
         <source>This processor is not Schema-aware and therefore %1 cannot be used.</source>
@@ -1259,7 +1259,7 @@
     </message>
     <message>
         <source>Document is not a XML schema.</source>
-        <translation>Document är inte ett XML-schema.</translation>
+        <translation>Dokumentet är inte ett XML-schema.</translation>
     </message>
     <message>
         <source>%1 attribute of %2 element contains invalid content: {%3} is not a value of type %4.</source>
@@ -1411,7 +1411,7 @@
     </message>
     <message>
         <source>%1 has a different number of fields from the identity constraint %2 that it references.</source>
-        <translation>%1 har ett annat antal fields från identitetsconstrainten %2 som den refererar.</translation>
+        <translation>%1 har ett annat antal fält från identitetsconstrainten %2 som den refererar.</translation>
     </message>
     <message>
         <source>Base type %1 of %2 element cannot be resolved.</source>
@@ -1543,59 +1543,59 @@
     </message>
     <message>
         <source>Signed integer content does not match the maxInclusive facet.</source>
-        <translation>Signed integer-innehåll matchar inte maxInclusive-facet.</translation>
+        <translation>Signerat heltal-innehåll matchar inte maxInclusive-facet.</translation>
     </message>
     <message>
         <source>Signed integer content does not match the maxExclusive facet.</source>
-        <translation>Signed integer-innehåll matchar inte maxExclusive-facet.</translation>
+        <translation>Signerat heltal-innehåll matchar inte maxExclusive-facet.</translation>
     </message>
     <message>
         <source>Signed integer content does not match the minInclusive facet.</source>
-        <translation>Signed integer-innehåll matchar inte minInclusive-facet.</translation>
+        <translation>Signerat heltal-innehåll matchar inte minInclusive-facet.</translation>
     </message>
     <message>
         <source>Signed integer content does not match the minExclusive facet.</source>
-        <translation>Signed integer-innehåll matchar inte minExclusive-facet.</translation>
+        <translation>Signerat heltal-innehåll matchar inte minExclusive-facet.</translation>
     </message>
     <message>
         <source>Signed integer content is not listed in the enumeration facet.</source>
-        <translation>Signed integer-är inte listat i enumeration-facet.</translation>
+        <translation>Signerat heltal-är inte listat i enumeration-facet.</translation>
     </message>
     <message>
         <source>Signed integer content does not match pattern facet.</source>
-        <translation>Signed integer-innehåll matchar inte pattern-facet.</translation>
+        <translation>Signerat heltal-innehåll matchar inte pattern-facet.</translation>
     </message>
     <message>
         <source>Signed integer content does not match in the totalDigits facet.</source>
-        <translation>Signed integer-innehåll matchar inte totalDigits-facet.</translation>
+        <translation>Signerat heltal-innehåll matchar inte totalDigits-facet.</translation>
     </message>
     <message>
         <source>Unsigned integer content does not match the maxInclusive facet.</source>
-        <translation>Unsigned integer-innehåll matchar inte maxInclusive-facet.</translation>
+        <translation>Positivt heltal-innehåll matchar inte maxInclusive-facet.</translation>
     </message>
     <message>
         <source>Unsigned integer content does not match the maxExclusive facet.</source>
-        <translation>Unsigned integer-innehåll matchar inte maxExclusive-facet.</translation>
+        <translation>Positivt heltal-innehåll matchar inte maxExclusive-facet.</translation>
     </message>
     <message>
         <source>Unsigned integer content does not match the minInclusive facet.</source>
-        <translation>Unsigned integer-innehåll matchar inte minInclusive-facet.</translation>
+        <translation>Positivt heltal-innehåll matchar inte minInclusive-facet.</translation>
     </message>
     <message>
         <source>Unsigned integer content does not match the minExclusive facet.</source>
-        <translation>Unsigned integer-innehåll matchar inte minExclusive-facet.</translation>
+        <translation>Positivt heltal-innehåll matchar inte minExclusive-facet.</translation>
     </message>
     <message>
         <source>Unsigned integer content is not listed in the enumeration facet.</source>
-        <translation>Unsigned integer-innehåll är inte listat i enumeration-facet.</translation>
+        <translation>Positivt heltal-innehåll är inte listat i enumeration-facet.</translation>
     </message>
     <message>
         <source>Unsigned integer content does not match pattern facet.</source>
-        <translation>Unsigned integer-innehåll matchar inte pattern-facet.</translation>
+        <translation>Positivt heltal-innehåll matchar inte pattern-facet.</translation>
     </message>
     <message>
         <source>Unsigned integer content does not match in the totalDigits facet.</source>
-        <translation>Unsigned integer-innehåll matchar inte totalDigits-facet.</translation>
+        <translation>Positivt heltal-innehåll matchar inte totalDigits-facet.</translation>
     </message>
     <message>
         <source>Double content does not match the maxInclusive facet.</source>
