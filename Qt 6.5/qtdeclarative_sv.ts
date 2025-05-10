@@ -464,47 +464,47 @@ Vill du ersätta den?</translation>
     <message>
         <location filename="../../qtdeclarative/src/qml/qml/qqmltypecompiler.cpp" line="+931"/>
         <source>Component objects cannot declare new functions.</source>
-        <translation type="unfinished">Komponentobjekt kan inte deklarera nya funktioner.</translation>
+        <translation>Komponentobjekt kan inte deklarera nya funktioner.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Component objects cannot declare new properties.</source>
-        <translation type="unfinished">Komponentobjekt kan inte deklarera nya egenskaper.</translation>
+        <translation>Komponentobjekt kan inte deklarera nya egenskaper.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Component objects cannot declare new signals.</source>
-        <translation type="unfinished">Komponentobjekt kan inte deklarera nya signaler.</translation>
+        <translation>Komponentobjekt kan inte deklarera nya signaler.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Cannot create empty component specification</source>
-        <translation type="unfinished">Kan inte skapa tom komponentspecifikation</translation>
+        <translation>Kan inte skapa tom komponentspecifikation</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Component elements may not contain properties other than id</source>
-        <translation type="unfinished">Komponentelement får inte innehålla egenskaper andra än id</translation>
+        <translation>Komponentelement får inte innehålla egenskaper andra än id</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Invalid component body specification</source>
-        <translation type="unfinished">Ogiltig body-specifikation för komponent</translation>
+        <translation>Ogiltig body-specifikation för komponent</translation>
     </message>
     <message>
         <location line="+52"/>
         <source>id is not unique</source>
-        <translation type="unfinished">id är inte unikt</translation>
+        <translation>id är inte unikt</translation>
     </message>
     <message>
         <location line="+73"/>
         <source>Circular alias reference detected</source>
-        <translation type="unfinished">Cirkulär aliasreferens upptäcktes</translation>
+        <translation>Cirkulär aliasreferens upptäcktes</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Invalid alias reference. Unable to find id &quot;%1&quot;</source>
-        <translation type="unfinished">Ogiltig aliasreferens. Kunde inte hitta id &quot;%1&quot;</translation>
+        <translation>Ogiltig aliasreferens. Kunde inte hitta id &quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+30"/>
@@ -512,7 +512,7 @@ Vill du ersätta den?</translation>
         <location line="+28"/>
         <location line="+10"/>
         <source>Invalid alias target location: %1</source>
-        <translation type="unfinished">Ogiltig alias target location: %1</translation>
+        <translation>Ogiltig alias target location: %1</translation>
     </message>
 </context>
 <context>
@@ -719,7 +719,7 @@ Vill du ersätta den?</translation>
         <location filename="../../qtdeclarative/src/qml/types/qqmlconnections.cpp" line="+246"/>
         <location line="+130"/>
         <source>Cannot assign to non-existent property &quot;%1&quot;</source>
-        <translation>Kan inte tilldela till ick-existerande egenskap &quot;%1&quot;</translation>
+        <translation>Kan inte tilldela till icke-existerande egenskap &quot;%1&quot;</translation>
     </message>
     <message>
         <location line="-120"/>
@@ -1032,7 +1032,7 @@ Vill du ersätta den?</translation>
     <message>
         <location filename="../../qtdeclarative/src/qml/qml/qqmlengine.cpp" line="+223"/>
         <source>Locale cannot be instantiated. Use Qt.locale()</source>
-        <translation type="unfinished"></translation>
+        <translation>Locale kan inte instansieras . Använd Qt.locale()</translation>
     </message>
     <message>
         <location line="+445"/>
@@ -1090,7 +1090,7 @@ Vill du ersätta den?</translation>
     <message>
         <location filename="../../qtdeclarative/src/qml/qml/qqmltypecompiler.cpp" line="-657"/>
         <source>Invalid property assignment: Enum value &quot;%1&quot; cannot start with a lowercase letter</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig egenskapstilldelning: Enum-värdet &quot;%1&quot; får inte börja med en gemen bokstav</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -1206,7 +1206,7 @@ Vill du ersätta den?</translation>
     <message>
         <location line="+86"/>
         <source>plugin cannot be loaded for module &quot;%1&quot;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>insticksmodulen kan inte läsas in för modulen &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <location line="+34"/>
@@ -1604,23 +1604,23 @@ Revision %1 motsvarar version %2.%3; den bör vara %4.%5.</translation>
     <message>
         <location line="+8"/>
         <source>Library import requires a version</source>
-        <translation type="unfinished"></translation>
+        <translation>Biblioteksimport kräver en version</translation>
     </message>
     <message>
         <location line="+29"/>
         <location line="+4"/>
         <source>Pragma requires a valid qualifier</source>
-        <translation type="unfinished"></translation>
+        <translation>Pragma kräver en giltig kvalificerare</translation>
     </message>
     <message>
         <location line="+149"/>
         <source>Unexpected property type modifier</source>
-        <translation type="unfinished"></translation>
+        <translation>Oväntad modifierare för egenskapstyp</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Expected property type</source>
-        <translation type="unfinished"></translation>
+        <translation>Förväntade egenskapstyp</translation>
     </message>
     <message>
         <source>Multiple %1 pragmas found</source>
@@ -1773,17 +1773,17 @@ Revision %1 motsvarar version %2.%3; den bör vara %4.%5.</translation>
     <message>
         <location line="+6"/>
         <source>Module import requires a version</source>
-        <translation type="unfinished"></translation>
+        <translation>Modulimport kräver en version</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Module import requires a minor version (missing dot)</source>
-        <translation type="unfinished"></translation>
+        <translation>Modulimport kräver en minor-version (saknar punkt)</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Module import requires a minor version (missing number)</source>
-        <translation type="unfinished"></translation>
+        <translation>Modulimport kräver en minor-version (saknar nummer)</translation>
     </message>
     <message>
         <source>Incomplete version number (dot but no minor)</source>
@@ -1968,12 +1968,12 @@ Revision %1 motsvarar version %2.%3; den bör vara %4.%5.</translation>
     <message>
         <location line="-64"/>
         <source>Attached properties cannot be used here</source>
-        <translation type="unfinished"></translation>
+        <translation>Fästa egenskaper kan inte användas här</translation>
     </message>
     <message>
         <location line="+72"/>
         <source>Invalid grouped property access: Property &quot;%1&quot; with type &quot;%2&quot;, which is not a value type</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig grupperad egenskapsåtkomst: Egenskapen ”%1” med typ ”%2”, som inte är en värdetyp</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -2003,7 +2003,7 @@ Revision %1 motsvarar version %2.%3; den bör vara %4.%5.</translation>
     <message>
         <location line="+13"/>
         <source> - Assigning null to incompatible properties in QML is deprecated. This will become a compile error in future versions of Qt.</source>
-        <translation type="unfinished"></translation>
+        <translation> - Att tilldela null till inkompatibla egenskaper i QML är föråldrat. Detta kommer att bli ett kompileringsfel i framtida versioner av Qt.</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -2087,22 +2087,22 @@ Revision %1 motsvarar version %2.%3; den bör vara %4.%5.</translation>
     <message>
         <location line="+10"/>
         <source>Invalid property assignment: 2D vector expected</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig egenskapstilldelning: 2D-vektor förväntades</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Invalid property assignment: 3D vector expected</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig egenskapstilldelning: 3D-vektor förväntades</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Invalid property assignment: 4D vector expected</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig egenskapstilldelning: 4D-vektor förväntades</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Invalid property assignment: quaternion expected</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig egenskapstilldelning: quaternion förväntades</translation>
     </message>
     <message>
         <source>Invalid property assignment: %1 expected</source>
@@ -2161,7 +2161,7 @@ Revision %1 motsvarar version %2.%3; den bör vara %4.%5.</translation>
     <message>
         <location line="+5"/>
         <source>Cannot assign value of type &quot;%1&quot; to property &quot;%2&quot;, expecting an object</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte tilldela värdet av typen ”%1” till egenskapen ”%2”, förväntade ett objekt</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2455,7 +2455,7 @@ Revision %1 motsvarar version %2.%3; den bör vara %4.%5.</translation>
     <message>
         <location filename="../../qtdeclarative/src/quick/items/qquickitem.cpp" line="-150"/>
         <source>LayoutDirection attached property only works with Items and Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>LayoutDirection-fäst egenskap fungerar endast med Items och Windows</translation>
     </message>
 </context>
 <context>
@@ -2645,13 +2645,16 @@ This is most likely caused by not having the necessary graphics drivers installe
 
 Install a driver providing OpenGL 2.0 or higher, or, if this is not possible, make sure the ANGLE Open GL ES 2.0 emulation libraries (%3, %4 and d3dcompiler_*.dll) are available in the application executable&apos;s directory or in a location listed in PATH.</source>
         <extracomment>%1 Context type (Open GL, EGL), %2 format, ANGLE %3, %4 library names</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Det gick inte att skapa %1-kontext för formatet %2.
+Det beror troligen på att nödvändiga grafikkortdrivrutiner inte är installerade.
+
+Installera en drivrutin som stöder OpenGL 2.0 eller högre, eller, om detta inte är möjligt, se till att ANGLE Open GL ES 2.0-emuleringsbibliotek (%3, %4 och d3dcompiler_*.dll) finns i körbara applikationens katalog eller på en plats som anges i PATH.</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Failed to create %1 context for format %2</source>
         <extracomment>%1 Context type (Open GL, EGL), %2 format specification</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Det gick inte att skapa %1-kontext för formatet %2</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -2664,12 +2667,12 @@ Install a driver providing OpenGL 2.0 or higher, or, if this is not possible, ma
     <message>
         <location filename="../../qtdeclarative/src/quick/items/qquickwindowmodule.cpp" line="+172"/>
         <source>Conflicting properties &apos;visible&apos; and &apos;visibility&apos; for Window &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Egenskaperna &apos;visible&apos; och &apos;visibility&apos; är i konflikt för Window &apos;%1&apos;</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Conflicting properties &apos;visible&apos; and &apos;visibility&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Egenskaperna &apos;visible&apos; och &apos;visibility&apos; är i konflikt</translation>
     </message>
 </context>
 <context>
@@ -2710,37 +2713,37 @@ Install a driver providing OpenGL 2.0 or higher, or, if this is not possible, ma
     <message>
         <location filename="../../qtdeclarative/src/qml/qml/qqmltypecompiler.cpp" line="-221"/>
         <source>Non-existent attached object</source>
-        <translation type="unfinished">Icke-existerande fäst objekt</translation>
+        <translation>Icke-existerande fäst objekt</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>Signal uses unnamed parameter followed by named parameter.</source>
-        <translation type="unfinished">Signal använder namnlös parameter följt av namngiven parameter.</translation>
+        <translation>Signal använder namnlös parameter följt av namngiven parameter.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Signal parameter &quot;%1&quot; hides global variable.</source>
-        <translation type="unfinished">Signalparameter &quot;%1&quot; döljer global variabel.</translation>
+        <translation>Signalparameter &quot;%1&quot; döljer global variabel.</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>&quot;%1.%2&quot; is not available in %3 %4.%5.</source>
-        <translation type="unfinished">&quot;%1.%2&quot; är inte tillgänglig i %3 %4.%5.</translation>
+        <translation>&quot;%1.%2&quot; är inte tillgänglig i %3 %4.%5.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&quot;%1.%2&quot; is not available due to component versioning.</source>
-        <translation type="unfinished">&quot;%1.%2&quot; är inte tillgängliga på grund av component versioning.</translation>
+        <translation>&quot;%1.%2&quot; är inte tillgängliga på grund av component versioning.</translation>
     </message>
     <message>
         <location line="+42"/>
         <source>Cannot assign a value to a signal (expecting a script to be run)</source>
-        <translation type="unfinished">Kan inte tilldela ett värde till en signal (förväntar ett skript att köras)</translation>
+        <translation>Kan inte tilldela ett värde till en signal (förväntar ett skript att köras)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Incorrectly specified signal assignment</source>
-        <translation type="unfinished">Felaktigt angiven signaltilldelning</translation>
+        <translation>Felaktigt angiven signaltilldelning</translation>
     </message>
 </context>
 <context>
@@ -2779,17 +2782,17 @@ Install a driver providing OpenGL 2.0 or higher, or, if this is not possible, ma
     <message>
         <location filename="../../qtdeclarative/src/imports/statemachine/signaltransition.cpp" line="+129"/>
         <source>Specified signal does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Angiven signal finns inte.</translation>
     </message>
     <message>
         <location line="+72"/>
         <source>Cannot assign to non-existent property &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte tilldela till icke-existerande egenskap &quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>SignalTransition: script expected</source>
-        <translation type="unfinished"></translation>
+        <translation>SignalTransition: skript förväntades</translation>
     </message>
 </context>
 <context>

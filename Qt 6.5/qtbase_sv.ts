@@ -615,7 +615,7 @@ Tryck ESC för att avbryta</translation>
     <message>
         <location line="+2"/>
         <source>Displays help including Qt specific options.</source>
-        <translation type="unfinished"></translation>
+        <translation>Visar hjälp inklusive Qt-specifika alternativ.</translation>
     </message>
     <message>
         <location line="+92"/>
@@ -1077,129 +1077,129 @@ Tryck ESC för att avbryta</translation>
     <message>
         <location line="-328"/>
         <source>IPv6 addresses for nameservers are currently not supported</source>
-        <translation type="unfinished"></translation>
+        <translation>IPv6-adresser för namnservrar stöds för närvarande inte</translation>
     </message>
     <message>
         <location line="+849"/>
         <source>Invalid domain name</source>
-        <translation type="unfinished">Ogiltigt domännamn</translation>
+        <translation>Ogiltigt domännamn</translation>
     </message>
     <message>
         <location filename="../../qtbase/src/network/kernel/qdnslookup_android.cpp" line="+52"/>
         <source>Not yet supported on Android</source>
-        <translation type="unfinished"></translation>
+        <translation>Stöds ännu inte på Android</translation>
     </message>
     <message>
         <location filename="../../qtbase/src/network/kernel/qdnslookup_unix.cpp" line="+152"/>
         <source>Resolver functions not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppslagsfunktioner hittades inte</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Resolver initialization failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Initiering av uppslagare misslyckades</translation>
     </message>
     <message>
         <location line="+74"/>
         <location filename="../../qtbase/src/network/kernel/qdnslookup_win.cpp" line="+80"/>
         <source>Server could not process query</source>
-        <translation type="unfinished">Servern kunde inte behandla frågesats</translation>
+        <translation>Servern kunde inte behandla frågesats</translation>
     </message>
     <message>
         <location line="+4"/>
         <location filename="../../qtbase/src/network/kernel/qdnslookup_win.cpp" line="+4"/>
         <source>Server failure</source>
-        <translation type="unfinished">Serverfel</translation>
+        <translation>Serverfel</translation>
     </message>
     <message>
         <location line="+4"/>
         <location filename="../../qtbase/src/network/kernel/qdnslookup_win.cpp" line="+4"/>
         <source>Non existent domain</source>
-        <translation type="unfinished">Icke-existerande domän</translation>
+        <translation>Icke-existerande domän</translation>
     </message>
     <message>
         <location line="+4"/>
         <location filename="../../qtbase/src/network/kernel/qdnslookup_win.cpp" line="+4"/>
         <source>Server refused to answer</source>
-        <translation type="unfinished">Servern vägrade svara</translation>
+        <translation>Servern vägrade svara</translation>
     </message>
     <message>
         <location line="+4"/>
         <location line="+7"/>
         <location line="+23"/>
         <source>Invalid reply received</source>
-        <translation type="unfinished">Ogiltigt svar togs emot</translation>
+        <translation>Ogiltigt svar togs emot</translation>
     </message>
     <message>
         <location line="-10"/>
         <location line="+21"/>
         <source>Could not expand domain name</source>
-        <translation type="unfinished">Kunde inte expandera domännamn</translation>
+        <translation>Kunde inte expandera domännamn</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>Invalid IPv4 address record</source>
-        <translation type="unfinished">Ogiltig IPv4-adresspost</translation>
+        <translation>Ogiltig IPv4-adresspost</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Invalid IPv6 address record</source>
-        <translation type="unfinished">Ogiltig IPv6-adresspost</translation>
+        <translation>Ogiltig IPv6-adresspost</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Invalid canonical name record</source>
-        <translation type="unfinished">Ogiltig kanonisk namnpost</translation>
+        <translation>Ogiltig kanonisk namnpost</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Invalid name server record</source>
-        <translation type="unfinished">Ogiltig namnserverpost</translation>
+        <translation>Ogiltig namnserverpost</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Invalid pointer record</source>
-        <translation type="unfinished">Ogiltig pekarpost</translation>
+        <translation>Ogiltig pekarpost</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Invalid mail exchange record</source>
-        <translation type="unfinished">Ogiltig e-postserverpost</translation>
+        <translation>Ogiltig e-postserverpost</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Invalid service record</source>
-        <translation type="unfinished">Ogiltig tjänstepost</translation>
+        <translation>Ogiltig tjänstepost</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Invalid text record</source>
-        <translation type="unfinished">Ogiltig textpost</translation>
+        <translation>Ogiltig textpost</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Resolver library can&apos;t be loaded: No runtime library loading support</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppslagsbibliotek kan inte läsas in. Inget stöd för inläsning av körtidsbibliotek</translation>
     </message>
     <message>
         <location filename="../../qtbase/src/network/kernel/qdnslookup_winrt.cpp" line="+81"/>
         <source>No hostname given</source>
-        <translation type="unfinished"></translation>
+        <translation>Inget värdnamn angavs</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Invalid hostname</source>
-        <translation type="unfinished">Ogiltigt värdnamn</translation>
+        <translation>Ogiltigt värdnamn</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Host %1 could not be found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Värden %1 kunde inte hittas.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Unknown error</source>
-        <translation type="unfinished">Okänt fel</translation>
+        <translation>Okänt fel</translation>
     </message>
 </context>
 <context>
@@ -1470,7 +1470,7 @@ Tryck ESC för att avbryta</translation>
     <message>
         <location filename="../../qtbase/src/network/ssl/qdtls.cpp" line="+138"/>
         <source>A valid UDP socket, non-empty datagram, valid address/port were expected</source>
-        <translation type="unfinished"></translation>
+        <translation>Ett giltigt UDP-uttag, icke-tomt datagram, giltig adress/port förväntades</translation>
     </message>
 </context>
 <context>
@@ -1899,7 +1899,7 @@ Vill du ta bort den ändå?</translation>
     <message>
         <location filename="../../qtbase/src/widgets/dialogs/qfilesystemmodel.cpp" line="+871"/>
         <source>&lt;b&gt;The name &quot;%1&quot; cannot be used.&lt;/b&gt;&lt;p&gt;Try using another name, with fewer characters or no punctuation marks.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Namnet &quot;%1&quot; kan inte användas.&lt;/b&gt;&lt;p&gt;Prova att använda ett annat namn med mindre antal tecken eller inga skiljetecken.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2250,32 +2250,32 @@ Vill du ta bort den ändå?</translation>
     <message>
         <location filename="../../qtbase/src/network/access/qftp.cpp" line="+844"/>
         <source>Not connected</source>
-        <translation type="unfinished"></translation>
+        <translation>Inte ansluten</translation>
     </message>
     <message>
         <location line="+79"/>
         <source>Host %1 not found</source>
-        <translation type="unfinished">Värden %1 hittades inte</translation>
+        <translation>Värden %1 hittades inte</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Connection refused to host %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Anslutningen nekades till värden %1</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Connection timed out to host %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Anslutningen till värden %1 översteg tidsgränsen</translation>
     </message>
     <message>
         <location line="+104"/>
         <source>Connected to host %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ansluten till värden %1</translation>
     </message>
     <message>
         <location line="+213"/>
         <source>Data Connection refused</source>
-        <translation type="unfinished"></translation>
+        <translation>Dataanslutning nekades</translation>
     </message>
     <message>
         <location line="+180"/>
@@ -2286,55 +2286,64 @@ Vill du ta bort den ändå?</translation>
         <location line="+954"/>
         <source>Connecting to host failed:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Anslutning till värd misslyckades:
+%1</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Login failed:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Inloggning misslyckades:
+%1</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Listing directory failed:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kataloglistning misslyckades:
+%1</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Changing directory failed:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Byte av katalog misslyckades:
+%1</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Downloading file failed:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Hämtning av fil misslyckades:
+%1</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Uploading file failed:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sändning av fil misslyckades:
+%1</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Removing file failed:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Borttagning av fil misslyckades:
+%1</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Creating directory failed:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapandet av katalog misslyckades:
+%1</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Removing directory failed:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Borttagning av katalog misslyckades:
+%1</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -3090,12 +3099,12 @@ Vill du ta bort den ändå?</translation>
     <message>
         <location line="+0"/>
         <source>&apos;%1&apos; is not an ELF object (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; är inte ett ELF-objekt (%2)</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>&apos;%1&apos; is not an ELF object</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; är inte ett ELF-objekt</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -3110,65 +3119,65 @@ Vill du ta bort den ändå?</translation>
         <location line="+14"/>
         <location line="+13"/>
         <source>&apos;%1&apos; is an invalid ELF object (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; är ett ogiltigt ELF-objekt (%2)</translation>
     </message>
     <message>
         <location line="-136"/>
         <source>odd cpu architecture</source>
-        <translation type="unfinished"></translation>
+        <translation>udda cpu-arkitektur</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>wrong cpu architecture</source>
-        <translation type="unfinished"></translation>
+        <translation>fel cpu-arkitektur</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>odd endianness</source>
-        <translation type="unfinished"></translation>
+        <translation>udda endianness</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>unexpected e_shsize</source>
-        <translation type="unfinished"></translation>
+        <translation>oväntad e_shsize</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>unexpected e_shentsize</source>
-        <translation type="unfinished"></translation>
+        <translation>oväntad e_shentsize</translation>
     </message>
     <message numerus="yes">
         <location line="+12"/>
         <source>announced %n section(s), each %1 byte(s), exceed file size</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>annonserade %n sektion(er), var och en %1 byte, överskrider filstorleken</numerusform>
+            <numerusform>annonserade %n sektion(er), var och en %1 byte, överskrider filstorleken</numerusform>
         </translation>
     </message>
     <message>
         <location line="+17"/>
         <source>shstrtab section header seems to be at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>shstrtab-sektionsrubriken verkar vara på %1</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>string table seems to be at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>strängtabellen verkar vara på %1</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>section name %1 of %2 behind end of file</source>
-        <translation type="unfinished"></translation>
+        <translation>sektionsnamnet %1 för %2 efter filslutet</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>empty .rodata. not a library.</source>
-        <translation type="unfinished"></translation>
+        <translation>tom .rodata. inte ett bibliotek.</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>missing section data. This is not a library.</source>
-        <translation type="unfinished"></translation>
+        <translation>saknar sektionsdata. Detta är inte ett bibliotek.</translation>
     </message>
     <message>
         <source>unexpected program header entry size (%1)</source>
@@ -3213,7 +3222,7 @@ Vill du ta bort den ändå?</translation>
     <message>
         <location line="-455"/>
         <source>Failed to extract plugin meta data from &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att extrahera metadata för insticksmodul från &apos;%1&apos;</translation>
     </message>
     <message>
         <location line="+457"/>
@@ -3654,7 +3663,7 @@ Vill du ta bort den ändå?</translation>
         <location line="+6"/>
         <source>&lt;p&gt;Qt is a C++ toolkit for cross-platform application development.&lt;/p&gt;&lt;p&gt;Qt provides single-source portability across all major desktop operating systems. It is also available for embedded Linux and other embedded and mobile operating systems.&lt;/p&gt;&lt;p&gt;Qt is available under multiple licensing options designed to accommodate the needs of our various users.&lt;/p&gt;&lt;p&gt;Qt licensed under our commercial license agreement is appropriate for development of proprietary/commercial software where you do not want to share any source code with third parties or otherwise cannot comply with the terms of GNU (L)GPL.&lt;/p&gt;&lt;p&gt;Qt licensed under GNU (L)GPL is appropriate for the development of Qt&amp;nbsp;applications provided you can comply with the terms and conditions of the respective licenses.&lt;/p&gt;&lt;p&gt;Please see &lt;a href=&quot;http://%2/&quot;&gt;%2&lt;/a&gt; for an overview of Qt licensing.&lt;/p&gt;&lt;p&gt;Copyright (C) %1 The Qt Company Ltd and other contributors.&lt;/p&gt;&lt;p&gt;Qt and the Qt logo are trademarks of The Qt Company Ltd.&lt;/p&gt;&lt;p&gt;Qt is The Qt Company Ltd product developed as an open source project. See &lt;a href=&quot;http://%3/&quot;&gt;%3&lt;/a&gt; for more information.&lt;/p&gt;</source>
         <extracomment>Leave this text untranslated or include a verbatim copy of it below and note that it is the authoritative version in case of doubt.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Qt is a C++ toolkit for cross-platform application development.&lt;/p&gt;&lt;p&gt;Qt provides single-source portability across all major desktop operating systems. It is also available for embedded Linux and other embedded and mobile operating systems.&lt;/p&gt;&lt;p&gt;Qt is available under multiple licensing options designed to accommodate the needs of our various users.&lt;/p&gt;&lt;p&gt;Qt licensed under our commercial license agreement is appropriate for development of proprietary/commercial software where you do not want to share any source code with third parties or otherwise cannot comply with the terms of GNU (L)GPL.&lt;/p&gt;&lt;p&gt;Qt licensed under GNU (L)GPL is appropriate for the development of Qt&amp;nbsp;applications provided you can comply with the terms and conditions of the respective licenses.&lt;/p&gt;&lt;p&gt;Please see &lt;a href=&quot;http://%2/&quot;&gt;%2&lt;/a&gt; for an overview of Qt licensing.&lt;/p&gt;&lt;p&gt;Copyright (C) %1 The Qt Company Ltd and other contributors.&lt;/p&gt;&lt;p&gt;Qt and the Qt logo are trademarks of The Qt Company Ltd.&lt;/p&gt;&lt;p&gt;Qt is The Qt Company Ltd product developed as an open source project. See &lt;a href=&quot;http://%3/&quot;&gt;%3&lt;/a&gt; for more information.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;Qt is a C++ toolkit for cross-platform application development.&lt;/p&gt;&lt;p&gt;Qt provides single-source portability across all major desktop operating systems. It is also available for embedded Linux and other embedded and mobile operating systems.&lt;/p&gt;&lt;p&gt;Qt is available under multiple licensing options designed to accommodate the needs of our various users.&lt;/p&gt;&lt;p&gt;Qt licensed under our commercial license agreement is appropriate for development of proprietary/commercial software where you do not want to share any source code with third parties or otherwise cannot comply with the terms of GNU (L)GPL.&lt;/p&gt;&lt;p&gt;Qt licensed under GNU (L)GPL is appropriate for the development of Qt&amp;nbsp;applications provided you can comply with the terms and conditions of the respective licenses.&lt;/p&gt;&lt;p&gt;Please see &lt;a href=&quot;https://%2/&quot;&gt;%2&lt;/a&gt; for an overview of Qt licensing.&lt;/p&gt;&lt;p&gt;Copyright (C) The Qt Company Ltd. and other contributors.&lt;/p&gt;&lt;p&gt;Qt and the Qt logo are trademarks of The Qt Company Ltd.&lt;/p&gt;&lt;p&gt;Qt is The Qt Company Ltd. product developed as an open source project. See &lt;a href=&quot;https://%3/&quot;&gt;%3&lt;/a&gt; for more information.&lt;/p&gt;</source>
@@ -6341,7 +6350,7 @@ application/onix-message-short+xml</extracomment>
         <location filename="../../qtbase/src/network/access/qnetworkreplyimpl.cpp" line="-243"/>
         <location line="+257"/>
         <source>Background request not allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bakgrundsbegäran tillåts inte.</translation>
     </message>
     <message>
         <location line="-231"/>
@@ -6353,7 +6362,7 @@ application/onix-message-short+xml</extracomment>
         <location line="+319"/>
         <location filename="../../qtbase/src/network/access/qnetworkreplyimpl.cpp" line="+675"/>
         <source>Temporary network failure.</source>
-        <translation type="unfinished"></translation>
+        <translation>Temporärt nätverksfel.</translation>
     </message>
 </context>
 <context>
@@ -6392,27 +6401,27 @@ application/onix-message-short+xml</extracomment>
     <message>
         <location filename="../../qtbase/src/plugins/bearer/qnetworksession_impl.cpp" line="+253"/>
         <source>Unknown session error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Okänt sessionsfel.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>The session was aborted by the user or system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sessionen avbröts av användaren eller systemet.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>The requested operation is not supported by the system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Begärd åtgärd stöds inte av systemet.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>The specified configuration cannot be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Angiven konfiguration kan inte användas.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Roaming was aborted or is not possible.</source>
-        <translation type="unfinished"></translation>
+        <translation>Roaming avbröts eller är inte möjlig.</translation>
     </message>
 </context>
 <context>
@@ -8061,62 +8070,62 @@ Stäng av ett av alternativen.</translation>
     <message>
         <location filename="../../qtbase/src/corelib/text/qregexp.cpp" line="+63"/>
         <source>no error occurred</source>
-        <translation type="unfinished">inga fel inträffade</translation>
+        <translation>inget fel inträffade</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>disabled feature used</source>
-        <translation type="unfinished"></translation>
+        <translation>inaktiverad funktion användes</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>bad char class syntax</source>
-        <translation type="unfinished"></translation>
+        <translation>felaktig syntax för teckenklass</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>bad lookahead syntax</source>
-        <translation type="unfinished"></translation>
+        <translation>felaktig syntax för lookahead</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>lookbehinds not supported, see QTBUG-2371</source>
-        <translation type="unfinished"></translation>
+        <translation>lookbehinds stöds inte, se QTBUG-2371</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>bad repetition syntax</source>
-        <translation type="unfinished"></translation>
+        <translation>felaktig syntax för repetition</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>invalid octal value</source>
-        <translation type="unfinished"></translation>
+        <translation>ogiltigt oktalt värde</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>missing left delim</source>
-        <translation type="unfinished"></translation>
+        <translation>saknar vänster avgränsare</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>unexpected end</source>
-        <translation type="unfinished"></translation>
+        <translation>oväntat slut</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>met internal limit</source>
-        <translation type="unfinished"></translation>
+        <translation>nådde intern gräns</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>invalid interval</source>
-        <translation type="unfinished"></translation>
+        <translation>ogiltigt intervall</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>invalid category</source>
-        <translation type="unfinished"></translation>
+        <translation>ogiltig kategori</translation>
     </message>
 </context>
 <context>
@@ -9174,7 +9183,7 @@ Stäng av ett av alternativen.</translation>
     <message>
         <location filename="../../qtbase/src/corelib/kernel/qsharedmemory.cpp" line="+268"/>
         <source>%1: unable to set key on lock</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: kunde inte ställa in nyckel på låset</translation>
     </message>
     <message>
         <location line="+100"/>
@@ -9241,7 +9250,7 @@ Stäng av ett av alternativen.</translation>
     <message>
         <location filename="../../qtbase/src/corelib/kernel/qsharedmemory_systemv.cpp" line="+7"/>
         <source>%1: UNIX key file doesn&apos;t exist</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: UNIX-nyckelfil finns inte</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -11765,27 +11774,27 @@ Role of an accessible object</extracomment>
     <message>
         <location filename="../../qtbase/src/corelib/statemachine/qstatemachine.cpp" line="+1480"/>
         <source>Missing initial state in compound state &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Saknar initialt tillstånd i compound state &apos;%1&apos;</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Missing default state in history state &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Saknar standardtillstånd i historiskt tillstånd &apos;%1&apos;</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>No common ancestor for targets and source of transition from state &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen gemensam ancestor för mål och källa för övergång från tillståndet &apos;%1&apos;</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Child mode of state machine &apos;%1&apos; is not &apos;ExclusiveStates&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Barnläget för tillståndsmaskin &apos;%1&apos; är inte &apos;ExclusiveStates&apos;.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Unknown error</source>
-        <translation type="unfinished">Okänt fel</translation>
+        <translation>Okänt fel</translation>
     </message>
 </context>
 <context>
@@ -12240,117 +12249,117 @@ Minsta Direct2D-versionen som krävs är %1. Direct2D-versionen på detta system
     <message>
         <location filename="../../qtbase/src/xml/sax/qxml.cpp" line="+68"/>
         <source>no error occurred</source>
-        <translation type="unfinished">inga fel inträffade</translation>
+        <translation>inget fel inträffade</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>error triggered by consumer</source>
-        <translation type="unfinished"></translation>
+        <translation>fel utlöst av konsument</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>unexpected end of file</source>
-        <translation type="unfinished"></translation>
+        <translation>oväntat filslut</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>more than one document type definition</source>
-        <translation type="unfinished"></translation>
+        <translation>fler än en definition av dokumenttyp</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>error occurred while parsing element</source>
-        <translation type="unfinished"></translation>
+        <translation>fel inträffade vid tolkning av element</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>tag mismatch</source>
-        <translation type="unfinished"></translation>
+        <translation>taggen stämmer inte</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>error occurred while parsing content</source>
-        <translation type="unfinished"></translation>
+        <translation>fel inträffade vid tolkning av innehåll</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>unexpected character</source>
-        <translation type="unfinished"></translation>
+        <translation>oväntat tecken</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>invalid name for processing instruction</source>
-        <translation type="unfinished"></translation>
+        <translation>ogiltigt namn för behandlande instruktion</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>version expected while reading the XML declaration</source>
-        <translation type="unfinished"></translation>
+        <translation>version förväntades vid läsning av XML-deklarationen</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>wrong value for standalone declaration</source>
-        <translation type="unfinished"></translation>
+        <translation>felaktigt värde för fristående deklaration</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>encoding declaration or standalone declaration expected while reading the XML declaration</source>
-        <translation type="unfinished"></translation>
+        <translation>kodningsdeklaration eller fristående deklaration förväntades vid läsning av XML-deklarationen</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>standalone declaration expected while reading the XML declaration</source>
-        <translation type="unfinished"></translation>
+        <translation>fristående deklaration förväntades vid läsning av XML-deklarationen</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>error occurred while parsing document type definition</source>
-        <translation type="unfinished"></translation>
+        <translation>fel inträffade vid tolkning av dokumenttypsdefinition</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>letter is expected</source>
-        <translation type="unfinished"></translation>
+        <translation>bokstav förväntades</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>error occurred while parsing comment</source>
-        <translation type="unfinished"></translation>
+        <translation>fel inträffade vid tolkning av kommentar</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>error occurred while parsing reference</source>
-        <translation type="unfinished"></translation>
+        <translation>fel inträffade vid tolkning av referens</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>internal general entity reference not allowed in DTD</source>
-        <translation type="unfinished"></translation>
+        <translation>intern allmän entitetsreferens tillåts inte i DTD</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>external parsed general entity reference not allowed in attribute value</source>
-        <translation type="unfinished"></translation>
+        <translation>externt tolkad allmän entitetsreferens tillåts inte i ett attributvärde</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>external parsed general entity reference not allowed in DTD</source>
-        <translation type="unfinished"></translation>
+        <translation>externt tolkad allmän entitetsreferens tillåts inte i DTD</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>unparsed entity reference in wrong context</source>
-        <translation type="unfinished"></translation>
+        <translation>otolkad entitetsreferens i fel kontext</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>recursive entities</source>
-        <translation type="unfinished"></translation>
+        <translation>rekursiva entiteter</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>error in the text declaration of an external entity</source>
-        <translation type="unfinished"></translation>
+        <translation>fel i textdeklarationen för en extern entitet</translation>
     </message>
 </context>
 <context>
