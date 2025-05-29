@@ -1056,7 +1056,7 @@ Alla filer (*)</translation>
     </message>
     <message>
         <source>Search wrapped.</source>
-        <translation>Sök inslagna.</translation>
+        <translation>Sökningen nådde slutet.</translation>
     </message>
     <message>
         <source>Qt Linguist</source>
